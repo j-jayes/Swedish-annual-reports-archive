@@ -1,0 +1,87 @@
+---
+title: "Analysis"
+format: html
+---
+
+
+```{r}
+library(tidyverse)
+library(arrow)
+
+df <- arrow::read_parquet("data/company_reports_smoothed_output.parquet")
+
+df
+```
+
+
+
+```{r}
+df %>% ggplot(aes(x = fiscal_year, y = revenue)) +
+    geom_point() +
+    geom_smooth(method = "lm", se = FALSE) +
+    facet_wrap(~company_name)
+
+```
+
+
+
+
+```{r}
+df %>%
+    filter(company_name == "ASEA") %>%
+    mutate(rev_over_workers = revenue_smoothed / n_employees_smoothed) %>%
+    ggplot(aes(x = fiscal_year, y = rev_over_workers)) +
+    geom_point() +
+    geom_smooth(method = "lm", se = FALSE) +
+    facet_wrap(~company_name)
+
+
+df %>% count(company_name, sort = T)
+
+df %>%
+    filter(fiscal_year < 1950) %>%
+    count(company_name, sort = T)
+
+df %>%
+    filter(company_name %in% c("ASEA", "Sandvik", "Uplandsbanken", "Uddeholm")) %>%
+    mutate(
+        rev_over_workers = revenue_smoothed / n_employees_smoothed,
+        first_difference_revenue_over_workers = rev_over_workers - lag(rev_over_workers)
+    ) %>%
+    ggplot(aes(x = fiscal_year, y = first_difference_revenue_over_workers)) +
+    geom_point() +
+    geom_smooth(method = "lm", se = FALSE) +
+    facet_wrap(~company_name)
+
+
+df %>%
+    filter(company_name %in% c("ASEA", "Sandvik", "Uplandsbanken", "Uddeholm")) %>%
+    ggplot(aes(x = fiscal_year, y = n_employees_smoothed)) +
+    geom_point(aes(colour = company_name)) +
+    geom_smooth(method = "lm", se = FALSE) +
+    facet_wrap(~company_name) +
+    theme(legend.position = "none")
+
+```
+
+
+
+
+```{r}
+df %>%
+    filter(company_name %in% c("ASEA", "Sandvik", "Uplandsbanken", "Uddeholm")) %>%
+    ggplot(aes(x = fiscal_year, y = shareholders_equity_smoothed)) +
+    geom_point(aes(colour = company_name)) +
+    geom_smooth(method = "lm", se = FALSE) +
+    facet_wrap(~company_name) +
+    theme(legend.position = "none")
+
+
+df %>%
+    filter(company_name %in% c("ASEA", "Sandvik", "Uplandsbanken", "Uddeholm")) %>%
+    ggplot(aes(x = fiscal_year, y = revenue_smoothed)) +
+    geom_point(aes(colour = company_name)) +
+    geom_smooth(method = "lm", se = FALSE) +
+    facet_wrap(~company_name) +
+    theme(legend.position = "none")
+```

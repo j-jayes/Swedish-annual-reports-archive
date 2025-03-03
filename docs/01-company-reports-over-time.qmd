@@ -1,0 +1,137 @@
+---
+title: "Company reports over time"
+format: html
+---
+
+## Purpose
+
+I want to create a graph of the company reports over time. I want to have year on the x-axis and the name of the company on the y-axis. I want to have a dot for each year-company that shows the number of reports that company has in that year.
+
+Some firms have joined over time, so there may be instances of multiple reports per year, or special reports that are released with a specific purpose.
+
+```{r}
+library(tidyverse)
+
+df <- readxl::read_excel(here::here("data", "temp", "raw_pdf_filenames_edit.xlsx"))
+
+df <- df %>%
+    filter(!is.na(company_name)) %>%
+    mutate(
+        # year is a column where we extract the first instance of four digits in the filename
+        year = str_extract(filename, "\\d{4}"),
+        # we convert the year to a number
+        year = as.numeric(year)
+    )
+
+firms_to_plot <- df %>%
+    count(company_name) %>%
+    filter(n > 30) %>%
+    # slice_sample(n = 20)  %>%
+    select(company_name) %>%
+    pull()
+
+firms_to_plot %>%
+    as_tibble() %>%
+    rename(company_name = value) %>%
+    write_csv(here::here("data", "temp", "firms_to_plot.csv"))
+
+df_order <- df %>%
+    filter(company_name %in% firms_to_plot) %>%
+    group_by(company_name) %>%
+    mutate(mean_year = mean(year, na.rm = T)) %>%
+    select(company_name, mean_year) %>%
+    ungroup() %>%
+    distinct()
+
+df %>%
+    count(year, company_name) %>%
+    filter(company_name %in% firms_to_plot) %>%
+    inner_join(df_order, by = "company_name") %>%
+    mutate(company_name = fct_reorder(company_name, mean_year)) %>%
+    ggplot(aes(x = year, y = company_name, fill = n)) +
+    geom_tile() +
+    theme_minimal() +
+    theme(legend.position = "bottom") +
+    scale_fill_distiller(palette = "Spectral", breaks = c(1, 2, 3, 4)) +
+    guides(fill = guide_legend(title.position = "top")) +
+    labs(
+        title = "Company reports over time",
+        x = "Year",
+        y = "Company",
+        fill = "Number of reports in one year"
+    )
+
+ggsave(here::here("images", "company_reports_over_time.png"), width = 10, height = 10, dpi = 300)
+```
+
+
+
+```{r}
+library(tibble)
+
+board_members <- tibble::tibble(
+    year = c(
+        1901, 1901, 1901, 1901, 1901,
+        1911, 1911, 1911, 1911, 1911, 1911, 1911,
+        1921, 1921, 1921, 1921, 1921, 1921, 1921,
+        1931, 1931, 1931, 1931, 1931, 1931,
+        1941, 1941, 1941, 1941, 1941, 1941,
+        1951, 1951, 1951, 1951, 1951, 1951,
+        1961, 1961, 1961, 1961, 1961, 1961, 1961,
+        1971, 1971, 1971, 1971, 1971, 1971, 1971,
+        1981, 1981, 1981, 1981, 1981, 1981, 1981, 1981, 1981, 1981, 1981, 1981, 1981, 1981, 1981
+    ),
+    name = c(
+        "O. Fr. Wijkman", "V. Åkerman", "G. A. Granström", "Sven Gyllensvärd", "G. Wenström",
+        "P. T. Berg", "John Fredholm", "O. Wallenberg", "John Karlsson", "J. L. la Cour", "H. E. Henke", "J. S. Edström",
+        "O. Wallenberg", "W:m Henriques", "Sten Ankarcrona", "John Karlsson", "J. S. Edström", "P. T. Berg", "Arthur Lindén",
+        "Sten Ankarcrona", "Axel F. Enström", "M. Wallenberg jr.", "Axel Bergengren", "J. S. Edström", "Arthur Lindén",
+        "J. Sigfrid Edström", "Axel F. Enström", "M. Wallenberg jr.", "Axel Bergengren", "Walter Murray", "Arthur Lindén",
+        "M. Wallenberg", "Thorsten Ericson", "Ruben Rausing", "Ragnar Söderberg", "Dan-Axel Broström", "Åke T. Vrethem",
+        "M. Wallenberg", "Ragnar Söderberg", "Dan-Axel Broström", "Curt Nicolin", "Ruben Rausing", "Åke T. Vrethem", "Karl Nilsson",
+        "Marcus Wallenberg", "Ragnar Söderberg", "Åke T. Vrethem", "Dan-Axel Broström", "Curt Nicolin", "Alde Nilsson", "Halvard Liander",
+        "Marcus Wallenberg", "Curt Nicolin", "Åke T. Vrethem", "Peter Wallenberg", "Erich Aas", "Gunnar Andersson", "Percy Barnevik", "Torsten Lindström", "Sven Söderberg", "Folke Westerberg", "Carl Andersson", "Björn Berggren", "Alde Nilsson", "Christer Salén", "Carl-Bertil Winqvist"
+    ),
+    index = c(
+        1, 2, 3, 4, 5,
+        6, 7, 8, 9, 10, 11, 12,
+        8, 13, 14, 9, 12, 6, 15,
+        14, 16, 17, 18, 12, 15,
+        12, 16, 17, 18, 19, 15,
+        17, 20, 21, 22, 23, 24,
+        17, 22, 23, 25, 21, 24, 26,
+        17, 22, 24, 23, 25, 27, 28,
+        17, 25, 24, 29, 30, 31, 32, 33, 34, 35, 36, 37, 27, 38, 39
+    )
+)
+
+board_members
+
+display_names <- board_members %>%
+    select(index, name) %>%
+    group_by(index) %>%
+    summarise(name = first(name)) %>%
+    ungroup() %>%
+    rename(name_display = name)
+
+board_members %>%
+    inner_join(display_names, by = "index") %>%
+    select(year, name_display) %>%
+    group_by(name_display) %>%
+    mutate(
+        mid_year = mean(year, na.rm = T),
+        board_count = n()
+    ) %>%
+    ungroup() %>%
+    mutate(name_display = fct_reorder(name_display, mid_year)) %>%
+    filter(board_count > 1) %>%
+    ggplot(aes(x = year, y = name_display, colour = factor(board_count))) +
+    geom_point() +
+    geom_line() +
+    scale_colour_brewer(palette = "Dark2") +
+    labs(colour = "Number of decades on ASEA board") +
+    theme(legend.position = "bottom") 
+
+ggsave(here::here("images", "board_members_over_time.png"), width = 10, height = 10, dpi = 300)
+
+```
