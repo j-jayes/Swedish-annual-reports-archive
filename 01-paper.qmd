@@ -9,22 +9,14 @@ author:
     affiliations: 
       - id: lu
         name: Lund University Economic History Department
-abstract: |  
-  This paper investigates the origins and career trajectories of high-skilled workers in electricity-related occupations in Sweden during the mid-20th century. By ingesting and analyzing two unique data sources – a set of biographical dictionaries and an industrial catalogue – I ask where these workers came from, what and where they studied, and how international experience impacted their career paths.
-
-  Jayes, Enflo and Molinder (2024) find that medium-skilled electricity-related jobs were filled by workers who were born near to these jobs. However, descriptive statistics about these high-skilled workers reveal a bifurcated labor market. Highly educated and skilled professionals, crucial in overseeing and advancing the electricity sector, frequently migrated for education and career opportunities, often traveling significant distances from their birthplaces to a small set of higher education institutions in Sweden and abroad. After their studies, Swedish engineers moved to opportunity, ending up on average ten times further from their birthplace than the median worker in 1930. In terms of occupational mobility, we do not see a similar pattern to the middle-skill electricity related jobs among engineers; there is no clear pattern for engineers to have lower status parents than other occupations in the biographical dictionaries.
+# abstract: |  
 
 date: today
-thanks: |
-  Thank you to seminar participants at the Copenhagen Business School Department of Strategy and Innovation PhD Seminar  and the HEDG Group at the University of Southern Denmark for valuable feedback on this work.
+
 format:
   hikmah-pdf: default
   hikmah-manuscript-pdf: default
-# format:
-#   docx:
-#     toc: true
-#     number-sections: true
-#     highlight-style: github
+
 execute: 
   echo: false
   warning: false
@@ -32,7 +24,7 @@ execute:
 bibliography: bib.bib
 ---
 
-
+Paper structure:
 
 ## I. Introduction
 1. **Context and Motivation**  
@@ -154,11 +146,6 @@ bibliography: bib.bib
   - Regression results and interpretation of coefficients, especially focusing on the difference between engineer-trained vs. business-trained directors.  
   - Potential historical case studies to illustrate “mechanisms” behind the empirical patterns.
 
----
-
-This structure ensures clear flow from theoretical motivation to data sources and methodological approach, setting up the paper to present and interpret results in Section V.
-
-
 
 ## II. Literature Review
 
@@ -195,7 +182,12 @@ After the 1970s, a shift occurred in performance dynamics, illustrating the impa
 In recent years, historians and economists have applied bipartite network analysis to study corporate governance in a historical context. A bipartite network (two-mode network) is a representation that links two types of nodes – for example, companies and their board members – without direct connections among nodes of the same type [@liew2023MethodologyFrameworkBipartite]. @pavlopoulos2018BipartiteGraphsSystems notes that by projecting such a network, one can derive the inter-firm director network (directors are connected if they sit on a common board) or the interlocking firm network (firms are connected if they share a director). This approach has opened new avenues to quantify how board interlocks and elite networks influence firm decision-making and performance​. By digitizing century-long board membership records of Swedish companies​, one can identify which individuals sat on multiple boards and measure their network centrality (influence). Such quantitative network measures (degree, centrality, etc.) can then be used as variables in regression models to assess impact on firm outcomes [@hsieh2022CollaborationBipartiteNetworks]. This method allows us to test, for instance, whether firms that are more centrally connected in the director network had better financial performance.
 
 
-Studies of corporate networks in Sweden reveal a tightly interlocked business community, historically dominated by a few key “nodes.” Perhaps the most famous example is the Wallenberg sphere – a cluster of firms linked by the Wallenberg family through ownership and board positions. By mid-20th century, the Wallenbergs’ investment company Investor AB and affiliated bank (SEB) held significant stakes in numerous industrial giants (ASEA, Ericsson, SKF, etc.), and Wallenberg representatives occupied board seats across these companies [@hogfeldt2005HistoryPoliticsCorporate]. This created a dense network of interlocking directorates where a handful of individuals oversaw multiple firms. @ottosson1997InterlockingDirectoratesSwedish conducts a network analysis that confirms Swedish big business was highly connected: an analysis of early 1900s interlocks showed that the rise of modern banking went hand in hand with interlinked boards in industry. @ottosson1997InterlockingDirectoratesSwedish 's analysis covers five benchmark years; 1903, 1912, 1918, 1924 and 1939. 
+Studies of corporate networks in Sweden reveal a tightly interlocked business community, historically dominated by a few key “nodes.” Perhaps the most famous example is the Wallenberg sphere – a cluster of firms linked by the Wallenberg family through ownership and board positions. By mid-20th century, the Wallenbergs’ investment company Investor AB and affiliated bank (SEB) held significant stakes in numerous industrial giants (ASEA, Ericsson, SKF, etc.), and Wallenberg representatives occupied board seats across these companies [@hogfeldt2005HistoryPoliticsCorporate]. This created a dense network of interlocking directorates where a handful of individuals oversaw multiple firms. @ottosson1997InterlockingDirectoratesSwedish conducts a network analysis that confirms Swedish big business was highly connected: an analysis of early 1900s interlocks showed that the rise of modern banking went hand in hand with interlinked boards in industry. @ottosson1997InterlockingDirectoratesSwedish 's analysis covers five benchmark years; 1903, 1912, 1918, 1924 and 1939, and finds that that Swedish banks became more central actors in corporate networks over time, especially after financial crises, as they stepped in to restructure and stabilize industry. By the 1960s, the three largest banks (Wallenberg’s SEB, Handelsbanken, and others) each had direct or indirect board links to myriad companies, effectively coordinating corporate strategy in what one commentator called a “consultation economy”​, according to @hogfeldt2005HistoryPoliticsCorporate. Further, @hogfeldt2005HistoryPoliticsCorporate argues that these inter-firm networks sometimes facilitated resource sharing, risk management, and technology transfer among companies. For example, a director sitting on boards of both a steel company and an engineering firm could help channel investments or collaborative R&D between them. Such positive effects of interlocks – spreading best practices or providing stable long-term capital – have been noted in historical accounts of Swedish conglomerates​.
+
+On the other hand, network concentration also meant a small elite could exert outsized influence. @dejong2021ExceptionalBigLinkers mapped Dutch interlocking directorates and found a high degree of centrality among a few “big linkers” (individuals with many board seats) who could shape multiple firms’ decisions. Using modern network analysis tools on historical data, researchers can evaluate how these interlocks correlated with firm outcomes. The evidence provided by @ottosson1997InterlockingDirectoratesSwedish in the first half of the 20th century suggests that firms at the core of interlock networks often had more consistent performance (thanks to coordinated support during downturns), but overly dense networks might also stifle competition or innovation if the same directors resisted change later in the period.
+
+By using a bipartite network analysis based on digitized annual reports and shareholder registers, I can create a longitudinal panel and yearly network of board interconnections and then test hypotheses about governance and performance​. Through regression-based network analysis, it becomes possible to isolate effects: e.g. did firms with more connected engineers on their boards achieve higher revenue growth compared to others? Did a change in board network centrality precede changes in employment or labor share? That is what I aim to explore in this paper.
+
 
 ## III. Data and Source Criticism
 
@@ -215,19 +207,48 @@ To know about each director’s educational background, international experience
 
 The digitization process involved scraping the scanned archival annual reports from the Stockholm School of Economics Library - which along with drawing on their own archive, collected some reports from the Royal Library and Centrum för Näringslivshistoria to fill coverage gaps. This scraping script is available in the code repository linked above.
 
-A novel digitization process was needed to manage changes in financial reporting and layout over eight decades. Conventional Optical Character Recognition (OCR) methods proved insufficient due to inconsistent table structures, especially when reports extended over multiple pages to detail subsidiaries and international branches. Instead, the project used Large Language Models from Google’s “Gemini” family, combined with a custom pydantic data schema, to extract structured information from images. This approach sidestepped the need for traditional OCR by relying on multimodal image-processing capabilities, which improved accuracy and consistency. Nonetheless, certain complexities remain. Reporting language gradually shifted from Swedish to English for some companies, and the scope of financial disclosure expanded, with some early reports totaling only two pages and later ones exceeding one hundred. Although the main income statement and balance sheet items remained comparable, firm-level coverage of current assets, current liabilities, and subsidiary performance varied from year to year. See the appendix for more information on the PyDantic data schema used to extract the financial data.
+A novel digitization process was needed to manage changes in financial reporting and layout over eight decades. Conventional Optical Character Recognition (OCR) methods proved insufficient due to inconsistent table structures, especially when reports extended over multiple pages to detail subsidiaries and international branches. Instead, the project used Large Language Models from Google’s “Gemini” family, combined with a custom pydantic data schema, to extract structured information from images. This approach sidestepped the need for traditional OCR by relying on multimodal image-processing capabilities, which improved accuracy and consistency. Nonetheless, certain complexities remain. Reporting language gradually shifted from Swedish to English for some companies, and the scope of financial disclosure expanded, with some early reports totaling only two pages and later ones exceeding one hundred. Although the main income statement and balance sheet items remained comparable, firm-level coverage of current assets, current liabilities, and subsidiary performance varied from year to year. The data is made accessible in the code repository linked above, as well as in an [interactive dashboard for exploration](https://swedish-annual-reports-archive-explorer.streamlit.app/), detailed in @fig-data-portal.
+
+Despite these technical advances, certain challenges remained. Variations in balance sheet reporting posed difficulties, as some firms presented multi-page breakdowns of assets or liabilities across subsidiaries or international branches, making it difficult to aggregate consistently. Additionally, language changes over time added complexity; reporting language shifted from Swedish to English in the mid-20th century for some companies. This issue was partially addressed by prompting the extraction models to recognize both Swedish and English terms, as evidenced in the reproduced PyDantic data schema in the appendix.
+
+{{< pagebreak >}}
 
 
-Despite these technical advances, certain challenges remained. Variations in balance sheet reporting posed difficulties, as some firms presented multi-page breakdowns of assets or liabilities across subsidiaries or international branches, making it difficult to aggregate consistently. Additionally, language changes over time added complexity; reporting language shifted from Swedish to English in the mid-20th century for some companies. This issue was partially addressed by training the extraction models to recognize both Swedish and English terms.
+::: {#fig-reportsone layout-ncol=2}
+
+![1925](images/report-1.png){#fig-cri-1925}
+
+![1950](images/report-2.png){#fig-cri-1950}
+
+![1975](images/report-3.png){#fig-cri-1975}
+
+Profit and Loss Statements and Balalnce Sheets for Electrolux AB from 1925, 1950, and 1975. Souce: Swedish House of Finance at the Stockholm School of Economics Library Archives.
+
+:::
+
+{{< pagebreak >}}
+
 
 Board composition data were generally easier to extract, given that names and positions typically appeared in a standard location beneath the balance sheet. Individual directors’ surnames, initials, full names, and any listed title (e.g., Verkställande Direktör or Ordförande) were recorded.
 
-To supplement these board lists with directors’ backgrounds, a fuzzy string-matching algorithm was employed to match board members against the *Vem är Vem?* and *Vem är Det?* biographical dictionaries. Approximately 72% of board members were successfully matched using surname and initials; improving upon this match rate — potentially by incorporating mentions of employers or corporate affiliations into the matching routine — remains an area for future work.
+To supplement these board lists with directors’ backgrounds, a fuzzy string-matching algorithm was employed to match board members against the *Vem är Vem?* and *Vem är Det?* biographical dictionaries. Approximately 72% of board members were successfully matched using surname and initials; improving upon this match rate — potentially by incorporating mentions of employers or corporate affiliations into the matching routine — remains an area for future work. In the later periods towards 1980, the match rate drops slightly as we are drawing mainly on the *Vem är Det?* biographical dictionaries, which are published later and have less coverage than the *Vem är Vem?* volumes. It would be possible to improve the match rate by expanding the search to other biographical dictionaries such as the SBL, or company archives, but this is beyond the scope of the paper at present.
 
+An example of the biographical data is shown in @fig-vav-1, and the distribution of biographies across volumes and time period is shown in @fig-vav-2.
 
 ### Source Criticism
 
 Although these biographical dictionaries offer a valuable repository of career information, they have certain limitations. Inclusion was partly self-selective, in that individuals could pay a nominal fee to appear, and the depth of information varies from one entry to another. A comparison with the Swedish Biographical Lexicon (SBL), which selects figures on broader historical grounds, revealed that fewer than one-fifth of the sampled individuals from Vem är Vem? also appear in the SBL. This discrepancy implies that Vem är Vem? may overrepresent socially prominent individuals, but that limitation is less consequential for studying board members of listed firms, who tend to hold influential positions by definition. Nonetheless, caution is warranted when interpreting patterns of foreign training or professional networking, since those who invested in a biographical listing may differ systematically from peers who did not.
+
+::: {#fig-vemarvem layout-ncol=2}
+
+![An example of a biogaphy from Karl Gustav Lund](images/vem_page-1.png){#fig-vav-1}
+
+![Number of biographies in each volume of 'Vem är Vem?'](images/who-is-who-volumes-2.png){#fig-vav-2}
+
+Example of a biographical entry from *Vem är Vem?* and the number of biographies in each volume. Source: Projekt Runeberg scans of *Vem är Vem?* volumes and author's own analysis.
+
+:::
+
 
 Another key limitation involves the composition of the 71 firms under study. The sample primarily includes the largest listed companies, many of which are finance and investment entities or engineering and industrial firms. According to internal categorization, finance and investment comprises 30.43 percent of the sample and engineering and industrial another 20.29 percent, with the remainder distributed across consumer goods, mining and metals, telecommunications, technology, automotive, and machinery. These proportions mean that the findings will not necessarily generalize to smaller, non-listed firms in other sectors. See @tbl-industry-distribution for a breakdown of the sample by broad industry classification.
 
@@ -261,36 +282,72 @@ Overall, the dataset assembled here—covering both extensive financial records 
 
 ## IV. Empirical Method
 
-1. **Overall Study Design**  
-   - **Longitudinal/Panel Approach**: Observing changes in board composition and firm outcomes over time, controlling for firm fixed effects.  
-   - **Bipartite Network Model**: Describing the construction of the firm–board-member network, how to transform it into relevant metrics (e.g., shared directors).
+The empirical analysis begins with a longitudinal design that exploits firm-level data assembled from 1873 to 1980. Each firm enters the panel in years where sufficient financial information and board composition records exist, forming an unbalanced panel that covers varying intervals for different companies, where coverage is shown in @fig-crot. This approach allows for the exploration of how changes within each firm—such as the arrival of a U.S.-experienced engineer on the board—correlate with shifts in its performance indicators. By including firm fixed effects, the regression specifications control for any unobserved, time-invariant characteristics of individual companies, such as historical reputations, founding conditions, or long-standing ownership structures. Time dummies, capturing broad economic cycles and periods of expansion or downturn, help further isolate the relationship between board composition and performance from macroeconomic influences.
 
-2. **Regression Specifications**  
-   - Outline separate (or combined) regression equations:  
-     1. **Firm Performance Equation**: Dependent variable = \( \text{Revenue per employee}_{i,t} \) (or alternative). Independent variables include:  
-        - Presence/proportion of U.S.-experienced engineers on the board  
-        - Interaction between engineers and foreign experience  
-        - Basic controls (firm age, size, industry fixed effects, economic cycle dummies)  
-     2. **Employment Equation** (optional or combined with performance): Dependent variable might be total employees or growth in employees, same key regressors.  
-   - For the sub-question: interactions between engineer-trained vs. business/finance directors, with/without U.S. experience.
+The primary outcome variable is revenue per employee, chosen to approximate labor productivity. This measure is constructed by dividing a company’s reported revenues by its total number of employees for each year. Using revenue per employee helps detect whether board-level decisions, including technological investments or operational strategies, are associated with measurable gains in productivity. The key explanatory variables focus on the presence and proportion of directors with specialized backgrounds. One specification includes a binary indicator that equals one if any board member meets two criteria: holding an engineering education and having worked in the United States. A complementary specification substitutes this binary measure with a continuous one, reflecting the share of board members who fit the same criteria. To address the sub-question about contrasting the effects of business- or finance-trained directors, further terms partition board composition into two dimensions: first, whether a director has an engineering or business/finance background, and second, whether that individual has foreign experience in the United States. In practice, this is done by interacting the director’s training (engineer vs. business/finance) with the U.S.-experience indicator, allowing the regression coefficients to capture how these backgrounds combine in shaping performance.
 
-3. **Network Analysis**  
-   - **Bipartite Representation**: Firms on one side; directors on the other.  
-   - **Key Metrics**:  
-     - Degree centrality of a director (how many boards they sit on).  
-     - Firm connectivity (how many directors in common with other firms).  
-     - Clustering of “engineer-heavy” boards in certain industrial clusters (e.g., the “Wallenberg sphere”).  
-   - **Hypothesized Effects**: More central or more “engineer-heavy” boards could diffuse similar practices or reinforce productivity gains.
+The estimated model includes the fundamental controls that appear in most firm-level empirical studies of historical corporate governance. Firm size enters, typically as the logarithm of total assets or employment, to capture economies of scale and general capacity for investment. Firm age, constructed from the date of incorporation or earliest available archival record, accounts for the possibility that older firms have distinct trajectories for performance or governance structures. Industry composition is controlled through sector dummies based on the classification in table @tbl-industry-distribution, where each firm is assigned to one of several categories—such as finance and investment, engineering and industrial, or consumer goods—thereby helping to account for the varying technological demands or competitive pressures across different types of enterprises. Time effects are managed by incorporating year fixed effects or, when data permit, a set of time-period dummies to smooth out fluctuations tied to global economic shocks, wars, or postwar recoveries.
 
-4. **Addressing Potential Endogeneity**  
-   - Discussion of possible reverse causality (e.g., high-performing firms attract high-profile directors).  
-   - If available, mention instrumental variables or “timing” arguments—new board appointments are determined partly by generational turnover, which might be exogenous to short-run performance.  
-   - Alternatively, use lagged values of board composition or difference-in-differences if a plausible “shock” is identifiable.
+Though revenue per employee is the preferred measure of firm performance, a similar regression can be run where total employment or employment growth becomes the dependent variable. If new board appointments encourage expansion, the results may appear as higher labor uptake over time, especially if technological innovations initially require more specialized engineers or skilled staff. Alternatively, if the emphasis of U.S.-trained engineers falls on productivity improvements rather than labor growth, the parameter estimates for employment would remain modest while revenue per employee rises. Comparing both sets of equations allows a fuller assessment of whether board composition shapes only productivity or also influences hiring decisions.
 
-5. **Robustness Checks**  
-   - Consider alternative specifications (e.g., panel fixed effects, random effects).  
-   - Examine whether results hold for different sub-periods (pre-1930 vs. post-1945) or different industries.
+Taken together, this panel regression framework aims to detect whether directors’ backgrounds—particularly those with engineering expertise and foreign experience—are systematically tied to firm outcomes beyond mere chance associations. By combining firm fixed effects, a wide span of time, and a set of relevant controls, the analysis seeks to distinguish patterns that emerge when new expertise is introduced or lost at the board level, providing insights into the ways that technical and international knowledge may have steered corporate strategies toward higher productivity in Swedish industry.
 
+The specification is:
+
+<!-- Let \( i \) index firms and \( t \) index years. The preferred empirical specification for the panel analysis of revenue per employee can be written as:
+
+\[
+\text{RevenuePerEmployee}_{i,t} = \alpha + \beta_{1} (\text{ShareUSExpEngineers})_{i,t} + \beta_{2} (\text{Controls})_{i,t} + \gamma_{i} + \delta_{t} + \varepsilon_{i,t}.
+\]
+
+In this specification, \(\text{RevenuePerEmployee}_{i,t}\) is the primary outcome variable, measuring the firm’s total sales divided by its number of employees. The explanatory term \(\bigl(\text{ShareUSExpEngineers}\bigr)_{i,t}\) is the proportion of board members in firm \(i\) and year \(t\) who combine an engineering background with documented work experience in the United States. This variable may capture how technology-focused expertise, supplemented by exposure to American industrial or managerial practices, shapes productivity outcomes. 
+
+The vector \(\bigl(\text{Controls}\bigr)_{i,t}\) includes relevant firm-level characteristics, such as logarithm of total assets, firm age, and sector indicators drawn from table \(\text{@tbl-industry-distribution}\). Including these controls accounts for the possibility that older or larger firms, or certain industrial classifications, systematically differ in how effectively they convert workforce inputs into revenue. In addition, macroeconomic or temporal shifts are addressed by \(\delta_{t}\), a year fixed effect that nets out time-specific shocks such as recessions or wartime disruptions. Meanwhile, \(\gamma_{i}\) is a firm fixed effect that absorbs all time-invariant attributes of each company, such as founding conditions, enduring ownership patterns, or longstanding reputations.
+
+Finally, \(\varepsilon_{i,t}\) is the idiosyncratic error term. Standard errors in such models are typically clustered by firm to allow for heteroskedasticity and serial correlation within each company’s observations. This framework is designed to disentangle how board composition—particularly the presence and share of U.S.-experienced engineers—relates to productivity measures like revenue per employee, while holding constant all other observable and unobservable differences among firms across the historical period under study. -->
+
+
+<!-- 
+$$
+\[
+\text{Let } i \text{ index firms and } t \text{ index years. The preferred empirical specification for the panel analysis of revenue per employee can be written as:}
+\]
+
+\[
+\text{RevenuePerEmployee}_{i,t} \;=\;\alpha\;+\;\beta_{1}\,\bigl(\text{ShareUSExpEngineers}\bigr)_{i,t}\;+\;\beta_{2}\,\bigl(\text{Controls}\bigr)_{i,t}\;+\;\gamma_{i}\;+\;\delta_{t}\;+\;\varepsilon_{i,t}.
+\]
+$$
+
+In this equation,  
+- \(\text{RevenuePerEmployee}_{i,t}\) is the dependent variable, calculated as total revenue divided by the number of employees for firm \(i\) in year \(t\).  
+- \(\bigl(\text{ShareUSExpEngineers}\bigr)_{i,t}\) measures the proportion of board members who both hold an engineering education and have work experience in the United States.  
+- \(\bigl(\text{Controls}\bigr)_{i,t}\) is a vector of additional firm-level regressors, which may include log of total assets, firm age, and sector dummies (based on the classification in table @tbl-industry-distribution).  
+- \(\gamma_{i}\) indicates a firm fixed effect, capturing any time-invariant characteristics unique to each company.  
+- \(\delta_{t}\) is a full set of year fixed effects to account for macroeconomic shifts in each period.  
+- \(\varepsilon_{i,t}\) is the error term, often assumed to be clustered at the firm level to allow for heteroskedasticity and serial correlation within firms over time.
+
+Including these terms ensures that the coefficient \(\beta_{1}\) on \(\bigl(\text{ShareUSExpEngineers}\bigr)_{i,t}\) reflects whether adding U.S.-trained engineers to the board correlates with productivity outcomes, as proxied by revenue per employee, while controlling for other firm-specific and year-specific effects.
+ -->
+
+
+
+\[
+\text{Let } i \text{ index firms and } t \text{ index years. The preferred empirical specification for the panel analysis of revenue per employee can be written as:}
+\]
+
+\[
+\text{RevenuePerEmployee}_{i,t} = \alpha + \beta_{1}\,(\text{ShareUSExpEngineers})_{i,t} + \beta_{2}\,(\text{Controls})_{i,t} + \gamma_{i} + \delta_{t} + \varepsilon_{i,t}.
+\]
+
+In this specification, $\text{RevenuePerEmployee}_{i,t}$ is the primary outcome variable, measuring the firm’s total sales divided by its number of employees. The explanatory term $(\text{ShareUSExpEngineers})_{i,t}$ is the proportion of board members in firm $i$ and year $t$ who combine an engineering background with documented work experience in the United States. This variable may capture how technology-focused expertise, supplemented by exposure to American industrial or managerial practices, shapes productivity outcomes.
+
+The vector $(\text{Controls})_{i,t}$ includes relevant firm-level characteristics, such as logarithm of total assets, firm age, and sector indicators drawn from table $\text{@tbl-industry-distribution}$. Including these controls accounts for the possibility that older or larger firms, or certain industrial classifications, systematically differ in how effectively they convert workforce inputs into revenue. In addition, macroeconomic or temporal shifts are addressed by $\delta_{t}$, a year fixed effect that nets out time-specific shocks such as recessions or wartime disruptions. Meanwhile, $\gamma_{i}$ is a firm fixed effect that absorbs all time-invariant attributes of each company, such as founding conditions, enduring ownership patterns, or longstanding reputations.
+
+Finally, $\varepsilon_{i,t}$ is the idiosyncratic error term. Standard errors in such models are typically clustered by firm to allow for heteroskedasticity and serial correlation within each company’s observations. This framework is designed to disentangle how board composition—particularly the presence and share of U.S.-experienced engineers—relates to productivity measures like revenue per employee, while holding constant all other observable and unobservable differences among firms across the historical period under study.
+
+
+
+{{< pagebreak >}}
 
 ## Appendix
 
@@ -492,6 +549,26 @@ class FinancialReport(BaseModel):
 
 
 ```
+
+{{< pagebreak >}}
+
+## Data portal to examine company report data
+
+I have created a Streamlit app to explore the company report data. The app allows users to select a set of companies, and view the extracted financial data. The second tab of the app allows users to calculate ratios of interest, such as revenue per employee, and view the development of these ratios across the selected companies and across time.
+
+The app is available at the following link: [https://swedish-annual-reports-archive-explorer.streamlit.app/](https://swedish-annual-reports-archive-explorer.streamlit.app/).
+
+::: {#fig-data-portal layout-ncol=1}
+
+
+![First tab](images/app-01.png){#fig-dp-1}
+
+![Second tab](images/app-02.png){#fig-dp-2}
+
+Screenshots of the Streamlit app interface. Source: Author's own work.
+
+:::
+
 
 {{< pagebreak >}}
 
