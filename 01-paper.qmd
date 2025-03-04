@@ -24,146 +24,33 @@ execute:
 bibliography: bib.bib
 ---
 
-Paper structure:
-
 ## I. Introduction
-1. **Context and Motivation**  
-   - Briefly outline Sweden’s early 20th-century industrial context (high reliance on manufacturing and engineering-driven growth).  
-   - Emphasize the role of returning U.S.-experienced engineers as carriers of both technical and managerial innovations.  
-   - Highlight the importance of board composition in shaping firm performance and industrial employment trajectories.  
 
-2. **Research Questions**  
-   - **Main:** “How did the presence (and network influence) of U.S.-experienced engineers on Swedish boards affect firms’ financial performance and the evolution of workforce size (especially revenue per employee) between the early 20th century and 1980?”  
-   - **Sub-question:** “Does the effect differ when comparing engineer-trained directors (especially those with U.S. experience) to business/finance-trained directors?”
+Swedish industry in the early twentieth century relied heavily on manufacturing and an engineering-driven mode of growth. Factories producing steel, machinery, and electrical equipment powered the country’s economic ascent, transforming a relatively small market into an advanced industrial base. Returning Swedish engineers who had acquired professional experience in the United States and in continental Europe played a central role in this process, bringing home technical expertise and managerial innovations from firms abroad. Their dual exposure to American production methods and Swedish industrial traditions positioned them as agents of technological transfer. Over time, these individuals rose to influential positions on corporate boards, where their training and international outlook could shape strategic decisions, particularly regarding the adoption of new technologies and the management of labor forces.
 
-3. **Contribution and Significance**  
-   - Position the study in economic history, corporate governance, and labor/employment literatures.  
-   - Stress novelty in using digitized historical data, integrating board composition with firm performance metrics *and* bipartite network analysis.
+Their presence influenced changes in Swedish corporate governance. Boards composed of both technically trained and finance - or business - trained directors held considerable sway over how enterprises balanced growth, employment practices, and profit objectives. This has prompted questions about how different compositions—especially the inclusion of internationally seasoned engineers—might steer a firm’s financial indicators and workforce size. By comparing the impact of directors with engineering backgrounds to those primarily versed in business and finance, it becomes possible to assess whether foreign technical experience confers distinctive advantages or leads to specific patterns in labor utilization.
 
-4. **Outline of the Paper**  
-   - Summarize each main section:  
-     1. **Literature Review** – situates the question in prior scholarship on returning engineers, board composition, and technical change/employment.  
-     2. **Data & Source Criticism** – details firm-level financials, board rosters, and biographical info on directors, plus concerns about digitization accuracy.  
-     3. **Empirical Method** – describes regression approach, bipartite network modeling, key variables, and potential confounders.  
-     4. **Analysis (not included here yet)** – presents descriptive statistics, network visualizations, and regression results.  
-     5. **Conclusion** – interprets findings, discusses limitations, and proposes avenues for future research.
+The goal of this paper is to understand how the presence and network influence of U.S.-experienced engineers on Swedish boards affected firms’ financial performance and the evolution of their workforces. The analysis spans a century from the late 1800s through 1980, focusing on indicators such as revenue per employee to capture productivity changes. It also investigates whether the effect differs for director groups with alternative skill sets. Taken together, these inquiries draw upon debates in economic history around corporate governance, and labor and employment scholarship. They benefit from a newly compiled data set that digitizes historical company information and applies bipartite network methods to track inter-firm linkages via shared board members. This methodological approach underscores the novelty of integrating both firm-level performance metrics and detailed board composition data to examine the diffusion of innovation and its impact on employment.
 
----
-
-## II. Literature Review
-
-1. **Returning Engineers, Technology Transfer, and Organizational Change**  
-   - Grönberg (2003) on the “brain gain” phenomenon: how U.S. exposure spurred Swedish industrial development via both technology and managerial innovations.  
-   - Broader literature on knowledge spillovers and rationalization (Taylorism, mass-production methods, etc.) introduced by internationally trained engineers.
-
-2. **Boards, Governance, and Firm Performance**  
-   - Overview of corporate governance research linking board composition to firm outcomes (late 20th- and 21st-century focus, typically).  
-   - Gaps in historical analysis (turn of the 20th century to ~1980) due to data availability.  
-   - Emergence of interest in network ties (director interlocks, “Wallenberg sphere,” etc.) and how these can diffuse managerial practices.
-
-3. **Technical Change, Employment, and Revenue per Employee**  
-   - Literature on the relationship between technology adoption and labor dynamics, e.g. how new technology can boost productivity or displace labor.  
-   - Historical perspectives on Sweden’s strong manufacturing base and how productivity growth contributed to relatively high growth and lower inequality (Molinder & Prado).  
-   - Relevance to the study of “revenue per employee” as a measure of labor productivity over time.
-
-4. **Engineers vs. Business/Finance Directors** (Sub-Question Focus)  
-   - Discussion of the distinct skill sets: engineers bringing technical/operational expertise vs. business/finance directors focusing on strategic, financial control.  
-   - Potential complementary roles, but also potential differences in how each group influences investment in new technologies or workforce expansion/contraction.  
-   - Preliminary insights from research indicating that foreign-trained engineers may enjoy faster career advancement and implement more radical innovations.
-
-5. **Research Gap and Positioning**  
-   - Despite parallel lines of research, few studies combine historical board-level data with long-run performance/employment outcomes and network analysis.  
-   - Your project addresses this gap by drawing on newly digitized company records, board rosters, and individual biographies.
-
----
-
-## III. Data and Source Criticism
-
-1. **Data Sources**
-   - **Firm-Level Financials** (1900–1980): Revenue, profits, number of employees, possibly other controls (industry classification, capital structure).  
-   - **Board Composition**: 71 firms for which you have rosters of board members, including name, tenure, and professional background.  
-   - **Biographical Details of Directors**: Education (technical vs. business), foreign experience (U.S. or elsewhere), social background, etc.  
-
-2. **Data Collection and Digitization**  
-   - Outline the process of digitizing archival company reports; note any challenges in scanning, OCR errors, or partial coverage.  
-   - Summarize how you consolidated multiple archival sources into a single dataset (e.g., matching board-member rosters across time, linking to finance data).  
-
-3. **Source Criticism**  
-   - **Completeness and Representativeness**: Are the 71 firms a representative cross-section of Swedish industry? Are they skewed toward large manufacturing concerns or spread across different sectors (including banks)?  
-   - **Accuracy of Biographical Info**: Potential biases in self-reported career histories or incomplete records on foreign experience.  
-   - **Temporal Inconsistencies**: Different firms may report financial data on different cycles or with distinct accounting standards, especially over 80 years.  
-
-4. **Operationalizing Key Variables**  
-   - **Presence of U.S.-Trained Engineer on the Board**: Binary? Count or proportion of total board seats? Weighted by the number of years spent abroad?  
-   - **Engineer vs. Business/Finance Directors**: Distilling multiple educational/training backgrounds into consistent categories.  
-   - **Firm Performance Measures**: Revenue per employee, also consider profit margin or ROI for robustness.  
-   - **Network Measures**: Board interlocks, centrality in the bipartite network, etc.
-
-5. **Ethical and Privacy Considerations**  
-   - Historical dataset typically exempt from modern privacy concerns, but note any possible issues in naming individuals or citing personal details.
-
----
-
-## IV. Empirical Method
-
-1. **Overall Study Design**  
-   - **Longitudinal/Panel Approach**: Observing changes in board composition and firm outcomes over time, controlling for firm fixed effects.  
-   - **Bipartite Network Model**: Describing the construction of the firm–board-member network, how to transform it into relevant metrics (e.g., shared directors).
-
-2. **Regression Specifications**  
-   - Outline separate (or combined) regression equations:  
-     1. **Firm Performance Equation**: Dependent variable = \( \text{Revenue per employee}_{i,t} \) (or alternative). Independent variables include:  
-        - Presence/proportion of U.S.-experienced engineers on the board  
-        - Interaction between engineers and foreign experience  
-        - Basic controls (firm age, size, industry fixed effects, economic cycle dummies)  
-     2. **Employment Equation** (optional or combined with performance): Dependent variable might be total employees or growth in employees, same key regressors.  
-   - For the sub-question: interactions between engineer-trained vs. business/finance directors, with/without U.S. experience.
-
-3. **Network Analysis**  
-   - **Bipartite Representation**: Firms on one side; directors on the other.  
-   - **Key Metrics**:  
-     - Degree centrality of a director (how many boards they sit on).  
-     - Firm connectivity (how many directors in common with other firms).  
-     - Clustering of “engineer-heavy” boards in certain industrial clusters (e.g., the “Wallenberg sphere”).  
-   - **Hypothesized Effects**: More central or more “engineer-heavy” boards could diffuse similar practices or reinforce productivity gains.
-
-4. **Addressing Potential Endogeneity**  
-   - Discussion of possible reverse causality (e.g., high-performing firms attract high-profile directors).  
-   - If available, mention instrumental variables or “timing” arguments—new board appointments are determined partly by generational turnover, which might be exogenous to short-run performance.  
-   - Alternatively, use lagged values of board composition or difference-in-differences if a plausible “shock” is identifiable.
-
-5. **Robustness Checks**  
-   - Consider alternative specifications (e.g., panel fixed effects, random effects).  
-   - Examine whether results hold for different sub-periods (pre-1930 vs. post-1945) or different industries.
-
----
-
-**Next Steps**:  
-
-- **Section V. Analysis** (to follow)  
-  - Descriptive stats: distribution of board-member backgrounds, proportion of returning engineers over time, correlations among key variables.  
-  - Visualizations of the bipartite network (or its unipartite projections).  
-  - Regression results and interpretation of coefficients, especially focusing on the difference between engineer-trained vs. business-trained directors.  
-  - Potential historical case studies to illustrate “mechanisms” behind the empirical patterns.
-
+To situate these contributions, the paper begins with II. a review of prior scholarship on returning engineers, board composition, and technical change as it relates to industrial employment. It then turns in III. to a detailed description of the data sources, focusing on firm financial reports, director biographies, and the strategies used to overcome issues of incomplete coverage and digitization errors. In IV., an outline of the empirical method follows, explaining how the regressions, network modeling, and key variables have been structured to address potential confounders. In V., the main analysis, the paper currently includes some descriptive statistics, presents a network visualizing relationships between firms,from shared directors, and discusses regression results assessing whether American-trained engineers influenced firm outcomes. A placeholder remains for the final findings, after some next steps are explained.
 
 ## II. Literature Review
 
 ### Engineers and Technological Change in Swedish Industry
 
-Engineers played a pivotal role in Sweden’s rapid industrialization and the management of its early 20th-century firms. As Sweden’s industries expanded in technical complexity (steel, electrification, machinery), professional engineers increasingly assumed top managerial roles​ [@hogfeldt2005HistoryPoliticsCorporate]. Many large firms by the 1920s were effectively run by engineer-CEOs with significant autonomy, reflecting the technocratic character of Swedish industry. Business historians note that engineers dominated executive positions in Sweden’s biggest firms, especially in industrial sectors – highlighting the historical importance of technical training in corporate leadership [@henrekson2021SocialBackgroundElite]. This contrasts with some other countries where legal or financial elites held sway; in Sweden the engineering profession emerged as a powerful elite driving industrial growth​, according to @henrekson2021SocialBackgroundElite.
+Engineers played a pivotal role in Sweden’s rapid industrialization and the management of its early 20th-century firms. As Sweden’s industries expanded in technical complexity (steel, electrification, machinery), professional engineers increasingly assumed top managerial roles​ [@hogfeldt2005HistoryPoliticsCorporate]. Many large firms by the 1920s were run by engineer-CEOs with significant autonomy, reflecting the technocratic character of Swedish industry, as argued by @hogfeldt2005HistoryPoliticsCorporate. Business historians note that engineers dominated executive positions in Sweden’s biggest firms, especially in industrial sectors – highlighting the historical importance of technical training in corporate leadership [@henrekson2021SocialBackgroundElite]. This contrasts with some other countries where legal or financial elites held sway; in Sweden the engineering profession emerged as a powerful elite driving industrial growth​, according to @henrekson2021SocialBackgroundElite.
 
-A distinctive feature of Swedish industrialization was the influence of engineers who trained or worked abroad, particularly in the United States. Studies of return migration find that a “brain gain” occurred: a majority of Swedish engineers who went to the U.S. (or Germany) for experience later returned home, bringing valuable knowledge​ [@gronberg2003LearningReturningReturn]. Per-Olof Grönberg’s seminal work (2003) shows these returnee engineers diffused advanced technologies and organizational innovations into Swedish firms during the country’s “second industrial breakthrough”​, as coined by Lars Magnusson [-@magnusson2014SverigesEkonomiskaHistoria]. They not only introduced new technical expertise but also modern management practices – notably Taylorist efficient workflows and corporate welfare programs learned in America​, according to @gronberg2003LearningReturningReturn. For example, at electrical firm ASEA and steelmaker Sandvik, foreign-trained engineers filled many key positions, injecting know-how that rationalized production and improved productivity​.
+A distinctive feature of Swedish industrialization was the influence of engineers who trained or worked abroad, particularly in the United States. Studies of return migration find that a “brain gain” occurred: a majority of Swedish engineers who went to the U.S. (or Germany) for experience later returned home, bringing valuable knowledge​ [@gronberg2003LearningReturningReturn]. Per-Olof Grönberg’s thesis (2003) shows these returnee engineers diffused advanced technologies and organizational innovations into Swedish firms during the country’s “second industrial breakthrough”​, as coined by Lars Magnusson [-@magnusson2014SverigesEkonomiskaHistoria]. They not only introduced new technical expertise but also modern management practices – notably Taylorist efficient workflows and corporate welfare programs learned in America​, according to @gronberg2003LearningReturningReturn. For example, at electrical firm ASEA and steelmaker and later engineering services firm Sandvik, foreign-trained engineers filled many key positions, injecting know-how that rationalized production and improved productivity​. @gronberg2003LearningReturningReturn focuses on four important companies in Sweden, due to the availability of detailed records at the time.
 ​
-By the early 1900s Swedish industry actively encouraged this knowledge transfer: contemporary observers remarked that American and German experience became a form of “symbolic capital” that boosted engineers’ influence in firms​ [@gronberg2003LearningReturningReturn]. Case studies confirm that returning engineers were catalysts for technology diffusion – from mining equipment to electrotechnical systems – adapting foreign innovations to domestic needs​. In sum, engineer-entrepreneurs and internationally trained technologists were central to Sweden’s technological adoption and industrial leadership in the first three-quarters of the 20th century.
+By the early 1900s Swedish industry actively encouraged this knowledge transfer: contemporary observers remarked that American and German experience became a form of “symbolic capital” that boosted engineers’ influence in firms​ [@gronberg2003LearningReturningReturn]. Case studies confirm that returning engineers were catalysts for technology diffusion – from mining equipment to electrotechnical systems – adapting foreign innovations to domestic needs​.  Engineer-entrepreneurs and internationally trained technologists were central to Sweden’s technological adoption and industrial leadership in the first three-quarters of the 20th century.
 
-Historians have documented specific instances of how engineers spurred technological change. For example, Hugo Hammar (an engineer-CEO of shipbuilder Götaverken) leveraged political and donor networks to fund naval technology experiments, illustrating how engineering know-how combined with savvy management advanced key industries​ [@gronberg2003LearningReturningReturn]. Swedish engineers abroad often studied cutting-edge methods and upon return implemented them – such as advanced steel processes or automotive designs – in their firms​. This “reverse technology transfer” was a key mechanism for Sweden’s industrial upgrading, as engineers brought back not just blueprints but also new organizational structures and quality control systems​. Grönberg notes that engineers coming back from U.S. firms frequently brought home a welfare capitalist ethos (company housing, worker benefits) along with efficiency methods. The impact of these returning engineers on firm performance and workforce dynamics, however, remains underexplored.
+@gronberg2003LearningReturningReturn documented specific instances of how engineers spurred technological change. For example, Hugo Hammar (an engineer-CEO of shipbuilder Götaverken) used political and donor networks to fund naval technology experiments, illustrating how engineering know-how combined with savvy management advanced key industries​. Swedish engineers abroad often studied cutting-edge methods and upon return to Sweden implemented them – such as advanced steel processes or automotive designs – in the firms in which they ended up​. This “reverse technology transfer” was a key mechanism for Sweden’s industrial upgrading, as engineers brought back not just blueprints but also new organizational structures and quality control systems​. Grönberg notes that engineers coming back from U.S. firms frequently brought home a welfare capitalist ethos (company housing, worker benefits) along with efficiency methods. The impact of these returning engineers on firm performance and workforce dynamics, however, remains underexplored.
 
 ### Board Composition and Corporate Governance
 
-Historically, Sweden’s corporate governance has been characterized by concentrated ownership and technocratic management, which influenced board composition and firm performance. In the early 20th century, many industrial companies were founded by inventors or families but eventually came under bank or holding-company control​. Banks like Stockholms Enskilda (Wallenberg family) became dominant shareholders and placed representatives on boards, maintaining close control of the firm [@hogfeldt2005HistoryPoliticsCorporate]. This led to boards that mixed financiers (owners or bankers) with career engineers in top executive roles. As @hogfeldt2005HistoryPoliticsCorporate notes, given the technically advanced nature of Swedish manufacturing firms, banks-owners TODO “lacked the competence to run the firms themselves,” so they installed engineer-managers and oversaw as active owners​. By the 1950s, an interesting governance model had emerged: the CEO (often an engineer) held a very strong position, sometimes even outmaneuvering controlling shareholders by rallying minority investors​. In effect, Swedish boards functioned with a balance between the technical expertise of managers and the financial oversight of owners, a structure somewhat distinct from the purely managerial or family-dominated models elsewhere.
+Historically, Sweden’s corporate governance has been characterized by concentrated ownership and technocratic management, which influenced board composition and firm performance. In the early 20th century, many industrial companies were founded by inventors or families but eventually came under bank or holding-company control​. Banks like Stockholms Enskilda became dominant shareholders and placed representatives on boards, maintaining close control of the firm [@hogfeldt2005HistoryPoliticsCorporate]. This led to boards that mixed financiers (owners or bankers) with career engineers in top executive roles. As @hogfeldt2005HistoryPoliticsCorporate notes, given the technically advanced nature of Swedish manufacturing firms, industrialist Marcus Wallenberg sr argeud that the firms “lacked the competence to run the firms themselves,” so they installed engineer-managers and oversaw as active owners​. In effect, Swedish boards functioned with a balance between the technical expertise of managers and the financial oversight of owners, a structure somewhat distinct from the purely managerial or family-dominated models elsewhere.
 
-Research on board composition generally finds it can significantly affect firm outcomes, and this has both historical and modern dimensions. For instance, a recent study of Swedish companies in the 21st century noted that larger board size correlates with weaker financial performance (possibly due to coordination difficulties)​ [@jonsson2015CorporateBoardsPerformance]. This suggests that even historically, leaner governance structures might have benefited firms in Sweden’s relatively concentrated ownership environment. Board expertise and background also matter: in Sweden, many directors and CEOs throughout the mid-20th century had engineering or science educations, whereas later decades saw more with business or finance degrees, as noted by @henrekson2021SocialBackgroundElite, who study the chief executives of the 30 largest firms in Sweden in the 20th century. They find in their analysis of top Swedish CEOs over 1945–2005, a large share held engineering degrees, although by the late 20th century it became common to couple technical training with business education​. This mix of backgrounds on boards can influence corporate strategy – technically trained directors may prioritize R&D and long-term product development, while finance-trained directors might emphasize cost control, acquisitions, or shareholder returns. Comparative studies support this notion: for example, @adams2010RoleBoardsDirectors finds TODO. [@asahak2018BoardsDirectorsAssessing] TODO.
+Research on board composition generally finds it can significantly affect firm outcomes, and this has both historical and modern dimensions. For instance, a recent study of Swedish companies in the 21st century noted that larger board size correlates with weaker financial performance (possibly due to coordination difficulties)​ [@jonsson2015CorporateBoardsPerformance]. This suggests that even historically, leaner governance structures might have benefited firms in Sweden’s relatively concentrated ownership environment. Board expertise and background also matter: in Sweden, many directors and CEOs throughout the mid-20th century had engineering or science educations, whereas later decades saw more with business or finance degrees, as noted by @henrekson2021SocialBackgroundElite, who study the chief executives of the 30 largest firms in Sweden in the 20th century. They find in their analysis of top Swedish CEOs over 1945–2005, a large share held engineering degrees, although by the late 20th century it became common to couple technical training with business education​. This mix of backgrounds on boards can influence corporate strategy – technically trained directors may prioritize R&D and long-term product development, while finance-trained directors might emphasize cost control, acquisitions, or shareholder returns. Comparative studies in more recent business history support this notion: for example, @adams2010RoleBoardsDirectors survey the literature on board composition and actions taken, and find that boards with more engineers or scientists tend to invest more in R&D and innovation, while those with more financiers focus on cost-cutting or M&A​. 
 
 In terms of governance models, @hogfeldt2005HistoryPoliticsCorporate argues that Sweden has been seen as a coordinated market economy with stakeholder-oriented governance, in contrast to the Anglo-American shareholder model. Throughout the 20th century, Swedish boards were typically insider-dominated, featuring controlling shareholders or their proxies (e.g. the Wallenberg family members) alongside key executives. This is akin to continental European practices (e.g. German universal banks and interlocking directorates)​. By the late 1900s, however, some convergence occurred. @sluyterman2022ChangingRoleCEOs, studying the changing role of CEOs in the second half of the 20th century note a general shift in many countries from “managerial capitalism” – where industrial experts and managers had primacy – to “investor capitalism” focused on shareholders​. In Sweden, the 1980s and 1990s brought reforms (e.g. a Corporate Governance Code) emphasizing board independence and accountability, more similar to U.S./UK practices​, according to @sabelfeld2023SwedishCorporateGovernance. Still, differences remain: Swedish boards to this day often include employee representatives and maintain high ownership concentration via dual-class shares and family foundations​ [@hogfeldt2005HistoryPoliticsCorporate].
 
@@ -171,9 +58,9 @@ Historically, an engineering-trained director in Sweden wielded influence throug
 
 ### Firm Performance and Technical Change
 
-The composition of a firm’s leadership and board can significantly influence its performance, especially during periods of technological change. A growing body of evidence links board composition (skills, size, and diversity of directors) to financial outcomes like productivity and profitability. For example, firms that appoint directors with relevant industry or technical expertise tend to see positive market reactions and long-run results. @vonmeyerinck2016DirectorIndustryExperience, who conducted a study of S&P 500 companies found that adding a new director with industry experience led to significantly higher stock price gains around the announcement. This suggests that specialized knowledge – such as engineering know-how in a tech-driven company – is valued by investors and likely helps firm performance. Likewise, upper-echelon research indicates that executives’ educational backgrounds can shape firm strategy. CEOs with science/engineering training are often more innovation-oriented, correlating with greater R&D investment and patenting activity [@ghardallou2020CEOCharacteristicsFirm]. In fact, Hambrick & Mason’s theory of managerial characteristics influencing outcomes is supported by findings that “firm R&D spending is positively related to the science and engineering education of its CEO”​ [@ghardallou2020CEOCharacteristicsFirm]. This implies that when technical experts lead firms, they tend to allocate more resources to innovation, potentially driving productivity growth. Conversely, leaders with primarily financial backgrounds might focus on efficiency metrics and short-term returns, affecting measures like revenue per employee or labor costs in different ways.
+The composition of a firm’s leadership and board can significantly influence its performance, especially during periods of technological change. A growing body of evidence links board composition (skills, size, and diversity of directors) to financial outcomes like productivity and profitability. For example, firms that appoint directors with relevant industry or technical expertise tend to see positive market reactions and long-run results. @vonmeyerinck2016DirectorIndustryExperience, who conducted a study of S&P 500 companies found that adding a new director with industry experience led to significantly higher stock price gains around the announcement. This suggests that specialized knowledge – such as engineering know-how in a tech-driven company – is valued by investors and likely helps firm performance. Likewise, research indicates that executives’ educational backgrounds can shape firm strategy. CEOs with science/engineering training are often more innovation-oriented, correlating with greater R&D investment and patenting activity [@ghardallou2020CEOCharacteristicsFirm]. In fact, Hambrick & Mason’s theory of managerial characteristics influencing outcomes is supported by findings that “firm R&D spending is positively related to the science and engineering education of its CEO”​ [@ghardallou2020CEOCharacteristicsFirm]. While a finding from more recent business hsitory, this implies that when technical experts lead firms, they tend to allocate more resources to innovation, potentially driving productivity growth. Conversely, leaders with primarily financial backgrounds might focus on efficiency metrics and short-term returns, affecting measures like revenue per employee or labor costs in different ways.
 
-Historical analyses of Swedish companies provide empirical insight into how technical leadership affected performance and employment. During Sweden’s era of industrial ascendancy (roughly 1900–1970), many firms achieved world-class productivity levels. By 1950, Sweden had caught up with some of the richest nations in GDP per capita – a feat usually credited to its manufacturing industries’ success in adopting and advancing frontier technology​, as summarized by @prado2022ModernSwedishEconomic. Within manufacturing, engineer-led firms introduced process improvements and new products that boosted output per worker. Indeed, from 1950 to 1970 Swedish manufacturing output grew about 4.8% annually, contributing more than half of national GDP growth in that “golden age”, as noted by @taalbiInnovationsEconomicGrowth​. Firms like ASEA (electrical equipment) or Volvo (automotive) saw rapid productivity gains as they implemented technical innovations and modern management, often under the guidance of technically trained executives. Revenue per employee and related metrics rose as these companies scaled up and optimized production. However, the link between technical change and employment is complex. In the early and mid-20th century, industrial employment expanded alongside productivity – manufacturing employment kept rising up to the 1960s as firms grew​ [@taalbiInnovationsEconomicGrowth]. High productivity and output often went hand in hand with more jobs during this expansion phase.
+Historical analyses of Swedish companies provide empirical insight into how technical leadership affected performance and employment. During Sweden’s era of industrial ascendancy, many firms achieved world-class productivity levels. By 1950, Sweden had caught up with some of the richest nations in GDP per capita – a feat usually credited to its manufacturing industries’ success in adopting and advancing frontier technology​, as summarized by @prado2022ModernSwedishEconomic. Within manufacturing, engineer-led firms introduced process improvements and new products that boosted output per worker. Indeed, from 1950 to 1970 Swedish manufacturing output grew about 4.8% annually, contributing more than half of national GDP growth in that “golden age”, as noted by @taalbiInnovationsEconomicGrowth​. Firms like ASEA (electrical equipment) or Volvo (automotive) saw rapid productivity gains as they implemented technical innovations and modern management, often under the guidance of technically trained executives. Revenue per employee and related metrics rose as these companies scaled up and optimized production. However, the link between technical change and employment is complex. In the early and mid-20th century, industrial employment expanded alongside productivity – manufacturing employment kept rising up to the 1960s as firms grew​ [@taalbiInnovationsEconomicGrowth]. High productivity and output often went hand in hand with more jobs during this expansion phase.
 
 After the 1970s, a shift occurred in performance dynamics, illustrating the impact of technological transformation on employment. As Sweden and other advanced economies faced the ICT revolution and globalization, manufacturing employment peaked and then “deindustrialization” set in​. Automation and technical efficiencies meant output could keep growing with fewer workers. For Sweden, the period 1970–1990 saw manufacturing value-added growth drop to about 1.5% per year (from ~4.8% earlier), and the sector’s share of total growth fell markedly [@taalbiInnovationsEconomicGrowth]. Yet manufacturing’s productivity continued to improve – output did not collapse, it simply required far less labor input. As Ljungberg and Taalbi note, after 1970 the output of manufacturing kept rising despite workforce cuts, implying that capital deepening and technical change drove up labor productivity​. The consequence was a decline in the labor share and industrial employment, even as firms became more efficient. Corporate governance may have played a role in this transition: starting in the 1980s, more financially driven management (sometimes replacing engineer-leaders) pursued restructuring, outsourcing, and cost reduction to please shareholders, which often entailed layoffs or wage restraint. Here, historical data illustrate that technical leadership and board expertise can yield higher innovation and productivity (raising performance indicators like revenue per employee or profit margins), but the distribution of those gains between capital and labor can shift. Early on, technology-driven growth supported broad employment, whereas later, rapid technical change improved output while trimming workforces. Understanding this evolution is crucial, and it highlights why examining the backgrounds of board members (engineers vs. businessmen) is key to interpreting firm strategies on growth, innovation, and employment.
 
@@ -181,12 +68,11 @@ After the 1970s, a shift occurred in performance dynamics, illustrating the impa
 
 In recent years, historians and economists have applied bipartite network analysis to study corporate governance in a historical context. A bipartite network (two-mode network) is a representation that links two types of nodes – for example, companies and their board members – without direct connections among nodes of the same type [@liew2023MethodologyFrameworkBipartite]. @pavlopoulos2018BipartiteGraphsSystems notes that by projecting such a network, one can derive the inter-firm director network (directors are connected if they sit on a common board) or the interlocking firm network (firms are connected if they share a director). This approach has opened new avenues to quantify how board interlocks and elite networks influence firm decision-making and performance​. By digitizing century-long board membership records of Swedish companies​, one can identify which individuals sat on multiple boards and measure their network centrality (influence). Such quantitative network measures (degree, centrality, etc.) can then be used as variables in regression models to assess impact on firm outcomes [@hsieh2022CollaborationBipartiteNetworks]. This method allows us to test, for instance, whether firms that are more centrally connected in the director network had better financial performance.
 
-
-Studies of corporate networks in Sweden reveal a tightly interlocked business community, historically dominated by a few key “nodes.” Perhaps the most famous example is the Wallenberg sphere – a cluster of firms linked by the Wallenberg family through ownership and board positions. By mid-20th century, the Wallenbergs’ investment company Investor AB and affiliated bank (SEB) held significant stakes in numerous industrial giants (ASEA, Ericsson, SKF, etc.), and Wallenberg representatives occupied board seats across these companies [@hogfeldt2005HistoryPoliticsCorporate]. This created a dense network of interlocking directorates where a handful of individuals oversaw multiple firms. @ottosson1997InterlockingDirectoratesSwedish conducts a network analysis that confirms Swedish big business was highly connected: an analysis of early 1900s interlocks showed that the rise of modern banking went hand in hand with interlinked boards in industry. @ottosson1997InterlockingDirectoratesSwedish 's analysis covers five benchmark years; 1903, 1912, 1918, 1924 and 1939, and finds that that Swedish banks became more central actors in corporate networks over time, especially after financial crises, as they stepped in to restructure and stabilize industry. By the 1960s, the three largest banks (Wallenberg’s SEB, Handelsbanken, and others) each had direct or indirect board links to myriad companies, effectively coordinating corporate strategy in what one commentator called a “consultation economy”​, according to @hogfeldt2005HistoryPoliticsCorporate. Further, @hogfeldt2005HistoryPoliticsCorporate argues that these inter-firm networks sometimes facilitated resource sharing, risk management, and technology transfer among companies. For example, a director sitting on boards of both a steel company and an engineering firm could help channel investments or collaborative R&D between them. Such positive effects of interlocks – spreading best practices or providing stable long-term capital – have been noted in historical accounts of Swedish conglomerates​.
+Studies of corporate networks in Sweden reveal a tightly interlocked business community, historically dominated by a few key “nodes.” Perhaps the most famous example is the Wallenberg sphere – a cluster of firms linked by the Wallenberg family through ownership and board positions. By mid-20th century, the Wallenbergs’ investment company Investor AB and affiliated bank (SEB) held significant stakes in numerous industrial giants (ASEA, Ericsson, SKF, etc.), and Wallenberg representatives occupied board seats across these companies [@hogfeldt2005HistoryPoliticsCorporate]. This created a dense network of interlocking directorates where a handful of individuals oversaw multiple firms. @ottosson1997InterlockingDirectoratesSwedish conducts a network analysis that confirms Swedish big business was highly connected: an analysis of early 1900s interlocks showed that the rise of modern banking went hand in hand with interlinked boards in industry. @ottosson1997InterlockingDirectoratesSwedish 's analysis covers five benchmark years; 1903, 1912, 1918, 1924 and 1939, and finds that that Swedish banks became more central actors in corporate networks over time, especially after financial crises, as they stepped in to restructure and stabilize industry. By the 1960s, the three largest banks each had direct or indirect board links to myriad companies, effectively coordinating corporate strategy in what one commentator called a “consultation economy”​, according to @hogfeldt2005HistoryPoliticsCorporate. Further, @hogfeldt2005HistoryPoliticsCorporate argues that these inter-firm networks sometimes facilitated resource sharing, risk management, and technology transfer among companies. For example, a director sitting on boards of both a steel company and an engineering firm could help channel investments or collaborative R&D between them. Such positive effects of interlocks – spreading best practices or providing stable long-term capital – have been noted in historical accounts of Swedish conglomerates​.
 
 On the other hand, network concentration also meant a small elite could exert outsized influence. @dejong2021ExceptionalBigLinkers mapped Dutch interlocking directorates and found a high degree of centrality among a few “big linkers” (individuals with many board seats) who could shape multiple firms’ decisions. Using modern network analysis tools on historical data, researchers can evaluate how these interlocks correlated with firm outcomes. The evidence provided by @ottosson1997InterlockingDirectoratesSwedish in the first half of the 20th century suggests that firms at the core of interlock networks often had more consistent performance (thanks to coordinated support during downturns), but overly dense networks might also stifle competition or innovation if the same directors resisted change later in the period.
 
-By using a bipartite network analysis based on digitized annual reports and shareholder registers, I can create a longitudinal panel and yearly network of board interconnections and then test hypotheses about governance and performance​. Through regression-based network analysis, it becomes possible to isolate effects: e.g. did firms with more connected engineers on their boards achieve higher revenue growth compared to others? Did a change in board network centrality precede changes in employment or labor share? That is what I aim to explore in this paper.
+By using a bipartite network analysis based on digitized annual reports and shareholder registers, I can create a longitudinal panel and yearly network of board interconnections and then test hypotheses about governance and performance​. Through regression-based network analysis, it becomes possible to isolate effects: e.g. did firms with more connected engineers on their boards achieve higher revenue growth compared to others? Did a change in board network centrality precede changes in employment or labor share? Was the international experience of these engineers important? That is what I aim to explore in this paper.
 
 
 ## III. Data and Source Criticism
@@ -279,72 +165,112 @@ Regarding networks, a bipartite network of firms and directors is created in ord
 
 Overall, the dataset assembled here—covering both extensive financial records and board composition details—enables an investigation of how U.S.-experienced engineers affected firm productivity and employment strategies in twentieth-century Sweden. While the archival approach and the reliance on biographical dictionaries introduce certain biases, the consistency of key income statement and balance sheet items, combined with the strength of the board-level matching, provides a valuable foundation for analyzing historical corporate governance.
 
-
 ## IV. Empirical Method
 
-The empirical analysis begins with a longitudinal design that exploits firm-level data assembled from 1873 to 1980. Each firm enters the panel in years where sufficient financial information and board composition records exist, forming an unbalanced panel that covers varying intervals for different companies, where coverage is shown in @fig-crot. This approach allows for the exploration of how changes within each firm—such as the arrival of a U.S.-experienced engineer on the board—correlate with shifts in its performance indicators. By including firm fixed effects, the regression specifications control for any unobserved, time-invariant characteristics of individual companies, such as historical reputations, founding conditions, or long-standing ownership structures. Time dummies, capturing broad economic cycles and periods of expansion or downturn, help further isolate the relationship between board composition and performance from macroeconomic influences.
+The empirical analysis begins with a longitudinal design that exploits firm-level data assembled from 1873 to 1980. Each firm enters the panel in years where sufficient financial information and board composition records exist, forming an unbalanced panel that covers varying intervals for different companies, where coverage is shown in @fig-crot. This approach allows for the exploration of how changes within each firm — such as the arrival of a U.S.-experienced engineer on the board - correlate with shifts in its performance indicators. 
 
-The primary outcome variable is revenue per employee, chosen to approximate labor productivity. This measure is constructed by dividing a company’s reported revenues by its total number of employees for each year. Using revenue per employee helps detect whether board-level decisions, including technological investments or operational strategies, are associated with measurable gains in productivity. The key explanatory variables focus on the presence and proportion of directors with specialized backgrounds. One specification includes a binary indicator that equals one if any board member meets two criteria: holding an engineering education and having worked in the United States. A complementary specification substitutes this binary measure with a continuous one, reflecting the share of board members who fit the same criteria. To address the sub-question about contrasting the effects of business- or finance-trained directors, further terms partition board composition into two dimensions: first, whether a director has an engineering or business/finance background, and second, whether that individual has foreign experience in the United States. In practice, this is done by interacting the director’s training (engineer vs. business/finance) with the U.S.-experience indicator, allowing the regression coefficients to capture how these backgrounds combine in shaping performance.
+The preferred measure of firm performance is revenue per employee, computed by dividing total revenue by employee headcount. This indicator approximates labor productivity and highlights whether board-level expertise - particularly engineering plus American experience - translates into efficiency gains. To allow for the possibility that new appointments effects employment policies, a second model regresses overall employment on same explanatory terms. Comparing the two outcomes helps distinguish whether foreign-trained engineers primarily spur labor productivity improvements or also drive workforce expansion.
 
-The estimated model includes the fundamental controls that appear in most firm-level empirical studies of historical corporate governance. Firm size enters, typically as the logarithm of total assets or employment, to capture economies of scale and general capacity for investment. Firm age, constructed from the date of incorporation or earliest available archival record, accounts for the possibility that older firms have distinct trajectories for performance or governance structures. Industry composition is controlled through sector dummies based on the classification in table @tbl-industry-distribution, where each firm is assigned to one of several categories—such as finance and investment, engineering and industrial, or consumer goods—thereby helping to account for the varying technological demands or competitive pressures across different types of enterprises. Time effects are managed by incorporating year fixed effects or, when data permit, a set of time-period dummies to smooth out fluctuations tied to global economic shocks, wars, or postwar recoveries.
+The key explanatory variables focus on the presence and proportion of directors with specialized backgrounds. One specification includes a binary indicator that equals one if any board member meets two criteria: holding an engineering education and having worked in the United States. A complementary specification substitutes this binary measure with a continuous one, reflecting the share of board members who fit the same criteria. To address the sub-question about contrasting the effects of business- or finance-trained directors, further terms partition board composition into two dimensions: first, whether a director has an engineering or business/finance background, and second, whether that individual has foreign experience in the United States. In practice, this is done by interacting the director’s training (engineer vs. business/finance) with the U.S.-experience indicator, allowing the regression coefficients to capture how these backgrounds combine in shaping performance.
 
-Though revenue per employee is the preferred measure of firm performance, a similar regression can be run where total employment or employment growth becomes the dependent variable. If new board appointments encourage expansion, the results may appear as higher labor uptake over time, especially if technological innovations initially require more specialized engineers or skilled staff. Alternatively, if the emphasis of U.S.-trained engineers falls on productivity improvements rather than labor growth, the parameter estimates for employment would remain modest while revenue per employee rises. Comparing both sets of equations allows a fuller assessment of whether board composition shapes only productivity or also influences hiring decisions.
+By including firm fixed effects, the regression specifications control for any unobserved, time-invariant characteristics of individual companies, such as historical reputations, founding conditions, or long-standing ownership structures. Time dummies, capturing broad economic cycles and periods of expansion or downturn, help further isolate the relationship between board composition and performance from macroeconomic influences. The model incorporates basic controls—such as firm size (log of total assets), firm age (determined by the first annual report), and sector dummies tied to the classification in @tbl-industry-distribution.
 
-Taken together, this panel regression framework aims to detect whether directors’ backgrounds—particularly those with engineering expertise and foreign experience—are systematically tied to firm outcomes beyond mere chance associations. By combining firm fixed effects, a wide span of time, and a set of relevant controls, the analysis seeks to distinguish patterns that emerge when new expertise is introduced or lost at the board level, providing insights into the ways that technical and international knowledge may have steered corporate strategies toward higher productivity in Swedish industry.
+Changes in board composition might not yield immediate effects on productivity. Accordingly, the main specification is adjusted include lagged board-composition variables to capture the delayed impact of new directors on performance. In addition, as noted above, I make use of time fixed effects to account for potential reverse causality; that better-performing firms might attract sought-after U.S.-experienced engineers.
 
-The specification is:
+The panel regression specification is:
 
-<!-- Let \( i \) index firms and \( t \) index years. The preferred empirical specification for the panel analysis of revenue per employee can be written as:
-
-\[
-\text{RevenuePerEmployee}_{i,t} = \alpha + \beta_{1} (\text{ShareUSExpEngineers})_{i,t} + \beta_{2} (\text{Controls})_{i,t} + \gamma_{i} + \delta_{t} + \varepsilon_{i,t}.
-\]
-
-In this specification, \(\text{RevenuePerEmployee}_{i,t}\) is the primary outcome variable, measuring the firm’s total sales divided by its number of employees. The explanatory term \(\bigl(\text{ShareUSExpEngineers}\bigr)_{i,t}\) is the proportion of board members in firm \(i\) and year \(t\) who combine an engineering background with documented work experience in the United States. This variable may capture how technology-focused expertise, supplemented by exposure to American industrial or managerial practices, shapes productivity outcomes. 
-
-The vector \(\bigl(\text{Controls}\bigr)_{i,t}\) includes relevant firm-level characteristics, such as logarithm of total assets, firm age, and sector indicators drawn from table \(\text{@tbl-industry-distribution}\). Including these controls accounts for the possibility that older or larger firms, or certain industrial classifications, systematically differ in how effectively they convert workforce inputs into revenue. In addition, macroeconomic or temporal shifts are addressed by \(\delta_{t}\), a year fixed effect that nets out time-specific shocks such as recessions or wartime disruptions. Meanwhile, \(\gamma_{i}\) is a firm fixed effect that absorbs all time-invariant attributes of each company, such as founding conditions, enduring ownership patterns, or longstanding reputations.
-
-Finally, \(\varepsilon_{i,t}\) is the idiosyncratic error term. Standard errors in such models are typically clustered by firm to allow for heteroskedasticity and serial correlation within each company’s observations. This framework is designed to disentangle how board composition—particularly the presence and share of U.S.-experienced engineers—relates to productivity measures like revenue per employee, while holding constant all other observable and unobservable differences among firms across the historical period under study. -->
-
-
-<!-- 
 $$
-\[
-\text{Let } i \text{ index firms and } t \text{ index years. The preferred empirical specification for the panel analysis of revenue per employee can be written as:}
-\]
-
-\[
-\text{RevenuePerEmployee}_{i,t} \;=\;\alpha\;+\;\beta_{1}\,\bigl(\text{ShareUSExpEngineers}\bigr)_{i,t}\;+\;\beta_{2}\,\bigl(\text{Controls}\bigr)_{i,t}\;+\;\gamma_{i}\;+\;\delta_{t}\;+\;\varepsilon_{i,t}.
-\]
+\text{Let } i \text{ index firms and } t \text{ index years.}
 $$
 
-In this equation,  
-- \(\text{RevenuePerEmployee}_{i,t}\) is the dependent variable, calculated as total revenue divided by the number of employees for firm \(i\) in year \(t\).  
-- \(\bigl(\text{ShareUSExpEngineers}\bigr)_{i,t}\) measures the proportion of board members who both hold an engineering education and have work experience in the United States.  
-- \(\bigl(\text{Controls}\bigr)_{i,t}\) is a vector of additional firm-level regressors, which may include log of total assets, firm age, and sector dummies (based on the classification in table @tbl-industry-distribution).  
-- \(\gamma_{i}\) indicates a firm fixed effect, capturing any time-invariant characteristics unique to each company.  
-- \(\delta_{t}\) is a full set of year fixed effects to account for macroeconomic shifts in each period.  
-- \(\varepsilon_{i,t}\) is the error term, often assumed to be clustered at the firm level to allow for heteroskedasticity and serial correlation within firms over time.
+The preferred empirical specification for the panel analysis of revenue per employee can be written as:
 
-Including these terms ensures that the coefficient \(\beta_{1}\) on \(\bigl(\text{ShareUSExpEngineers}\bigr)_{i,t}\) reflects whether adding U.S.-trained engineers to the board correlates with productivity outcomes, as proxied by revenue per employee, while controlling for other firm-specific and year-specific effects.
- -->
+$$
+\text{RevenuePerEmployee}_{i,t} = \alpha + \beta_1 (\text{ShareUSExpEngineers})_{i,t} + \beta_2 (\text{Controls})_{i,t} + \gamma_i + \delta_t + \varepsilon_{i,t}
+$$
 
-
-
-\[
-\text{Let } i \text{ index firms and } t \text{ index years. The preferred empirical specification for the panel analysis of revenue per employee can be written as:}
-\]
-
-\[
-\text{RevenuePerEmployee}_{i,t} = \alpha + \beta_{1}\,(\text{ShareUSExpEngineers})_{i,t} + \beta_{2}\,(\text{Controls})_{i,t} + \gamma_{i} + \delta_{t} + \varepsilon_{i,t}.
-\]
+\
+\
 
 In this specification, $\text{RevenuePerEmployee}_{i,t}$ is the primary outcome variable, measuring the firm’s total sales divided by its number of employees. The explanatory term $(\text{ShareUSExpEngineers})_{i,t}$ is the proportion of board members in firm $i$ and year $t$ who combine an engineering background with documented work experience in the United States. This variable may capture how technology-focused expertise, supplemented by exposure to American industrial or managerial practices, shapes productivity outcomes.
 
-The vector $(\text{Controls})_{i,t}$ includes relevant firm-level characteristics, such as logarithm of total assets, firm age, and sector indicators drawn from table $\text{@tbl-industry-distribution}$. Including these controls accounts for the possibility that older or larger firms, or certain industrial classifications, systematically differ in how effectively they convert workforce inputs into revenue. In addition, macroeconomic or temporal shifts are addressed by $\delta_{t}$, a year fixed effect that nets out time-specific shocks such as recessions or wartime disruptions. Meanwhile, $\gamma_{i}$ is a firm fixed effect that absorbs all time-invariant attributes of each company, such as founding conditions, enduring ownership patterns, or longstanding reputations.
+The vector $(\text{Controls})_{i,t}$ includes relevant firm-level characteristics, such as logarithm of total assets, firm age, and sector indicators drawn from @tbl-industry-distribution. Including these controls accounts for the possibility that older or larger firms, or certain industrial classifications, systematically differ in how effectively they convert workforce inputs into revenue. In addition, macroeconomic or temporal shifts are addressed by $\delta_t$, a year fixed effect that nets out time-specific shocks such as recessions or wartime disruptions. Meanwhile, $\gamma_i$ is a firm fixed effect that absorbs all time-invariant attributes of each company, such as founding conditions, enduring ownership patterns, or longstanding reputations.
 
 Finally, $\varepsilon_{i,t}$ is the idiosyncratic error term. Standard errors in such models are typically clustered by firm to allow for heteroskedasticity and serial correlation within each company’s observations. This framework is designed to disentangle how board composition—particularly the presence and share of U.S.-experienced engineers—relates to productivity measures like revenue per employee, while holding constant all other observable and unobservable differences among firms across the historical period under study.
 
+In terms of robustness, four approaches are used. First, lagged board composition is tested to determine whether productivity effects emerge with a delay. Second, alternative outcomes are considered by substituting total employment or employment growth for revenue per employee. Third, sub-period analyses are conducted by splitting the sample into historical intervals, such as before and after 1930 or post-1945, to check the stability of results. Finally, interactions with network measures are examined, where relevant, by adding metrics of network centrality or board interlocks to see if well-connected directors influence productivity more strongly.
+
+The network analysis uses a bipartite representation of directors and firms. Directors can occupy board seats on multiple companies, creating the potential for inter-firm ties when the same individual sits on more than one board. Visualizing these ties in a two-mode network highlights the connections that might facilitate the diffusion of business practices, managerial styles, and technological knowledge, particularly if directors bring specialized engineering skills or international experience. Because certain directors hold multiple seats, they serve as potential conduits for transferring ideas between firms, while boards that share members may coordinate or emulate each other’s strategies. To capture the structure, the study calculates degree centrality at the director level (indicating how many boards a person joins), along with firm-level connectivity measures (counting the number of directors shared with other firms). It also examines clusters of boards that appear “engineer heavy,” hypothesizing that these companies may form cohesive groups—sometimes anchored by powerful industrial families like the Wallenbergs - where common network linkages enhance trust and learning.
+
+In the regression analysis, these network metrics are introduced as additional explanatory variables. Specifically, each firm-year observation includes (a) an aggregate measure of the board’s centrality, such as the average centrality score of its directors or the fraction of directors in the top percentile of director-level degree, and (b) a firm connectivity index, capturing how many other companies are directly linked by shared board members. The models also allow interactions between these network variables and the presence of U.S.-experienced engineers; for example, to test whether central, foreign-trained engineers foster greater productivity gains than foreign-trained engineers on more isolated boards. By adding these terms—while still retaining firm fixed effects, time dummies, and core controls—the analysis can distinguish whether simply having U.S.-experienced engineers matters more or less than having them embedded in a highly connected board network.
+
+{{< pagebreak >}}
+
+## V. Analysis
+
+In @fig-network-1 below I show a network of firms based on common board members in 1950. This visualization highlights the dense interconnections among firms, with several clusters of companies sharing multiple directors. The Wallenberg sphere, for instance, is visible as a tight-knit group of firms linked by common board members in the center. I chose to display 1950 because it is a year when many of the firms in my sample have complete data. I need to think carefully how to deal with network centrality measures when firms are missing from the network.
+
+![Network of firms based on common board members in 1950](images/network-1.png){#fig-network-1}
+
+Tentative regression results are shown in @tbl-regression-results.
+
+There are several things I need to do before finalizing the analysis. First, I need to check that the deflators I have used from Rodney Edvinson's website are the ones I should be using, I will check this with Anton Svensson as I know he has used deflators in his project.
+
+Second, I need to check the level changes that exist in the data. I have already done this to some extent, but I need to make sure that the changes are not due to changes in accounting standards or other factors that might affect the data. When I log and take differences in analysis. 
+
+Once I have done this, I need to check that the stationarity / unit root tests still hold, and if not, potentially take the first differences of the series that I use.
+
+Then I need to check the lag effects, and complete the other robustness checks. 
+
+I also need to experiement with the variable for international (non-US) experience, and see if this has an effect on the results.
+
+Finally, I need to write up the results and the conclusion.
+
+
+::: {#tbl-regression-results}
+
+
+```{=latex}
+\begin{table}[htbp]
+\centering
+\caption{Regression Results on Revenue per Employee}
+\label{tab:regression-results-1}
+\begin{tabular}{lccc}
+\toprule
+ & \multicolumn{3}{c}{\textbf{Dependent Variable: Revenue per Employee}} \\
+\cmidrule(lr){2-4}
+ & \textbf{(1)} & \textbf{(2)} & \textbf{(3)} \\
+\midrule
+\textbf{Share of U.S.-Exp. Engineers}           & 0.105**   & 0.112**   & 0.094**  \\
+                                                & (0.048)   & (0.050)   & (0.045)  \\
+\textbf{Engineer $\times$ U.S.-Exp. Directors}  &           & 0.036     & 0.041    \\
+                                                &           & (0.027)   & (0.029)  \\
+\textbf{Board Centrality}                       &           &           & 0.063**  \\
+                                                &           &           & (0.025)  \\
+\textbf{Firm Connectivity}                      &           &           & 0.018    \\
+                                                &           &           & (0.012)  \\
+\textbf{log(Assets)}                            & 0.210***  & 0.195***  & 0.198*** \\
+                                                & (0.059)   & (0.057)   & (0.054)  \\
+\textbf{Firm Age}                               & 0.001*    & 0.001*    & 0.001*   \\
+                                                & (0.0006)  & (0.0005)  & (0.0005) \\
+\midrule
+\textbf{Year FE} & Yes & Yes & Yes \\
+\textbf{Industry FE} & Yes & Yes & Yes \\
+\midrule
+Observations & 49 & 71 & 71 \\
+R-squared    & 0.42  & 0.43  & 0.46  \\
+\bottomrule
+\multicolumn{4}{p{11cm}}{\footnotesize \textit{Notes}: Standard errors in parentheses, clustered at the firm level. *** p$<$0.01, ** p$<$0.05, * p$<$0.1.}\\
+\end{tabular}
+\end{table}
+
+```
+
+:::
+
+## VI. Conclusion
+
+TODO
 
 
 {{< pagebreak >}}

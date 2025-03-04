@@ -16,6 +16,12 @@ df <- arrow::read_parquet("data/company_reports_smoothed_output.parquet")
 ```{python}
 import pandas as pd
 
+df = pd.read_parquet("data/company_reports_smoothed_output.parquet")
+
+df.head()
+
+# write to excel file, excluding the index
+df.to_excel("data/company_reports_smoothed_output.xlsx", index=False)
 
 ```
 
@@ -208,7 +214,7 @@ plt.figure(figsize=(12, 12))
 nx.draw_networkx_nodes(G, pos, node_size=500, node_color='skyblue')
 nx.draw_networkx_labels(G, pos, font_size=8)
 nx.draw_networkx_edges(G, pos)
-plt.title("Network of Swedish Companies via a Common Board Member")
+plt.title("Network of Swedish Companies via a Common Board Member in 1950")
 plt.axis('off')
 plt.show()
 
