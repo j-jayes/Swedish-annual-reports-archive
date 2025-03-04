@@ -10,10 +10,20 @@ library(arrow)
 
 df <- arrow::read_parquet("data/company_reports_smoothed_output.parquet")
 
-df
 ```
 
 
+```{python}
+import pandas as pd
+
+
+```
+
+```{r}
+df %>% arrange(fiscal_year) %>% head(10)
+
+df %>% distinct(company_name) %>% write_csv("data/company_names.csv")
+```
 
 ```{r}
 df %>% ggplot(aes(x = fiscal_year, y = revenue)) +
@@ -84,4 +94,123 @@ df %>%
     geom_smooth(method = "lm", se = FALSE) +
     facet_wrap(~company_name) +
     theme(legend.position = "none")
+```
+
+
+
+
+```{python}
+import networkx as nx
+import matplotlib.pyplot as plt
+
+# Define companies with their broad industry groups
+companies = {
+    "AGA": "Engineering & Industrial",
+    "ASEA": "Engineering & Industrial",
+    "Addo": "Other",
+    "AlfortCronholm": "Other",
+    "Arvikaverken": "Engineering & Industrial",
+    "Astra": "Other",
+    "Atlantica": "Finance & Investment",
+    "Bahco": "Engineering & Industrial",
+    "Baltic": "Other",
+    "Beckers": "Other",
+    "Beijerinvest": "Finance & Investment",
+    "Billerud": "Mining & Metals",
+    "Billman": "Engineering & Industrial",
+    "Boxholm": "Mining & Metals",
+    "Coronaverken": "Mining & Metals",
+    "Custos": "Finance & Investment",
+    "Diamantbergborrning": "Mining & Metals",
+    "Diligentia": "Other",
+    "Drott": "Other",
+    "Electrolux": "Consumer Goods",
+    "Emissionsinstitutet": "Other",
+    "Ericsson": "Telecommunications & Technology",
+    "Esselte": "Other",
+    "Exportinvest": "Finance & Investment",
+    "Fagersta": "Mining & Metals",
+    "Fannyudde": "Engineering & Industrial",
+    "Ford": "Automotive & Machinery",
+    "Forshaga": "Other",
+    "Heimdall": "Other",
+    "Hennes": "Consumer Goods",
+    "Hufvudstaden": "Other",
+    "Iggesund": "Mining & Metals",
+    "Incentive": "Finance & Investment",
+    "Investor": "Finance & Investment",
+    "Invik": "Finance & Investment",
+    "JW": "Engineering & Industrial",
+    "Kilsund": "Engineering & Industrial",
+    "Kinnevik": "Finance & Investment",
+    "Kopparfors": "Other",
+    "Kreditbanken": "Finance & Investment",
+    "Lux": "Consumer Goods",
+    "Marabou": "Consumer Goods",
+    "Metallverken": "Mining & Metals",
+    "Neptun": "Other",
+    "Nessim": "Finance & Investment",
+    "Nordbanken": "Finance & Investment",
+    "Norrlandsbanken": "Finance & Investment",
+    "Optimus": "Consumer Goods",
+    "PLM": "Other",
+    "Papyrus": "Other",
+    "Pripps": "Consumer Goods",
+    "Providentia": "Finance & Investment",
+    "Pumpseparator": "Engineering & Industrial",
+    "Ratos": "Finance & Investment",
+    "SEBanken": "Finance & Investment",
+    "Sandvik": "Engineering & Industrial",
+    "Skandia": "Finance & Investment",
+    "Skaraborgsbanken": "Finance & Investment",
+    "Sonesson": "Consumer Goods",
+    "Stockholmsbryggerier": "Consumer Goods",
+    "Sulitelma": "Mining & Metals",
+    "Sundsvallsbanken": "Finance & Investment",
+    "Tarkett": "Other",
+    "Tjenstemannabanken": "Finance & Investment",
+    "Trelleborg": "Engineering & Industrial",
+    "Uddeholm": "Mining & Metals",
+    "Uplandsbanken": "Finance & Investment",
+    "Volta": "Consumer Goods",
+    "Volvo": "Automotive & Machinery"
+}
+
+# Hypothetical edges representing a single common board member (e.g., a Wallenberg-associated board member)
+wallenberg_edges = [
+    ("Beijerinvest", "Investor"),
+    ("Investor", "Kinnevik"),
+    ("Investor", "Exportinvest"),
+    ("Nordbanken", "Norrlandsbanken"),
+    ("SEBanken", "Nordbanken"),
+    ("Skandia", "SEBanken"),
+    ("Kreditbanken", "Uplandsbanken"),
+    ("Ericsson", "Electrolux"),
+    ("Electrolux", "Volta"),
+    ("Ford", "Volvo"),
+    ("Sandvik", "Trelleborg"),
+    ("Arvikaverken", "Billman")
+]
+
+# Create the graph
+G = nx.Graph()
+
+# Add nodes with an attribute for their industry group
+for company, group in companies.items():
+    G.add_node(company, industry=group)
+
+# Add edges for the simulated board interlocks (unweighted: an edge exists if one common board member is shared)
+G.add_edges_from(wallenberg_edges)
+
+# Draw the network
+pos = nx.spring_layout(G, seed=42)  # reproducible layout
+plt.figure(figsize=(12, 12))
+nx.draw_networkx_nodes(G, pos, node_size=500, node_color='skyblue')
+nx.draw_networkx_labels(G, pos, font_size=8)
+nx.draw_networkx_edges(G, pos)
+plt.title("Network of Swedish Companies via a Common Board Member")
+plt.axis('off')
+plt.show()
+
+
 ```
