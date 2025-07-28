@@ -1,0 +1,80 @@
+{
+  "company_name": "SCANIA-VABIS",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 29.744,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.276,
+    "net_income": 3.189
+  },
+  "balance_sheet": {
+    "total_assets": 96.512,
+    "current_assets": 59.275,
+    "fixed_assets": 37.237,
+    "total_liabilities": 60.307,
+    "current_liabilities": 29.744,
+    "long_term_liabilities": 20.363,
+    "shareholders_equity": 36.205
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1593,
+    "n_white_collar_workers": 717
+  },
+  "board": [
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "August",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Godin",
+      "first_name": "V.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

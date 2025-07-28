@@ -1,0 +1,80 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 421.035,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 358.8,
+    "wages_expense": null,
+    "tax_expense": 12.383,
+    "depreciation": 15.235,
+    "net_income": 11.586
+  },
+  "balance_sheet": {
+    "total_assets": 252.688,
+    "current_assets": 110.649,
+    "fixed_assets": 134.219,
+    "total_liabilities": 164.935,
+    "current_liabilities": 56.827,
+    "long_term_liabilities": 86.608,
+    "shareholders_equity": 87.753
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Chefredaktör"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Wrigstad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Chefredaktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "\"\".",
+      "initials": "Åke",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

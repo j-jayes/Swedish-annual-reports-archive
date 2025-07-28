@@ -1,0 +1,100 @@
+{
+  "company_name": "Providentia",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 199.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 589.1
+  },
+  "balance_sheet": {
+    "total_assets": 5382.319,
+    "current_assets": 88.308,
+    "fixed_assets": 5294.011,
+    "total_liabilities": 2446.105,
+    "current_liabilities": 1480.557,
+    "long_term_liabilities": 426.867,
+    "shareholders_equity": 2509.347
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthen",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": "A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

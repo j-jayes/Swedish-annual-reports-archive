@@ -1,0 +1,70 @@
+{
+  "company_name": "Aktiebolaget Elektrolux",
+  "fiscal_year": 1925,
+  "income_statement": {
+    "revenue": 2099778.69,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 695031.83
+  },
+  "balance_sheet": {
+    "total_assets": 10148016.7,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wenner-Gren",
+      "first_name": "A. L.",
+      "initials": "A. L.",
+      "position": null
+    },
+    {
+      "surname": "Aurell",
+      "first_name": "Ernst",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Sjöberg",
+      "first_name": "A. Hemming",
+      "initials": "A. H.",
+      "position": null
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gustaf",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Ingeström",
+      "first_name": "Bengt",
+      "initials": "B.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindqvist",
+      "first_name": "A.",
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Birger",
+      "initials": "B.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

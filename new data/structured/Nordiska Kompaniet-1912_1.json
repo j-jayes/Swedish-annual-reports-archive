@@ -1,0 +1,92 @@
+{
+  "company_name": "NORDISKA KOMPANIET",
+  "fiscal_year": 1912,
+  "income_statement": {
+    "revenue": 2417547.04,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1546208.82,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 68400.71,
+    "net_income": 832504.0
+  },
+  "balance_sheet": {
+    "total_assets": 11068072.09,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 6240000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 1595,
+    "n_blue_collar_workers": 864,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hellner",
+      "first_name": "Joh",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wennberg",
+      "first_name": "A",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Printzsköld",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Arthur",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Grönvall",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammarskjöld",
+      "first_name": "C.",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Sachs",
+      "first_name": "Josef",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sandeberg",
+      "first_name": "Fritz af",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Almström",
+      "first_name": "Harald",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "May",
+      "first_name": "J",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

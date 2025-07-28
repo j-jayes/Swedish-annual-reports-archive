@@ -1,0 +1,80 @@
+{
+  "company_name": "BERGVIK OCH ALA AKTIEBOLAG",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 143.978,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 104.198,
+    "wages_expense": null,
+    "tax_expense": 3.658,
+    "depreciation": 17.421,
+    "net_income": 6.229
+  },
+  "balance_sheet": {
+    "total_assets": 342.689,
+    "current_assets": 94.633,
+    "fixed_assets": 246.546,
+    "total_liabilities": 242.669,
+    "current_liabilities": 58.399,
+    "long_term_liabilities": 184.27,
+    "shareholders_equity": 96.767
+  },
+  "employees": {
+    "n_employees": 1688,
+    "n_blue_collar_workers": 1376,
+    "n_white_collar_workers": 312
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDBLAD",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDQUIST",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    },
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": null,
+      "initials": "D.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

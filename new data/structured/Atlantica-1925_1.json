@@ -1,0 +1,76 @@
+{
+  "company_name": "Försäkringsaktiebolaget Atlantica",
+  "fiscal_year": 1925,
+  "income_statement": {
+    "revenue": 3966487.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 221441.05
+  },
+  "balance_sheet": {
+    "total_assets": 9029217.4,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 4552474.23,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4476743.17
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BOMAN",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLBURS",
+      "first_name": "VIDAR",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "S.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "METCALFE",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkst. Direktör."
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E.",
+      "initials": "W.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

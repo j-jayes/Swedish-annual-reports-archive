@@ -1,0 +1,134 @@
+{
+  "company_name": "Cardo",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 3084.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 598.0,
+    "tax_expense": 51.8,
+    "depreciation": null,
+    "net_income": 258.2
+  },
+  "balance_sheet": {
+    "total_assets": 2610.546,
+    "current_assets": 508.644,
+    "fixed_assets": 2101.902,
+    "total_liabilities": 405.401,
+    "current_liabilities": 405.401,
+    "long_term_liabilities": 48.495,
+    "shareholders_equity": 1636.436
+  },
+  "employees": {
+    "n_employees": 4625,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hansson",
+      "first_name": "Jan-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindblad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Porat",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Emanuelsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jönsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyman",
+      "first_name": "Olle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Weibull",
+      "first_name": "Widar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wramstedt",
+      "first_name": "Svante",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Månsson",
+      "first_name": "N.A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hultén",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

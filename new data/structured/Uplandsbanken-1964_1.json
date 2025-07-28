@@ -1,0 +1,134 @@
+{
+  "company_name": "UPLANDS ENSKILDA BANK",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 20332234.23,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6835412.88,
+    "wages_expense": null,
+    "tax_expense": 2550000.0,
+    "depreciation": 816787.38,
+    "net_income": 2883644.55
+  },
+  "balance_sheet": {
+    "total_assets": 639722113.66,
+    "current_assets": 284234394.31,
+    "fixed_assets": 113055193.0,
+    "total_liabilities": 634318121.03,
+    "current_liabilities": 95449861.2,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5403992.63
+  },
+  "employees": {
+    "n_employees": 295,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sterner",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Hæggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Göth",
+      "first_name": "H.",
+      "initials": "Elis A.",
+      "position": null
+    },
+    {
+      "surname": "Källström",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Waldemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Gottfrid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Segerstedt",
+      "first_name": "Torgny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stiernstedt",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "verkst, direktör"
+    },
+    {
+      "surname": "Wahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "v. verkst. direktör"
+    },
+    {
+      "surname": "Essen",
+      "first_name": "Carl",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Bagge",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björfors",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Henningson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Fridolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfberg",
+      "first_name": "Jan-Harald",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Åkerstedt",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

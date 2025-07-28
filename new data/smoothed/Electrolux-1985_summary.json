@@ -1,0 +1,128 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1985,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 26471.896,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 35337.0,
+    "wages_expense": null,
+    "tax_expense": 749.0,
+    "depreciation": 1214.0,
+    "net_income": 1395.0
+  },
+  "balance_sheet": {
+    "total_assets": 29524.0,
+    "current_assets": 19883.0,
+    "fixed_assets": 9586.0,
+    "total_liabilities": 7497.333333333333,
+    "current_liabilities": 9957.666666666666,
+    "long_term_liabilities": 4753.0,
+    "shareholders_equity": 6337.0
+  },
+  "employees": {
+    "n_employees": 93616,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Chief Executive Officer, Deputy Chairman"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "President of AB Investor"
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmenstam-Skytt",
+      "first_name": "Birgit",
+      "initials": null,
+      "position": "Secretary general of the Swedish National Shareholders' Association"
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Vice Chancellor, Chalmers Institute of Technology"
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "President of Skandinaviska Enskilda Banken"
+    },
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "President of Fourth National Pension Insurance Fund"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Representative of LO"
+    },
+    {
+      "surname": "Söderqvist",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Representative of SIF"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "Schumacher",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "PROVIDENTIA",
+  "fiscal_year": 1950,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5379026.54,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 119541.37,
+    "depreciation": 2312425.31,
+    "net_income": 2579091.62
+  },
+  "balance_sheet": {
+    "total_assets": 50984481.18,
+    "current_assets": 506304.87,
+    "fixed_assets": 47192441.47666667,
+    "total_liabilities": 12536625.18,
+    "current_liabilities": 10511258.18,
+    "long_term_liabilities": null,
+    "shareholders_equity": 17082618.666666668
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Anér",
+      "first_name": "Josef",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G. A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Wahlberg",
+      "first_name": null,
+      "initials": "G.",
+      "auditing_firm": "Aukt. revisor"
+    }
+  ]
+}

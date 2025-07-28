@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8383000.0,
+    "depreciation": 2480535.6,
+    "net_income": 9188672.35
+  },
+  "balance_sheet": {
+    "total_assets": 198878460.08,
+    "current_assets": 110118616.99,
+    "fixed_assets": 54967654.25,
+    "total_liabilities": 47263521.35,
+    "current_liabilities": 13011183.41,
+    "long_term_liabilities": 31076714.21,
+    "shareholders_equity": 123040000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1642,
+    "n_white_collar_workers": 1088
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PRYTZ",
+      "first_name": "B.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "GEER",
+      "first_name": "GÖSTA",
+      "initials": "DE",
+      "position": null
+    },
+    {
+      "surname": "FAULKNER",
+      "first_name": "H.",
+      "initials": "G.",
+      "position": "Verkst\nställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "LINDSTRÖM",
+      "first_name": "O.",
+      "initials": "W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "MOBERG",
+      "first_name": "WILHELM",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

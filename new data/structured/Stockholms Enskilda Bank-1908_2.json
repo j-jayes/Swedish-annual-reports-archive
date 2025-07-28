@@ -1,0 +1,88 @@
+{
+  "company_name": "Stockholms Handelsbank",
+  "fiscal_year": 1908,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 50000.0,
+    "net_income": 3790592.95
+  },
+  "balance_sheet": {
+    "total_assets": 121625795.63,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 121625795.63,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 14000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Abramson",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Maur.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bohman",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Torén",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fraenckel",
+      "first_name": "Louis",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Versteegh",
+      "first_name": "A.",
+      "initials": "A. N.",
+      "position": null
+    },
+    {
+      "surname": "Wicander",
+      "first_name": "Hj.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ahrberg",
+      "first_name": "Hj.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ljunggren",
+      "first_name": "C.",
+      "initials": "C. J.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wasastierna",
+      "first_name": "Alb.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

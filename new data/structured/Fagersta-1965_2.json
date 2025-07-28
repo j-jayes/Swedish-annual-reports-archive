@@ -1,0 +1,104 @@
+{
+  "company_name": "Fagersta Bruks Aktiebolag",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 399.054,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.8,
+    "depreciation": 23.043,
+    "net_income": 9.016
+  },
+  "balance_sheet": {
+    "total_assets": 332.296,
+    "current_assets": 195.842,
+    "fixed_assets": 131.958,
+    "total_liabilities": 164.299,
+    "current_liabilities": 66.508,
+    "long_term_liabilities": 97.791,
+    "shareholders_equity": 158.222
+  },
+  "employees": {
+    "n_employees": 7689,
+    "n_blue_collar_workers": 5000,
+    "n_white_collar_workers": 1284
+  },
+  "board": [
+    {
+      "surname": "Ödmark",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Eiserman",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Elfström",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "viverkst. dir"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "Audin",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

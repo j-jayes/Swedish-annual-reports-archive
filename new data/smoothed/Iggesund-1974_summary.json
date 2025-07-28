@@ -1,0 +1,128 @@
+{
+  "company_name": "IGGESUND",
+  "fiscal_year": 1974,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1003.5136666666667,
+    "cost_of_goods_sold": 949.823,
+    "operating_expenses": 17.365,
+    "wages_expense": 293.403,
+    "tax_expense": 58.703,
+    "depreciation": 130.571,
+    "net_income": 27.781333333333333
+  },
+  "balance_sheet": {
+    "total_assets": 790.785,
+    "current_assets": 458.0613333333334,
+    "fixed_assets": 280.03366666666665,
+    "total_liabilities": 407.3843333333333,
+    "current_liabilities": 220.7965,
+    "long_term_liabilities": 265.4995,
+    "shareholders_equity": 275.0056666666667
+  },
+  "employees": {
+    "n_employees": 3816,
+    "n_blue_collar_workers": 3190.5,
+    "n_white_collar_workers": 940.5
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Brönnhagen",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Lab.chef"
+    },
+    {
+      "surname": "Frohm",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Elektriker"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gustaf",
+      "initials": "C:son",
+      "position": "Civiljägmästare Greve"
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Forssblad",
+      "first_name": "Lars-Henrik",
+      "initials": null,
+      "position": "v. verkst. dir."
+    },
+    {
+      "surname": "Hjerpe",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Reparatör"
+    },
+    {
+      "surname": "Wallström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Verkmästare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Wallin",
+      "first_name": "Per-Gustaf",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Rilby",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "company_name": "LINOLEUM-AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1936,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 412961.69,
+    "depreciation": 750552.25,
+    "net_income": 381033.34
+  },
+  "balance_sheet": {
+    "total_assets": 13609083.03,
+    "current_assets": 9800000.29,
+    "fixed_assets": 1792829.72,
+    "total_liabilities": 7906088.77,
+    "current_liabilities": 3954021.86,
+    "long_term_liabilities": 2401000.0,
+    "shareholders_equity": 5742365.693333333
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "BONER",
+      "first_name": "FRANZ",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "BORELL",
+      "first_name": "TH.",
+      "initials": "TH.",
+      "position": null
+    },
+    {
+      "surname": "GRÖNBERG",
+      "first_name": "G.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": "C.",
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "SIJPESTEIJN",
+      "first_name": "JAN",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": "CARL",
+      "initials": "C.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KAHLM",
+      "first_name": "GUST.",
+      "initials": "G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ERLANDSSON",
+      "first_name": "ERL.",
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.",
+      "initials": "L.",
+      "auditing_firm": "L. T. Bohlins Revisionsbyrå"
+    },
+    {
+      "surname": "LINDEGRÉN",
+      "first_name": "CLAES",
+      "initials": "C.",
+      "auditing_firm": null
+    }
+  ]
+}

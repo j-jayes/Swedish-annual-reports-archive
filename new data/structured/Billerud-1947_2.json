@@ -1,0 +1,92 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 96232846.84,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 73498906.61,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 8005335.78
+  },
+  "balance_sheet": {
+    "total_assets": 113062984.11,
+    "current_assets": 57755248.66,
+    "fixed_assets": 55307735.45,
+    "total_liabilities": 40766424.73,
+    "current_liabilities": 17577172.17,
+    "long_term_liabilities": 23189252.56,
+    "shareholders_equity": 72296559.38
+  },
+  "employees": {
+    "n_employees": 4775,
+    "n_blue_collar_workers": 4377,
+    "n_white_collar_workers": 398
+  },
+  "board": [
+    {
+      "surname": "STORJOHANN",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KLAVENESS",
+      "first_name": null,
+      "initials": "A. F.",
+      "position": null
+    },
+    {
+      "surname": "SMITH",
+      "first_name": null,
+      "initials": "AND.",
+      "position": null
+    },
+    {
+      "surname": "KILLANDER",
+      "first_name": null,
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMMARSKJÖLD",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": null,
+      "initials": "Y.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BÖRJESON",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ALMQUIST",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

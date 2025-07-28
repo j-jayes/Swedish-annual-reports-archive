@@ -1,0 +1,56 @@
+{
+  "company_name": "L. M. Ericsson & Co.",
+  "fiscal_year": 1915,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1063584.27,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2337831.37
+  },
+  "balance_sheet": {
+    "total_assets": 29213384.13,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3809433.05,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 19648249.63
+  },
+  "employees": {
+    "n_employees": 1564,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klemming",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hallén",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schultz",
+      "first_name": "Eduard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

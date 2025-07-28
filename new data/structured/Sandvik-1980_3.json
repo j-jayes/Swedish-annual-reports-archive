@@ -1,0 +1,146 @@
+{
+  "company_name": "Sandvik",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 8146.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 286.5,
+    "net_income": 191.1
+  },
+  "balance_sheet": {
+    "total_assets": 631.5,
+    "current_assets": 7323.0,
+    "fixed_assets": 2799.9,
+    "total_liabilities": 3162.8,
+    "current_liabilities": 2645.4,
+    "long_term_liabilities": 773.0,
+    "shareholders_equity": 72.8
+  },
+  "employees": {
+    "n_employees": 33289,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan",
+      "initials": "H.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bahrke",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Kvarfordh",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Docent"
+    },
+    {
+      "surname": "Ollén",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alm",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "Verkmästare"
+    },
+    {
+      "surname": "Björkegren",
+      "first_name": "Carl-Eric",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hedborg",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Kammarrättspresident"
+    },
+    {
+      "surname": "Honkamäki",
+      "first_name": "Eino",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Stenbeck-Silfverstolpe",
+      "first_name": "Elisabeth",
+      "initials": null,
+      "position": "Civilekonom"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Schiller",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "Jur. kand."
+    }
+  ],
+  "additional_notes": null
+}

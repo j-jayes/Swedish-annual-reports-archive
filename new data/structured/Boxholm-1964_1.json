@@ -1,0 +1,74 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 12353849.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5123886.0,
+    "net_income": 1554443.0
+  },
+  "balance_sheet": {
+    "total_assets": 55861141.0,
+    "current_assets": 9474191.0,
+    "fixed_assets": 10152865.0,
+    "total_liabilities": 38461141.0,
+    "current_liabilities": 7817981.0,
+    "long_term_liabilities": 8590889.0,
+    "shareholders_equity": 18400000.0
+  },
+  "employees": {
+    "n_employees": 1309,
+    "n_blue_collar_workers": 1170,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "S.",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiking-Johnsson",
+      "first_name": "Uno",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

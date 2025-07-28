@@ -1,0 +1,80 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Ratos",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 2851021.62,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2267311.46
+  },
+  "balance_sheet": {
+    "total_assets": 38582466.55,
+    "current_assets": null,
+    "fixed_assets": 21575000.0,
+    "total_liabilities": null,
+    "current_liabilities": 13644728.74,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20000000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "T.",
+      "initials": "O.",
+      "position": null
+    },
+    {
+      "surname": "GEER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDBLAD",
+      "first_name": "LARS",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LÖNN",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

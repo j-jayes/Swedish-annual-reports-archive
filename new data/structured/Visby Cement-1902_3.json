@@ -1,0 +1,58 @@
+{
+  "company_name": "AKTIEBOLAGET VISBY CEMENTFABRIK",
+  "fiscal_year": 1902,
+  "income_statement": {
+    "revenue": 157274.14,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 1372265.79,
+    "current_assets": null,
+    "fixed_assets": 946244.86,
+    "total_liabilities": null,
+    "current_liabilities": 44634.49,
+    "long_term_liabilities": null,
+    "shareholders_equity": 430000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "LILJEDAHL",
+      "first_name": null,
+      "initials": "AUG.",
+      "position": "Godsegaren"
+    },
+    {
+      "surname": "BERGMAN",
+      "first_name": "GUSTAF",
+      "initials": "F. A.",
+      "position": null
+    },
+    {
+      "surname": "BERGMAN",
+      "first_name": "ABEL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Een",
+      "first_name": null,
+      "initials": "C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Melin",
+      "first_name": null,
+      "initials": "C. M.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

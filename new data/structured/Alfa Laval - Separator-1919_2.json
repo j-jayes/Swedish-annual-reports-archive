@@ -1,0 +1,82 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1919,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 114505.5,
+    "net_income": 11699040.55
+  },
+  "balance_sheet": {
+    "total_assets": 112433105.95,
+    "current_assets": null,
+    "fixed_assets": 7347588.51,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 87571546.2
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "JANSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TRYGGER",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THIEL",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WASTFELT",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "ERIK AUG.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERNSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HIRSCH",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LAMM",
+      "first_name": "CARL ROBERT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 675.871,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 385.273,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 31.232,
+    "net_income": 625.441
+  },
+  "balance_sheet": {
+    "total_assets": 4251.139,
+    "current_assets": 870.566,
+    "fixed_assets": 3380.573,
+    "total_liabilities": 1284.363,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1973.475
+  },
+  "employees": {
+    "n_employees": 120,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Holmström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Senneby",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Ulfsparre",
+      "first_name": "Karin",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Öhman",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Ando",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Leksell",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ericson",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Schumacher",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Blix",
+      "first_name": "Clas",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

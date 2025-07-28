@@ -1,0 +1,86 @@
+{
+  "company_name": "HOLMENS BRUK",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 49.254,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 28.565,
+    "net_income": 8.3
+  },
+  "balance_sheet": {
+    "total_assets": 480.239,
+    "current_assets": 188.504,
+    "fixed_assets": 290.047,
+    "total_liabilities": 318.749,
+    "current_liabilities": 99.354,
+    "long_term_liabilities": 121.208,
+    "shareholders_equity": 161.49
+  },
+  "employees": {
+    "n_employees": 4501,
+    "n_blue_collar_workers": 3017,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLM",
+      "first_name": "TRYGGVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDBLAD",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "GABRIELSON",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KARK",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "ÖIAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "SVENSKA LLOYD",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 128.104,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 118.638,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 7.803,
+    "net_income": 0.22
+  },
+  "balance_sheet": {
+    "total_assets": 141.017,
+    "current_assets": 26.568,
+    "fixed_assets": 114.449,
+    "total_liabilities": 111.74,
+    "current_liabilities": 34.371,
+    "long_term_liabilities": 77.369,
+    "shareholders_equity": 29.277
+  },
+  "employees": {
+    "n_employees": 704,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wiberg",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Andersén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Granberg",
+      "first_name": "N. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Christoffersen",
+      "first_name": "Torgeir",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Orvar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Håkansson",
+      "first_name": "Edvin",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

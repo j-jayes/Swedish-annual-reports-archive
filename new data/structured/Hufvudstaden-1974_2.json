@@ -1,0 +1,80 @@
+{
+  "company_name": "Fastighetsaktiebolaget Hufvudstaden",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 44.992,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 16.907,
+    "wages_expense": null,
+    "tax_expense": 15.0,
+    "depreciation": 5.485,
+    "net_income": 41.647
+  },
+  "balance_sheet": {
+    "total_assets": null,
+    "current_assets": 48.379,
+    "fixed_assets": 256.383,
+    "total_liabilities": null,
+    "current_liabilities": 16.312,
+    "long_term_liabilities": 126.803,
+    "shareholders_equity": 144.517
+  },
+  "employees": {
+    "n_employees": 71,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BERGQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BOHMAN",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RYDÉ",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHMIDT",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLIESTRÖM-TJUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "AUKTORISERADE REVISORN"
+    },
+    {
+      "surname": "LINDHOLM",
+      "first_name": "STIG",
+      "initials": "HJ:SON",
+      "auditing_firm": "DIREKTÖR"
+    }
+  ],
+  "additional_notes": null
+}

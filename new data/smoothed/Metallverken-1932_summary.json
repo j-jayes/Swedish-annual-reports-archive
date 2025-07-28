@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSKA METALLVERKEN",
+  "fiscal_year": 1932,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 21209491.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 279436.95,
+    "net_income": -782414.86
+  },
+  "balance_sheet": {
+    "total_assets": 39679878.28,
+    "current_assets": null,
+    "fixed_assets": 9939000.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 21600773.386666667
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "RICHARD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "LARS",
+      "initials": "UNO",
+      "position": null
+    },
+    {
+      "surname": "DAHLBERG",
+      "first_name": null,
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "FALK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FALLENIUS",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LYSHOLM",
+      "first_name": "MAURITZ",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

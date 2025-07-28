@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET EXPORT-INVEST",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 7474206.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 565139.0,
+    "depreciation": null,
+    "net_income": 5231618.0
+  },
+  "balance_sheet": {
+    "total_assets": 87587181.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 5231618.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 82325000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Westin",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergkvist",
+      "first_name": "Elov",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

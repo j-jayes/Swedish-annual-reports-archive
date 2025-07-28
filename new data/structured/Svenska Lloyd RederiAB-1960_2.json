@@ -1,0 +1,86 @@
+{
+  "company_name": "REDEAKTIEBOLAGET SVENSKA LLOYD",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 101.566,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.535,
+    "depreciation": null,
+    "net_income": 1.487
+  },
+  "balance_sheet": {
+    "total_assets": 54.17,
+    "current_assets": 12.791,
+    "fixed_assets": 41.379,
+    "total_liabilities": 25.256,
+    "current_liabilities": 14.258,
+    "long_term_liabilities": 9.331,
+    "shareholders_equity": 28.918
+  },
+  "employees": {
+    "n_employees": 1043,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LUNDBERG",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PETTERSON",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CHRISTOFFERSEN",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOOGLAND",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "ROHLIN",
+      "first_name": "Sven-Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BLIDBERG",
+      "first_name": "Carl Åke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

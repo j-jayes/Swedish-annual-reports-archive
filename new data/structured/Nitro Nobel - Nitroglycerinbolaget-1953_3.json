@@ -1,0 +1,74 @@
+{
+  "company_name": "NITROGLYCERIN AKTIEBOLAGET",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 4827676.98,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1414057.0,
+    "depreciation": 724325.34,
+    "net_income": 1247316.41
+  },
+  "balance_sheet": {
+    "total_assets": 26239740.24,
+    "current_assets": 8403876.21,
+    "fixed_assets": 10772484.61,
+    "total_liabilities": 14476021.1,
+    "current_liabilities": 4922858.0,
+    "long_term_liabilities": 4922858.0,
+    "shareholders_equity": 11763719.14
+  },
+  "employees": {
+    "n_employees": 526,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nordenson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten Sison",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Medeltalet anställda arbetare var under året 526. Antalet övriga an- ställda, ingenjörer, tjänstemän, verkmästare och förmän, utgjorde 144."
+}

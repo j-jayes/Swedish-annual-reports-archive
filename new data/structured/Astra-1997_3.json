@@ -1,0 +1,116 @@
+{
+  "company_name": "Astra",
+  "fiscal_year": 1997,
+  "income_statement": {
+    "revenue": 44904.0,
+    "cost_of_goods_sold": 7316.0,
+    "operating_expenses": 31360.0,
+    "wages_expense": null,
+    "tax_expense": 4107.0,
+    "depreciation": null,
+    "net_income": 10201.0
+  },
+  "balance_sheet": {
+    "total_assets": 62280.0,
+    "current_assets": 37293.0,
+    "fixed_assets": 24987.0,
+    "total_liabilities": 16265.0,
+    "current_liabilities": 9652.0,
+    "long_term_liabilities": 313.0,
+    "shareholders_equity": 46015.0
+  },
+  "employees": {
+    "n_employees": 22206,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BERGGREN",
+      "first_name": "BO",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BJÖRNSON",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DENNY",
+      "first_name": "JAMES M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAULKNER",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "TONY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOGREN",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": "Verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "MÖLLER",
+      "first_name": "ERNA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RAMQVIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RINGQVIST",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNELL",
+      "first_name": "LARS H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Deloitte & Touche"
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "SVANTE",
+      "initials": null,
+      "auditing_firm": "Deloitte & Touche"
+    }
+  ],
+  "additional_notes": null
+}

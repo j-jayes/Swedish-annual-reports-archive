@@ -1,0 +1,134 @@
+{
+  "company_name": "SKARABORGSBANKEN",
+  "fiscal_year": 1984,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 233.163,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9.524,
+    "depreciation": null,
+    "net_income": 11.195
+  },
+  "balance_sheet": {
+    "total_assets": 1683.1298666666667,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1527.996226,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 129.906
+  },
+  "employees": {
+    "n_employees": 461,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "styrelsens ordförande"
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Ulfenborg",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Davidsson",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "kommunalråd"
+    },
+    {
+      "surname": "Källberg",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "styrelseordf"
+    },
+    {
+      "surname": "von Sydow",
+      "first_name": "Marie-Christine",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "förvaltare"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "bankkamrer"
+    },
+    {
+      "surname": "Dahl",
+      "first_name": "Rigmor",
+      "initials": null,
+      "position": "bankkamrer"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Waller",
+      "first_name": "Edward",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    },
+    {
+      "surname": "Demitz-Helin",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "fd landstingsdirektör"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "riksdagsman"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "avdelningsdirektör"
+    }
+  ]
+}

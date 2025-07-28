@@ -1,0 +1,128 @@
+{
+  "company_name": "Försäkringsaktiebolaget Atlantica",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 45.108215,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2.658583,
+    "wages_expense": null,
+    "tax_expense": 582.817,
+    "depreciation": null,
+    "net_income": 523.232
+  },
+  "balance_sheet": {
+    "total_assets": 56.995924,
+    "current_assets": null,
+    "fixed_assets": 600000.0,
+    "total_liabilities": 41.802064,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 15193149.0
+  },
+  "employees": {
+    "n_employees": 34,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thorburn",
+      "first_name": "B.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "E. W.",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lydén",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sandén",
+      "first_name": "David",
+      "initials": null,
+      "position": "vald av bolagets försäkringstagare"
+    },
+    {
+      "surname": "Sundqvist",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "förordnad av Kungl. Majit"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Friberger",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Fallenius",
+      "first_name": null,
+      "initials": "C.-A.",
+      "position": "suppleant"
+    },
+    {
+      "surname": "Kihlbom",
+      "first_name": "Niklas",
+      "initials": null,
+      "position": "om, verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eneroth",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Jonasson",
+      "first_name": "Evert",
+      "initials": null,
+      "auditing_firm": "av Kungl. Försäkringsinspektionen förordnad revisor"
+    }
+  ],
+  "additional_notes": null
+}

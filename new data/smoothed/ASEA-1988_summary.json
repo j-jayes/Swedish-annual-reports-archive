@@ -1,0 +1,110 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1988,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 112372.0,
+    "cost_of_goods_sold": 103464.0,
+    "operating_expenses": 103464.0,
+    "wages_expense": null,
+    "tax_expense": 566.0,
+    "depreciation": 3272.0,
+    "net_income": 1580.0
+  },
+  "balance_sheet": {
+    "total_assets": 118803.66666666667,
+    "current_assets": 89699.0,
+    "fixed_assets": 31510.0,
+    "total_liabilities": 15812.5,
+    "current_liabilities": 56224.0,
+    "long_term_liabilities": 19831.0,
+    "shareholders_equity": 12750.0
+  },
+  "employees": {
+    "n_employees": 173918,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ehrnrooth",
+      "first_name": "Casimir",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norgren",
+      "first_name": "Christian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högfelt",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

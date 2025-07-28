@@ -1,0 +1,98 @@
+{
+  "company_name": "INCENTIVE Verksamheten",
+  "fiscal_year": 1973,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1091.428,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 993.219,
+    "wages_expense": null,
+    "tax_expense": 17.413,
+    "depreciation": 22.2,
+    "net_income": 16.02
+  },
+  "balance_sheet": {
+    "total_assets": 1091.5893333333333,
+    "current_assets": 828.112,
+    "fixed_assets": 256.818,
+    "total_liabilities": 396.78700000000003,
+    "current_liabilities": 369.55100000000004,
+    "long_term_liabilities": 232.942,
+    "shareholders_equity": 148.16566666666668
+  },
+  "employees": {
+    "n_employees": 6934,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMSTRÖM",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NICOLIN",
+      "first_name": "CURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSON",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "LEIJONHUFVUD",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "REGELIUS",
+      "first_name": "KARL",
+      "initials": "E",
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "WIDHAGEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

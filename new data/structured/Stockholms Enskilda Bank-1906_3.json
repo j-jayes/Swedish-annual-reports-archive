@@ -1,0 +1,88 @@
+{
+  "company_name": "Stockholms Handelsbank",
+  "fiscal_year": 1906,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1797915.98
+  },
+  "balance_sheet": {
+    "total_assets": 89973385.4,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 49095785.47,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 15577683.93
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Isberg",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Abramson",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bohman",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fraenckel",
+      "first_name": "Louis",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tor\n",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Versteegh",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wicander",
+      "first_name": null,
+      "initials": "Hj.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Falkman",
+      "first_name": "Ludvig",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tamm",
+      "first_name": null,
+      "initials": "Carl",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Åhrberg",
+      "first_name": null,
+      "initials": "Hj.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

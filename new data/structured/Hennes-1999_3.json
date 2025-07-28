@@ -1,0 +1,110 @@
+{
+  "company_name": "H & M Hennes & Mauritz AB",
+  "fiscal_year": 1999,
+  "income_statement": {
+    "revenue": 32976.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 10155.8,
+    "wages_expense": null,
+    "tax_expense": 1683.2,
+    "depreciation": 457.0,
+    "net_income": 3075.4
+  },
+  "balance_sheet": {
+    "total_assets": 14198.2,
+    "current_assets": 8103.7,
+    "fixed_assets": 2996.3,
+    "total_liabilities": 3904.4,
+    "current_liabilities": 3217.0,
+    "long_term_liabilities": 43.2,
+    "shareholders_equity": 10293.8
+  },
+  "employees": {
+    "n_employees": 17652,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Rersson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Hofer",
+      "first_name": "Werner",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Brusberg",
+      "first_name": "Birgitta",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Kvart",
+      "first_name": "Sussi",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Norin-Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Arbetstagarsuppleant"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Fabian",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhage",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    }
+  ],
+  "additional_notes": null
+}

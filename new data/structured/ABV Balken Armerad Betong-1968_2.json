@@ -1,0 +1,74 @@
+{
+  "company_name": "Aktiebolaget Armerad Betong",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2332283.46
+  },
+  "balance_sheet": {
+    "total_assets": 63822465.64,
+    "current_assets": 53676850.72,
+    "fixed_assets": 27972203.46,
+    "total_liabilities": 4616104.29,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 13000000.0
+  },
+  "employees": {
+    "n_employees": 3442,
+    "n_blue_collar_workers": 3139,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindencrona",
+      "first_name": "Alvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Askling",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lewenhaupt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kolund",
+      "first_name": "Örjan",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Swart",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

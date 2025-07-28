@@ -1,0 +1,76 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1946,
+  "income_statement": {
+    "revenue": 3029.621,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8.64,
+    "depreciation": 112.255,
+    "net_income": 3081.773
+  },
+  "balance_sheet": {
+    "total_assets": 20692.878,
+    "current_assets": null,
+    "fixed_assets": 2696.26,
+    "total_liabilities": 9340.648,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "PERRY",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORD",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STEN",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": null,
+      "initials": "R. v.",
+      "position": null
+    },
+    {
+      "surname": "HERNOD",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SILLÉN",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "BALKEN",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 2602.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2058.7,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 38.2,
+    "net_income": 11.5
+  },
+  "balance_sheet": {
+    "total_assets": 1362.6,
+    "current_assets": 740.4,
+    "fixed_assets": 300.4,
+    "total_liabilities": 1291.0,
+    "current_liabilities": 521.7,
+    "long_term_liabilities": 283.9,
+    "shareholders_equity": 71.6
+  },
+  "employees": {
+    "n_employees": 11321,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Bankdirektör, ordförande"
+    },
+    {
+      "surname": "Malmström",
+      "first_name": "Bure",
+      "initials": null,
+      "position": "Advokat, vice ordförande"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ohlsson",
+      "first_name": "Carl-Olof",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Direktör, verkställande direktör"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "William",
+      "initials": null,
+      "position": "Direktör, suppleant"
+    },
+    {
+      "surname": "Sjöblom",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Överingenjör, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

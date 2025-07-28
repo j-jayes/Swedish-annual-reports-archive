@@ -1,0 +1,80 @@
+{
+  "company_name": "ALFA-LAVAL",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 39312909.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5313186.0,
+    "net_income": 13629187.0
+  },
+  "balance_sheet": {
+    "total_assets": 144105176.0,
+    "current_assets": 172074577.0,
+    "fixed_assets": 144105176.0,
+    "total_liabilities": 61237154.0,
+    "current_liabilities": 45186720.0,
+    "long_term_liabilities": 58159574.0,
+    "shareholders_equity": 82868022.0
+  },
+  "employees": {
+    "n_employees": 17269,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "DE GEER",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRANFORS",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SVENSSON",
+      "first_name": "BRUNO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "FRISK",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

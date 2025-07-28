@@ -1,0 +1,116 @@
+{
+  "company_name": "Asea",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 52271.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 830.0,
+    "depreciation": null,
+    "net_income": 1045.0
+  },
+  "balance_sheet": {
+    "total_assets": 59040.0,
+    "current_assets": 41382.0,
+    "fixed_assets": 17508.0,
+    "total_liabilities": 39040.0,
+    "current_liabilities": 23993.0,
+    "long_term_liabilities": 7051.0,
+    "shareholders_equity": 9823.0
+  },
+  "employees": {
+    "n_employees": 72868,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Aas",
+      "first_name": "Erich",
+      "initials": null,
+      "position": "adjungerad ledamot"
+    },
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Ehrnrooth",
+      "first_name": "Casimir",
+      "initials": null,
+      "position": "Chefdirektör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Norgren",
+      "first_name": "Christian",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Professor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "Professor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 46.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 0.426,
+    "net_income": 0.41
+  },
+  "balance_sheet": {
+    "total_assets": 35.018,
+    "current_assets": 5.625,
+    "fixed_assets": 13.558,
+    "total_liabilities": null,
+    "current_liabilities": 21.454,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 746,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wettergren",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "vd."
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "v. vd."
+    },
+    {
+      "surname": "Hansbo",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmer",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Koppányi",
+      "first_name": "Lajos",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lorentsen",
+      "first_name": "Mogens",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mattsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zetterberg",
+      "first_name": "\"\"\nke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ölund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Revisionsbyrå AB"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": "SRS",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

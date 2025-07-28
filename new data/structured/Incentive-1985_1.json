@@ -1,0 +1,110 @@
+{
+  "company_name": "Incentive",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 6870.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -6115.2,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 70.8
+  },
+  "balance_sheet": {
+    "total_assets": 5370.3,
+    "current_assets": 3674.7,
+    "fixed_assets": 162.5,
+    "total_liabilities": 2197.3,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 827.7
+  },
+  "employees": {
+    "n_employees": 11230,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Brundin",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "Bengt-Ola",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Aukt.revisor"
+    },
+    {
+      "surname": "Gezelius",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "bankdirektör"
+    }
+  ],
+  "additional_notes": null
+}

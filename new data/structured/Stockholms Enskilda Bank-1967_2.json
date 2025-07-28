@@ -1,0 +1,140 @@
+{
+  "company_name": "STOCKHOLMS ENSKILDA BANK",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 118.774,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 25.0,
+    "depreciation": null,
+    "net_income": 17.79
+  },
+  "balance_sheet": {
+    "total_assets": 4964.289,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 4680.737,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 283.552
+  },
+  "employees": {
+    "n_employees": 731,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Boheman",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnson",
+      "first_name": "Axel Ax:son",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sachs",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier Jr",
+      "first_name": "Albert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordmark",
+      "first_name": "Carl Henrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg Jr",
+      "first_name": "Marc",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Deinoff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten S:son",
+      "initials": "STEN S:SON",
+      "auditing_firm": "Ordförande"
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Stig H:son",
+      "initials": "STIG H:SON",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": null,
+      "initials": "S-H",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per H",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Bankinspektionen utsedd revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "AB PRIPPS BRYGGERIER",
+  "fiscal_year": 1977,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 541388207.5133333,
+    "cost_of_goods_sold": 1104776000.0,
+    "operating_expenses": 476190052.388,
+    "wages_expense": null,
+    "tax_expense": 13012.808,
+    "depreciation": null,
+    "net_income": 5165498.827
+  },
+  "balance_sheet": {
+    "total_assets": 254680680.426,
+    "current_assets": 130841841.711,
+    "fixed_assets": 119362362.243,
+    "total_liabilities": 75866178.05833334,
+    "current_liabilities": 83563830.725,
+    "long_term_liabilities": 107640123.57666667,
+    "shareholders_equity": 28031021.333333332
+  },
+  "employees": {
+    "n_employees": 2989,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindmark",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": "H",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Christian",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Hugo",
+      "initials": "V",
+      "position": null
+    },
+    {
+      "surname": "Berg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "arbetstagarledamot"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Åke",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Derrick",
+      "initials": "M",
+      "position": "arbetstagarledamot"
+    },
+    {
+      "surname": "Elfgren",
+      "first_name": "Bengt",
+      "initials": "E",
+      "position": null
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": "M",
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Marcusson",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

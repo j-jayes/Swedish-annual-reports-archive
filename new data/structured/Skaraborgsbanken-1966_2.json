@@ -1,0 +1,110 @@
+{
+  "company_name": "SKARABORGS ENSKILDA BANK",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 22426657.86,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 13098000.0,
+    "wages_expense": 7586718.47,
+    "tax_expense": 2347000.0,
+    "depreciation": 560456.0,
+    "net_income": 2605220.07
+  },
+  "balance_sheet": {
+    "total_assets": 680223606.38,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 650223606.38,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 30000000.0
+  },
+  "employees": {
+    "n_employees": 320,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "G.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "von Hofsten",
+      "first_name": "E.",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "S.",
+      "initials": null,
+      "position": "agronom"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "W.",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Sundelöf",
+      "first_name": "K.",
+      "initials": null,
+      "position": "köpman"
+    },
+    {
+      "surname": "Wästlund",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "försäkringsdirektör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "bankdirektör, verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "distriktslantmätare"
+    },
+    {
+      "surname": "Walck",
+      "first_name": "K.",
+      "initials": "J.",
+      "auditing_firm": "Av Kungl. Bankinspektionen förordnad revisor."
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "länsassistent"
+    }
+  ],
+  "additional_notes": null
+}

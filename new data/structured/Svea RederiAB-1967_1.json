@@ -1,0 +1,74 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 18412.0,
+    "net_income": 1090.0
+  },
+  "balance_sheet": {
+    "total_assets": 225879.0,
+    "current_assets": 53560.0,
+    "fixed_assets": 172319.0,
+    "total_liabilities": 197096.0,
+    "current_liabilities": 45731.0,
+    "long_term_liabilities": 143652.0,
+    "shareholders_equity": 28783.0
+  },
+  "employees": {
+    "n_employees": 1687,
+    "n_blue_collar_workers": 174,
+    "n_white_collar_workers": 281
+  },
+  "board": [
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gester",
+      "first_name": "Eskil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wettermark",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

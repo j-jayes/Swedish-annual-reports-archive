@@ -1,0 +1,86 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 82690000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7846000.0,
+    "depreciation": null,
+    "net_income": 11747000.0
+  },
+  "balance_sheet": {
+    "total_assets": 555481000.0,
+    "current_assets": 294871000.0,
+    "fixed_assets": 172067000.0,
+    "total_liabilities": 419974000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": 121954000.0,
+    "shareholders_equity": 135500000.0
+  },
+  "employees": {
+    "n_employees": 8743,
+    "n_blue_collar_workers": 5785,
+    "n_white_collar_workers": 2958
+  },
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "Evert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre",
+      "initials": "R:son",
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,100 @@
+{
+  "company_name": "INTECKNINGSBANKEN",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 6316270.25,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2302316.6,
+    "wages_expense": null,
+    "tax_expense": 1611097.1,
+    "depreciation": null,
+    "net_income": 1809635.1
+  },
+  "balance_sheet": {
+    "total_assets": 363022394.14,
+    "current_assets": 16973144.09,
+    "fixed_assets": 346049249.95,
+    "total_liabilities": 355562935.48,
+    "current_liabilities": 34461004.99,
+    "long_term_liabilities": 217318000.0,
+    "shareholders_equity": 7459458.66
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SANDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KÄLLSTRÖM",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BENGTSSON",
+      "first_name": "Y.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDMARK",
+      "first_name": "HENRIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGENIUS",
+      "first_name": "H. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROMS",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDE J:R",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRISELL",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TROILI",
+      "first_name": "E. U.",
+      "initials": "P:SON",
+      "auditing_firm": null
+    },
+    {
+      "surname": "SUNDBERG",
+      "first_name": "HALVAR G. F.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

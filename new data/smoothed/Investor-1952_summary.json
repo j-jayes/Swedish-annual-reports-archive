@@ -1,0 +1,70 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1952,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7897338.08,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4777.0,
+    "depreciation": 510906.75,
+    "net_income": 6655939.48
+  },
+  "balance_sheet": {
+    "total_assets": 70398088.97,
+    "current_assets": 6404688.97,
+    "fixed_assets": 63711700.0,
+    "total_liabilities": 4943592.41,
+    "current_liabilities": 1632688.26,
+    "long_term_liabilities": 666666.6666666666,
+    "shareholders_equity": 65454496.559999995
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STEYERN",
+      "first_name": "NILS",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "LILJENROTH",
+      "first_name": "F.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CALISSENDORFF",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "BERLIN",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "HOLMENS BRUKS OCH FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1945,
+  "income_statement": {
+    "revenue": 70241000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4868171.54,
+    "net_income": 2751631.57
+  },
+  "balance_sheet": {
+    "total_assets": 82245316.05,
+    "current_assets": 38496665.79,
+    "fixed_assets": 43748650.26,
+    "total_liabilities": 44325265.12,
+    "current_liabilities": 20944390.05,
+    "long_term_liabilities": 23380875.07,
+    "shareholders_equity": 37920050.93
+  },
+  "employees": {
+    "n_employees": 3603,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fredholm",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fristedt",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Sydow",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "Ratos",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 3506.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 52.2,
+    "depreciation": null,
+    "net_income": 125.6
+  },
+  "balance_sheet": {
+    "total_assets": 2829.2,
+    "current_assets": 1671.9,
+    "fixed_assets": 1131.2,
+    "total_liabilities": 1814.1,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1015.1
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "S\nO\nD\nE\nR\nB\nE\nR\nG",
+      "first_name": "E\nR\nI\nK",
+      "initials": null,
+      "position": "S\nT\nY\nR\nE\nL\nS\nE\nD\nA\nM\nO\nT\nE\nR"
+    },
+    {
+      "surname": "L\nA\nU\nR\nI\nN",
+      "first_name": "U\nL\nF",
+      "initials": null,
+      "position": "S\nT\nY\nR\nE\nL\nS\nE\nD\nA\nM\nO\nT\nE\nR"
+    },
+    {
+      "surname": "N\nO\nR\nI\nN",
+      "first_name": "H\nA\nR\nR\nY",
+      "initials": null,
+      "position": "S\nT\nY\nR\nE\nL\nS\nE\nD\nA\nM\nO\nT\nE\nR"
+    },
+    {
+      "surname": "S\nO\nD\nE\nR\nB\nE\nR\nG",
+      "first_name": "J\nO\nH\nA\nN",
+      "initials": null,
+      "position": "S\nT\nY\nR\nE\nL\nS\nE\nD\nA\nM\nO\nT\nE\nR"
+    },
+    {
+      "surname": "S\nO\nD\nE\nR\nB\nE\nR\nG",
+      "first_name": "S\nV\nE\nN",
+      "initials": null,
+      "position": "S\nT\nY\nR\nE\nL\nS\nE\nD\nA\nM\nO\nT\nE\nR"
+    },
+    {
+      "surname": "T\nI\nB\nL\nO\nM",
+      "first_name": "K\nA\nR\nL-\nE\nR\nI\nK",
+      "initials": null,
+      "position": "S\nT\nY\nR\nE\nL\nS\nE\nD\nA\nM\nO\nT\nE\nR"
+    },
+    {
+      "surname": "V\nE\nR\nS\nT\nE\nE\nG\nH",
+      "first_name": "A\nR\nE\nN\nD",
+      "initials": null,
+      "position": "S\nT\nY\nR\nE\nL\nS\nE\nD\nA\nM\nO\nT\nE\nR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "F\nR\nI\nD\nM\nA\nN",
+      "first_name": "B\nO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "R\nE\nG\nE\nL\nI\nU\nS",
+      "first_name": "K\nA\nR\nL E\nR\nI\nK",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

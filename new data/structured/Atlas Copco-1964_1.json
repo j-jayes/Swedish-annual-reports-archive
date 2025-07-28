@@ -1,0 +1,80 @@
+{
+  "company_name": "Atlas Copco",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 766000000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 11443267.0,
+    "wages_expense": null,
+    "tax_expense": 13550000.0,
+    "depreciation": 2104776.0,
+    "net_income": 15631851.0
+  },
+  "balance_sheet": {
+    "total_assets": 268508874.0,
+    "current_assets": 59150540.0,
+    "fixed_assets": 35567362.0,
+    "total_liabilities": 39210275.0,
+    "current_liabilities": 39210275.0,
+    "long_term_liabilities": 69499376.0,
+    "shareholders_equity": 149721086.0
+  },
+  "employees": {
+    "n_employees": 597,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "CHAIRMAN"
+    },
+    {
+      "surname": "STEYERN",
+      "first_name": "NILS",
+      "initials": "VON",
+      "position": null
+    },
+    {
+      "surname": "BORLIND",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARC",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSSON",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BELFRAGE",
+      "first_name": "K-A",
+      "initials": null,
+      "position": "MANAGING DIRECTOR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rydbeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

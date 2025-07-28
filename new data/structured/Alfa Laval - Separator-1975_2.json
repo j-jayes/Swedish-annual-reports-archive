@@ -1,0 +1,110 @@
+{
+  "company_name": "Alfa-Laval",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 3541.121,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 89.469,
+    "net_income": 61.887
+  },
+  "balance_sheet": {
+    "total_assets": 3562.466,
+    "current_assets": 2950.489,
+    "fixed_assets": 564.132,
+    "total_liabilities": 2628.98,
+    "current_liabilities": 479.468,
+    "long_term_liabilities": 367.941,
+    "shareholders_equity": 933.486
+  },
+  "employees": {
+    "n_employees": 18008,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engström",
+      "first_name": "\"\"\nAke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Berndt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eliæson",
+      "first_name": "Per-Jonas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Faulkner",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlman",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor/"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

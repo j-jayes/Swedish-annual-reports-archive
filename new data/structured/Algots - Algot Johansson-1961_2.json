@@ -1,0 +1,80 @@
+{
+  "company_name": "ALGOT JOHANSSON AKTIEBOLAG",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 7264675.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 250829.0,
+    "net_income": 3028776.0
+  },
+  "balance_sheet": {
+    "total_assets": 27369435.0,
+    "current_assets": 25704165.0,
+    "fixed_assets": 1665270.0,
+    "total_liabilities": 8983030.0,
+    "current_liabilities": 5909030.0,
+    "long_term_liabilities": 3074000.0,
+    "shareholders_equity": 14586405.0
+  },
+  "employees": {
+    "n_employees": 1437,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Johansson",
+      "first_name": "Algot",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Fredén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Curtman",
+      "first_name": "C. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Elis",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "Lagberg",
+      "first_name": "Karl",
+      "initials": "Y.",
+      "auditing_firm": "Aukt."
+    }
+  ],
+  "additional_notes": null
+}

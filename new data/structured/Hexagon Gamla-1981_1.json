@@ -1,0 +1,134 @@
+{
+  "company_name": "Hexagon",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 1124.2,
+    "cost_of_goods_sold": 689.0,
+    "operating_expenses": null,
+    "wages_expense": 337.0,
+    "tax_expense": 10.0,
+    "depreciation": 28.0,
+    "net_income": 12.0
+  },
+  "balance_sheet": {
+    "total_assets": 802.6,
+    "current_assets": 555.6,
+    "fixed_assets": 216.0,
+    "total_liabilities": 525.6,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 86.1
+  },
+  "employees": {
+    "n_employees": 3128,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Haeggström",
+      "first_name": "Göran",
+      "initials": "G.Z.",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engkvist",
+      "first_name": "Norrberth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lillieh",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ek",
+      "first_name": "Torbjörn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Brink",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Hemmingson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Montelius",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Oscarsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "B.E.",
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

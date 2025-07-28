@@ -1,0 +1,86 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 2594993.09,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1005953.33,
+    "net_income": 528834.39
+  },
+  "balance_sheet": {
+    "total_assets": 22251839.08,
+    "current_assets": null,
+    "fixed_assets": 10414913.1,
+    "total_liabilities": null,
+    "current_liabilities": 3853818.83,
+    "long_term_liabilities": 6001138.93,
+    "shareholders_equity": 10622728.69
+  },
+  "employees": {
+    "n_employees": 705,
+    "n_blue_collar_workers": 574,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Jern",
+      "first_name": "Seth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Setterwall",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunström",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rehnqvist",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jern",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

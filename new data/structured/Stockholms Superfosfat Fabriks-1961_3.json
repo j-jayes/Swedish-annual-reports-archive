@@ -1,0 +1,104 @@
+{
+  "company_name": "Stockholms Superfosfat Fabriks Aktiebolag",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 29506863.62,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4200000.0,
+    "depreciation": 16082393.29,
+    "net_income": 5730638.57
+  },
+  "balance_sheet": {
+    "total_assets": 218896067.41,
+    "current_assets": 45853600.0,
+    "fixed_assets": 106200000.0,
+    "total_liabilities": 129051642.95,
+    "current_liabilities": 20077907.8,
+    "long_term_liabilities": null,
+    "shareholders_equity": 96844424.46
+  },
+  "employees": {
+    "n_employees": 1944,
+    "n_blue_collar_workers": 1459,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Abenius",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Cart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderbäck",
+      "first_name": "Fritiof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

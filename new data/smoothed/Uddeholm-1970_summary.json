@@ -1,0 +1,98 @@
+{
+  "company_name": "Uddeholm",
+  "fiscal_year": 1970,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1291.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1084.9,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 81.5,
+    "net_income": 25.9
+  },
+  "balance_sheet": {
+    "total_assets": 1754.0,
+    "current_assets": 324.6,
+    "fixed_assets": 909.1,
+    "total_liabilities": 724.5,
+    "current_liabilities": 278.7,
+    "long_term_liabilities": 1003.2,
+    "shareholders_equity": 488.1
+  },
+  "employees": {
+    "n_employees": 12353,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WERNER",
+      "first_name": "DONOVAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": null,
+      "initials": "C A",
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLENNOW",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLMAN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDAHL",
+      "first_name": "MAGNUS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "WESTLING",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GEIJER",
+      "first_name": "REINHOLD",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "UPMARK",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "VA HANNER",
+      "first_name": null,
+      "initials": "P",
+      "auditing_firm": "Aukt revisor"
+    }
+  ]
+}

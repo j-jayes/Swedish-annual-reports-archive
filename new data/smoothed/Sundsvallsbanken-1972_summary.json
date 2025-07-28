@@ -1,0 +1,110 @@
+{
+  "company_name": "SUNDSVALLS BANKEN",
+  "fiscal_year": 1972,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 86.414,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 41.739,
+    "wages_expense": null,
+    "tax_expense": 13.6,
+    "depreciation": 19.818,
+    "net_income": 15.0
+  },
+  "balance_sheet": {
+    "total_assets": 2510.114,
+    "current_assets": 1678.215,
+    "fixed_assets": 71.735,
+    "total_liabilities": 1892.858,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 653.139
+  },
+  "employees": {
+    "n_employees": 425,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hannell",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Appeltofft",
+      "first_name": "Olof",
+      "initials": "H",
+      "position": "direktör"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "odont dr"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "A",
+      "initials": "G",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Hellerot",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Högström",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "riksdagsman"
+    },
+    {
+      "surname": "Wikmark",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": "bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    },
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "advokat"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    }
+  ]
+}

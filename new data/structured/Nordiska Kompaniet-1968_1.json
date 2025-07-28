@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Nordiska Kompaniet",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 371.198,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7.36,
+    "depreciation": 5.488,
+    "net_income": 6.901
+  },
+  "balance_sheet": {
+    "total_assets": 306.303,
+    "current_assets": 162.561,
+    "fixed_assets": 143.742,
+    "total_liabilities": 187.069,
+    "current_liabilities": 68.902,
+    "long_term_liabilities": 118.167,
+    "shareholders_equity": 119.234
+  },
+  "employees": {
+    "n_employees": 3466,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Belfrage",
+      "first_name": "Kurt-Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brusewitz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydman",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sachs",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Ordförande/Chairman"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkst. direktör/Managing Director"
+    },
+    {
+      "surname": "Turitz",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Setterwall",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

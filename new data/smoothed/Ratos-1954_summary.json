@@ -1,0 +1,68 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Ratos",
+  "fiscal_year": 1954,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1928266.61,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1750527.49
+  },
+  "balance_sheet": {
+    "total_assets": 32374894.03,
+    "current_assets": 46192.03,
+    "fixed_assets": 15575000.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 22340000.0
+  },
+  "employees": {
+    "n_employees": 5,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": null,
+      "initials": "T.O.",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lönn",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": null,
+      "initials": "L.T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

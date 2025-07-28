@@ -1,0 +1,104 @@
+{
+  "company_name": "Boliden",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 2375.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2247.3,
+    "wages_expense": null,
+    "tax_expense": 56.0,
+    "depreciation": 126.0,
+    "net_income": 38.7
+  },
+  "balance_sheet": {
+    "total_assets": 3042.8,
+    "current_assets": 1356.1,
+    "fixed_assets": 1633.7,
+    "total_liabilities": 1067.4,
+    "current_liabilities": 508.3,
+    "long_term_liabilities": 864.8,
+    "shareholders_equity": 525.8
+  },
+  "employees": {
+    "n_employees": 10360,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Akerman",
+      "first_name": "Alf",
+      "initials": "KL",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Ake",
+      "initials": "K",
+      "position": "direktor"
+    },
+    {
+      "surname": "Brynielsson",
+      "first_name": "Harry",
+      "initials": "A B",
+      "position": "direktör"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Lamarche",
+      "first_name": "Alfred",
+      "initials": "MCJ",
+      "position": "Directeur"
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Folke",
+      "initials": "C",
+      "position": "direktör"
+    },
+    {
+      "surname": "Palm",
+      "first_name": "Ake",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "kontorist"
+    },
+    {
+      "surname": "Vikström",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "chaufför"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Dahl",
+      "first_name": "Olof",
+      "initials": "C",
+      "auditing_firm": "Hagström, Bred-berg & Wendler AB"
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Olof",
+      "initials": "J",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Sillén & Jacobsson AB"
+    }
+  ],
+  "additional_notes": null
+}

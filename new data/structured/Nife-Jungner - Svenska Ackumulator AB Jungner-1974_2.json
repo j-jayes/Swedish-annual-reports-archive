@@ -1,0 +1,98 @@
+{
+  "company_name": "NIFE JUNGNER AB",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 218.425,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 193.037,
+    "wages_expense": null,
+    "tax_expense": 4.064,
+    "depreciation": null,
+    "net_income": 7.64
+  },
+  "balance_sheet": {
+    "total_assets": 270.748,
+    "current_assets": 194.28,
+    "fixed_assets": 72.105,
+    "total_liabilities": 86.906,
+    "current_liabilities": 53.932,
+    "long_term_liabilities": 41.611,
+    "shareholders_equity": 86.906
+  },
+  "employees": {
+    "n_employees": 1974,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "advokat"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "ingenjör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "avsynare"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Örtegren",
+      "first_name": "Tage",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Theorin",
+      "first_name": "Lars-Åke",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1955,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 12479770.479999999,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 60.6,
+    "tax_expense": null,
+    "depreciation": 3588630.3266666667,
+    "net_income": 3224228.7466666666
+  },
+  "balance_sheet": {
+    "total_assets": 55628758.678333335,
+    "current_assets": 3.071,
+    "fixed_assets": 16283793.939666668,
+    "total_liabilities": 45.934,
+    "current_liabilities": 20820197.335,
+    "long_term_liabilities": 22.286,
+    "shareholders_equity": 35889684.61133333
+  },
+  "employees": {
+    "n_employees": 6059,
+    "n_blue_collar_workers": 4337,
+    "n_white_collar_workers": 1682
+  },
+  "board": [
+    {
+      "surname": "EKEBERG",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": "ORDF."
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "V. ORDF."
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "FRITHIOF",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "BJÖRKMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SILLÉN",
+      "first_name": "O.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLÉN",
+      "first_name": "Oskar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BIESÈRT",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

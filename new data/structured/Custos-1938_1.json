@@ -1,0 +1,39 @@
+{
+  "company_name": "Aktiebolaget Custos",
+  "fiscal_year": 1938,
+  "income_statement": {
+    "revenue": 1913113.63,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 21736.27,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1382425.97
+  },
+  "balance_sheet": {
+    "total_assets": 23995511.63,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 12465000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 11530511.63
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "HALLBERG",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

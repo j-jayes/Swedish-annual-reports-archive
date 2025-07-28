@@ -1,0 +1,86 @@
+{
+  "company_name": "Hexagon AB",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 177805000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 154489000.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5672000.0,
+    "net_income": 11820000.0
+  },
+  "balance_sheet": {
+    "total_assets": 152242000.0,
+    "current_assets": 82475000.0,
+    "fixed_assets": 69109000.0,
+    "total_liabilities": null,
+    "current_liabilities": 42850000.0,
+    "long_term_liabilities": 42985000.0,
+    "shareholders_equity": 31058000.0
+  },
+  "employees": {
+    "n_employees": 1440,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Haeggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": null,
+      "initials": "G.",
+      "position": "Talman"
+    },
+    {
+      "surname": "Sjöström",
+      "first_name": "Carl-Eric",
+      "initials": null,
+      "position": "Civilingenjör, verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

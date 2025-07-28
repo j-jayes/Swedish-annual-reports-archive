@@ -1,0 +1,116 @@
+{
+  "company_name": "Boliden",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 5530.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 29.1
+  },
+  "balance_sheet": {
+    "total_assets": 4921.4,
+    "current_assets": 2248.3,
+    "fixed_assets": 2653.0,
+    "total_liabilities": 4195.3,
+    "current_liabilities": 1236.6,
+    "long_term_liabilities": 1102.0,
+    "shareholders_equity": 726.2
+  },
+  "employees": {
+    "n_employees": 9580,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Åkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Brynielsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "af Ugglas",
+      "first_name": "Margaretha",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": "Bruksdisponent, vice ordf"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Bengt-Orvar",
+      "initials": null,
+      "position": "Skyddsingenjör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Bergarbetare"
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Per-Erik",
+      "initials": null,
+      "position": "Processkötare"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Speditör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil E.",
+      "initials": null,
+      "auditing_firm": "Hagströms Revisionsbyrå"
+    },
+    {
+      "surname": "Glenngård",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Näslund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

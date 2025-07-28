@@ -1,0 +1,74 @@
+{
+  "company_name": "KOPPARFORS AKTIEBOLAG",
+  "fiscal_year": 1959,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 22503000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4033000.0
+  },
+  "balance_sheet": {
+    "total_assets": 71310000.0,
+    "current_assets": 37188000.0,
+    "fixed_assets": 66334000.0,
+    "total_liabilities": 29816000.0,
+    "current_liabilities": 27365000.0,
+    "long_term_liabilities": 2451000.0,
+    "shareholders_equity": 60247000.0
+  },
+  "employees": {
+    "n_employees": 2674,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Ax",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgersson",
+      "first_name": "S",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

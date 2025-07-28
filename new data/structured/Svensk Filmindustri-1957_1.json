@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSK FILMINDUSTRI",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 4275954.43,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 405196.12,
+    "net_income": 848240.95
+  },
+  "balance_sheet": {
+    "total_assets": 23214639.99,
+    "current_assets": 9921303.82,
+    "fixed_assets": 4939296.5,
+    "total_liabilities": 10759393.05,
+    "current_liabilities": 2431021.6,
+    "long_term_liabilities": 8328371.45,
+    "shareholders_equity": 10600012.0
+  },
+  "employees": {
+    "n_employees": 835,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hagberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellstenius",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Juberg",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Anér",
+      "first_name": "Josef",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dymling",
+      "first_name": "Carl",
+      "initials": "A.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Vifot",
+      "first_name": "Malte",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

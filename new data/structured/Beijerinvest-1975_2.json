@@ -1,0 +1,122 @@
+{
+  "company_name": "BEIJERINVEST",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 4228.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4071.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 47.3,
+    "net_income": 114.7
+  },
+  "balance_sheet": {
+    "total_assets": 2761.67,
+    "current_assets": 1732.199,
+    "fixed_assets": 991.297,
+    "total_liabilities": 661.298,
+    "current_liabilities": 965.262,
+    "long_term_liabilities": 343.417,
+    "shareholders_equity": 528.85
+  },
+  "employees": {
+    "n_employees": 11652,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Direktör, styrelseordförande"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Tekn Dr, vice ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "G",
+      "initials": "G",
+      "position": "Generaldirektör"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Risholm",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Walter",
+      "first_name": "James",
+      "initials": "W",
+      "position": "Mr"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "\"\nÅgrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör och koncernchef"
+    },
+    {
+      "surname": "Granlund",
+      "first_name": "Karl-Åke",
+      "initials": null,
+      "position": "Förste förbundsordförande"
+    },
+    {
+      "surname": "Jörgensen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Säve",
+      "first_name": "Carl",
+      "initials": "T",
+      "position": "Civilingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Ivar Nordelöfs Revisionsbyrå"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå"
+    }
+  ],
+  "additional_notes": null
+}

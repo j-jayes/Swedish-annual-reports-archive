@@ -1,0 +1,63 @@
+{
+  "company_name": "ASEA AB",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 588.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -25.2,
+    "wages_expense": null,
+    "tax_expense": -994.0,
+    "depreciation": -0.0,
+    "net_income": 1490.0
+  },
+  "balance_sheet": {
+    "total_assets": 14706.1,
+    "current_assets": 270.8,
+    "fixed_assets": 14435.3,
+    "total_liabilities": 282.2,
+    "current_liabilities": 12767.6,
+    "long_term_liabilities": 62.1,
+    "shareholders_equity": 14423.9
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wedin",
+      "first_name": "Thord",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

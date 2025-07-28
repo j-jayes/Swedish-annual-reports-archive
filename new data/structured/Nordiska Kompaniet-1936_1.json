@@ -1,0 +1,73 @@
+{
+  "company_name": "NORDISKA KOMPANIET",
+  "fiscal_year": 1936,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7126832.23,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 273867.02,
+    "net_income": 1512517.74
+  },
+  "balance_sheet": {
+    "total_assets": 53424906.07,
+    "current_assets": 18528589.13,
+    "fixed_assets": 31994185.92,
+    "total_liabilities": 25925798.65,
+    "current_liabilities": null,
+    "long_term_liabilities": 20825798.65,
+    "shareholders_equity": 27500000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLNER",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERNMARK",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "MAUR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

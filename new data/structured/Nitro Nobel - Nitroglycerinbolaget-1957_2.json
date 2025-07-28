@@ -1,0 +1,80 @@
+{
+  "company_name": "NITROGLYCERIN AKTIEBOLAGET",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 6442947.07,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2001248.0,
+    "depreciation": 1130548.63,
+    "net_income": 1919734.53
+  },
+  "balance_sheet": {
+    "total_assets": 39002394.85,
+    "current_assets": 12691678.76,
+    "fixed_assets": 320468.26,
+    "total_liabilities": 5282654.43,
+    "current_liabilities": 2342749.75,
+    "long_term_liabilities": 7022058.24,
+    "shareholders_equity": 19700000.0
+  },
+  "employees": {
+    "n_employees": 752,
+    "n_blue_collar_workers": 594,
+    "n_white_collar_workers": 158
+  },
+  "board": [
+    {
+      "surname": "Nordenson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Abenius",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten Sison",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

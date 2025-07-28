@@ -1,0 +1,122 @@
+{
+  "company_name": "Telefonaktiebolaget LM Ericsson",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 26.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4.136,
+    "depreciation": null,
+    "net_income": 7.435
+  },
+  "balance_sheet": {
+    "total_assets": 287.376,
+    "current_assets": null,
+    "fixed_assets": 128.408,
+    "total_liabilities": null,
+    "current_liabilities": 62.165,
+    "long_term_liabilities": 76.926,
+    "shareholders_equity": 138.284
+  },
+  "employees": {
+    "n_employees": 7150,
+    "n_blue_collar_workers": 5176,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Borgquist",
+      "first_name": "Waldemar",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "E.",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Helge",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Bankdirektör, v. ordf."
+    },
+    {
+      "surname": "Wicander",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Woxén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Montelius",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Överingenjör"
+    },
+    {
+      "surname": "Rudberg",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Kapten"
+    },
+    {
+      "surname": "Sterner",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Evans",
+      "first_name": "Chas. H.",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    },
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 127.174,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.867,
+    "depreciation": 2.234,
+    "net_income": 2.142
+  },
+  "balance_sheet": {
+    "total_assets": 64.165,
+    "current_assets": 39.572,
+    "fixed_assets": 24.593,
+    "total_liabilities": 44.263,
+    "current_liabilities": 13.968,
+    "long_term_liabilities": 18.289,
+    "shareholders_equity": 19.902
+  },
+  "employees": {
+    "n_employees": 3437,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Tor",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Harrie",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heilborn",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tingsten",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Generaldirektör von"
+    },
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    }
+  ],
+  "additional_notes": null
+}

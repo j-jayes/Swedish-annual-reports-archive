@@ -1,0 +1,92 @@
+{
+  "company_name": "Iggesundskoncernen",
+  "fiscal_year": 1980,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2102.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 595.8,
+    "tax_expense": 17.7,
+    "depreciation": 108.9,
+    "net_income": 15.4
+  },
+  "balance_sheet": {
+    "total_assets": 2762.7,
+    "current_assets": 1260.4,
+    "fixed_assets": 705.4,
+    "total_liabilities": 472.2,
+    "current_liabilities": 495.9,
+    "long_term_liabilities": 33.4,
+    "shareholders_equity": 1078.3
+  },
+  "employees": {
+    "n_employees": 5253,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gustaf",
+      "initials": "C",
+      "position": "Civiljägmästare Greve Gustaf C:son Bonde"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Disponent Lars G Sundblad, verkst.dir."
+    },
+    {
+      "surname": "Brönnhagen",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Lab.chef Sven Brönnhagen"
+    },
+    {
+      "surname": "Frohm",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Elektriker Ivar Frohm"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    }
+  ]
+}

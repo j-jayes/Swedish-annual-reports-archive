@@ -1,0 +1,92 @@
+{
+  "company_name": "AGA Aktiebolag",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 1655.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1442.8,
+    "wages_expense": null,
+    "tax_expense": 48.6,
+    "depreciation": null,
+    "net_income": 31.0
+  },
+  "balance_sheet": {
+    "total_assets": 1833.9,
+    "current_assets": 960.9,
+    "fixed_assets": 833.9,
+    "total_liabilities": 1325.2,
+    "current_liabilities": 490.1,
+    "long_term_liabilities": 508.7,
+    "shareholders_equity": 508.7
+  },
+  "employees": {
+    "n_employees": 12860,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Professor i företagsekonomi, Uppsala Universitet"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Verkställande direktör i AB Bahco"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Vice verkställande direktör i AB Volvo"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkställande direktör i AGA AB"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

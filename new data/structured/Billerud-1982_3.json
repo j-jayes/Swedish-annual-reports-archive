@@ -1,0 +1,110 @@
+{
+  "company_name": "Billerud",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 3971.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 204.0
+  },
+  "balance_sheet": {
+    "total_assets": 5484.047,
+    "current_assets": 1940.669,
+    "fixed_assets": 3543.378,
+    "total_liabilities": 3952.297,
+    "current_liabilities": 1307.02,
+    "long_term_liabilities": 1877.582,
+    "shareholders_equity": 1531.75
+  },
+  "employees": {
+    "n_employees": 8428,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Gyll",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Christoffersson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Engman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "bruksdisponent, VD för Billerud Uddeholm AB"
+    },
+    {
+      "surname": "Kihlberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "direktör, VD för SPP"
+    },
+    {
+      "surname": "Rhenman",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Unghanse",
+      "first_name": "Carl Patric",
+      "initials": null,
+      "position": "direktör, VD för Smedbolaget AB"
+    },
+    {
+      "surname": "Ekbåge",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "sodabrännare"
+    },
+    {
+      "surname": "Envall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "terminalchef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinhold",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

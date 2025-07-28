@@ -1,0 +1,92 @@
+{
+  "company_name": "Esselte",
+  "fiscal_year": 1990,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 16050.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 14709.0,
+    "wages_expense": null,
+    "tax_expense": -21.0,
+    "depreciation": 695.0,
+    "net_income": 617.6666666666666
+  },
+  "balance_sheet": {
+    "total_assets": 12480.0,
+    "current_assets": 7220.0,
+    "fixed_assets": 2378.0,
+    "total_liabilities": 4236.666666666667,
+    "current_liabilities": 3492.0,
+    "long_term_liabilities": 514.6666666666666,
+    "shareholders_equity": 3950.0
+  },
+  "employees": {
+    "n_employees": 17554,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Faulkner",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagerman",
+      "first_name": "Pehr",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Hedström",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundén",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ]
+}

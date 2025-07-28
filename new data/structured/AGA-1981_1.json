@@ -1,0 +1,116 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 5080.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3950.2,
+    "wages_expense": null,
+    "tax_expense": 133.1,
+    "depreciation": 238.4,
+    "net_income": 30.2
+  },
+  "balance_sheet": {
+    "total_assets": 5754.6,
+    "current_assets": 2624.7,
+    "fixed_assets": 3120.2,
+    "total_liabilities": 1814.6,
+    "current_liabilities": 1710.5,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1122.7
+  },
+  "employees": {
+    "n_employees": 14365,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": "Verkställande direktör i Allmänna Pensionsfonden"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Verkställande direktör i Wilh. Sonesson AB"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": "Tjänsteman, arbetstagarrepresentant"
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Verkställande direktör i AGA AB"
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Verkställande direktör i Svenska Handelsbanken"
+    },
+    {
+      "surname": "Jarebo",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "position": "Arbetsledare, arbetstagarrepresentant"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Lars G",
+      "initials": null,
+      "position": "Lagerarbetare, arbetstagarrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": "REVEKO AB"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "SILLÉN & JACOBSSON AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1991,
+  "income_statement": {
+    "revenue": 12728.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 10538.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 936.0,
+    "net_income": 966.0
+  },
+  "balance_sheet": {
+    "total_assets": 17984.0,
+    "current_assets": 6418.0,
+    "fixed_assets": 10182.0,
+    "total_liabilities": 4430.0,
+    "current_liabilities": 6285.0,
+    "long_term_liabilities": 204.0,
+    "shareholders_equity": 6986.0
+  },
+  "employees": {
+    "n_employees": 14579,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ägrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Feinsilber",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Koncernchef och VD"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martin-Löf",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Staaff",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pålsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Elvang",
+      "first_name": "Katja",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

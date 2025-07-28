@@ -1,0 +1,80 @@
+{
+  "company_name": "Nitroglycerin Aktiebolaget",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 54.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2.692
+  },
+  "balance_sheet": {
+    "total_assets": 47.831,
+    "current_assets": 22.353,
+    "fixed_assets": 24.628,
+    "total_liabilities": 20.406,
+    "current_liabilities": 4.073,
+    "long_term_liabilities": 12.333,
+    "shareholders_equity": 27.425
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 614,
+    "n_white_collar_workers": 168
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Abenius",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

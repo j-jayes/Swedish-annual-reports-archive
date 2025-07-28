@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA DIAMANTBERGBORRNINGS AKTIEBOLAGET",
+  "fiscal_year": 1955,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 8219354.52,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1349371.3333333333,
+    "net_income": 1872862.74
+  },
+  "balance_sheet": {
+    "total_assets": 30587858.36,
+    "current_assets": 22136245.33,
+    "fixed_assets": 8451613.03,
+    "total_liabilities": 14355952.786666667,
+    "current_liabilities": 5938086.65,
+    "long_term_liabilities": 8868396.25,
+    "shareholders_equity": 10160000.0
+  },
+  "employees": {
+    "n_employees": 633,
+    "n_blue_collar_workers": 401,
+    "n_white_collar_workers": 232
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Liljenroth",
+      "first_name": "F.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Matton",
+      "first_name": "Carl",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Wadsted",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Petersson",
+      "first_name": "Sven",
+      "initials": "G.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

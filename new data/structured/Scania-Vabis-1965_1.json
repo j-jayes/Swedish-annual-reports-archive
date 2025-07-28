@@ -1,0 +1,74 @@
+{
+  "company_name": "AB SCANIA-VABIS",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 1246.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1115.461,
+    "wages_expense": null,
+    "tax_expense": 45.4,
+    "depreciation": 23.7,
+    "net_income": 38.6
+  },
+  "balance_sheet": {
+    "total_assets": 996.518,
+    "current_assets": 336.068,
+    "fixed_assets": 275.688,
+    "total_liabilities": 343.418,
+    "current_liabilities": 173.187,
+    "long_term_liabilities": 90.853,
+    "shareholders_equity": 299.79
+  },
+  "employees": {
+    "n_employees": 8561,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "N-F.",
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Godin",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

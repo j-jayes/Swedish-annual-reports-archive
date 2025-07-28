@@ -1,0 +1,82 @@
+{
+  "company_name": "NORDARMATUR",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 93.766,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 90.735,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3.501,
+    "net_income": 462.0
+  },
+  "balance_sheet": {
+    "total_assets": 73.724,
+    "current_assets": 52.867,
+    "fixed_assets": 20.857,
+    "total_liabilities": 24.905,
+    "current_liabilities": 21.553,
+    "long_term_liabilities": 3.352,
+    "shareholders_equity": 48.819
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wijkander",
+      "first_name": "Rutger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Roslund",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

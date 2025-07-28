@@ -1,0 +1,92 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 197.528,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 24.296,
+    "net_income": 9.8
+  },
+  "balance_sheet": {
+    "total_assets": 235.199,
+    "current_assets": 117.688,
+    "fixed_assets": 117.511,
+    "total_liabilities": 97.226,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 137.973
+  },
+  "employees": {
+    "n_employees": 10120,
+    "n_blue_collar_workers": 8660,
+    "n_white_collar_workers": 1460
+  },
+  "board": [
+    {
+      "surname": "Schwartz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindahl",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "Åge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Biesèrt",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Danielsen",
+      "first_name": null,
+      "initials": "O",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Frisell",
+      "first_name": null,
+      "initials": "G.",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

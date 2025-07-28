@@ -1,0 +1,92 @@
+{
+  "company_name": "A.-B. NORDISKA KOMPANIET",
+  "fiscal_year": 1924,
+  "income_statement": {
+    "revenue": 7837489.58,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1581208.08
+  },
+  "balance_sheet": {
+    "total_assets": 50447829.26,
+    "current_assets": null,
+    "fixed_assets": 19334800.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20000000.0
+  },
+  "employees": {
+    "n_employees": 1833,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "PEGELOW",
+      "first_name": null,
+      "initials": "F. W. H.",
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLNER",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THIEL",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WENNBERG",
+      "first_name": null,
+      "initials": "A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "MAY",
+      "first_name": null,
+      "initials": "J.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "REGNSTRAND",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SANDEBERG",
+      "first_name": null,
+      "initials": "F.",
+      "auditing_firm": "AV"
+    }
+  ],
+  "additional_notes": null
+}

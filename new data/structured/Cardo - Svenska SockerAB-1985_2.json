@@ -1,0 +1,98 @@
+{
+  "company_name": "Cardokoncernen",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 3318.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 170.424,
+    "depreciation": null,
+    "net_income": 401.875
+  },
+  "balance_sheet": {
+    "total_assets": 6465.248,
+    "current_assets": 3193.733,
+    "fixed_assets": 3193.733,
+    "total_liabilities": 3193.733,
+    "current_liabilities": 833.936,
+    "long_term_liabilities": 441.553,
+    "shareholders_equity": 1845.93
+  },
+  "employees": {
+    "n_employees": 4550,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Borelius",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Lindblad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lars-Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Porat",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Styrelseledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Månsson",
+      "first_name": "Nils",
+      "initials": "A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hultén",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

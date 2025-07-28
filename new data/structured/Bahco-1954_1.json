@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET ВАНСО",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 7384817.67,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 384815.0,
+    "depreciation": null,
+    "net_income": 1115438.6
+  },
+  "balance_sheet": {
+    "total_assets": 56046103.6,
+    "current_assets": 39520700.76,
+    "fixed_assets": 16525402.84,
+    "total_liabilities": 38606881.13,
+    "current_liabilities": 25786414.34,
+    "long_term_liabilities": 6835481.29,
+    "shareholders_equity": 17439222.47
+  },
+  "employees": {
+    "n_employees": 2254,
+    "n_blue_collar_workers": 1429,
+    "n_white_collar_workers": 764
+  },
+  "board": [
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Assarsson",
+      "first_name": null,
+      "initials": "V.",
+      "position": null
+    },
+    {
+      "surname": "Uggla",
+      "first_name": null,
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Hjorth",
+      "first_name": "Arnold",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

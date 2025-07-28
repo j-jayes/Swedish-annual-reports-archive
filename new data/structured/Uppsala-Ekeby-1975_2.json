@@ -1,0 +1,86 @@
+{
+  "company_name": "Upsala-Ekeby AB",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 141.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 129.377,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4.326,
+    "net_income": 4.268
+  },
+  "balance_sheet": {
+    "total_assets": 178.508,
+    "current_assets": 139.034,
+    "fixed_assets": 36.413,
+    "total_liabilities": 48.804,
+    "current_liabilities": 33.835,
+    "long_term_liabilities": 15.918,
+    "shareholders_equity": 39.596
+  },
+  "employees": {
+    "n_employees": 1404,
+    "n_blue_collar_workers": 1082,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Sunne",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wetter",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Götdahl",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skoog",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Synnerdahl",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammerlund",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Witt",
+      "first_name": "Carl Henrik",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

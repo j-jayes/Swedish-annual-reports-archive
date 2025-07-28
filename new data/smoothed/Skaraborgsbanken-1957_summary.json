@@ -1,0 +1,116 @@
+{
+  "company_name": "Skaraborgs Enskilda Bank",
+  "fiscal_year": 1957,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7443913.32,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 2962168.25,
+    "tax_expense": null,
+    "depreciation": 584538.7,
+    "net_income": 774780.04
+  },
+  "balance_sheet": {
+    "total_assets": 304837078.53,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 282168169.7233333,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 22668908.80666667
+  },
+  "employees": {
+    "n_employees": 190,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Pontén",
+      "first_name": "S.",
+      "initials": null,
+      "position": "direktör, Skövde, ordförande"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "G.",
+      "initials": "I.",
+      "position": "kapten, Mariedal, Lundsbrunn, vice ordförande"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Å.",
+      "initials": "T.",
+      "position": "bankdirektör, Skövde"
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "C.",
+      "initials": null,
+      "position": "S:son, civilingenjör, Göteborg"
+    },
+    {
+      "surname": "von Hofsten",
+      "first_name": "E.",
+      "initials": null,
+      "position": "landstingsdirektör, Mariestad"
+    },
+    {
+      "surname": "Waller",
+      "first_name": "E.",
+      "initials": null,
+      "position": "agronom, Ryholm, Moholm"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "S.",
+      "initials": null,
+      "position": "agronom, Ryholm, Moholm"
+    },
+    {
+      "surname": "Domö",
+      "first_name": "F.",
+      "initials": null,
+      "position": "f. d. landshövding, Foxerna, Eggby"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "A.",
+      "initials": null,
+      "position": "bankdirektör, Skövde, verkställande direktör"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "W.",
+      "initials": null,
+      "position": "disponent, Lidköping"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Karlgren",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenström",
+      "first_name": "Miles",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Karl",
+      "initials": "L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

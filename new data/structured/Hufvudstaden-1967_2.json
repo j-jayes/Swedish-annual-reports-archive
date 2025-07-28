@@ -1,0 +1,70 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 19953268.19,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 599861.0,
+    "net_income": 4263626.16
+  },
+  "balance_sheet": {
+    "total_assets": 161507998.7,
+    "current_assets": 8194694.08,
+    "fixed_assets": 153313304.62,
+    "total_liabilities": 99986755.18,
+    "current_liabilities": 5005522.94,
+    "long_term_liabilities": 94981232.24,
+    "shareholders_equity": 61521243.52
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGOVIST",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BOHMAN",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHMIDT",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLIESTRÖM-TJUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HJ:SON LINDHOLM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET SVERIGES LITOGRAFISKA TRYCKERIER",
+  "fiscal_year": 1942,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1177236.29,
+    "depreciation": 1855413.5,
+    "net_income": 2789457.55
+  },
+  "balance_sheet": {
+    "total_assets": 68463911.88666667,
+    "current_assets": 31509522.86,
+    "fixed_assets": 36966993.44,
+    "total_liabilities": 36070586.53,
+    "current_liabilities": 6248255.89,
+    "long_term_liabilities": 27222330.64,
+    "shareholders_equity": 40953528.843333334
+  },
+  "employees": {
+    "n_employees": 6141,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "CARLESON",
+      "first_name": "CONRAD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGRELIUS",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BENDZ",
+      "first_name": "TORE",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "JOCHNICK",
+      "first_name": "ADOLF",
+      "initials": "AF",
+      "position": null
+    },
+    {
+      "surname": "LILJESTRAND",
+      "first_name": "TRYGVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖSTBERG",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillen",
+      "first_name": null,
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Holmqvist",
+      "first_name": "Gust.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

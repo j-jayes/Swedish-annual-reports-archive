@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 150.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.903,
+    "depreciation": null,
+    "net_income": 1.858
+  },
+  "balance_sheet": {
+    "total_assets": 96.978,
+    "current_assets": 65.397,
+    "fixed_assets": 31.278,
+    "total_liabilities": 19.053,
+    "current_liabilities": 37.973,
+    "long_term_liabilities": 23.475,
+    "shareholders_equity": 19.053
+  },
+  "employees": {
+    "n_employees": 895,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wettergren",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiklund",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odlund",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ölund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": "Godk. revisor"
+    }
+  ],
+  "additional_notes": null
+}

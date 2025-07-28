@@ -1,0 +1,76 @@
+{
+  "company_name": "Svenska Ackumulator Aktiebolaget Jungner",
+  "fiscal_year": 1923,
+  "income_statement": {
+    "revenue": 472565.89,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 13031.65,
+    "depreciation": null,
+    "net_income": 59863.94
+  },
+  "balance_sheet": {
+    "total_assets": 6649734.11,
+    "current_assets": null,
+    "fixed_assets": 1647174.85,
+    "total_liabilities": null,
+    "current_liabilities": 445540.18,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2519400.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Sparre",
+      "first_name": "Lars",
+      "initials": "Lars",
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "C.",
+      "initials": "C. G.",
+      "position": null
+    },
+    {
+      "surname": "Aronowitsch",
+      "first_name": "M.",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Hallin",
+      "first_name": "Wilhelm",
+      "initials": "Wilhelm",
+      "position": null
+    },
+    {
+      "surname": "Ingeström",
+      "first_name": "Bengt",
+      "initials": "Bengt",
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Robert",
+      "initials": "Robert",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wijkström",
+      "first_name": "Gustaf",
+      "initials": "Gustaf L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Forssberg",
+      "first_name": "Erik",
+      "initials": "Erik",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "SANDVIK",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 1338.973,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1095.8,
+    "wages_expense": null,
+    "tax_expense": 20.956,
+    "depreciation": 78.484,
+    "net_income": 41.109
+  },
+  "balance_sheet": {
+    "total_assets": 1698.319,
+    "current_assets": 1132.633,
+    "fixed_assets": 536.562,
+    "total_liabilities": null,
+    "current_liabilities": 536.562,
+    "long_term_liabilities": 489.306,
+    "shareholders_equity": 350.781
+  },
+  "employees": {
+    "n_employees": 16602,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "LINDBLOM",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GULDBERG",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KORAEN",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

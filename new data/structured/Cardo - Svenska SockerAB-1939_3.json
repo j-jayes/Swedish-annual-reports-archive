@@ -1,0 +1,112 @@
+{
+  "company_name": "Svenska Sockerfabriks Aktiebolagets",
+  "fiscal_year": 1940,
+  "income_statement": {
+    "revenue": 122748948.94,
+    "cost_of_goods_sold": 60574406.28,
+    "operating_expenses": 29181744.78,
+    "wages_expense": 16807574.08,
+    "tax_expense": 330000.0,
+    "depreciation": 4302481.0,
+    "net_income": 4668217.04
+  },
+  "balance_sheet": {
+    "total_assets": 143582387.94,
+    "current_assets": 48677872.65,
+    "fixed_assets": 65740492.0,
+    "total_liabilities": 32035965.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 81000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Dahlberg",
+      "first_name": null,
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": null,
+      "initials": "E. C:son",
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": null,
+      "initials": "Hakon",
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": null,
+      "initials": "Joh.",
+      "position": null
+    },
+    {
+      "surname": "Vennersten",
+      "first_name": null,
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Lundblad",
+      "first_name": null,
+      "initials": "N. W.",
+      "position": null
+    },
+    {
+      "surname": "Malmros",
+      "first_name": null,
+      "initials": "Carl Joh.",
+      "position": null
+    },
+    {
+      "surname": "Tranchell",
+      "first_name": null,
+      "initials": "C. F.",
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": null,
+      "initials": "Ivar",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Falkenberg",
+      "first_name": "Melcher",
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ask",
+      "first_name": "Otto",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    },
+    {
+      "surname": "Faxe",
+      "first_name": "G.",
+      "initials": "C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kockum",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Håkan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

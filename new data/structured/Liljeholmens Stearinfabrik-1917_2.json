@@ -1,0 +1,70 @@
+{
+  "company_name": "Liljeholmens Stearinfabriks Aktiebolags",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 942758.06
+  },
+  "balance_sheet": {
+    "total_assets": 6703103.22,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Nordenfalk",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": null,
+      "initials": "H. L. F.",
+      "position": null
+    },
+    {
+      "surname": "Wrede",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergh",
+      "first_name": null,
+      "initials": "Gustaf Fr.",
+      "position": null
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berencreutz",
+      "first_name": null,
+      "initials": "Gust.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sandberg",
+      "first_name": null,
+      "initials": "E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

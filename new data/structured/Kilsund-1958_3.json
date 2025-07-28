@@ -1,0 +1,80 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 25.161,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 134.0,
+    "depreciation": 889.0,
+    "net_income": 357.0
+  },
+  "balance_sheet": {
+    "total_assets": 19.766,
+    "current_assets": 14.767,
+    "fixed_assets": 4.929,
+    "total_liabilities": 6.227,
+    "current_liabilities": 4.927,
+    "long_term_liabilities": 1.3,
+    "shareholders_equity": 10.5
+  },
+  "employees": {
+    "n_employees": 568,
+    "n_blue_collar_workers": 438,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ÖDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDQUIST",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PFANNENSTILL",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HALLIN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ODDESTAD",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Karlgren",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Stenström",
+      "first_name": "Miles",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

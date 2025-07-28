@@ -1,0 +1,82 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 61273652.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2999.0
+  },
+  "balance_sheet": {
+    "total_assets": 52933342.0,
+    "current_assets": null,
+    "fixed_assets": 20997882.0,
+    "total_liabilities": null,
+    "current_liabilities": 5350000.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 14402999.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "UDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BERGENGREN",
+      "first_name": "GORAN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "HALLIN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGNELL",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "LINDQUIST",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF TROLLE",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KARLGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Göteborg"
+    },
+    {
+      "surname": "KRONBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": "Göteborg"
+    }
+  ],
+  "additional_notes": null
+}

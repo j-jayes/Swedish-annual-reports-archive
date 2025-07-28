@@ -1,0 +1,76 @@
+{
+  "company_name": "Förvaltnings AB Ratos",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -100.3,
+    "depreciation": null,
+    "net_income": 126.9
+  },
+  "balance_sheet": {
+    "total_assets": 1774.7,
+    "current_assets": 626.1,
+    "fixed_assets": 1132.2,
+    "total_liabilities": 631.1,
+    "current_liabilities": 253.6,
+    "long_term_liabilities": 335.0,
+    "shareholders_equity": 401.4
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Damgaard-Nielsen",
+      "first_name": "Ole",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Norin",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "konsul"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "ekon dr H. C."
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

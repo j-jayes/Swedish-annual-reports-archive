@@ -1,0 +1,292 @@
+
+
+The empirical analysis begins with a longitudinal design that exploits firm-level data assembled from 1873 to 1980. Each firm enters the panel in years where sufficient financial information and board composition records exist, forming an unbalanced panel that covers varying intervals for different companies, where coverage is shown in . This approach allows for the exploration of how changes within each firm — such as the arrival of a U.S.-experienced engineer on the board - correlate with shifts in its performance indicators. 
+
+The preferred measure of firm performance is revenue per employee, computed by dividing total revenue by employee headcount. This indicator approximates labor productivity and highlights whether board-level expertise - particularly engineering plus American experience - translates into efficiency gains. To allow for the possibility that new appointments effects employment policies, a second model regresses overall employment on same explanatory terms. Comparing the two outcomes helps distinguish whether foreign-trained engineers primarily spur labor productivity improvements or also drive workforce expansion.
+
+The key explanatory variables focus on the presence and proportion of directors with specialized backgrounds. One specification includes a binary indicator that equals one if any board member meets two criteria: holding an engineering education and having worked in the United States. A complementary specification substitutes this binary measure with a continuous one, reflecting the share of board members who fit the same criteria. To address the sub-question about contrasting the effects of business- or finance-trained directors, further terms partition board composition into two dimensions: first, whether a director has an engineering or business/finance background, and second, whether that individual has foreign experience in the United States. In practice, this is done by interacting the director’s training (engineer vs. business/finance) with the U.S.-experience indicator, allowing the regression coefficients to capture how these backgrounds combine in shaping performance.
+
+By including firm fixed effects, the regression specifications control for any unobserved, time-invariant characteristics of individual companies, such as historical reputations, founding conditions, or long-standing ownership structures. Time dummies, capturing broad economic cycles and periods of expansion or downturn, help further isolate the relationship between board composition and performance from macroeconomic influences. The model incorporates basic controls—such as firm size (log of total assets), firm age (determined by the first annual report), and sector dummies tied to the classification in @tbl-industry-distribution.
+
+Changes in board composition might not yield immediate effects on productivity. Accordingly, the main specification is adjusted include lagged board-composition variables to capture the delayed impact of new directors on performance. In addition, as noted above, I make use of time fixed effects to account for potential reverse causality; that better-performing firms might attract sought-after U.S.-experienced engineers.
+
+The panel regression specification is:
+
+$$
+\text{Let } i \text{ index firms and } t \text{ index years.}
+$$
+
+The preferred empirical specification for the panel analysis of revenue per employee can be written as:
+
+$$
+\text{RevenuePerEmployee}_{i,t} = \alpha + \beta_1 (\text{ShareUSExpEngineers})_{i,t} + \beta_2 (\text{Controls})_{i,t} + \gamma_i + \delta_t + \varepsilon_{i,t}
+$$
+
+\
+\
+
+In this specification, $\text{RevenuePerEmployee}_{i,t}$ is the primary outcome variable, measuring the firm’s total sales divided by its number of employees. The explanatory term $(\text{ShareUSExpEngineers})_{i,t}$ is the proportion of board members in firm $i$ and year $t$ who combine an engineering background with documented work experience in the United States. This variable may capture how technology-focused expertise, supplemented by exposure to American industrial or managerial practices, shapes productivity outcomes.
+
+The vector $(\text{Controls})_{i,t}$ includes relevant firm-level characteristics, such as logarithm of total assets, firm age, and sector indicators drawn from @tbl-industry-distribution. Including these controls accounts for the possibility that older or larger firms, or certain industrial classifications, systematically differ in how effectively they convert workforce inputs into revenue. In addition, macroeconomic or temporal shifts are addressed by $\delta_t$, a year fixed effect that nets out time-specific shocks such as recessions or wartime disruptions. Meanwhile, $\gamma_i$ is a firm fixed effect that absorbs all time-invariant attributes of each company, such as founding conditions, enduring ownership patterns, or longstanding reputations.
+
+Finally, $\varepsilon_{i,t}$ is the idiosyncratic error term. Standard errors in such models are typically clustered by firm to allow for heteroskedasticity and serial correlation within each company’s observations. This framework is designed to disentangle how board composition—particularly the presence and share of U.S.-experienced engineers—relates to productivity measures like revenue per employee, while holding constant all other observable and unobservable differences among firms across the historical period under study.
+
+<!-- In terms of robustness, four approaches are used. First, lagged board composition is tested to determine whether productivity effects emerge with a delay. Second, alternative outcomes are considered by substituting total employment or employment growth for revenue per employee. Third, sub-period analyses are conducted by splitting the sample into historical intervals, such as before and after 1930 or post-1945, to check the stability of results. -->
+
+
+
+
+
+
+
+### Company Performance Data
+
+Firm-level financial data form an important component of this study, providing measurable outcomes against which changes in board composition can be assessed. For each firm-year observation, the following variables have been extracted and compiled from historical annual reports:
+
+- Revenue: Total annual sales revenue generated by the company.
+- Net Income (Profit): Reported profit after accounting for all operating expenses, taxes, and depreciation.
+- Employment: Number of employees, which in some cases is further broken down into categories of blue-collar and white-collar workers.
+- Balance Sheet Information: Including total assets, total liabilities, and shareholder equity. From these balance sheet figures, I derive additional key financial indicators:
+    - Return on Assets (ROA): Calculated as net income divided by total assets, reflecting overall firm profitability relative to asset base.
+    - Leverage Ratio: Computed as total liabilities divided by total assets, indicating the extent to which the firm is financed by debt versus equity.
+
+Coverage across these financial dimensions varies slightly due to changes in reporting standards over time and firm-specific practices, with revenue and net income consistently reported across the entire study period. Employment and its composition into blue- and white-collar categories, while valuable, are available for only a subset of firms and years. Similarly, detailed asset and liability breakdowns vary, especially in the early decades of the sample, but stabilize towards the mid-20th century.
+
+These financial data provide robust measures of firm performance and financial health, enabling comprehensive analyses of how shifts in board composition influence economic outcomes at the company level.
+
+
+To know about each director’s educational background, international experience, and broader career trajectory, information was gathered from Swedish biographical dictionaries *Vem är Vem?* and *Vem är Det?*. These references document education (e.g., engineering vs. business), overseas postings or study, and other notable career milestones. I detail the digitization of this data in the third paper of my thesis, and include a summary below.
+
+
+### Data Collection and Digitization
+
+The digitization process involved scraping the scanned archival annual reports from the Stockholm School of Economics Library - which along with drawing on their own archive, collected some reports from the Royal Library and Centrum för Näringslivshistoria to fill coverage gaps. This scraping script is available in the code repository linked above.
+
+A novel digitization process was needed to manage changes in financial reporting and layout over eight decades. Conventional Optical Character Recognition (OCR) methods proved insufficient due to inconsistent table structures, especially when reports extended over multiple pages to detail subsidiaries and international branches. Instead, the project employed Large Language Models (Google's "Gemini" family) capable of interpreting images, allowing for structured data extraction (using a predefined schema) directly from the scanned reports. This approach proved more accurate and consistent than traditional OCR, especially given the varied table structures across decades. Nonetheless, certain complexities remain. Reporting language gradually shifted from Swedish to English for some companies, and the scope of financial disclosure expanded, with some early reports totaling only two pages and later ones exceeding one hundred. Although the main income statement and balance sheet items remained comparable, firm-level coverage of current assets, current liabilities, and subsidiary performance varied from year to year. The data is made accessible in the code repository linked above, as well as in an [interactive dashboard for exploration](https://swedish-annual-reports-archive-explorer.streamlit.app/), detailed in @fig-data-portal.
+
+Despite these technical advances, certain challenges remained. Variations in balance sheet reporting posed difficulties, as some firms presented multi-page breakdowns of assets or liabilities across subsidiaries or international branches, making it difficult to aggregate consistently. Additionally, language changes over time added complexity; reporting language shifted from Swedish to English in the mid-20th century for some companies. This issue was partially addressed by prompting the extraction models to recognize both Swedish and English terms, as evidenced in the reproduced PyDantic data schema in the appendix.
+
+{{< pagebreak >}}
+
+
+::: {#fig-reportsone layout-ncol=2}
+
+![1925](images/report-1.png){#fig-cri-1925}
+
+![1950](images/report-2.png){#fig-cri-1950}
+
+![1975](images/report-3.png){#fig-cri-1975}
+
+Profit and Loss Statements and Balalnce Sheets for Electrolux AB from 1925, 1950, and 1975. Souce: Swedish House of Finance at the Stockholm School of Economics Library Archives.
+
+:::
+
+{{< pagebreak >}}
+
+
+Board composition data were generally easier to extract, given that names and positions typically appeared in a standard location beneath the balance sheet. Individual directors’ surnames, initials, full names, and any listed title (e.g., Verkställande Direktör or Ordförande) were recorded.
+
+To supplement these board lists with directors’ backgrounds, a fuzzy string-matching algorithm was employed to match board members against the *Vem är Vem?* and *Vem är Det?* biographical dictionaries. Approximately 72% of board members were successfully matched using surname and initials; improving upon this match rate — potentially by incorporating mentions of employers or corporate affiliations into the matching routine — remains an area for future work. In the later periods towards 1980, the match rate drops slightly as I am drawing mainly on the *Vem är Det?* biographical dictionaries, which are published later and have less coverage than the *Vem är Vem?* volumes. It would be possible to improve the match rate by expanding the search to other biographical dictionaries such as the SBL, or company archives, but this is beyond the scope of the paper at present.
+
+An example of the biographical data is shown in @fig-vav-1, and the distribution of biographies across volumes and time period is shown in @fig-vav-2.
+
+
+
+### *Vem är Vem?* and *Vem är Det?*
+
+```{r}
+library(tibble)
+library(tidyverse)
+library(gt)
+
+biographical_volumes <- tribble(
+    ~book_id, ~count,
+    "1918", 3257,
+    "1925", 3992,
+    "1933", 4365,
+    "1939", 5007,
+    "1943", 4357,
+    "1945", 6441,
+    "1953", 7955,
+    "1955", 5501,
+    "1957", 7207,
+    "1963", 6312,
+    "1967", 9911,
+    "1969", 9681,
+    "1977", 9094,
+    "1981", 9987,
+    "1985", 9097,
+    "1993", 7566,
+    "1995", 8865,
+    "1997", 8734,
+    "2001", 7932,
+    "gota48", 6877,
+    "gota65", 9122,
+    "norr68", 3654,
+    "skane48", 4296,
+    "skane66", 2767,
+    "sthlm45", 6634,
+    "sthlm62", 10094,
+    "svea64", 6792,
+    "vemindu", 5087
+) %>%
+    mutate(book_edition = case_when(
+        str_detect(
+            # when detecting 4 digits, make it "Vem är det"
+            book_id, "^[0-9]{4}$"
+        ) ~ "Vem är det?",
+        str_detect(book_id, "gota") ~ "Vem är vem i Götaland",
+        str_detect(book_id, "norr") ~ "Vem är vem i Norrland",
+        str_detect(book_id, "skane") ~ "Vem är vem i Skåne",
+        str_detect(book_id, "sthlm") ~ "Vem är vem i Stockholm",
+        str_detect(book_id, "svea") ~ "Vem är vem i Svealand",
+        str_detect(book_id, "vemindu") ~ "Vem är vem inom handel och industri?",
+        TRUE ~ book_id
+    )) %>%
+    mutate(year = case_when(
+        str_detect(book_id, "^[0-9]{4}$") ~ as.numeric(book_id),
+        str_detect(book_id, "gota") ~ as.numeric(str_extract(book_id, "[0-9]{2}")),
+        str_detect(book_id, "norr") ~ as.numeric(str_extract(book_id, "[0-9]{2}")),
+        str_detect(book_id, "skane") ~ as.numeric(str_extract(book_id, "[0-9]{2}")),
+        str_detect(book_id, "sthlm") ~ as.numeric(str_extract(book_id, "[0-9]{2}")),
+        str_detect(book_id, "svea") ~ as.numeric(str_extract(book_id, "[0-9]{2}")),
+        str_detect(book_id, "vemindu") ~ 1945,
+        TRUE ~ NA_real_
+    )) %>%
+    mutate(year = case_when(
+        year < 1900 ~ year + 1900,
+        TRUE ~ year
+    ))
+
+biographical_volumes %>%
+    arrange(year) %>%
+    select(book_edition, year, count) %>%
+    gt() %>%
+    tab_header(
+        title = "Biographical Dictionaries",
+        subtitle = "Vem är Vem? and Vem är Det?"
+    ) %>%
+    cols_label(
+        book_edition = "Book Edition",
+        year = "Year",
+        count = "Number of Biographies"
+    ) %>%
+    fmt_number(
+        columns = vars(count),
+        decimals = 0,
+        use_seps = TRUE
+    ) %>%
+    cols_align(
+        align = "left",
+        columns = vars(book_edition)
+    ) %>%
+    cols_align(
+        align = "center",
+        columns = vars(year)
+    ) %>%
+    cols_align(
+        align = "right",
+        columns = vars(count)
+    )
+```
+
+
+### Descriptive Statistics on Biographies
+
+After digitizing, there are 161,634 different biographies in the *Vem är Vem?* and *Vem är Det?* dictionaries. Some of these entries are for the same individuals in different years, and different editions. As such, after deduplicating based on unique name and birth date combinationss, I am left with 65,773 biographies. 
+
+
+```{r}
+library(tibble)
+
+occupation_data <- tribble(
+    ~Occupation, ~Count, ~Share, ~HISCO_Code, ~HISCO_Description,
+    "Skådespelerska", 740, 6.27, 17320.0, "Actor",
+    "Författarinna", 603, 5.11, 15120.0, "Author",
+    "författare", 392, 3.32, 15120.0, "Author",
+    "Journalist", 373, 3.16, 15915.0, "Journalist",
+    "Tandläkare", 363, 3.07, 6310.0, "Dentist, General",
+    "operasångerska", 333, 2.82, 17145.0, "Singer",
+    "Professor", 316, 2.68, 13100.0, "University and Higher Education Teacher, Subject Unknown",
+    "konstnär", 281, 2.38, 16000.0, "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+    "skådespelare", 273, 2.31, 17320.0, "Actor",
+    "rektor", 197, 1.67, 13940.0, "Head Teacher"
+)
+
+# Create combined tibble with added gender column
+occupation_combined <- bind_rows(
+    # Women's data
+    occupation_data %>% mutate(Gender = "Women"),
+
+    # Men's data
+    tribble(
+        ~Occupation, ~Count, ~Share, ~HISCO_Code, ~HISCO_Description, ~Gender,
+        "Direktör", 17592, 10.90, 21110.0, "General Manager", "Men",
+        "Professor", 10498, 6.50, 13100.0, "University and Higher Education Teacher, Subject Unknown", "Men",
+        "Civilingenjör", 5088, 3.15, 2210.0, "Civil Engineer, General", "Men",
+        "professor emeritus", 3684, 2.28, 13100.0, "University and Higher Education Teacher, Subject Unknown", "Men",
+        "Advokat", 2954, 1.83, 12110.0, "Lawyer", "Men",
+        "konstnär", 2743, 1.70, 16000.0, "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown", "Men",
+        "redaktör", 2708, 1.68, 15920.0, "Editor, Newspapers and Periodicals", "Men",
+        "författare", 2472, 1.53, 15120.0, "Author", "Men",
+        "Överste", 2420, 1.50, 58320.0, "Officer", "Men",
+        "Tandläkare", 2283, 1.41, 6310.0, "Dentist, General", "Men"
+    )
+) %>%
+    mutate(Occupation = str_to_title(Occupation))
+
+# Create GT table
+occupation_combined %>%
+    gt(groupname_col = "Gender") %>%
+    tab_header(
+        title = "Top Occupations in Biographical Dictionaries by Gender",
+        subtitle = "Top 10 most common occupations for women and men"
+    ) %>%
+    cols_label(
+        Occupation = "Occupation (sv)",
+        Count = "Count",
+        Share = "Share (%)",
+        HISCO_Code = "HISCO Code",
+        HISCO_Description = "HISCO Description"
+    ) %>%
+    fmt_number(
+        columns = vars(Count),
+        decimals = 0,
+        use_seps = TRUE
+    ) %>%
+    fmt_number(
+        columns = vars(Share),
+        decimals = 2
+    ) %>%
+    cols_align(
+        align = "left",
+        columns = vars(Occupation, HISCO_Description)
+    ) %>%
+    cols_align(
+        align = "center",
+        columns = vars(HISCO_Code)
+    ) %>%
+    cols_align(
+        align = "right",
+        columns = vars(Count, Share)
+    ) %>%
+    tab_style(
+        style = cell_text(weight = "bold"),
+        locations = cells_row_groups()
+    ) %>%
+    tab_options(
+        row_group.background.color = "#f7f7f7"
+    )
+
+```
+
+
+## Board Composition Matched to Biographies
+
+I collect board members from the company reports for each year that they are reported. This includes surname, name or initials, and position on the board if it is available.
+
+For the 71 firms I have in the sample, I collect the names of 3,256 individual board members, who serve at least two years on the board.
+
+Next I match the board members to the biographies in the *Vem är Vem?* and *Vem är Det?* dictionaries. This is done using a fuzzy string matching algorithm, which matches on the first name and surname, and blocking on the birth date.
+
+I get a match for 2,047 of the board members, or 62.9% of the total, using a threshold of 95 percent confidence.

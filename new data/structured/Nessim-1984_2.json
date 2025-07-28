@@ -1,0 +1,74 @@
+{
+  "company_name": "Nessims",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 90.83,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 86.707,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 0.446,
+    "net_income": 1.042
+  },
+  "balance_sheet": {
+    "total_assets": 72.888,
+    "current_assets": 69.278,
+    "fixed_assets": 2.466,
+    "total_liabilities": 51.196,
+    "current_liabilities": 22.214,
+    "long_term_liabilities": 17.145,
+    "shareholders_equity": 16.167
+  },
+  "employees": {
+    "n_employees": 98,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "KABER",
+      "first_name": "JAAN",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "LANGENSKIÖLD",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMENSTAM-SKYTT",
+      "first_name": "BIRGIT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FINNANDER",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BREHMER",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

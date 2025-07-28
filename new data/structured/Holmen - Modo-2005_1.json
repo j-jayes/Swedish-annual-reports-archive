@@ -1,0 +1,92 @@
+{
+  "company_name": "HOLMEN",
+  "fiscal_year": 2005,
+  "income_statement": {
+    "revenue": 16319.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -13935.0,
+    "wages_expense": null,
+    "tax_expense": -484.0,
+    "depreciation": -1167.0,
+    "net_income": 1256.0
+  },
+  "balance_sheet": {
+    "total_assets": 32183.0,
+    "current_assets": null,
+    "fixed_assets": 14321.0,
+    "total_liabilities": null,
+    "current_liabilities": 3488.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 16079.0
+  },
+  "employees": {
+    "n_employees": 4868,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Fossum",
+      "first_name": "Lilian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammar",
+      "first_name": "Torgny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Björklundh",
+      "first_name": "Steewe",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundahl",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Kenneth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "KPMG Bohlins AB"
+    }
+  ],
+  "additional_notes": null
+}

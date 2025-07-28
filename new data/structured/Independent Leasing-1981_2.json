@@ -1,0 +1,98 @@
+{
+  "company_name": "Independent Leasing AB",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 318.354,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 41.093,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 194.989,
+    "net_income": 16.713
+  },
+  "balance_sheet": {
+    "total_assets": 805.947,
+    "current_assets": 116.428,
+    "fixed_assets": 687.603,
+    "total_liabilities": 498.514,
+    "current_liabilities": 458.093,
+    "long_term_liabilities": 238.53,
+    "shareholders_equity": 76.856
+  },
+  "employees": {
+    "n_employees": 124,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Andrén",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Henry",
+      "first_name": "Sanford",
+      "initials": "G.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Kjellström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Manton",
+      "first_name": "C.",
+      "initials": "H.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Soper",
+      "first_name": "Derek",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Heinsoo",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Olsdal",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Personalrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Elinder",
+      "first_name": "Rickard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

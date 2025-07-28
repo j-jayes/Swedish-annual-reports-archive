@@ -1,0 +1,74 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1959,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5979908.36,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2177300.0,
+    "net_income": 951504.95
+  },
+  "balance_sheet": {
+    "total_assets": 32298316.91,
+    "current_assets": 16275413.576666666,
+    "fixed_assets": 14246873.273333333,
+    "total_liabilities": 12864983.576666666,
+    "current_liabilities": 3576878.533333333,
+    "long_term_liabilities": 7057819.8133333335,
+    "shareholders_equity": 11200000.0
+  },
+  "employees": {
+    "n_employees": 485,
+    "n_blue_collar_workers": 1104,
+    "n_white_collar_workers": 117
+  },
+  "board": [
+    {
+      "surname": "Leffler",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "S.",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Wiking-Johnsson",
+      "first_name": "Uno",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

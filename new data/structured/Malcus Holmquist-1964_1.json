@@ -1,0 +1,86 @@
+{
+  "company_name": "MALCUS HOLMQUIST",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 2855090.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1200000.0,
+    "depreciation": 1061543.0,
+    "net_income": 1114209.0
+  },
+  "balance_sheet": {
+    "total_assets": 37180416.0,
+    "current_assets": 9137162.0,
+    "fixed_assets": 6974349.0,
+    "total_liabilities": 22348416.0,
+    "current_liabilities": 5750377.0,
+    "long_term_liabilities": 10658774.0,
+    "shareholders_equity": 14832000.0
+  },
+  "employees": {
+    "n_employees": 872,
+    "n_blue_collar_workers": 577,
+    "n_white_collar_workers": 295
+  },
+  "board": [
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Boström",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "Svante",
+      "initials": null,
+      "position": "verkst, direktör"
+    },
+    {
+      "surname": "Wahlsteen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rönnberg",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

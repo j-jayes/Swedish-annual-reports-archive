@@ -1,0 +1,104 @@
+{
+  "company_name": "INVESTOR AB",
+  "fiscal_year": 1999,
+  "income_statement": {
+    "revenue": 35303.0,
+    "cost_of_goods_sold": -32510.0,
+    "operating_expenses": -631.0,
+    "wages_expense": null,
+    "tax_expense": -1625.0,
+    "depreciation": null,
+    "net_income": 10820.0
+  },
+  "balance_sheet": {
+    "total_assets": 71140.0,
+    "current_assets": 4046.0,
+    "fixed_assets": 67094.0,
+    "total_liabilities": 23962.0,
+    "current_liabilities": 10251.0,
+    "long_term_liabilities": 12171.0,
+    "shareholders_equity": 47176.0
+  },
+  "employees": {
+    "n_employees": 573,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Executive Vice Chairman"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Executive Vice Chairman"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "President and Chief Executive Officer"
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Sutherland",
+      "first_name": "Peter",
+      "initials": "D.",
+      "position": "Director"
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "Michael",
+      "initials": null,
+      "position": "Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    }
+  ],
+  "additional_notes": null
+}

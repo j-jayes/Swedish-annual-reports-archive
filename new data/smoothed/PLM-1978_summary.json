@@ -1,0 +1,116 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1978,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2121.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1935.0,
+    "wages_expense": null,
+    "tax_expense": 16.0,
+    "depreciation": 105.6,
+    "net_income": 34.3
+  },
+  "balance_sheet": {
+    "total_assets": 1461.4,
+    "current_assets": 815.6,
+    "fixed_assets": 645.3,
+    "total_liabilities": 588.4,
+    "current_liabilities": 443.8,
+    "long_term_liabilities": 588.4,
+    "shareholders_equity": 166.36666666666667
+  },
+  "employees": {
+    "n_employees": 8576,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "VD\nOrdf"
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Direktör, Stockholm\nV ordf"
+    },
+    {
+      "surname": "Backman",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Bankdirektör, Stockholm"
+    },
+    {
+      "surname": "Rydelius",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Bruksdisponent, Gusum"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Verkställande direktör,\nMalmö"
+    },
+    {
+      "surname": "Langebæk",
+      "first_name": null,
+      "initials": "Steen",
+      "position": "Landsretssagtörer,\nDirektör, Stockholm"
+    },
+    {
+      "surname": "Lindeblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Direktör, Göteborg"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer, Stockholm"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer, Stockholm"
+    },
+    {
+      "surname": "Fogelström",
+      "first_name": "Sture",
+      "initials": null,
+      "auditing_firm": "Aukt revisor, Stockholm"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Kjell",
+      "initials": "J.",
+      "auditing_firm": "Aukt revisor, Stockholm"
+    },
+    {
+      "surname": "Schumacher",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Aukt revisor, Stockholm"
+    },
+    {
+      "surname": "Bergenhem",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Civilingenjör, London"
+    },
+    {
+      "surname": "Stormby",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Docent. Malmö"
+    }
+  ]
+}

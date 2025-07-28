@@ -1,0 +1,112 @@
+{
+  "company_name": "Skandinaviska Enskilda Banken",
+  "fiscal_year": 1993,
+  "income_statement": {
+    "revenue": 18435.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7911.0,
+    "wages_expense": 4308.0,
+    "tax_expense": null,
+    "depreciation": 410.0,
+    "net_income": 679.0
+  },
+  "balance_sheet": {
+    "total_assets": null,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G",
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Sahlberg",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blom",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Blix",
+      "first_name": "Clas",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Ohrlings Reveko AB"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Ohrlings Reveko AB"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "KPMG Bohlins AB"
+    }
+  ],
+  "additional_notes": null
+}

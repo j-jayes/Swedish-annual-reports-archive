@@ -1,0 +1,134 @@
+{
+  "company_name": "LM ERICSSON",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 1145.565,
+    "cost_of_goods_sold": 609.861,
+    "operating_expenses": 307.761,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 44.168,
+    "net_income": 61.549
+  },
+  "balance_sheet": {
+    "total_assets": 1931.803,
+    "current_assets": 1378.936,
+    "fixed_assets": 296.602,
+    "total_liabilities": 655.707,
+    "current_liabilities": 391.348,
+    "long_term_liabilities": 421.947,
+    "shareholders_equity": 97.126
+  },
+  "employees": {
+    "n_employees": 75630,
+    "n_blue_collar_workers": 38130,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDVALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "AUGUSTSSON",
+      "first_name": "HENNING",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KVASTAD",
+      "first_name": "STIAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BORG",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEVIN",
+      "first_name": "GUSTAV",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "de Vylder",
+      "first_name": "Klas",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": "Price Waterhouse & Co."
+    },
+    {
+      "surname": "Boyd",
+      "first_name": "John",
+      "initials": "M.",
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

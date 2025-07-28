@@ -1,0 +1,98 @@
+{
+  "company_name": "Sandvik AB",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 17217.0,
+    "cost_of_goods_sold": 15299.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 877.0,
+    "net_income": 1118.0
+  },
+  "balance_sheet": {
+    "total_assets": 24123.0,
+    "current_assets": 15919.0,
+    "fixed_assets": 8201.0,
+    "total_liabilities": 5824.0,
+    "current_liabilities": 5824.0,
+    "long_term_liabilities": 4002.0,
+    "shareholders_equity": 13678.0
+  },
+  "employees": {
+    "n_employees": 28617,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Malmros",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Håkansson",
+      "first_name": "Lars-Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "Boström",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindstedt",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmros",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

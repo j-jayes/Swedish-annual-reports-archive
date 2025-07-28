@@ -1,0 +1,64 @@
+{
+  "company_name": "HOLMENS BRUKS OCH FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 21681229.23,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 569205.33,
+    "depreciation": 4630222.8,
+    "net_income": 4543070.03
+  },
+  "balance_sheet": {
+    "total_assets": 104228339.61,
+    "current_assets": 67812680.3,
+    "fixed_assets": 36415659.31,
+    "total_liabilities": 56055939.14,
+    "current_liabilities": 24864771.07,
+    "long_term_liabilities": 21177101.12,
+    "shareholders_equity": 48172400.47
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "E.",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahren",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

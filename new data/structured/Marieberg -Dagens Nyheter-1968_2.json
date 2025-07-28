@@ -1,0 +1,82 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 357.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 293.0,
+    "wages_expense": null,
+    "tax_expense": 16.0,
+    "depreciation": 17.0,
+    "net_income": 10.0
+  },
+  "balance_sheet": {
+    "total_assets": 219.0,
+    "current_assets": 101.0,
+    "fixed_assets": 115.0,
+    "total_liabilities": 146.0,
+    "current_liabilities": 59.0,
+    "long_term_liabilities": 75.0,
+    "shareholders_equity": 72.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": "jr",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wrigstad",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "\"\n\nke",
+      "initials": "v",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

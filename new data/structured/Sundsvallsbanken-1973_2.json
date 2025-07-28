@@ -1,0 +1,128 @@
+{
+  "company_name": "SUNDSVALLS BANKEN",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 94.12,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 29.82,
+    "net_income": 9.4
+  },
+  "balance_sheet": {
+    "total_assets": 2973.014,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 93.916
+  },
+  "employees": {
+    "n_employees": 509,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hannell",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Appeltofft",
+      "first_name": "Olof",
+      "initials": "H",
+      "position": "direktör"
+    },
+    {
+      "surname": "Järvefelt",
+      "first_name": "Lars",
+      "initials": "E",
+      "position": "disponent"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "odont dr"
+    },
+    {
+      "surname": "Valentin",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": null,
+      "initials": "A",
+      "position": "f bankdirektör"
+    },
+    {
+      "surname": "Hellerot",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Högström",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "riksdagsman"
+    },
+    {
+      "surname": "Wikmark",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Ehn",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkst dir:s ställföreträdare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Advokat"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

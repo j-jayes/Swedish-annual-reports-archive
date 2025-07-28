@@ -1,0 +1,116 @@
+{
+  "company_name": "TRANSATLANTIC",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 3362.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3099.5,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -6.4
+  },
+  "balance_sheet": {
+    "total_assets": 2849.708,
+    "current_assets": 475.59,
+    "fixed_assets": 2280.294,
+    "total_liabilities": 2181.695,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 345.232
+  },
+  "employees": {
+    "n_employees": 1570,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Torkel",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Adler",
+      "first_name": "Dag",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Kaber",
+      "first_name": "Jaan",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Thorell",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "vVD"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Andréasson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Jensen",
+      "first_name": "Liss",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Strandman",
+      "first_name": "Jan-Erik",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ekwall",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gunnarsson",
+      "first_name": "Olle",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 24815034.89,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 16746386.79
+  },
+  "balance_sheet": {
+    "total_assets": 173989848.36,
+    "current_assets": 3401568.5933333333,
+    "fixed_assets": 170588279.76666665,
+    "total_liabilities": 40201846.06666666,
+    "current_liabilities": 4983734.96,
+    "long_term_liabilities": 5000000.0,
+    "shareholders_equity": 103599000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R:SON",
+      "position": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STERNER",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PAHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PAHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STERNER",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "company_name": "SLAGTERI-AKTIEBOLAGET I STOCKHOLM",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": 284088.07,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 10890.69,
+    "wages_expense": 45024.66,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 249240.15
+  },
+  "balance_sheet": {
+    "total_assets": 1399944.25,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1010000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Lundström",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schinkel",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellman",
+      "first_name": "C. H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hirsch",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lagerbjelke",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

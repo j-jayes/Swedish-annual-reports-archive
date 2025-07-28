@@ -1,0 +1,70 @@
+{
+  "company_name": "Investmentaktiebolaget D. Carnegie & Co",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 6183000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 357000.0,
+    "depreciation": null,
+    "net_income": 3513000.0
+  },
+  "balance_sheet": {
+    "total_assets": 64502000.0,
+    "current_assets": 16539000.0,
+    "fixed_assets": 47963000.0,
+    "total_liabilities": 32145000.0,
+    "current_liabilities": 17309000.0,
+    "long_term_liabilities": 7758000.0,
+    "shareholders_equity": 32357000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ekman",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hulterström",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Finnhammar",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

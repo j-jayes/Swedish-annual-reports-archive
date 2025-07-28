@@ -1,0 +1,104 @@
+{
+  "company_name": "SONESSONS",
+  "fiscal_year": 1982,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2387.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -2040.3,
+    "wages_expense": null,
+    "tax_expense": 40.3,
+    "depreciation": 89.0,
+    "net_income": 47.2
+  },
+  "balance_sheet": {
+    "total_assets": 2528.9,
+    "current_assets": 1634.9,
+    "fixed_assets": 889.3,
+    "total_liabilities": 953.3666666666667,
+    "current_liabilities": 910.0,
+    "long_term_liabilities": 816.0,
+    "shareholders_equity": 542.0
+  },
+  "employees": {
+    "n_employees": 6256,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Brink",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Raihle",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Renell",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Verkst. direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Göteborg"
+    },
+    {
+      "surname": "Hansson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Malmö"
+    }
+  ]
+}

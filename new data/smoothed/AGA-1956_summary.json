@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSKA AKTIEBOLAGET GASACCUMULATOR",
+  "fiscal_year": 1956,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 16306431.803333333,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 32370637.0,
+    "tax_expense": 2844928.0,
+    "depreciation": 2258055.69,
+    "net_income": 4948963.36
+  },
+  "balance_sheet": {
+    "total_assets": 125933929.09,
+    "current_assets": 53681990.22,
+    "fixed_assets": 72251938.87,
+    "total_liabilities": 66333929.09,
+    "current_liabilities": 22340506.55,
+    "long_term_liabilities": 34481153.79,
+    "shareholders_equity": 59600000.0
+  },
+  "employees": {
+    "n_employees": 9638,
+    "n_blue_collar_workers": 1516,
+    "n_white_collar_workers": 958
+  },
+  "board": [
+    {
+      "surname": "Heidenstam",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Ernfrid",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Hans",
+      "initials": "Th.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Banck",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Åselius",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Befrits",
+      "first_name": "Ragnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

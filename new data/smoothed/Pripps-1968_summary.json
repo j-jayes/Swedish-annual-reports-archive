@@ -1,0 +1,134 @@
+{
+  "company_name": "Pripp-Bryggerierna Aktiebolag",
+  "fiscal_year": 1969,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 747.748,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 131.751,
+    "tax_expense": 45.26433333333333,
+    "depreciation": 34.84433333333334,
+    "net_income": 23.391
+  },
+  "balance_sheet": {
+    "total_assets": 556.5636666666667,
+    "current_assets": 289.68966666666665,
+    "fixed_assets": 375.94166666666666,
+    "total_liabilities": 290.56066666666663,
+    "current_liabilities": 69.11866666666667,
+    "long_term_liabilities": 144.32433333333333,
+    "shareholders_equity": 275.07433333333336
+  },
+  "employees": {
+    "n_employees": 4468,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Malmquist",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sverdrup",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten S:son",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "\"",
+      "initials": "Åke",
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rohlin",
+      "first_name": "Sven-Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

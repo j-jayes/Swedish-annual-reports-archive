@@ -1,0 +1,64 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET HUFVUDSTADEN",
+  "fiscal_year": 1963,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 14593959.04,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 493736.6666666667,
+    "net_income": 2829572.48
+  },
+  "balance_sheet": {
+    "total_assets": 101385793.55,
+    "current_assets": 3340534.06,
+    "fixed_assets": 98045259.49,
+    "total_liabilities": 71055486.38,
+    "current_liabilities": 4112144.99,
+    "long_term_liabilities": 66943341.39,
+    "shareholders_equity": 30330307.17
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Hellstenius",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ahrén",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bohman",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Å.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Lindholm",
+      "first_name": "Stig",
+      "initials": "Hj:son",
+      "auditing_firm": null
+    }
+  ]
+}

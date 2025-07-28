@@ -1,0 +1,88 @@
+{
+  "company_name": "Aktiebolaget Investor",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 34650.838,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1630.628,
+    "wages_expense": null,
+    "tax_expense": 1214.374,
+    "depreciation": null,
+    "net_income": 42716.641
+  },
+  "balance_sheet": {
+    "total_assets": 289304.29,
+    "current_assets": 15047.29,
+    "fixed_assets": 274257.0,
+    "total_liabilities": 33675.746,
+    "current_liabilities": 9195.746,
+    "long_term_liabilities": 24480.0,
+    "shareholders_equity": 255628.544
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "förordnad av Kungl. Maj:t"
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Essen",
+      "first_name": "Magnus von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "förordnad av Kungl Mai: t"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

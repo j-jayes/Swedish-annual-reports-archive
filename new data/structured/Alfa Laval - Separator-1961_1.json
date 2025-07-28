@@ -1,0 +1,92 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 21488969.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 11297369.0
+  },
+  "balance_sheet": {
+    "total_assets": 289225644.0,
+    "current_assets": null,
+    "fixed_assets": 73562025.0,
+    "total_liabilities": null,
+    "current_liabilities": 46962832.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 138300000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2067,
+    "n_white_collar_workers": 1772
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHL",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": "Auktoriserad revisor"
+    },
+    {
+      "surname": "LINDSTRÖM",
+      "first_name": "O. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOBERG",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "LINDSTRÖM",
+      "first_name": null,
+      "initials": "O. W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "MOBERG",
+      "first_name": "WILHELM",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "BERGVIK OCH ALA",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 33095489.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4491133.0,
+    "depreciation": 10870000.0,
+    "net_income": 6207271.0
+  },
+  "balance_sheet": {
+    "total_assets": 299687380.0,
+    "current_assets": 39502620.0,
+    "fixed_assets": 157444699.0,
+    "total_liabilities": 199469482.0,
+    "current_liabilities": 56931111.0,
+    "long_term_liabilities": 142538371.0,
+    "shareholders_equity": 96717898.0
+  },
+  "employees": {
+    "n_employees": 1673,
+    "n_blue_collar_workers": 1417,
+    "n_white_collar_workers": 256
+  },
+  "board": [
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDBLAD",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Verkställande Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": null,
+      "initials": "D.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "I nettovinsten ingår på bolagets aktier i Ström-Ljusne fallande del av för verksamhetsåret 1966/67 föreslagen utdelning med 1.195 Tkr.\nVarulagret är nedskrivet enligt supplementärregel 1."
+}

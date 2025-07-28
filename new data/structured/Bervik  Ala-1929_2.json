@@ -1,0 +1,70 @@
+{
+  "company_name": "Bergvik och Ala Nya Aktiebolag",
+  "fiscal_year": 1929,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1389638.52,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5585463.85
+  },
+  "balance_sheet": {
+    "total_assets": 55126673.12,
+    "current_assets": null,
+    "fixed_assets": 44859865.88,
+    "total_liabilities": 301937500.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 28125000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Frisk",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmström",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stén",
+      "first_name": "Helmer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dymling",
+      "first_name": "Richard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tham",
+      "first_name": "V.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fjästad",
+      "first_name": "Per",
+      "initials": "O. S.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

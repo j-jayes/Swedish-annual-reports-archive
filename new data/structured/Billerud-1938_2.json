@@ -1,0 +1,82 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1938,
+  "income_statement": {
+    "revenue": 35599343.16,
+    "cost_of_goods_sold": 25869085.74,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4027379.74
+  },
+  "balance_sheet": {
+    "total_assets": 63113965.31,
+    "current_assets": null,
+    "fixed_assets": 37543999.18,
+    "total_liabilities": null,
+    "current_liabilities": 8360752.3,
+    "long_term_liabilities": 37234252.56,
+    "shareholders_equity": 41276749.75
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "STORJOHANN",
+      "first_name": null,
+      "initials": "CHR.",
+      "position": null
+    },
+    {
+      "surname": "SCHMIDT",
+      "first_name": "SIXTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KLAVENESS",
+      "first_name": null,
+      "initials": "A. F.",
+      "position": null
+    },
+    {
+      "surname": "SMITH",
+      "first_name": null,
+      "initials": "AND.",
+      "position": null
+    },
+    {
+      "surname": "KILLANDER",
+      "first_name": null,
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "DYSTER-AAS",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BÖRJESON",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "BARK",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

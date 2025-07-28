@@ -1,0 +1,110 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 32564000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 302000.0,
+    "depreciation": null,
+    "net_income": 63938000.0
+  },
+  "balance_sheet": {
+    "total_assets": 359516000.0,
+    "current_assets": 31892000.0,
+    "fixed_assets": 327624000.0,
+    "total_liabilities": 22662000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 336854000.0
+  },
+  "employees": {
+    "n_employees": 6,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SOHLMAN",
+      "first_name": null,
+      "initials": "S",
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": null,
+      "initials": "G",
+      "position": "Direktör"
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": null,
+      "initials": "S",
+      "position": "Direktör"
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": null,
+      "initials": "F",
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "GYLLENHAMMAR",
+      "first_name": null,
+      "initials": "P",
+      "position": "Direktör"
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": null,
+      "initials": "E",
+      "position": "Direktör"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": null,
+      "initials": "O",
+      "position": "Direktör"
+    },
+    {
+      "surname": "ÖHMAN",
+      "first_name": null,
+      "initials": "A",
+      "position": "Advokat"
+    },
+    {
+      "surname": "GREBÄCK",
+      "first_name": null,
+      "initials": "E",
+      "position": "Agronom"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "Tyra",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Direktör, verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PÅHLGREN",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "SÖRENSEN",
+      "first_name": "Christian",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

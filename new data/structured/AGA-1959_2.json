@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSKA AB GASACCUMULATOR",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 17.543,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4.261,
+    "net_income": 6.089
+  },
+  "balance_sheet": {
+    "total_assets": 94.924,
+    "current_assets": 62.835,
+    "fixed_assets": 32.252,
+    "total_liabilities": 35.895,
+    "current_liabilities": 24.729,
+    "long_term_liabilities": 35.018,
+    "shareholders_equity": 50.6
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 1063
+  },
+  "board": [
+    {
+      "surname": "Browaldh",
+      "first_name": "Ernfrid",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "\nÄselius",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Banck",
+      "first_name": "Percy",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Silfverstolpe",
+      "first_name": "Gudmund",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ehn",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SVENSSON",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HANNER",
+      "first_name": "Per",
+      "initials": "V. A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

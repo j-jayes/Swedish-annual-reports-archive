@@ -1,0 +1,70 @@
+{
+  "company_name": "SVENSKA AMERIKA LINIEN",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 167278365.0,
+    "cost_of_goods_sold": 143450440.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 100000.0,
+    "depreciation": 18358615.0,
+    "net_income": 12258941.0
+  },
+  "balance_sheet": {
+    "total_assets": 120641779.0,
+    "current_assets": 23929880.0,
+    "fixed_assets": 77000000.0,
+    "total_liabilities": 47385059.0,
+    "current_liabilities": 27904503.0,
+    "long_term_liabilities": 19480556.0,
+    "shareholders_equity": 73256720.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "FAGERBERG",
+      "first_name": "J A",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NORDELÖF",
+      "first_name": "IVAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

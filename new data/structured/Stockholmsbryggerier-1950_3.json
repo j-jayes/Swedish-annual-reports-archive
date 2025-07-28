@@ -1,0 +1,100 @@
+{
+  "company_name": "Stockholms Bryggerier",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 24167401.44,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5094240.76
+  },
+  "balance_sheet": {
+    "total_assets": 89099630.75,
+    "current_assets": 17360432.03,
+    "fixed_assets": 70551384.54,
+    "total_liabilities": 61971272.84,
+    "current_liabilities": 4730375.15,
+    "long_term_liabilities": 22397982.76,
+    "shareholders_equity": 27128357.91
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "NORDENSON",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSON",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGSTRÖM",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "S",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STERKY",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERDAHL",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELMFELDT",
+      "first_name": "B",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RYBECK",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TEGNÉR",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WIRSTRÖM",
+      "first_name": "Arthur",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

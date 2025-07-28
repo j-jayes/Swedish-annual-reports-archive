@@ -1,0 +1,80 @@
+{
+  "company_name": "Aktiebolaget Nordiska Armaturfabrikerna",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 5153696.46,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1725000.0,
+    "depreciation": 990686.0,
+    "net_income": 1108074.66
+  },
+  "balance_sheet": {
+    "total_assets": 28670175.27,
+    "current_assets": 11631036.58,
+    "fixed_assets": 9249003.0,
+    "total_liabilities": 8259703.8,
+    "current_liabilities": 8633069.68,
+    "long_term_liabilities": 3857636.12,
+    "shareholders_equity": 10526471.47
+  },
+  "employees": {
+    "n_employees": 915,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "Åge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rothlind",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Berlin",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

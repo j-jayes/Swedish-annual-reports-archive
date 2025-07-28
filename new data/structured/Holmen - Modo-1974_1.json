@@ -1,0 +1,128 @@
+{
+  "company_name": "Mo och Domsjö Aktiebolag",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 1752.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1274.2,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 69.1,
+    "net_income": 62.5
+  },
+  "balance_sheet": {
+    "total_assets": 2076.4,
+    "current_assets": 798.8,
+    "fixed_assets": 1122.0,
+    "total_liabilities": 1106.0,
+    "current_liabilities": 500.3,
+    "long_term_liabilities": 594.6,
+    "shareholders_equity": 459.9
+  },
+  "employees": {
+    "n_employees": 7845,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Peppler",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "suppl"
+    },
+    {
+      "surname": "Andrén",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": "suppl"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "suppl"
+    },
+    {
+      "surname": "Kassman",
+      "first_name": "Ivan",
+      "initials": null,
+      "position": "suppl"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

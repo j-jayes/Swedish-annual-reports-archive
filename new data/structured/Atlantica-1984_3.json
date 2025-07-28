@@ -1,0 +1,128 @@
+{
+  "company_name": "Försäkringsaktiebolaget Atlantica",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 163.537,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2.45
+  },
+  "balance_sheet": {
+    "total_assets": 297.56,
+    "current_assets": null,
+    "fixed_assets": 16.765,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 33.527
+  },
+  "employees": {
+    "n_employees": 71,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LANDQVIST",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "KIHLBOM",
+      "first_name": "NIKLAS",
+      "initials": null,
+      "position": "arbetande vice ordförande"
+    },
+    {
+      "surname": "ESSUNGER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERAMFORS",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SALÉN",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "JAN H",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SYDOW",
+      "first_name": "KRISTIAN VON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MONTGOMERY",
+      "first_name": "JOHN-GABRIEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TIGERSCHIÖLD",
+      "first_name": "DAG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BENGTSSON",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Ombudsman"
+    },
+    {
+      "surname": "BORSSÉN",
+      "first_name": "KLAS",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "MIKULANDRA",
+      "first_name": "YVONNE",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "THORSTENSSON",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CRAFOORD",
+      "first_name": "LEIF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JONASSON",
+      "first_name": "EVERT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

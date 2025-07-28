@@ -1,0 +1,92 @@
+{
+  "company_name": "KOCKUMS JERNVERKSAKTIEBOLAG",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 135.125,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5.22,
+    "net_income": 0.0
+  },
+  "balance_sheet": {
+    "total_assets": 83.29,
+    "current_assets": 43.134,
+    "fixed_assets": 31.079,
+    "total_liabilities": 33.694,
+    "current_liabilities": 26.495,
+    "long_term_liabilities": 2.171,
+    "shareholders_equity": 19.142
+  },
+  "employees": {
+    "n_employees": 1311,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BELFRAGE",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LÜNING",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FREDHOLM",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KOCKUM",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "MÄNSSON",
+      "first_name": "EMIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KOCKUM",
+      "first_name": "GOTTFRIED",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDENBACK",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "MÄNSSON",
+      "first_name": "EMIL",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "KOCKUM",
+      "first_name": "GOTTFRIED",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "NORDENBACK",
+      "first_name": "JAN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

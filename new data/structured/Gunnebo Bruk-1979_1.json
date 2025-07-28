@@ -1,0 +1,98 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 493.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 438.3,
+    "wages_expense": null,
+    "tax_expense": 4.5,
+    "depreciation": null,
+    "net_income": 2.2
+  },
+  "balance_sheet": {
+    "total_assets": 571.2,
+    "current_assets": 373.5,
+    "fixed_assets": 300.1,
+    "total_liabilities": 283.5,
+    "current_liabilities": 119.0,
+    "long_term_liabilities": 164.5,
+    "shareholders_equity": 58.7
+  },
+  "employees": {
+    "n_employees": 1733,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HÄGGQVIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEHRSSON",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÅLBRAND",
+      "first_name": "BERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GYLLENSTIERNA",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYGREN",
+      "first_name": "A. ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIKLUND",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LOFTÉN",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖHOLM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "WENNSTRÖM",
+      "first_name": "INGE",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

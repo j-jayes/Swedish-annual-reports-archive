@@ -1,0 +1,110 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1968,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1326.856,
+    "cost_of_goods_sold": 1245.755,
+    "operating_expenses": null,
+    "wages_expense": 402.6,
+    "tax_expense": 35.832,
+    "depreciation": null,
+    "net_income": 53.185
+  },
+  "balance_sheet": {
+    "total_assets": 1272.016,
+    "current_assets": 619.398,
+    "fixed_assets": 214.184,
+    "total_liabilities": 371.935,
+    "current_liabilities": 300.178,
+    "long_term_liabilities": 72.499,
+    "shareholders_equity": 459.03933333333333
+  },
+  "employees": {
+    "n_employees": 20964,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUKE",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VRETHEM",
+      "first_name": "\"{A",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "WERTHEN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "HOFVING",
+      "first_name": "ARNE",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "ARPI",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLVING",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOLMEN",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "BRUNO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LUFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LUNDVALL",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

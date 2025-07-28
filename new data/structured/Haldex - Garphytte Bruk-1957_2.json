@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET GARPHYTTE BRUK",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1209491.86
+  },
+  "balance_sheet": {
+    "total_assets": 15739943.44,
+    "current_assets": 9828970.34,
+    "fixed_assets": 5910973.1,
+    "total_liabilities": 6939943.44,
+    "current_liabilities": 2718066.84,
+    "long_term_liabilities": 1187498.39,
+    "shareholders_equity": 8800000.0
+  },
+  "employees": {
+    "n_employees": 450,
+    "n_blue_collar_workers": 450,
+    "n_white_collar_workers": 79
+  },
+  "board": [
+    {
+      "surname": "von Essen",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "C.R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G.A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmer",
+      "first_name": "Govert",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Calissendorff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Nauclér",
+      "first_name": "C.A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

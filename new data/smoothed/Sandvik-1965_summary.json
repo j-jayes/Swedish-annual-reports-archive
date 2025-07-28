@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 611.6811333333334,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 549.889,
+    "wages_expense": null,
+    "tax_expense": 6.0,
+    "depreciation": 63.7,
+    "net_income": 13.216251
+  },
+  "balance_sheet": {
+    "total_assets": 525.6121103333334,
+    "current_assets": 338.468311,
+    "fixed_assets": 282.1391326666667,
+    "total_liabilities": 300.167287,
+    "current_liabilities": 122.95173166666667,
+    "long_term_liabilities": 108.23814333333333,
+    "shareholders_equity": 200.85949
+  },
+  "employees": {
+    "n_employees": 9441,
+    "n_blue_collar_workers": 6952,
+    "n_white_collar_workers": 2489
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGLUND",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBLOM",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GULDBERG",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

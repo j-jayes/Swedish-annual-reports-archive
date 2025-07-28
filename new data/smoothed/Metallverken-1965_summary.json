@@ -1,0 +1,104 @@
+{
+  "company_name": "SVENSKA METALLVERKEN",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 893.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 18.0,
+    "depreciation": null,
+    "net_income": 14.0
+  },
+  "balance_sheet": {
+    "total_assets": 524.5,
+    "current_assets": 292.8,
+    "fixed_assets": 231.7,
+    "total_liabilities": 329.1,
+    "current_liabilities": 160.6,
+    "long_term_liabilities": 162.9,
+    "shareholders_equity": 195.4
+  },
+  "employees": {
+    "n_employees": 5813,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROWALDH",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "C A",
+      "initials": "C",
+      "position": "Direktor"
+    },
+    {
+      "surname": "MOSSBERG",
+      "first_name": "Eije",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bon de Sousa Pernes",
+      "first_name": "Manoel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhle",
+      "first_name": "Nils K",
+      "initials": null,
+      "position": "Envoyé"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "De Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Bruksdirektör"
+    },
+    {
+      "surname": "Serrander",
+      "first_name": "Staffan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Toll",
+      "first_name": "Robert",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLIESTROM-TJUS",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ÅSTROM",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HEDBERG",
+      "first_name": "Thjelvar",
+      "initials": null,
+      "auditing_firm": "Stadsdirektör"
+    }
+  ]
+}

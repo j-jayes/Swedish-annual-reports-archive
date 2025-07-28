@@ -1,0 +1,80 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 23304363.24,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2058665.01,
+    "depreciation": null,
+    "net_income": 2058665.01
+  },
+  "balance_sheet": {
+    "total_assets": 90027644.13,
+    "current_assets": null,
+    "fixed_assets": 64450292.66,
+    "total_liabilities": 4374805.09,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 26238000.0
+  },
+  "employees": {
+    "n_employees": 1508,
+    "n_blue_collar_workers": 131,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Jeansson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engwatt",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gester",
+      "first_name": "Eskil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Rich.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Orrmell",
+      "first_name": "Aron",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

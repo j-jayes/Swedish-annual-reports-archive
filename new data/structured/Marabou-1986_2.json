@@ -1,0 +1,116 @@
+{
+  "company_name": "Tidnings AB Marieberg",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 2327.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2091.0,
+    "wages_expense": null,
+    "tax_expense": 119.0,
+    "depreciation": null,
+    "net_income": 136.9
+  },
+  "balance_sheet": {
+    "total_assets": 1727.2,
+    "current_assets": 664.0,
+    "fixed_assets": 938.9,
+    "total_liabilities": 1159.1,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 372.2
+  },
+  "employees": {
+    "n_employees": 4574,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Chairman of the Board"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": "Vice-Chairman"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "Vice-Chairman"
+    },
+    {
+      "surname": "Måberg",
+      "first_name": "Olle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Petrén",
+      "first_name": "Gustaf",
+      "initials": "LL.D.",
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Clas",
+      "initials": null,
+      "position": "President, CEO"
+    },
+    {
+      "surname": "Ruth",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Editor-in-chief"
+    },
+    {
+      "surname": "Strömstedt",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Editor-in-chief"
+    },
+    {
+      "surname": "Svenson",
+      "first_name": "Sven",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Carry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "Professor"
+    }
+  ],
+  "additional_notes": null
+}

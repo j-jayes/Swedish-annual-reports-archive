@@ -1,0 +1,58 @@
+{
+  "company_name": "Mexikanska Telefonaktiebolaget Ericsson",
+  "fiscal_year": 1915,
+  "income_statement": {
+    "revenue": 981369.61,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 769856.41,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 211513.2
+  },
+  "balance_sheet": {
+    "total_assets": 4742843.1,
+    "current_assets": null,
+    "fixed_assets": 3781932.87,
+    "total_liabilities": 3643629.93,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 211513.2
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klemming",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hall\nén",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gerdhem",
+      "first_name": "K. W.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

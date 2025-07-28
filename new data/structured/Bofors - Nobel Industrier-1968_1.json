@@ -1,0 +1,86 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 867026000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 764263000.0,
+    "wages_expense": null,
+    "tax_expense": 4762000.0,
+    "depreciation": null,
+    "net_income": 12704000.0
+  },
+  "balance_sheet": {
+    "total_assets": 818558000.0,
+    "current_assets": 517083000.0,
+    "fixed_assets": 296462000.0,
+    "total_liabilities": 609008000.0,
+    "current_liabilities": 421842000.0,
+    "long_term_liabilities": 168641000.0,
+    "shareholders_equity": 209550000.0
+  },
+  "employees": {
+    "n_employees": 8288,
+    "n_blue_collar_workers": 4932,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R:SON",
+      "position": "Bruksdisponent, ordförande"
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Hovrättsrådet, vice ordförande"
+    },
+    {
+      "surname": "WALDENSTRÖM",
+      "first_name": "ERLAND",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Agronom"
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "LARS-ERIK",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "HOLM",
+      "first_name": "TRYGGVE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "ODELBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": "Bruksdisponent"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "company_name": "Svenska Lloyd",
+  "fiscal_year": 1922,
+  "income_statement": {
+    "revenue": 2342192.74,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 801777.98
+  },
+  "balance_sheet": {
+    "total_assets": 52659955.62,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3237717.98,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 19475000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "METCALFE",
+      "first_name": "HERBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRÜGER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDQVIST",
+      "first_name": "WERNER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KYHLBERGER",
+      "first_name": null,
+      "initials": "G. A.",
+      "position": null
+    },
+    {
+      "surname": "AGREN",
+      "first_name": null,
+      "initials": "AXEL H.",
+      "position": null
+    },
+    {
+      "surname": "JANSON",
+      "first_name": null,
+      "initials": "J. ALB.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHNSSON",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "ALBERT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

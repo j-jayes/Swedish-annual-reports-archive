@@ -1,0 +1,82 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1921,
+  "income_statement": {
+    "revenue": 21142562.38,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8532350.54,
+    "net_income": -11377963.46
+  },
+  "balance_sheet": {
+    "total_assets": 117622403.0,
+    "current_assets": 23204380.84,
+    "fixed_assets": 87302956.08,
+    "total_liabilities": 84346280.61,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 42000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ekman",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kjellberg",
+      "first_name": "J.",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Herlenius",
+      "first_name": "Aug.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Geijerstam",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Mueller",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lennartson",
+      "first_name": "C. E. L.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

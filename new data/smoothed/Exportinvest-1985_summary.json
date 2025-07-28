@@ -1,0 +1,76 @@
+{
+  "company_name": "EXPORT-INVEST",
+  "fiscal_year": 1985,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 33.051,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.7,
+    "depreciation": null,
+    "net_income": 74.919
+  },
+  "balance_sheet": {
+    "total_assets": 510.101,
+    "current_assets": 42.483,
+    "fixed_assets": 467.618,
+    "total_liabilities": null,
+    "current_liabilities": 23.935,
+    "long_term_liabilities": null,
+    "shareholders_equity": 485.983
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Norgren",
+      "first_name": "Christian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westin",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ]
+}

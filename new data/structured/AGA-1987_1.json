@@ -1,0 +1,98 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 10591.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 9158.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 446.0
+  },
+  "balance_sheet": {
+    "total_assets": 14917.0,
+    "current_assets": 6158.0,
+    "fixed_assets": 8697.0,
+    "total_liabilities": 3473.0,
+    "current_liabilities": 5437.0,
+    "long_term_liabilities": 47.0,
+    "shareholders_equity": 3697.0
+  },
+  "employees": {
+    "n_employees": 16138,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brändström",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": null,
+      "initials": "Per V A",
+      "auditing_firm": "REVEKO AB"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "ÖHRLINGS REVISIONSBYRÅ AB"
+    }
+  ],
+  "additional_notes": null
+}

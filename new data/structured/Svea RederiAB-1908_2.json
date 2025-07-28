@@ -1,0 +1,70 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Sveas",
+  "fiscal_year": 1908,
+  "income_statement": {
+    "revenue": 3125828.57,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2896999.13,
+    "wages_expense": null,
+    "tax_expense": 424.38,
+    "depreciation": null,
+    "net_income": 112802.25
+  },
+  "balance_sheet": {
+    "total_assets": 4101500.24,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 190249.17,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3848.49
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Larson",
+      "first_name": "Adler",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wicander",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rising",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bäckström",
+      "first_name": "John",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Blomberg",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ström",
+      "first_name": "J.",
+      "initials": "F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ullén",
+      "first_name": "J.",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

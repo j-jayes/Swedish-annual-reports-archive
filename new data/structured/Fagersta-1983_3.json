@@ -1,0 +1,92 @@
+{
+  "company_name": "FAGERSTA",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 3124.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 78.9,
+    "net_income": 124.0
+  },
+  "balance_sheet": {
+    "total_assets": 5394.6,
+    "current_assets": 2920.0,
+    "fixed_assets": 2474.6,
+    "total_liabilities": 4203.2,
+    "current_liabilities": 1545.1,
+    "long_term_liabilities": 2174.9,
+    "shareholders_equity": 1191.4
+  },
+  "employees": {
+    "n_employees": 6287,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Johannesson",
+      "first_name": "Daniel",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan H",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

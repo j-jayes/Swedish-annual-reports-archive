@@ -1,0 +1,140 @@
+{
+  "company_name": "HEXAGON",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 2720.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 124.7,
+    "depreciation": 84.4,
+    "net_income": 164.9
+  },
+  "balance_sheet": {
+    "total_assets": 2727.8,
+    "current_assets": 1745.0,
+    "fixed_assets": 953.7,
+    "total_liabilities": 1035.7,
+    "current_liabilities": 1035.7,
+    "long_term_liabilities": 593.5,
+    "shareholders_equity": 763.2
+  },
+  "employees": {
+    "n_employees": 3942,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ROOS",
+      "first_name": "CARL-SIGVARD",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "THURESSON",
+      "first_name": "WIGON",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "BRANDES",
+      "first_name": "OVE",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "ENNERFELT",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "EK",
+      "first_name": "TORBJÖRN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "LEKSELL",
+      "first_name": "OVE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WESTER",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HAMMAR",
+      "first_name": "RALPH",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "GREEN",
+      "first_name": "MONICA",
+      "initials": null,
+      "position": "Fabriksarbetare"
+    },
+    {
+      "surname": "SÄLLBERG",
+      "first_name": "MARGONA",
+      "initials": null,
+      "position": "Lagerchef"
+    },
+    {
+      "surname": "VIRGIN",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": "Riksdagsman"
+    },
+    {
+      "surname": "FRANSSON",
+      "first_name": "STIC",
+      "initials": null,
+      "position": "Tapetserare"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": "Montageledare"
+    },
+    {
+      "surname": "OSCARSSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "PIEHL",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "RAPP",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "BERTIL",
+      "initials": "E",
+      "auditing_firm": "REVISIONSBYRÅ AB"
+    },
+    {
+      "surname": "STÅHL",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "REVISIONSBYRÅ AB"
+    }
+  ],
+  "additional_notes": null
+}

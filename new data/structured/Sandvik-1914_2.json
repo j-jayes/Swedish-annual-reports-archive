@@ -1,0 +1,64 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1914,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1366519.02
+  },
+  "balance_sheet": {
+    "total_assets": 12806157.71,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Sebardt",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Göransson",
+      "first_name": null,
+      "initials": "K. F.",
+      "position": null
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "Tord",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjorth",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kjellerstedt",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kronberg",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

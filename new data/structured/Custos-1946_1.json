@@ -1,0 +1,39 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1946,
+  "income_statement": {
+    "revenue": 3296740.57,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2568132.52
+  },
+  "balance_sheet": {
+    "total_assets": 56885075.47,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 13149809.16,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4515266.31
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "HALLBERG",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

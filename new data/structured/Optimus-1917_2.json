@@ -1,0 +1,39 @@
+{
+  "company_name": "AKTIEBOLAGET OPTIMUS",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": 927935.67,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 111262.42,
+    "net_income": 592041.81
+  },
+  "balance_sheet": {
+    "total_assets": 5292197.91,
+    "current_assets": null,
+    "fixed_assets": 584264.82,
+    "total_liabilities": 2292197.91,
+    "current_liabilities": 335522.85,
+    "long_term_liabilities": 525000.0,
+    "shareholders_equity": 3000000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "RYLANDER",
+      "first_name": "GUSTAF",
+      "initials": "G",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NEIGLICK",
+      "first_name": "CONRAD",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

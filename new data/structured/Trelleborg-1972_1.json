@@ -1,0 +1,104 @@
+{
+  "company_name": "Trelleborgs Gummifabriks AB",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 555.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 483.634,
+    "wages_expense": null,
+    "tax_expense": 3.102,
+    "depreciation": 25.141,
+    "net_income": 7.467
+  },
+  "balance_sheet": {
+    "total_assets": 592.893,
+    "current_assets": 324.028,
+    "fixed_assets": 268.865,
+    "total_liabilities": 437.696,
+    "current_liabilities": 114.005,
+    "long_term_liabilities": 203.437,
+    "shareholders_equity": 155.197
+  },
+  "employees": {
+    "n_employees": 6133,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ohlsson",
+      "first_name": "Lars Gunnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Herrlin",
+      "first_name": "Karl-Magnus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ekblom",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gorthon",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": null,
+      "initials": "S.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "Sandvik AB",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 16413.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 13065.0,
+    "wages_expense": null,
+    "tax_expense": 631.0,
+    "depreciation": 574.0,
+    "net_income": 1287.0
+  },
+  "balance_sheet": {
+    "total_assets": 20649.0,
+    "current_assets": 14131.0,
+    "fixed_assets": 6503.0,
+    "total_liabilities": 6994.0,
+    "current_liabilities": 3886.0,
+    "long_term_liabilities": 3975.0,
+    "shareholders_equity": 5168.0
+  },
+  "employees": {
+    "n_employees": 26501,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Löwhagen",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svärdström",
+      "first_name": "Thore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "Boström",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmros",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ollen",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Stig Lennart",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Honkamäki",
+      "first_name": "Eino",
+      "initials": null,
+      "position": "Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schiller",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Öhrn",
+      "first_name": "Bernhard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

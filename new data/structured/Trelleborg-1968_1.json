@@ -1,0 +1,98 @@
+{
+  "company_name": "TRELLEBORG",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 425.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4.8,
+    "depreciation": null,
+    "net_income": 7.9
+  },
+  "balance_sheet": {
+    "total_assets": 291.075,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 177.685,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 112.39
+  },
+  "employees": {
+    "n_employees": 5979,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nedström",
+      "first_name": "T.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekblom",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gorthon",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

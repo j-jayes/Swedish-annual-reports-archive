@@ -1,0 +1,76 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1938,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1542845.57,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 100492.19,
+    "net_income": 608662.63
+  },
+  "balance_sheet": {
+    "total_assets": 11796558.78,
+    "current_assets": null,
+    "fixed_assets": 2789545.25,
+    "total_liabilities": 4442390.026666666,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3070090.0966666667
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "FORD",
+      "first_name": "EDSEL",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "PERRY OF STOCK HARVARD",
+      "first_name": "LORD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "ELIEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÉN",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLBERG",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SILLÉN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "ELECTROLUX",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 1106.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 32.33
+  },
+  "balance_sheet": {
+    "total_assets": 952.965,
+    "current_assets": 685.911,
+    "fixed_assets": 264.4,
+    "total_liabilities": 310.414,
+    "current_liabilities": 271.926,
+    "long_term_liabilities": 68.285,
+    "shareholders_equity": 489.924
+  },
+  "employees": {
+    "n_employees": 19150,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SUDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUKE",
+      "first_name": "LORD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VRETHEM",
+      "first_name": "\nAKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WERTHEN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOLMEN",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    },
+    {
+      "surname": "LUFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "BRUNO",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    }
+  ],
+  "additional_notes": null
+}

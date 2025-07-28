@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSK FILMINDUSTRI",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 43927000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1114963.52,
+    "net_income": 2900310.94
+  },
+  "balance_sheet": {
+    "total_assets": 35003916.27,
+    "current_assets": 15074426.06,
+    "fixed_assets": 19583490.21,
+    "total_liabilities": 12831061.24,
+    "current_liabilities": 3928823.02,
+    "long_term_liabilities": 8212238.22,
+    "shareholders_equity": 16900000.0
+  },
+  "employees": {
+    "n_employees": 851,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Juberg",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fess\ne",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fant",
+      "first_name": null,
+      "initials": "C.-H.",
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Vifot",
+      "first_name": "Malte",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

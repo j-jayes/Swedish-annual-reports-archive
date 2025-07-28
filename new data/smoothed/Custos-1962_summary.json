@@ -1,0 +1,76 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1962,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 32342291.94,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7988.01,
+    "depreciation": null,
+    "net_income": 24997054.86
+  },
+  "balance_sheet": {
+    "total_assets": 125150581.15,
+    "current_assets": 216561.8,
+    "fixed_assets": 124933973.28333333,
+    "total_liabilities": null,
+    "current_liabilities": 933092.5866666667,
+    "long_term_liabilities": 341707.14,
+    "shareholders_equity": 124417381.31
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SODERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "A.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PAHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STERNER",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

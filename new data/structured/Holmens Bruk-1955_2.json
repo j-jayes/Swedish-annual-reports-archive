@@ -1,0 +1,76 @@
+{
+  "company_name": "HOLMENS BRUKS OCH FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 33027430.92,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6435247.0,
+    "depreciation": 14163653.75,
+    "net_income": 6856820.21
+  },
+  "balance_sheet": {
+    "total_assets": 215845824.04,
+    "current_assets": null,
+    "fixed_assets": 94538327.13,
+    "total_liabilities": null,
+    "current_liabilities": 15512757.4,
+    "long_term_liabilities": 61667037.28,
+    "shareholders_equity": 99427135.8
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Martin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahren",
+      "first_name": null,
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": "Verkställande direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

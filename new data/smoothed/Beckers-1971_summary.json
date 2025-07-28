@@ -1,0 +1,104 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1971,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 207726444.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 199495684.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3364515.0,
+    "net_income": 928797.0
+  },
+  "balance_sheet": {
+    "total_assets": 124627056.0,
+    "current_assets": 68898152.33333333,
+    "fixed_assets": 55728901.666666664,
+    "total_liabilities": 86718850.66666667,
+    "current_liabilities": 29410501.0,
+    "long_term_liabilities": 57180387.0,
+    "shareholders_equity": 37908400.0
+  },
+  "employees": {
+    "n_employees": 1463,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Degefors",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Harju",
+      "first_name": "Birger",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "Georg",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lindqvist",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Browall",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Dillén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Kanslirådet"
+    },
+    {
+      "surname": "Hultén",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Käll",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Feinstein",
+      "first_name": "Sten Erik",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Tönnervik",
+      "first_name": "Henry",
+      "initials": null,
+      "auditing_firm": "Revisor SRS"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "company_name": "KOPPARFORS AKTIEBOLAG",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 192242192.46,
+    "cost_of_goods_sold": 152278148.07,
+    "operating_expenses": 2391229.11,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 6274182.59
+  },
+  "balance_sheet": {
+    "total_assets": 262175518.39,
+    "current_assets": 53057833.05,
+    "fixed_assets": 166606718.51,
+    "total_liabilities": 152854331.26,
+    "current_liabilities": 36397278.13,
+    "long_term_liabilities": 110047053.13,
+    "shareholders_equity": 109321187.13
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "MONTGOMERY",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": "Hovrättsassessor"
+    },
+    {
+      "surname": "GRIPENSTEDT",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "Jägmästare"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARC",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HOLGERSSON",
+      "first_name": null,
+      "initials": "S.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

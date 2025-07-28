@@ -1,0 +1,100 @@
+{
+  "company_name": "Investmentaktiebolaget PROMOTION",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 790.478,
+    "cost_of_goods_sold": 536.967,
+    "operating_expenses": 159.875,
+    "wages_expense": null,
+    "tax_expense": 13.827,
+    "depreciation": 19.627,
+    "net_income": 26.288
+  },
+  "balance_sheet": {
+    "total_assets": 1173.231,
+    "current_assets": 636.463,
+    "fixed_assets": 532.951,
+    "total_liabilities": 979.322,
+    "current_liabilities": 401.52,
+    "long_term_liabilities": 318.794,
+    "shareholders_equity": 193.909
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bildt",
+      "first_name": "Carl Robert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bostedt",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Generaldirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lars-Goran",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

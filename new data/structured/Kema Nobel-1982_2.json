@@ -1,0 +1,122 @@
+{
+  "company_name": "KemaNobel",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 3968.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3634.7,
+    "wages_expense": null,
+    "tax_expense": -84.5,
+    "depreciation": 149.3,
+    "net_income": 58.8
+  },
+  "balance_sheet": {
+    "total_assets": 3921.3,
+    "current_assets": 2290.7,
+    "fixed_assets": 1623.2,
+    "total_liabilities": 3013.4,
+    "current_liabilities": 1299.8,
+    "long_term_liabilities": 933.2,
+    "shareholders_equity": 907.9
+  },
+  "employees": {
+    "n_employees": 6404,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Trolle-Wachtmeister",
+      "first_name": "H-G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dybeck",
+      "first_name": "Clarence",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ingrid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallbom",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norin",
+      "first_name": "Torbjörn",
+      "initials": null,
+      "position": "Styrelsesuppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": "REVEKO"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "REVEKO"
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

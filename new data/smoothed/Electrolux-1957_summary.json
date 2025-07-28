@@ -1,0 +1,122 @@
+{
+  "company_name": "Aktiebolaget Electrolux",
+  "fiscal_year": 1957,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7491974.0,
+    "wages_expense": null,
+    "tax_expense": 15603318.0,
+    "depreciation": 4109746.6666666665,
+    "net_income": 15352198.0
+  },
+  "balance_sheet": {
+    "total_assets": 252482454.0,
+    "current_assets": 135302063.0,
+    "fixed_assets": 117180391.0,
+    "total_liabilities": 66613948.0,
+    "current_liabilities": 17929787.0,
+    "long_term_liabilities": 20985791.0,
+    "shareholders_equity": 138602002.0
+  },
+  "employees": {
+    "n_employees": 15970,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wernher",
+      "first_name": "Harold",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Elon",
+      "initials": "V.",
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Deijfen",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "Deputies"
+    },
+    {
+      "surname": "Hofving",
+      "first_name": "Arne",
+      "initials": "M.",
+      "position": "Deputies"
+    },
+    {
+      "surname": "Hyllen",
+      "first_name": "Kai",
+      "initials": null,
+      "position": "Deputies"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": "Deputies"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Mårtensson",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

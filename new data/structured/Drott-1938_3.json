@@ -1,0 +1,70 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1938,
+  "income_statement": {
+    "revenue": 1822043.46,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1343029.52,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 479013.94
+  },
+  "balance_sheet": {
+    "total_assets": 23140026.03,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 15389155.09,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7750870.94
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "von PLOMGREN",
+      "first_name": "CARL",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "NYSTRÖM",
+      "first_name": "C.",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHRÖDER",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖQVIST",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "STENBOCK",
+      "first_name": "R.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

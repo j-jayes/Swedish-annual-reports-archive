@@ -1,0 +1,51 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1938,
+  "income_statement": {
+    "revenue": 1143525.01,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 87685.73,
+    "depreciation": 400000.0,
+    "net_income": 210542.71
+  },
+  "balance_sheet": {
+    "total_assets": 5793687.51,
+    "current_assets": 1120446.21,
+    "fixed_assets": 4192000.0,
+    "total_liabilities": 1039555.44,
+    "current_liabilities": 423528.97,
+    "long_term_liabilities": 785000.0,
+    "shareholders_equity": 4027500.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Hellgren.",
+      "first_name": "Rich.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gyllenstierna.",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tigerschiöld.",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sunström.",
+      "first_name": "Rudolf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET GARPHYTTE BRUK",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 5928431.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1313852.0,
+    "depreciation": 1519483.0,
+    "net_income": 1656343.0
+  },
+  "balance_sheet": {
+    "total_assets": 26448357.0,
+    "current_assets": 14652408.0,
+    "fixed_assets": 10594429.0,
+    "total_liabilities": 9948357.0,
+    "current_liabilities": 6016991.0,
+    "long_term_liabilities": 1745229.0,
+    "shareholders_equity": 9000000.0
+  },
+  "employees": {
+    "n_employees": 605,
+    "n_blue_collar_workers": 515,
+    "n_white_collar_workers": 90
+  },
+  "board": [
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Calissendorff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmer",
+      "first_name": "Govert",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pihl",
+      "first_name": "Gust.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 73960.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 15257.0,
+    "tax_expense": 1030.0,
+    "depreciation": 2577.0,
+    "net_income": 1693.0
+  },
+  "balance_sheet": {
+    "total_assets": 56840.0,
+    "current_assets": 34245.0,
+    "fixed_assets": 22526.0,
+    "total_liabilities": 16695.0,
+    "current_liabilities": 16404.0,
+    "long_term_liabilities": 11168.0,
+    "shareholders_equity": 11440.0
+  },
+  "employees": {
+    "n_employees": 147192,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "President and CEO"
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmenstam-Skytt",
+      "first_name": "Birgit",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderqvist",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    }
+  ],
+  "additional_notes": null
+}

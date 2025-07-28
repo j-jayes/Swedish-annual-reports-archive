@@ -1,0 +1,80 @@
+{
+  "company_name": "Fastighetsaktiebolaget Drott",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 18941155.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 9730720.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 260000.0,
+    "net_income": 3624041.0
+  },
+  "balance_sheet": {
+    "total_assets": 96408709.0,
+    "current_assets": 15033575.0,
+    "fixed_assets": 81376134.0,
+    "total_liabilities": null,
+    "current_liabilities": 3987559.0,
+    "long_term_liabilities": 46535889.0,
+    "shareholders_equity": 45885261.0
+  },
+  "employees": {
+    "n_employees": 22,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Alexandersson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Carleson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "finanschef"
+    },
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Tengbom",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hemstad",
+      "first_name": "Tord",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Markdahl",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

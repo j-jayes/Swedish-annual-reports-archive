@@ -1,0 +1,74 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2321425.0
+  },
+  "balance_sheet": {
+    "total_assets": 38186123.0,
+    "current_assets": 16663786.0,
+    "fixed_assets": 10150782.0,
+    "total_liabilities": 15767291.0,
+    "current_liabilities": 10922281.0,
+    "long_term_liabilities": 2312000.0,
+    "shareholders_equity": 22418837.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 375,
+    "n_white_collar_workers": 182
+  },
+  "board": [
+    {
+      "surname": "Heidenstam",
+      "first_name": null,
+      "initials": "R. v.",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hernod",
+      "first_name": "Torsten",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Bröndum",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "McKee",
+      "first_name": null,
+      "initials": "Walter L.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLEN",
+      "first_name": null,
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "DICKINSON",
+      "first_name": "John C.",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

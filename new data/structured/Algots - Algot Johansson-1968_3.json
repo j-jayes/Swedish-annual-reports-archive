@@ -1,0 +1,94 @@
+{
+  "company_name": "ALGOT JOHANSSON AKTIEBOLAG",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 96.305,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1.134,
+    "net_income": 1.714
+  },
+  "balance_sheet": {
+    "total_assets": 42.894,
+    "current_assets": 41.097,
+    "fixed_assets": 1.797,
+    "total_liabilities": null,
+    "current_liabilities": 9.448,
+    "long_term_liabilities": 4.439,
+    "shareholders_equity": 24.007
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Johansson",
+      "first_name": "Algot",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Fredén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Curtman",
+      "first_name": null,
+      "initials": "C.W.",
+      "position": "Överdirektör"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Elis",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": "D.",
+      "position": null
+    },
+    {
+      "surname": "Hernqvist",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Fabrikschef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "Lagberg",
+      "first_name": "Karl",
+      "initials": "Y.",
+      "auditing_firm": "Aukt."
+    }
+  ],
+  "additional_notes": null
+}

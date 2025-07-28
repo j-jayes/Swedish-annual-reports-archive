@@ -1,0 +1,122 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 80436.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -74722.0,
+    "wages_expense": null,
+    "tax_expense": -775.0,
+    "depreciation": -3469.0,
+    "net_income": 183.0
+  },
+  "balance_sheet": {
+    "total_assets": 71618.0,
+    "current_assets": 44251.0,
+    "fixed_assets": 27335.0,
+    "total_liabilities": 33776.0,
+    "current_liabilities": 18235.0,
+    "long_term_liabilities": 15325.0,
+    "shareholders_equity": 16772.0
+  },
+  "employees": {
+    "n_employees": 121148,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Chairman of the Board and CEO"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V",
+      "position": null
+    },
+    {
+      "surname": "Löwenhielm",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ölving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ribohn",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven",
+      "initials": "Åke",
+      "position": "member"
+    },
+    {
+      "surname": "Mörk",
+      "first_name": "Roland",
+      "initials": null,
+      "position": "member"
+    },
+    {
+      "surname": "Söderqvist",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "member"
+    },
+    {
+      "surname": "Krantz",
+      "first_name": "Mari-Ann",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "Säll",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Deputy member"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

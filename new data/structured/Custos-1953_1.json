@@ -1,0 +1,70 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 5704740.71,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 636529.45,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5068211.26
+  },
+  "balance_sheet": {
+    "total_assets": 64458654.58,
+    "current_assets": 20460392.96,
+    "fixed_assets": 43847824.2,
+    "total_liabilities": 29458654.58,
+    "current_liabilities": 77595.25,
+    "long_term_liabilities": 10516388.64,
+    "shareholders_equity": 35000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "LEFFLER",
+      "first_name": "HAKON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "E.",
+      "initials": "C:SON",
+      "position": null
+    },
+    {
+      "surname": "ERKLUND",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TONDÉN",
+      "first_name": "ALBERT",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

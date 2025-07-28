@@ -1,0 +1,64 @@
+{
+  "company_name": "Bergsunds Mekaniska Verkstads Aktiebolag",
+  "fiscal_year": 1918,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 108437.0,
+    "net_income": -169022.32
+  },
+  "balance_sheet": {
+    "total_assets": 15511080.54,
+    "current_assets": 4443045.45,
+    "fixed_assets": 5606857.7,
+    "total_liabilities": 7804138.13,
+    "current_liabilities": 4266564.04,
+    "long_term_liabilities": 3780000.0,
+    "shareholders_equity": 3780000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hök",
+      "first_name": "A",
+      "initials": "A. W.",
+      "position": null
+    },
+    {
+      "surname": "Cedercrantz",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edquist",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schubert",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Mannerstedt",
+      "first_name": "V.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nissvandt",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

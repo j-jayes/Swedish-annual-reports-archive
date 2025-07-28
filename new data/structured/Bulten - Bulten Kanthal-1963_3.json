@@ -1,0 +1,80 @@
+{
+  "company_name": "BULTFABRIKS AKTIEBOLAGET HALLSTAHAMMAR",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 85.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 7.7,
+    "net_income": 3.55
+  },
+  "balance_sheet": {
+    "total_assets": 104.39,
+    "current_assets": 45.76,
+    "fixed_assets": 54.72,
+    "total_liabilities": 64.87,
+    "current_liabilities": 11.48,
+    "long_term_liabilities": 42.54,
+    "shareholders_equity": 39.52
+  },
+  "employees": {
+    "n_employees": 2057,
+    "n_blue_collar_workers": 1512,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Hans",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Gösta",
+      "initials": "De",
+      "position": null
+    },
+    {
+      "surname": "Nathorst",
+      "first_name": "Helmer",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

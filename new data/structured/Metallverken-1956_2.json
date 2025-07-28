@@ -1,0 +1,73 @@
+{
+  "company_name": "AB SVENSKA METALLVERKEN",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 491.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 21.9,
+    "net_income": 4.9
+  },
+  "balance_sheet": {
+    "total_assets": 381.3,
+    "current_assets": 143.2,
+    "fixed_assets": 238.1,
+    "total_liabilities": 295.0,
+    "current_liabilities": 95.2,
+    "long_term_liabilities": 123.9,
+    "shareholders_equity": 83.6
+  },
+  "employees": {
+    "n_employees": 5062,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": null,
+      "initials": "B. G.",
+      "position": null
+    },
+    {
+      "surname": "SERRANDER",
+      "first_name": "STAFFAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS",
+      "initials": "K.",
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

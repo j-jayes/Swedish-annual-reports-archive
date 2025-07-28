@@ -1,0 +1,86 @@
+{
+  "company_name": "Upsala-Ekeby AB",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 221637000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 203650000.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5672000.0,
+    "net_income": 4783000.0
+  },
+  "balance_sheet": {
+    "total_assets": 212276000.0,
+    "current_assets": 164896000.0,
+    "fixed_assets": 46384000.0,
+    "total_liabilities": 172170000.0,
+    "current_liabilities": 58594000.0,
+    "long_term_liabilities": 70862000.0,
+    "shareholders_equity": 42656000.0
+  },
+  "employees": {
+    "n_employees": 1940,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Sunne",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wetter",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Götdahl",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skoog",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Lars-Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammerlund",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Witt",
+      "first_name": "Carl Henrik",
+      "initials": "C.H.",
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

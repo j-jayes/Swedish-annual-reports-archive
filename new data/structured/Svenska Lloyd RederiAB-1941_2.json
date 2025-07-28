@@ -1,0 +1,82 @@
+{
+  "company_name": "Rederiaktiebolaget Svenska Lloyd",
+  "fiscal_year": 1941,
+  "income_statement": {
+    "revenue": 8966790.76,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1973449.97,
+    "depreciation": null,
+    "net_income": 1789668.85
+  },
+  "balance_sheet": {
+    "total_assets": 37606410.29,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 22395615.64,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 9461750.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "LUNDQVIST",
+      "first_name": "WERNER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEDÉN",
+      "first_name": "ERNST",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K.",
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BEYER",
+      "first_name": "ROB.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "ALBERT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

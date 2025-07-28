@@ -1,0 +1,64 @@
+{
+  "company_name": "KOCKUMS JERNVERKSAKTIEBOLAG",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 118.253417,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 112.751773,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4.631557,
+    "net_income": 625.533
+  },
+  "balance_sheet": {
+    "total_assets": 82.332556,
+    "current_assets": 48.943066,
+    "fixed_assets": 32.332519,
+    "total_liabilities": 35.87808,
+    "current_liabilities": 22.326665,
+    "long_term_liabilities": 14.18,
+    "shareholders_equity": 21.769942
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "KOCKUM",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "BELFRAGE",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "MÅNSSON",
+      "first_name": "EMIL",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "KOCKUM",
+      "first_name": "GOTTFRIED",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,58 @@
+{
+  "company_name": "Chokladfabriken Marabou",
+  "fiscal_year": 1941,
+  "income_statement": {
+    "revenue": 3844282.99,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 630518.0,
+    "net_income": 648673.75
+  },
+  "balance_sheet": {
+    "total_assets": 13674237.23,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4500000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Almström",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dannfelt",
+      "first_name": "C. Juhlin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holst",
+      "first_name": "J. Throne",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

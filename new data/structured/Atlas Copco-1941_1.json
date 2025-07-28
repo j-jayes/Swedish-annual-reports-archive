@@ -1,0 +1,64 @@
+{
+  "company_name": "Atlas Diesel",
+  "fiscal_year": 1941,
+  "income_statement": {
+    "revenue": 2.14780266,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 748940.95,
+    "net_income": 951411.17
+  },
+  "balance_sheet": {
+    "total_assets": 24.08522354,
+    "current_assets": 4536892.28,
+    "fixed_assets": 5613004.58,
+    "total_liabilities": 14704492.8,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6773000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LILJENROTH",
+      "first_name": "F. G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PYK",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

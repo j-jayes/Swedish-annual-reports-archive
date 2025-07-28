@@ -1,0 +1,74 @@
+{
+  "company_name": "SEE FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 26196977.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 707880.0
+  },
+  "balance_sheet": {
+    "total_assets": 18682423.0,
+    "current_assets": 8580442.0,
+    "fixed_assets": 10101981.0,
+    "total_liabilities": 8411921.0,
+    "current_liabilities": 4184356.0,
+    "long_term_liabilities": 6086146.0,
+    "shareholders_equity": 1065921.0
+  },
+  "employees": {
+    "n_employees": 765,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Haal",
+      "first_name": "Simon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Erik",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Östberg",
+      "first_name": "Per",
+      "initials": "Johan",
+      "position": null
+    },
+    {
+      "surname": "Bergström",
+      "first_name": "C.",
+      "initials": "H.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rainer",
+      "first_name": "Gustaf",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

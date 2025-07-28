@@ -1,0 +1,98 @@
+{
+  "company_name": "BERGVIK och ALA NYA AKTIEBOLAG",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 17628805.02,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 703151.0,
+    "depreciation": 3823159.2,
+    "net_income": 6236499.25
+  },
+  "balance_sheet": {
+    "total_assets": 85095358.27,
+    "current_assets": 26906781.9,
+    "fixed_assets": 58188576.37,
+    "total_liabilities": 50066900.22,
+    "current_liabilities": 11651166.41,
+    "long_term_liabilities": 23377291.64,
+    "shareholders_equity": 35750000.0
+  },
+  "employees": {
+    "n_employees": 2435,
+    "n_blue_collar_workers": 2190,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wåhlin",
+      "first_name": "P.",
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "Francke",
+      "first_name": "H.",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Odmark",
+      "first_name": "Stig",
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "Söderman",
+      "first_name": "H.",
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "Sundfeldt",
+      "first_name": "R.",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Öhrling",
+      "first_name": "P.",
+      "initials": "P. O.",
+      "position": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Ernst",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "D.",
+      "initials": "D.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ohrling",
+      "first_name": "P.",
+      "initials": "P. O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Ernst",
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "D.",
+      "initials": "D.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

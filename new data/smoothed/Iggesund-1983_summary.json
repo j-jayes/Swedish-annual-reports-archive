@@ -1,0 +1,110 @@
+{
+  "company_name": "IGGESUND",
+  "fiscal_year": 1983,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2680.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2262.9,
+    "wages_expense": 666.9,
+    "tax_expense": 35.9,
+    "depreciation": 122.5,
+    "net_income": 77.5
+  },
+  "balance_sheet": {
+    "total_assets": 3493.6,
+    "current_assets": 1189.8333333333335,
+    "fixed_assets": 1546.8999999999999,
+    "total_liabilities": 1879.8,
+    "current_liabilities": 821.9,
+    "long_term_liabilities": 880.9,
+    "shareholders_equity": 318.4
+  },
+  "employees": {
+    "n_employees": 4565,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "ordf, Direktör"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ekon. dr"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gustaf",
+      "initials": "C:son",
+      "position": "Civiljägmästare"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "fil. dr"
+    },
+    {
+      "surname": "Sprängare",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Synnergren",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "General"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Disponent, verkst. dir"
+    },
+    {
+      "surname": "Nordin",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "Vice verkst, dir"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

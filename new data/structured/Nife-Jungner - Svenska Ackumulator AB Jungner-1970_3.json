@@ -1,0 +1,74 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 114.159,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 103.107,
+    "wages_expense": null,
+    "tax_expense": 4.024,
+    "depreciation": 3.188,
+    "net_income": 4.808
+  },
+  "balance_sheet": {
+    "total_assets": 163.719,
+    "current_assets": 103.452,
+    "fixed_assets": 53.079,
+    "total_liabilities": 96.497,
+    "current_liabilities": 29.148,
+    "long_term_liabilities": 14.391,
+    "shareholders_equity": 67.222
+  },
+  "employees": {
+    "n_employees": 1610,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Anderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Örtegren",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Karl",
+      "initials": "R",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nelson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

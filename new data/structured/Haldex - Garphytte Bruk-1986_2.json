@@ -1,0 +1,98 @@
+{
+  "company_name": "Garphyttan Industrier AB",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 631.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 160.4,
+    "tax_expense": 18.1,
+    "depreciation": 18.2,
+    "net_income": 18.4
+  },
+  "balance_sheet": {
+    "total_assets": 493.7,
+    "current_assets": 337.3,
+    "fixed_assets": 124.5,
+    "total_liabilities": 152.2,
+    "current_liabilities": 47.0,
+    "long_term_liabilities": 35.7,
+    "shareholders_equity": 136.3
+  },
+  "employees": {
+    "n_employees": 926,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helgesson",
+      "first_name": "Lars-Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edwardsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Lennart",
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Lindqvist",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Jönsson",
+      "first_name": "Majvi",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Thornberg",
+      "first_name": "Sam",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

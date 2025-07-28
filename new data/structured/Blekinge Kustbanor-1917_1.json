@@ -1,0 +1,76 @@
+{
+  "company_name": "MELLERSTA BLEKINGE JÄRNVÄGSAKTIEBOLAG",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": 2332518.74,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2064527.08,
+    "wages_expense": null,
+    "tax_expense": 39564.78,
+    "depreciation": null,
+    "net_income": 267991.66
+  },
+  "balance_sheet": {
+    "total_assets": 7250293.45,
+    "current_assets": null,
+    "fixed_assets": 5676231.44,
+    "total_liabilities": 2559540.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6944714.37
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Lantbrukaren"
+    },
+    {
+      "surname": "Cederlund",
+      "first_name": "P. M.",
+      "initials": null,
+      "position": "Grosshandlaren"
+    },
+    {
+      "surname": "Flensburg",
+      "first_name": "E.",
+      "initials": null,
+      "position": "Borgmästaren"
+    },
+    {
+      "surname": "Petersson",
+      "first_name": "Mattis",
+      "initials": null,
+      "position": "Lantbrukaren"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Albert",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Otto",
+      "initials": null,
+      "auditing_firm": "Ombud å statens vägnar"
+    }
+  ],
+  "additional_notes": null
+}

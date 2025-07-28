@@ -1,0 +1,98 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 3221255.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 139204.41,
+    "depreciation": 1284000.0,
+    "net_income": 1137762.63
+  },
+  "balance_sheet": {
+    "total_assets": 20321366.18,
+    "current_assets": 7894739.73,
+    "fixed_assets": 6804999.58,
+    "total_liabilities": 11921366.18,
+    "current_liabilities": 2451579.78,
+    "long_term_liabilities": 344477.27,
+    "shareholders_equity": 8400000.0
+  },
+  "employees": {
+    "n_employees": 1165,
+    "n_blue_collar_workers": 1066,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Elis",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hult",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Hofsten",
+      "first_name": "Sixten",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hofsten",
+      "first_name": "Sixten",
+      "initials": "von",
+      "auditing_firm": "Av Stockholms Handelskammare godkänd granskningsman."
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare auktoriserad revisor."
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

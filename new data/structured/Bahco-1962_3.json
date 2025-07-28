@@ -1,0 +1,86 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 14.228,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.7,
+    "depreciation": null,
+    "net_income": 2.321999
+  },
+  "balance_sheet": {
+    "total_assets": 153.984666,
+    "current_assets": 52.851992,
+    "fixed_assets": 48.181392,
+    "total_liabilities": 54.154606,
+    "current_liabilities": 54.200895,
+    "long_term_liabilities": 45.629165,
+    "shareholders_equity": 54.154606
+  },
+  "employees": {
+    "n_employees": 3244,
+    "n_blue_collar_workers": 1986,
+    "n_white_collar_workers": 1160
+  },
+  "board": [
+    {
+      "surname": "Tunhammar",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forssius",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": null,
+      "initials": "Å.",
+      "position": null
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

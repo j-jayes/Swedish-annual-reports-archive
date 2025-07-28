@@ -1,0 +1,94 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Providentia",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 45263.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 41016.0,
+    "wages_expense": null,
+    "tax_expense": 1274.0,
+    "depreciation": null,
+    "net_income": 61843.0
+  },
+  "balance_sheet": {
+    "total_assets": 408954.0,
+    "current_assets": 74143.0,
+    "fixed_assets": 334811.0,
+    "total_liabilities": 33896.0,
+    "current_liabilities": 29878.0,
+    "long_term_liabilities": 4018.0,
+    "shareholders_equity": 375058.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Lagergren",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "förordnad av Kungl. Maj:t"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "förordnad av Kungl. Maj:t"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": "A",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

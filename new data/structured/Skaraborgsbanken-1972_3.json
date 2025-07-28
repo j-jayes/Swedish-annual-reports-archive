@@ -1,0 +1,116 @@
+{
+  "company_name": "Skaraborgsbanken",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 42.062,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4.0,
+    "depreciation": null,
+    "net_income": 2.913
+  },
+  "balance_sheet": {
+    "total_assets": 1245.609,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1245.609,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 44.289
+  },
+  "employees": {
+    "n_employees": 326,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": "G.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Waller",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ulfenborg",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Paul",
+      "initials": null,
+      "position": "riksdagsman"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekstrand",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Hadar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Demitz-Helin",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "BOLIDENS GRUVAKTIEBOLAG",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 63.98194806,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 15.43530305,
+    "net_income": 15.0085124
+  },
+  "balance_sheet": {
+    "total_assets": 233.0,
+    "current_assets": 69.7,
+    "fixed_assets": 163.3,
+    "total_liabilities": 65.7,
+    "current_liabilities": 53.49011514,
+    "long_term_liabilities": 12.24054883,
+    "shareholders_equity": 157.19076389
+  },
+  "employees": {
+    "n_employees": 4503,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BRYNIELSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": "C:SON",
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAL",
+      "first_name": null,
+      "initials": "K-G.",
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": null,
+      "initials": "S. L.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BEXELIUS",
+      "first_name": "HERBERT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WENDLER",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

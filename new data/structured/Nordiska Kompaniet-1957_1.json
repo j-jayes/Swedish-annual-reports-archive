@@ -1,0 +1,122 @@
+{
+  "company_name": "AB NORDISKA KOMPANIET",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 30534836.12,
+    "tax_expense": 1478917.0,
+    "depreciation": 1598858.17,
+    "net_income": 2965445.42
+  },
+  "balance_sheet": {
+    "total_assets": 103577663.32,
+    "current_assets": 51667043.61,
+    "fixed_assets": 51910619.71,
+    "total_liabilities": 42808700.85,
+    "current_liabilities": 14531043.33,
+    "long_term_liabilities": 42808700.85,
+    "shareholders_equity": 46237919.14
+  },
+  "employees": {
+    "n_employees": 2774,
+    "n_blue_collar_workers": 796,
+    "n_white_collar_workers": 1978
+  },
+  "board": [
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUSEWITZ",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRIIS",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KALDERÉN",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "ROBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": null,
+      "initials": "C. ED.",
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": null,
+      "initials": "CARL",
+      "position": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": "Aukt. revisor"
+    },
+    {
+      "surname": "SACHS",
+      "first_name": null,
+      "initials": "R.",
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "SCHROFF",
+      "first_name": "HERBERT",
+      "initials": null,
+      "position": "Suppl."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GRUMME",
+      "first_name": null,
+      "initials": "C. ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": null,
+      "initials": "CARL",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

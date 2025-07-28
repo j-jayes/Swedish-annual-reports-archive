@@ -1,0 +1,100 @@
+{
+  "company_name": "Investor",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 12432000000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 141255000.0,
+    "depreciation": null,
+    "net_income": 739770000.0
+  },
+  "balance_sheet": {
+    "total_assets": 1605288000.0,
+    "current_assets": 189376000.0,
+    "fixed_assets": 1415912000.0,
+    "total_liabilities": null,
+    "current_liabilities": 135659000.0,
+    "long_term_liabilities": 6600000.0,
+    "shareholders_equity": 1477726000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Flogner",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

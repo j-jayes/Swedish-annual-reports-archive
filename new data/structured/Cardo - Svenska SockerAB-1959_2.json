@@ -1,0 +1,116 @@
+{
+  "company_name": "SVENSKA SOCKERFABRIKS AKTIEBOLAGET",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 74.961,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5.161,
+    "depreciation": 18.64,
+    "net_income": 16.516
+  },
+  "balance_sheet": {
+    "total_assets": 329.997,
+    "current_assets": 115.762,
+    "fixed_assets": 46.059,
+    "total_liabilities": 140.581,
+    "current_liabilities": 29.522,
+    "long_term_liabilities": 57.062,
+    "shareholders_equity": 128.886
+  },
+  "employees": {
+    "n_employees": 3403,
+    "n_blue_collar_workers": 2714,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WEHTJE",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": "ORDFÖRANDE"
+    },
+    {
+      "surname": "BAHRKE",
+      "first_name": "W.",
+      "initials": null,
+      "position": "Direktören"
+    },
+    {
+      "surname": "GUMMESON",
+      "first_name": "P. EG.",
+      "initials": null,
+      "position": "Direktören"
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "HAKON",
+      "initials": null,
+      "position": "Civilingenjören"
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "Godsägaren"
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": "T.",
+      "initials": null,
+      "position": "Direktören"
+    },
+    {
+      "surname": "WESTRUP",
+      "first_name": "z.",
+      "initials": null,
+      "position": "Envoyén"
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "Direktören"
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "S.",
+      "initials": null,
+      "position": "VERKST. DIREKTOR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EKMAN",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MALMQUIST",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KOCKUM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MÅNSSON",
+      "first_name": "EMIL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CAVALLI",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

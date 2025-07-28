@@ -1,0 +1,70 @@
+{
+  "company_name": "Aktiebolaget Ytterstfors-Munksunds",
+  "fiscal_year": 1923,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 419618.49,
+    "wages_expense": null,
+    "tax_expense": 92594.89,
+    "depreciation": null,
+    "net_income": 538328.86
+  },
+  "balance_sheet": {
+    "total_assets": 64079246.25,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 24237963.97,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 16250000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "MALMSTRÖM",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORMAN",
+      "first_name": "UNO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MARKSTRÖM",
+      "first_name": "DAVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "RICHARD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "J. L.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FLYGT",
+      "first_name": "HELMER",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KAASCHOU",
+      "first_name": "DAHL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

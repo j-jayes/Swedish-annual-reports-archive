@@ -1,0 +1,92 @@
+{
+  "company_name": "SVENSKA OLJESLAGERI AKTIEBOLAGET",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 6299000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 602000.0
+  },
+  "balance_sheet": {
+    "total_assets": 24466000.0,
+    "current_assets": 9532000.0,
+    "fixed_assets": 14369000.0,
+    "total_liabilities": 15039000.0,
+    "current_liabilities": 6520000.0,
+    "long_term_liabilities": 7644000.0,
+    "shareholders_equity": 9427000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 233,
+    "n_white_collar_workers": 212
+  },
+  "board": [
+    {
+      "surname": "LILLJEGREN",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖGBERG",
+      "first_name": "EMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSVALD",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELMERSON",
+      "first_name": "H. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUEVESSON",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMGREN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÄGGSTRÖM",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SKANSBERG",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ORRMELL",
+      "first_name": "ARON",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ENGWALL",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

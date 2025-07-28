@@ -1,0 +1,86 @@
+{
+  "company_name": "AB Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 151841392.55,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5435981.29,
+    "net_income": 3509348.23
+  },
+  "balance_sheet": {
+    "total_assets": 65611058.71,
+    "current_assets": 22298798.81,
+    "fixed_assets": 27790734.79,
+    "total_liabilities": 13776558.71,
+    "current_liabilities": 9708279.28,
+    "long_term_liabilities": 4664250.0,
+    "shareholders_equity": 51834500.0
+  },
+  "employees": {
+    "n_employees": 6463,
+    "n_blue_collar_workers": 4723,
+    "n_white_collar_workers": 1708
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekeberg",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brundell",
+      "first_name": null,
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "von Horn",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordenfalk",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": null,
+      "initials": "O.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Biesèrt",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

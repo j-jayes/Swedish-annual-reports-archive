@@ -1,0 +1,92 @@
+{
+  "company_name": "LINOLEUM AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1957,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5061185.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1372820.0,
+    "depreciation": 1577652.17,
+    "net_income": 654496.69
+  },
+  "balance_sheet": {
+    "total_assets": 15697936.38,
+    "current_assets": 6588499.81,
+    "fixed_assets": 4461026.67,
+    "total_liabilities": 10016533.28,
+    "current_liabilities": 4107420.64,
+    "long_term_liabilities": 716947.82,
+    "shareholders_equity": 4000000.0
+  },
+  "employees": {
+    "n_employees": 119,
+    "n_blue_collar_workers": 234,
+    "n_white_collar_workers": 119
+  },
+  "board": [
+    {
+      "surname": "GRÖNBERG",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "THORNANDER",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "ZOELLY",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": null,
+      "initials": "C. G.",
+      "position": null
+    },
+    {
+      "surname": "SYPESTEΥΝ",
+      "first_name": "E. KAARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMSEN",
+      "first_name": "I.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": null,
+      "initials": "E. W.",
+      "auditing_firm": null
+    }
+  ]
+}

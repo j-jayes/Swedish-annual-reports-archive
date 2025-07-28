@@ -1,0 +1,86 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 2287669.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1023510.0
+  },
+  "balance_sheet": {
+    "total_assets": 17116232.0,
+    "current_assets": 6362665.0,
+    "fixed_assets": 10067482.0,
+    "total_liabilities": 7208152.0,
+    "current_liabilities": 5323220.0,
+    "long_term_liabilities": 687349.0,
+    "shareholders_equity": 9928080.0
+  },
+  "employees": {
+    "n_employees": 589,
+    "n_blue_collar_workers": 494,
+    "n_white_collar_workers": 95
+  },
+  "board": [
+    {
+      "surname": "PFANNENSTILL",
+      "first_name": "BO",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "ÖDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BERGENGREN",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HALLIN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGNELL",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "LINDQUIST",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KARLGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "KRONBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

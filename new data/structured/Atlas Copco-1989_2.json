@@ -1,0 +1,128 @@
+{
+  "company_name": "Atlas Copco",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 15035.0,
+    "cost_of_goods_sold": -12972.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": -337.0,
+    "net_income": 765.0
+  },
+  "balance_sheet": {
+    "total_assets": 13258.0,
+    "current_assets": 9880.0,
+    "fixed_assets": 3360.0,
+    "total_liabilities": 7902.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3941.0
+  },
+  "employees": {
+    "n_employees": 20057,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Mueller",
+      "first_name": null,
+      "initials": "P.",
+      "position": "Chairman"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tidemand",
+      "first_name": null,
+      "initials": "Otto",
+      "position": "Chairman"
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Deputy Member"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Deputy Member"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Deputy Member"
+    },
+    {
+      "surname": "Henning",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Améen",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Deputy Member"
+    },
+    {
+      "surname": "Nyholm",
+      "first_name": "Per-Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Giertz",
+      "first_name": null,
+      "initials": "Karl-G",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Herolf",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

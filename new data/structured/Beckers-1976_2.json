@@ -1,0 +1,128 @@
+{
+  "company_name": "Beckers",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 597.939,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 546.246,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 14.18,
+    "net_income": 12.482
+  },
+  "balance_sheet": {
+    "total_assets": 432.71,
+    "current_assets": 266.659,
+    "fixed_assets": 158.355,
+    "total_liabilities": 356.946,
+    "current_liabilities": 148.688,
+    "long_term_liabilities": 147.754,
+    "shareholders_equity": 75.764
+  },
+  "employees": {
+    "n_employees": 2449,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Gripenstedt",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Jörgensen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Lindqvist",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Rånby",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Säve",
+      "first_name": null,
+      "initials": "T",
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Christensen",
+      "first_name": "Ejner",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sparr",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Herr"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Feinstein",
+      "first_name": "Sten",
+      "initials": "Erik",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 526000.0
+  },
+  "balance_sheet": {
+    "total_assets": 32338000.0,
+    "current_assets": 16605000.0,
+    "fixed_assets": 15733000.0,
+    "total_liabilities": 20470000.0,
+    "current_liabilities": 5649000.0,
+    "long_term_liabilities": 14069000.0,
+    "shareholders_equity": 11868000.0
+  },
+  "employees": {
+    "n_employees": 558,
+    "n_blue_collar_workers": 449,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "TIGERSCHIOLD",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLSTEEN",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖBERG",
+      "first_name": "THURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖHOLM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JERN",
+      "first_name": "SETH",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

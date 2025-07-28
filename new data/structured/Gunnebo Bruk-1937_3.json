@@ -1,0 +1,51 @@
+{
+  "company_name": "Gunnebo Bruks Nya Aktiebolag",
+  "fiscal_year": 1937,
+  "income_statement": {
+    "revenue": 958598.53,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 496456.85,
+    "wages_expense": null,
+    "tax_expense": 62803.06,
+    "depreciation": 300000.0,
+    "net_income": 175546.42
+  },
+  "balance_sheet": {
+    "total_assets": 6189788.38,
+    "current_assets": null,
+    "fixed_assets": 4633000.0,
+    "total_liabilities": null,
+    "current_liabilities": 382798.41,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4027500.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hellgren.",
+      "first_name": "Rich.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenstierna.",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld.",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunström.",
+      "first_name": "Rudolf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

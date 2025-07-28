@@ -1,0 +1,70 @@
+{
+  "company_name": "AKTIEBOLAGET ELEKTROLUX",
+  "fiscal_year": 1939,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2500000.0,
+    "depreciation": null,
+    "net_income": 3427183.97
+  },
+  "balance_sheet": {
+    "total_assets": 74719348.58,
+    "current_assets": 32900085.04,
+    "fixed_assets": 41817139.03,
+    "total_liabilities": 4142144.79,
+    "current_liabilities": 4142144.79,
+    "long_term_liabilities": null,
+    "shareholders_equity": 19577203.79
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Enström",
+      "first_name": "Axel",
+      "initials": "A. F.",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wernher",
+      "first_name": "Harold",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Siegbahn",
+      "first_name": "Manne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": "G.",
+      "position": "vice Verkställande Direktör"
+    },
+    {
+      "surname": "Faulkner",
+      "first_name": null,
+      "initials": "H. G.",
+      "position": "Verkställande Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

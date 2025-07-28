@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET NORDISKA ARMATURFABRIKERNA",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 7377708.62,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 371457.79,
+    "depreciation": 2063146.0,
+    "net_income": 1422382.54
+  },
+  "balance_sheet": {
+    "total_assets": 59088751.35,
+    "current_assets": 33728930.55,
+    "fixed_assets": 17372013.0,
+    "total_liabilities": 23069905.55,
+    "current_liabilities": 14926856.78,
+    "long_term_liabilities": 8751101.7,
+    "shareholders_equity": 21535770.44
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1249,
+    "n_white_collar_workers": 628
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "Bror",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wennström",
+      "first_name": "Inge",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Aukt. rev."
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt.rev."
+    }
+  ],
+  "additional_notes": null
+}

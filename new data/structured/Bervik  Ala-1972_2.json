@@ -1,0 +1,98 @@
+{
+  "company_name": "Bergvik och Ala Aktiebolag",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 297.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 27.0,
+    "net_income": 8.755
+  },
+  "balance_sheet": {
+    "total_assets": 447.529,
+    "current_assets": 151.3,
+    "fixed_assets": 290.4,
+    "total_liabilities": 290.6,
+    "current_liabilities": 102.561,
+    "long_term_liabilities": 187.84,
+    "shareholders_equity": 113.364
+  },
+  "employees": {
+    "n_employees": 2631,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "Marcus",
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Nordgren",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Disponent"
+    },
+    {
+      "surname": "Reuterskiold",
+      "first_name": "Didrik",
+      "initials": null,
+      "auditing_firm": "Direktor"
+    }
+  ],
+  "additional_notes": null
+}

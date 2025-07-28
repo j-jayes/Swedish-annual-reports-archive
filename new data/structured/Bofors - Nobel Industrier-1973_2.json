@@ -1,0 +1,116 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 1178.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 58.0,
+    "net_income": 14.9
+  },
+  "balance_sheet": {
+    "total_assets": 1906.7,
+    "current_assets": 657.4,
+    "fixed_assets": 556.8,
+    "total_liabilities": 1168.9,
+    "current_liabilities": 737.8,
+    "long_term_liabilities": 390.8,
+    "shareholders_equity": 238.3
+  },
+  "employees": {
+    "n_employees": 12083,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre Rison",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderholm",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Waldenström",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Klint",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

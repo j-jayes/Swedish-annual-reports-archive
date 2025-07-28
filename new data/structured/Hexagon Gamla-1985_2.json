@@ -1,0 +1,140 @@
+{
+  "company_name": "Hexagon",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 2252.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 400.1,
+    "tax_expense": 37.7,
+    "depreciation": 51.6,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 1826.7,
+    "current_assets": 1232.6,
+    "fixed_assets": 528.0,
+    "total_liabilities": 1358.9,
+    "current_liabilities": 615.0,
+    "long_term_liabilities": 448.3,
+    "shareholders_equity": 467.8
+  },
+  "employees": {
+    "n_employees": 3777,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ek",
+      "first_name": "Torbjörn",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Carl-Sigvard",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Bruksdisponent, vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": "Civilekonom"
+    },
+    {
+      "surname": "Scharp",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Brink",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Montör, personalrepresentant"
+    },
+    {
+      "surname": "Leksell",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sällberg",
+      "first_name": "Margona",
+      "initials": null,
+      "position": "Lagerchef, personalrepresentant"
+    },
+    {
+      "surname": "Green",
+      "first_name": "Monica",
+      "initials": null,
+      "position": "Fabriksarbetare, personalrepresentant"
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Oscarsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Riksdagsman"
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Produktchef, personalrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ståhl",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

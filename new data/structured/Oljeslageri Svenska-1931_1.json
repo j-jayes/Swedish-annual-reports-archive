@@ -1,0 +1,70 @@
+{
+  "company_name": "SVENSKA OLJESLAGERIAKTIEBOLAGET",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": 639532.22,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 120000.0,
+    "net_income": 245210.97
+  },
+  "balance_sheet": {
+    "total_assets": 6191960.74,
+    "current_assets": 1959964.17,
+    "fixed_assets": 3455445.67,
+    "total_liabilities": 5926053.82,
+    "current_liabilities": 161053.82,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Leffler",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Aug",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wising",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blidberg",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "P. O.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rödjer",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Berlin",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

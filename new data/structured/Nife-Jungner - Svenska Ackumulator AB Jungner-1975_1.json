@@ -1,0 +1,134 @@
+{
+  "company_name": "NIFE JUNGNER AB",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 287.596,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 251.176,
+    "wages_expense": null,
+    "tax_expense": 7.249,
+    "depreciation": 7.478,
+    "net_income": 17.432
+  },
+  "balance_sheet": {
+    "total_assets": 307.948,
+    "current_assets": 234.859,
+    "fixed_assets": 67.857,
+    "total_liabilities": 205.556,
+    "current_liabilities": 79.806,
+    "long_term_liabilities": 86.569,
+    "shareholders_equity": 102.392
+  },
+  "employees": {
+    "n_employees": 2308,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "advokat"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "ingenjör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "avsynare"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Örtegren",
+      "first_name": "Tage",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Wieslander",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Fagerlund",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "fräsare"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "förman"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Theorin",
+      "first_name": "Lars-Åke",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Niklasson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Molinder",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

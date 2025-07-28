@@ -1,0 +1,116 @@
+{
+  "company_name": "Independent Finans AB",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 1644.662,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -1534.525,
+    "wages_expense": null,
+    "tax_expense": -23.491,
+    "depreciation": null,
+    "net_income": 19.869
+  },
+  "balance_sheet": {
+    "total_assets": 6389.889,
+    "current_assets": 3026.515,
+    "fixed_assets": 3026.515,
+    "total_liabilities": 6031.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 205.254
+  },
+  "employees": {
+    "n_employees": 331,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Algell",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Jones",
+      "first_name": "Ronald",
+      "initials": "S",
+      "position": "Styrelsesuppleant"
+    },
+    {
+      "surname": "Hilmertz",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Styrelsens sekreterare"
+    },
+    {
+      "surname": "Christensson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    },
+    {
+      "surname": "Brynell",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Thunander",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    },
+    {
+      "surname": "Lilliehöök",
+      "first_name": "Anna",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Cawsey",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Andrén",
+      "first_name": "Sven",
+      "initials": "G",
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Koncernchef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "Deloitte Haskins & Sells AB"
+    },
+    {
+      "surname": "Melin",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "Deloitte Haskins & Sells AB"
+    },
+    {
+      "surname": "Raspe",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Deloitte Haskins & Sells AB"
+    }
+  ],
+  "additional_notes": null
+}

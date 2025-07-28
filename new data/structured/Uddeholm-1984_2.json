@@ -1,0 +1,98 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 2368.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 58.0,
+    "net_income": 1051.0
+  },
+  "balance_sheet": {
+    "total_assets": 3802.0,
+    "current_assets": 1520.0,
+    "fixed_assets": 726.0,
+    "total_liabilities": 948.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2006.0
+  },
+  "employees": {
+    "n_employees": 2964,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Åke",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Sohlberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "SIF"
+    },
+    {
+      "surname": "Köhler",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Metall"
+    },
+    {
+      "surname": "Blomberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "vVD"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "SALF"
+    },
+    {
+      "surname": "Finnkvist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Metall"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

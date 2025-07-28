@@ -1,0 +1,104 @@
+{
+  "company_name": "Pharmacia",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 6794.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 269.0,
+    "depreciation": 393.0,
+    "net_income": 565.0
+  },
+  "balance_sheet": {
+    "total_assets": 7787.0,
+    "current_assets": 4621.0,
+    "fixed_assets": 2460.0,
+    "total_liabilities": 5320.0,
+    "current_liabilities": 1710.0,
+    "long_term_liabilities": 1447.0,
+    "shareholders_equity": 2467.0
+  },
+  "employees": {
+    "n_employees": 9705,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G",
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Danielsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Holmdahl",
+      "first_name": "Martin",
+      "initials": "H",
+      "position": null
+    },
+    {
+      "surname": "Lanneberg",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westling",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widén",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Lindgren",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Anställdas representant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "COOPERS & LYBRAND AB"
+    },
+    {
+      "surname": "Barnden",
+      "first_name": "Robert",
+      "initials": null,
+      "auditing_firm": "COOPERS & LYBRAND AB"
+    }
+  ],
+  "additional_notes": null
+}

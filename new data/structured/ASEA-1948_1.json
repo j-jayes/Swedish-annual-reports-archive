@@ -1,0 +1,80 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolaget",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 462500157.02,
+    "current_assets": 294974429.2,
+    "fixed_assets": 167525727.76,
+    "total_liabilities": 327100655.25,
+    "current_liabilities": null,
+    "long_term_liabilities": 66013085.88,
+    "shareholders_equity": 135399501.77
+  },
+  "employees": {
+    "n_employees": 25995,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Edström",
+      "first_name": null,
+      "initials": "JS",
+      "position": null
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": null,
+      "initials": "T",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": null,
+      "initials": "O",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ljungdahl",
+      "first_name": null,
+      "initials": "CE",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G",
+      "initials": "A",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Bolagets 66:e verksamhetsår"
+}

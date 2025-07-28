@@ -1,0 +1,98 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 377.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9.2,
+    "net_income": 5.9
+  },
+  "balance_sheet": {
+    "total_assets": 216.083,
+    "current_assets": null,
+    "fixed_assets": 59.347,
+    "total_liabilities": null,
+    "current_liabilities": 29.793,
+    "long_term_liabilities": null,
+    "shareholders_equity": 97.236
+  },
+  "employees": {
+    "n_employees": 5930,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "ORDF."
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "FRITHIOF",
+      "initials": null,
+      "position": "BANKDIREKTÖR"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": "DISPONENT"
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": "ÖVERINTENDENT"
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "SUNDÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "f. d. HOVRÄTTSRÅDET"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "AUKT. REVISOR"
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "auditing_firm": "DIREKTÖR"
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": "AUKT. REVISOR"
+    },
+    {
+      "surname": "NORDENBÄCK",
+      "first_name": "JAN",
+      "initials": null,
+      "auditing_firm": "AUKT. REVISOR"
+    }
+  ],
+  "additional_notes": null
+}

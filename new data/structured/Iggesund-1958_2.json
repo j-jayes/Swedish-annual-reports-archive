@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET IGGESUNDS BRUK",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 30939042.32,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1295000.0,
+    "depreciation": 7013945.24,
+    "net_income": 6376937.3
+  },
+  "balance_sheet": {
+    "total_assets": 134455176.51,
+    "current_assets": 52529556.95,
+    "fixed_assets": 43882331.11,
+    "total_liabilities": 74455176.51,
+    "current_liabilities": 7086874.18,
+    "long_term_liabilities": 4717939.0,
+    "shareholders_equity": 60000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

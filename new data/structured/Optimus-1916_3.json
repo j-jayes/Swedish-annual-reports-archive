@@ -1,0 +1,70 @@
+{
+  "company_name": "AKTIEBOLAGET OPTIMUS",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 116444.65,
+    "net_income": 525124.91
+  },
+  "balance_sheet": {
+    "total_assets": 4317032.36,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": 517309.13,
+    "long_term_liabilities": 550000.0,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "OSTBERG",
+      "first_name": "PETTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BILDT",
+      "first_name": "AXEL",
+      "initials": "R",
+      "position": null
+    },
+    {
+      "surname": "OTTERSTRÖM",
+      "first_name": "GILBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENELL",
+      "first_name": null,
+      "initials": "H. G. O.",
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": null,
+      "initials": "C. E.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOBERG",
+      "first_name": "EDV",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NEIGLICK",
+      "first_name": "CONRAD",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

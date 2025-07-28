@@ -1,0 +1,82 @@
+{
+  "company_name": "Aktiebolaget Bofors",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 128678612.75,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6982143.35,
+    "net_income": 5301911.43
+  },
+  "balance_sheet": {
+    "total_assets": 218777508.35,
+    "current_assets": 175631496.61,
+    "fixed_assets": 43146011.74,
+    "total_liabilities": 173954374.37,
+    "current_liabilities": 117461068.96,
+    "long_term_liabilities": 13572039.41,
+    "shareholders_equity": 41932500.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wilkens",
+      "first_name": "A",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": "L",
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Alfred",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Glimstedt",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "Verkst\nällande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wilkens",
+      "first_name": "A",
+      "initials": "J",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": "L",
+      "initials": "T",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Alfred",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

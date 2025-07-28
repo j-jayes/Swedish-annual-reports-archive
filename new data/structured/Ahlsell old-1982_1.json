@@ -1,0 +1,104 @@
+{
+  "company_name": "Ahlsell",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 3472.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 72.0
+  },
+  "balance_sheet": {
+    "total_assets": 2560.8,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 435.5
+  },
+  "employees": {
+    "n_employees": 6654,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Norlindh",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wirsäll",
+      "first_name": "Nils-Erik",
+      "initials": null,
+      "position": "V. ordförande"
+    },
+    {
+      "surname": "Brandt",
+      "first_name": "Horst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindblad",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bigl",
+      "first_name": "Gerhard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Carl Erik",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Einar Larssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

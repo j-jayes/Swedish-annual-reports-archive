@@ -1,0 +1,70 @@
+{
+  "company_name": "KINNEVIK",
+  "fiscal_year": 1962,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3502597.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1507650.84,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 11494.579,
+    "net_income": 1795857.42
+  },
+  "balance_sheet": {
+    "total_assets": 64177676.17,
+    "current_assets": 77883.22882,
+    "fixed_assets": 64060909.71,
+    "total_liabilities": 28847110.99,
+    "current_liabilities": 497246.56,
+    "long_term_liabilities": 28349864.43,
+    "shareholders_equity": 35082032.78666666
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "C.-R.",
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Kantzow",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindblom",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    },
+    {
+      "surname": "Morling",
+      "first_name": null,
+      "initials": "P. M.",
+      "auditing_firm": "Stockholms Handelskammare"
+    }
+  ]
+}

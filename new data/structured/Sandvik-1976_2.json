@@ -1,0 +1,98 @@
+{
+  "company_name": "Sandvik-Koncernen",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 3908.605,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3233.934,
+    "wages_expense": null,
+    "tax_expense": 64.012,
+    "depreciation": 218.018,
+    "net_income": 75.943
+  },
+  "balance_sheet": {
+    "total_assets": 5537.165,
+    "current_assets": 3774.776,
+    "fixed_assets": 1726.5,
+    "total_liabilities": 4638.542,
+    "current_liabilities": 1330.745,
+    "long_term_liabilities": 1875.018,
+    "shareholders_equity": 1113.581
+  },
+  "employees": {
+    "n_employees": 27891,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Direktör, ordförande"
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Civilingenjör, vice ordförande"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan H.",
+      "initials": null,
+      "position": "Bankdirektör, vice ordförande"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Bruksdisponent, verkst. direktör"
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Docent"
+    },
+    {
+      "surname": "Bahrke",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Stake",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Kvarfordh",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Ingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Koraen",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

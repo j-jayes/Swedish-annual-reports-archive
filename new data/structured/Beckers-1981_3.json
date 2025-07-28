@@ -1,0 +1,110 @@
+{
+  "company_name": "BECKERS",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 1122.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 19.8
+  },
+  "balance_sheet": {
+    "total_assets": 740.5,
+    "current_assets": 469.3,
+    "fixed_assets": 267.3,
+    "total_liabilities": 267.0,
+    "current_liabilities": 235.9,
+    "long_term_liabilities": 267.0,
+    "shareholders_equity": 150.6
+  },
+  "employees": {
+    "n_employees": 2681,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Christensen",
+      "first_name": "Ejner",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gripenstedt",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jörgensen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindqvist",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rånby",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Säve",
+      "first_name": "Carl T",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mivér",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Feinstein",
+      "first_name": "Sten Erik",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Ryne",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

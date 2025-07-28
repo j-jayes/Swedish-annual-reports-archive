@@ -1,0 +1,104 @@
+{
+  "company_name": "AB Pripps Bryggerier",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 1245923000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 66000.0,
+    "depreciation": null,
+    "net_income": 7708000.0
+  },
+  "balance_sheet": {
+    "total_assets": 709843000.0,
+    "current_assets": 254952000.0,
+    "fixed_assets": 436887000.0,
+    "total_liabilities": 330345000.0,
+    "current_liabilities": 235765000.0,
+    "long_term_liabilities": 57081000.0,
+    "shareholders_equity": 82589000.0
+  },
+  "employees": {
+    "n_employees": 3436,
+    "n_blue_collar_workers": 2397,
+    "n_white_collar_workers": 1039
+  },
+  "board": [
+    {
+      "surname": "Lindmark",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": "H",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Christian",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Hugo",
+      "initials": "V",
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "\"\".",
+      "initials": "\"",
+      "position": null
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": "M",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Söderström",
+      "first_name": "Olof",
+      "initials": "A",
+      "position": null
+    },
+    {
+      "surname": "Ekstrom",
+      "first_name": "Derrick",
+      "initials": "M",
+      "position": "arbetstagarledamot"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Valter",
+      "initials": "E",
+      "position": "arbetstagarledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Marcusson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

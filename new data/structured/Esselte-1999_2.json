@@ -1,0 +1,98 @@
+{
+  "company_name": "Esselte",
+  "fiscal_year": 1999,
+  "income_statement": {
+    "revenue": 11192.0,
+    "cost_of_goods_sold": -8195.0,
+    "operating_expenses": -2774.0,
+    "wages_expense": null,
+    "tax_expense": -3.0,
+    "depreciation": null,
+    "net_income": -231.0
+  },
+  "balance_sheet": {
+    "total_assets": 6911.0,
+    "current_assets": 4716.0,
+    "fixed_assets": 222.0,
+    "total_liabilities": 3743.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2597.0
+  },
+  "employees": {
+    "n_employees": 7038,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Kvarnström",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Fröhlich",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": "Vice styrelseordförande"
+    },
+    {
+      "surname": "Jofs",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "Koncernchef"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Koncernchef och VD"
+    },
+    {
+      "surname": "Ohlsson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Stern",
+      "first_name": "Brian",
+      "initials": null,
+      "position": "Vice VD"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Ingela",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Luthman",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Markborn",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen & Co"
+    }
+  ],
+  "additional_notes": null
+}

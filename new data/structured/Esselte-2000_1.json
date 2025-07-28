@@ -1,0 +1,86 @@
+{
+  "company_name": "Esselte",
+  "fiscal_year": 2000,
+  "income_statement": {
+    "revenue": 11095.0,
+    "cost_of_goods_sold": 8044.0,
+    "operating_expenses": 2596.0,
+    "wages_expense": null,
+    "tax_expense": 110.0,
+    "depreciation": 473.0,
+    "net_income": 164.0
+  },
+  "balance_sheet": {
+    "total_assets": 9094.0,
+    "current_assets": 4846.0,
+    "fixed_assets": 3442.0,
+    "total_liabilities": 3745.0,
+    "current_liabilities": 2761.0,
+    "long_term_liabilities": 0.0,
+    "shareholders_equity": 2588.0
+  },
+  "employees": {
+    "n_employees": 6398,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Fröhlich",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": "Vice styrelseordförande"
+    },
+    {
+      "surname": "Igel",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Stern",
+      "first_name": "Brian",
+      "initials": null,
+      "position": "Senior Vice President"
+    },
+    {
+      "surname": "Ohlsson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Jungner",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Senior Investment Manager"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Ingela",
+      "initials": null,
+      "position": "Anställd"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Birgersson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

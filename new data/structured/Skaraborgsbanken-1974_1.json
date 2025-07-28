@@ -1,0 +1,134 @@
+{
+  "company_name": "SKARABORGSBANKEN",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 54.77,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 32.777,
+    "wages_expense": 15.778,
+    "tax_expense": 3.685,
+    "depreciation": null,
+    "net_income": 3.308
+  },
+  "balance_sheet": {
+    "total_assets": 1743.429,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 46.164
+  },
+  "employees": {
+    "n_employees": 351,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": "G.",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Davidsson",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Möller",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Levin",
+      "first_name": "Bengt",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Vice verkst. direktör"
+    },
+    {
+      "surname": "Ulfengborg",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Demitz-Helin",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thulin",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

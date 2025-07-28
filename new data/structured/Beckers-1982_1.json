@@ -1,0 +1,98 @@
+{
+  "company_name": "Wilh. Becker",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 1311.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5.9,
+    "depreciation": 27.3,
+    "net_income": 7.1
+  },
+  "balance_sheet": {
+    "total_assets": 873.7,
+    "current_assets": 557.6,
+    "fixed_assets": 312.7,
+    "total_liabilities": 709.2,
+    "current_liabilities": 295.6,
+    "long_term_liabilities": 319.2,
+    "shareholders_equity": 164.5
+  },
+  "employees": {
+    "n_employees": 2499,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Christensen",
+      "first_name": "Ejner",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindqvist",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rånby",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Säve",
+      "first_name": "Carl T",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Viksten",
+      "first_name": "Roland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Feinstein",
+      "first_name": "Sten Erik",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

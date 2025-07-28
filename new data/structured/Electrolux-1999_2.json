@@ -1,0 +1,128 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1999,
+  "income_statement": {
+    "revenue": 119550.0,
+    "cost_of_goods_sold": -87288.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -2005.0,
+    "depreciation": 3905.0,
+    "net_income": 4175.0
+  },
+  "balance_sheet": {
+    "total_assets": 81644.0,
+    "current_assets": 53593.0,
+    "fixed_assets": 28051.0,
+    "total_liabilities": null,
+    "current_liabilities": 21927.0,
+    "long_term_liabilities": 23440.0,
+    "shareholders_equity": 25781.0
+  },
+  "employees": {
+    "n_employees": 92916,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Bruzelius",
+      "first_name": "Peggy",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Halvorsen",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hughes",
+      "first_name": "Louis",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Idei",
+      "first_name": "Nobuyuki",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "Michael",
+      "initials": null,
+      "position": "President and CEO"
+    },
+    {
+      "surname": "Vuursteen",
+      "first_name": "Karel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Bert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Björnberg",
+      "first_name": "Malin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dellner",
+      "first_name": "Richard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gert",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jansson",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    }
+  ],
+  "additional_notes": null
+}

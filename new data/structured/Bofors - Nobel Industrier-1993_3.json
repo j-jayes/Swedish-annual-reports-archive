@@ -1,0 +1,98 @@
+{
+  "company_name": "Nobel Industrier",
+  "fiscal_year": 1993,
+  "income_statement": {
+    "revenue": 22.794,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 20.214,
+    "wages_expense": null,
+    "tax_expense": 532.0,
+    "depreciation": 1.596,
+    "net_income": -165.0
+  },
+  "balance_sheet": {
+    "total_assets": 28.273,
+    "current_assets": 5.531,
+    "fixed_assets": 10.953,
+    "total_liabilities": 7.087,
+    "current_liabilities": 7.389,
+    "long_term_liabilities": 4.259,
+    "shareholders_equity": 1.686
+  },
+  "employees": {
+    "n_employees": 17103,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Magnusson",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martinsson",
+      "first_name": "Barbro",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ahlström",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsgren",
+      "first_name": "Jack",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunell",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Robert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martinsson",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

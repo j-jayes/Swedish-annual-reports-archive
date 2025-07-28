@@ -1,0 +1,64 @@
+{
+  "company_name": "FÖRVALTNINGSAKTIEBOLAGET PROVIDENTIA",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 8.95450154,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 378.07334,
+    "depreciation": 331.82204,
+    "net_income": 7.22214723
+  },
+  "balance_sheet": {
+    "total_assets": 64.66338086,
+    "current_assets": 259.75606,
+    "fixed_assets": 58.582,
+    "total_liabilities": 10.50333406,
+    "current_liabilities": 3.18247357,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Anér",
+      "first_name": "Josef",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G. A.",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ohlson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

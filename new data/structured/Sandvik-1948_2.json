@@ -1,0 +1,86 @@
+{
+  "company_name": "Sandvikens Jernverks Aktiebolag",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 14392614.25,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3060639.0,
+    "depreciation": null,
+    "net_income": 3009565.62
+  },
+  "balance_sheet": {
+    "total_assets": 118896822.09,
+    "current_assets": 71139460.09,
+    "fixed_assets": 47757362.0,
+    "total_liabilities": null,
+    "current_liabilities": 15194660.65,
+    "long_term_liabilities": 48815235.0,
+    "shareholders_equity": 49324695.0
+  },
+  "employees": {
+    "n_employees": 6449,
+    "n_blue_collar_workers": 5070,
+    "n_white_collar_workers": 1379
+  },
+  "board": [
+    {
+      "surname": "Göransson",
+      "first_name": "K F",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Erik W",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Erik G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": "O",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

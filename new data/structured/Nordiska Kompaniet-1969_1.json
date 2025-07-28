@@ -1,0 +1,92 @@
+{
+  "company_name": "NK-Koncernen",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 428.686,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1287.0,
+    "depreciation": null,
+    "net_income": 7.001
+  },
+  "balance_sheet": {
+    "total_assets": 304.648,
+    "current_assets": 154.959,
+    "fixed_assets": 149.647,
+    "total_liabilities": 184.573,
+    "current_liabilities": 64.868,
+    "long_term_liabilities": 69.707,
+    "shareholders_equity": 120.075
+  },
+  "employees": {
+    "n_employees": 3186,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Belfrage",
+      "first_name": "Kurt-Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brusewitz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydman",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sachs",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Turitz",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkst, direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Setterwall",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

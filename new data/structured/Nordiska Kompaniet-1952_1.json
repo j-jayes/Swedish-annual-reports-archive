@@ -1,0 +1,92 @@
+{
+  "company_name": "Aktiebolaget Nordiska Kompaniet",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 22942371.77,
+    "tax_expense": null,
+    "depreciation": 946219.61,
+    "net_income": 2324974.57
+  },
+  "balance_sheet": {
+    "total_assets": 89404882.4,
+    "current_assets": 47189691.51,
+    "fixed_assets": 42215190.89,
+    "total_liabilities": 36589353.56,
+    "current_liabilities": 10181765.64,
+    "long_term_liabilities": 26407587.91,
+    "shareholders_equity": 42815587.85
+  },
+  "employees": {
+    "n_employees": 2769,
+    "n_blue_collar_workers": 876,
+    "n_white_collar_workers": 1893
+  },
+  "board": [
+    {
+      "surname": "WARN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUSEWITZ",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHROFF",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRIIS",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KALDERÉN",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": "C.",
+      "initials": "ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

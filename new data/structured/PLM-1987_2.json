@@ -1,0 +1,116 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 4217.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3732.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 93.4
+  },
+  "balance_sheet": {
+    "total_assets": 3349.2,
+    "current_assets": 2012.6,
+    "fixed_assets": 1330.6,
+    "total_liabilities": 1110.7,
+    "current_liabilities": 953.6,
+    "long_term_liabilities": 835.6,
+    "shareholders_equity": 530.4
+  },
+  "employees": {
+    "n_employees": 7489,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langebæk",
+      "first_name": "Steen",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindeblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergenhem",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brändström",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frisinger",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiklund",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Sam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wernersson",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "Aktiebolaget Iggesunds Bruk",
+  "fiscal_year": 1945,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3560191.06,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1330534.85,
+    "depreciation": null,
+    "net_income": 1486438.2165520699
+  },
+  "balance_sheet": {
+    "total_assets": 26608842.05108104,
+    "current_assets": 8477489.742041893,
+    "fixed_assets": 18131317.41444503,
+    "total_liabilities": 6322489.21233073,
+    "current_liabilities": 4341.578468056667,
+    "long_term_liabilities": 4800001.511,
+    "shareholders_equity": 9600004.8
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Bexelius",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Weinberg",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    }
+  ]
+}

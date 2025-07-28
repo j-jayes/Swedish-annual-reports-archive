@@ -1,0 +1,43 @@
+{
+  "company_name": "INCENTIVE",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 7638.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 224.0,
+    "depreciation": null,
+    "net_income": 572.0
+  },
+  "balance_sheet": {
+    "total_assets": 5816.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1631.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 805.0
+  },
+  "employees": {
+    "n_employees": 10136,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "WIDHAGEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "GEZELIUS",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

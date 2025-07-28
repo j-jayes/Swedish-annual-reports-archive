@@ -1,0 +1,104 @@
+{
+  "company_name": "Sandvik AB",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 12560.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 474.0,
+    "net_income": 938.0
+  },
+  "balance_sheet": {
+    "total_assets": 13764.0,
+    "current_assets": 9356.0,
+    "fixed_assets": 4248.0,
+    "total_liabilities": null,
+    "current_liabilities": 4184.0,
+    "long_term_liabilities": 3278.0,
+    "shareholders_equity": 3004.0
+  },
+  "employees": {
+    "n_employees": 24033,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Löwhagen",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmros",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "Isaksson",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ollén",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Honkamäki",
+      "first_name": "Eino",
+      "initials": null,
+      "position": "Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

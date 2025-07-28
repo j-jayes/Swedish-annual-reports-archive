@@ -1,0 +1,88 @@
+{
+  "company_name": "FÖRSÄKRINGSAKTIEBOLAGET ATLANTICA",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 11149766.99,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 46970.48,
+    "depreciation": null,
+    "net_income": 644355.93
+  },
+  "balance_sheet": {
+    "total_assets": 22706448.51,
+    "current_assets": 9207602.54,
+    "fixed_assets": 13500000.0,
+    "total_liabilities": 1500000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7978006.78
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "CARLSSON",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K. R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGLÖF",
+      "first_name": "ROB.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": "K. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LANGE",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    }
+  ],
+  "additional_notes": null
+}

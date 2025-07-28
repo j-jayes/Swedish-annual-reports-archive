@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET BOFORS",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1202080.53,
+    "net_income": 1037145.98
+  },
+  "balance_sheet": {
+    "total_assets": 41282839.45,
+    "current_assets": null,
+    "fixed_assets": 16915979.92,
+    "total_liabilities": 18743175.89,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1464663.56
+  },
+  "employees": {
+    "n_employees": 2482,
+    "n_blue_collar_workers": 2228,
+    "n_white_collar_workers": 254
+  },
+  "board": [
+    {
+      "surname": "Odelberg",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wingquist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydbeck",
+      "first_name": "O.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "H.",
+      "initials": "Th.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Setterwall",
+      "first_name": "Albin",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Natt och Dag",
+      "first_name": "Knut",
+      "initials": "H:son",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

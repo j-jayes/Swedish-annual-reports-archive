@@ -1,0 +1,74 @@
+{
+  "company_name": "HOLMENS BRUKS OCH FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1946,
+  "income_statement": {
+    "revenue": 12788947.85,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 11867147.38,
+    "wages_expense": null,
+    "tax_expense": 2073000.0,
+    "depreciation": 2568476.0,
+    "net_income": 3266462.83
+  },
+  "balance_sheet": {
+    "total_assets": 82245316.05,
+    "current_assets": 20944390.05,
+    "fixed_assets": 38633978.39,
+    "total_liabilities": 18588020.88,
+    "current_liabilities": 17351200.0,
+    "long_term_liabilities": 7088296.34,
+    "shareholders_equity": 35735553.64
+  },
+  "employees": {
+    "n_employees": 726,
+    "n_blue_collar_workers": 3141,
+    "n_white_collar_workers": 711
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "E",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fristedt",
+      "first_name": "J",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": "Chr",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

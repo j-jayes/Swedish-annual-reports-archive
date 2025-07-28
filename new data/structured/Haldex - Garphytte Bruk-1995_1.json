@@ -1,0 +1,110 @@
+{
+  "company_name": "Garphyttan",
+  "fiscal_year": 1995,
+  "income_statement": {
+    "revenue": 2472.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -97.9,
+    "depreciation": null,
+    "net_income": 193.7
+  },
+  "balance_sheet": {
+    "total_assets": 1311.0,
+    "current_assets": 774.1,
+    "fixed_assets": 536.9,
+    "total_liabilities": 688.4,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 622.6
+  },
+  "employees": {
+    "n_employees": 1839,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LILIUS",
+      "first_name": "MIKAEL",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "LINDEROTH",
+      "first_name": "KARL-AXEL",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "JAGRAEUS",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Vice VD"
+    },
+    {
+      "surname": "JANSSON",
+      "first_name": "URBAN",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "PALMGREN",
+      "first_name": "KURT",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "WARNANDER",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "EDWARDSSON",
+      "first_name": "BÖRJE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JANSSON",
+      "first_name": "SÖREN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRAGGSTEDT",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Vice VD"
+    },
+    {
+      "surname": "CEDERLUND",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CRONSELL",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WIDHAGEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "FERNSTRÖM",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

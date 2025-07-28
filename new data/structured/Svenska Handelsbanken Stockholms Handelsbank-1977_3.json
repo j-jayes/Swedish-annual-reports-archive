@@ -1,0 +1,170 @@
+{
+  "company_name": "Svenska Handelsbanken",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 1358.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 776.0,
+    "wages_expense": 494.3,
+    "tax_expense": 90.0,
+    "depreciation": null,
+    "net_income": 124.8
+  },
+  "balance_sheet": {
+    "total_assets": 40518.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 39441.0,
+    "current_liabilities": null,
+    "long_term_liabilities": 2653.0,
+    "shareholders_equity": 1077.0
+  },
+  "employees": {
+    "n_employees": 4703,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROWALDH",
+      "first_name": "TORE",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": "vice ordf"
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "vice ordf"
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLGREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKSTRÖM",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRAFSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HINDEMARK",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLGERSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHNSON",
+      "first_name": "BO",
+      "initials": "AX:SON",
+      "position": null
+    },
+    {
+      "surname": "NYBERG",
+      "first_name": "INGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STYREN",
+      "first_name": "ULF",
+      "initials": "A",
+      "position": null
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": "verkst dir"
+    },
+    {
+      "surname": "WIDERSTRÖM",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "YTTERSKOG",
+      "first_name": "KAJ",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KÄLLENIUS",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EDSTRÖM",
+      "first_name": "KJELL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FLINK",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HENCKEL",
+      "first_name": "TORE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OREDSSON",
+      "first_name": "MALTE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WESTERLIND",
+      "first_name": "PETER",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

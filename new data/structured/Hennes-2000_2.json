@@ -1,0 +1,116 @@
+{
+  "company_name": "H & M Hennes & Mauritz AB",
+  "fiscal_year": 2000,
+  "income_statement": {
+    "revenue": 35876.1,
+    "cost_of_goods_sold": 15056.9,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1450.5,
+    "depreciation": 629.1,
+    "net_income": 2552.7
+  },
+  "balance_sheet": {
+    "total_assets": 15700.4,
+    "current_assets": 10645.2,
+    "fixed_assets": 5055.2,
+    "total_liabilities": null,
+    "current_liabilities": 3033.2,
+    "long_term_liabilities": 41.9,
+    "shareholders_equity": 11889.8
+  },
+  "employees": {
+    "n_employees": 20680,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Brusberg",
+      "first_name": "Birgitta",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Hofer",
+      "first_name": "Werner",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Director of Finance"
+    },
+    {
+      "surname": "Kvart",
+      "first_name": "Sussi",
+      "initials": null,
+      "position": "Legal council"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Norin-Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Deputy employee representative"
+    },
+    {
+      "surname": "Eriksen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Chief Executive Officer and Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Heden",
+      "first_name": "\"\". Åke",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

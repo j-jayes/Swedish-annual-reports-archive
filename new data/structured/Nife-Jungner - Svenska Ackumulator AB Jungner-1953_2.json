@@ -1,0 +1,62 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 9515249.34,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2240000.0,
+    "depreciation": 1792897.59,
+    "net_income": 2168304.65
+  },
+  "balance_sheet": {
+    "total_assets": 75018260.47,
+    "current_assets": 44206079.68,
+    "fixed_assets": 13718001.85,
+    "total_liabilities": 5989977.02,
+    "current_liabilities": 7868791.48,
+    "long_term_liabilities": 21280800.0,
+    "shareholders_equity": 15115800.0
+  },
+  "employees": {
+    "n_employees": 2555,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Jung",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundvik",
+      "first_name": "Vilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Robert",
+      "initials": null,
+      "position": "Verkst\":allande direkt\":or"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nelson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "FÖRSÄKRINGSAKTIEBOLAGET ATLANTICA",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 12848471.52,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 462250.0,
+    "depreciation": null,
+    "net_income": 506633.43
+  },
+  "balance_sheet": {
+    "total_assets": 38267322.44,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 32267322.44,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6000000.0
+  },
+  "employees": {
+    "n_employees": 38,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E",
+      "initials": "E.W.",
+      "position": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": "K",
+      "initials": "K.E.",
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "G",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K",
+      "initials": "K.R.",
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDEN",
+      "first_name": "DAVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDQVIST",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KIHLBOM",
+      "first_name": "NICLAS",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FALLENIUS",
+      "first_name": "C-A",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KARLGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

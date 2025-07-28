@@ -1,0 +1,70 @@
+{
+  "company_name": "FÖRVALTNINGSAKTIEBOLAGET PROVIDENTIA",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 4851030.81,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1900.0,
+    "depreciation": 302671.25,
+    "net_income": 4241485.61
+  },
+  "balance_sheet": {
+    "total_assets": 50091716.4,
+    "current_assets": 273611.4,
+    "fixed_assets": 49818105.0,
+    "total_liabilities": null,
+    "current_liabilities": 7133523.51,
+    "long_term_liabilities": null,
+    "shareholders_equity": 34800000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Anér",
+      "first_name": "Josef",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": "G. A.",
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Douglas",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wahlberg",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

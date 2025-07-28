@@ -1,0 +1,50 @@
+{
+  "company_name": "Nordbanken",
+  "years_covered": "1986-1996",
+  "total_years": 6,
+  "total_members": 32,
+  "avg_board_size": 6.833333333333333,
+  "avg_tenure": 2.03125,
+  "median_tenure": 1.0,
+  "avg_turnover_rate": 0.8023076923076923,
+  "board_size_by_year": {
+    "1986": 2,
+    "1987": 13,
+    "1988": 11,
+    "1989": 2,
+    "1990": 13,
+    "1996": 0
+  },
+  "turnover_by_period": {
+    "1986-1987": {
+      "joined": 6,
+      "left": 4,
+      "stayed": 8,
+      "turnover_rate": 0.6666666666666666
+    },
+    "1987-1988": {
+      "joined": 0,
+      "left": 2,
+      "stayed": 12,
+      "turnover_rate": 0.08333333333333333
+    },
+    "1988-1989": {
+      "joined": 4,
+      "left": 2,
+      "stayed": 10,
+      "turnover_rate": 0.46153846153846156
+    },
+    "1989-1990": {
+      "joined": 13,
+      "left": 14,
+      "stayed": 0,
+      "turnover_rate": 1.8
+    },
+    "1990-1996": {
+      "joined": 0,
+      "left": 13,
+      "stayed": 0,
+      "turnover_rate": 1.0
+    }
+  }
+}

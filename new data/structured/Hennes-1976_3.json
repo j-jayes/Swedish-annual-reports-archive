@@ -1,0 +1,86 @@
+{
+  "company_name": "H & M HENNES & MAURITZ AB",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 927.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 33.6,
+    "depreciation": 4.7,
+    "net_income": 25.9
+  },
+  "balance_sheet": {
+    "total_assets": 228.8,
+    "current_assets": 191.8,
+    "fixed_assets": 26.7,
+    "total_liabilities": 181.8,
+    "current_liabilities": 88.2,
+    "long_term_liabilities": 5.1,
+    "shareholders_equity": 47.0
+  },
+  "employees": {
+    "n_employees": 2610,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Mattson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stjernquist",
+      "first_name": "Inge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erling",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Kristfeldt",
+      "first_name": "Jens",
+      "initials": "Ove",
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

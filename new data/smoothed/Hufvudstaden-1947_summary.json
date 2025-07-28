@@ -1,0 +1,74 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET HUFVUDSTADEN",
+  "fiscal_year": 1947,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3164189.55,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 468706.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 339442.69666666666,
+    "net_income": 991849.95
+  },
+  "balance_sheet": {
+    "total_assets": 66328799.14,
+    "current_assets": 360859.91,
+    "fixed_assets": 60284525.0,
+    "total_liabilities": 46228799.156666666,
+    "current_liabilities": 2253536.47,
+    "long_term_liabilities": 40216816.05,
+    "shareholders_equity": 20100000.0
+  },
+  "employees": {
+    "n_employees": 116,
+    "n_blue_collar_workers": 86,
+    "n_white_collar_workers": 30
+  },
+  "board": [
+    {
+      "surname": "Dunker",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wibom",
+      "first_name": "Tor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zethelius",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Krusenstjerna",
+      "first_name": "F.",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "Celsing",
+      "first_name": "F.",
+      "initials": "v.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Fessé",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "company_name": "Boliden AB",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 3991.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 24.6,
+    "depreciation": null,
+    "net_income": 72.3
+  },
+  "balance_sheet": {
+    "total_assets": 4086.6,
+    "current_assets": 2023.9,
+    "fixed_assets": 2056.3,
+    "total_liabilities": 1251.4,
+    "current_liabilities": 1039.0,
+    "long_term_liabilities": 971.9,
+    "shareholders_equity": 633.5
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Glenngård",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Hagströms Revisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil E.",
+      "initials": "B.E.",
+      "auditing_firm": "Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

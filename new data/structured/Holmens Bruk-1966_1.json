@@ -1,0 +1,80 @@
+{
+  "company_name": "HOLMENS BRUK",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 58494906.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 26734896.0,
+    "net_income": 7966168.0
+  },
+  "balance_sheet": {
+    "total_assets": 387571506.0,
+    "current_assets": 178174858.0,
+    "fixed_assets": 209396648.0,
+    "total_liabilities": 252524233.0,
+    "current_liabilities": 70841705.0,
+    "long_term_liabilities": 152398587.0,
+    "shareholders_equity": 135047273.0
+  },
+  "employees": {
+    "n_employees": 4592,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Boheman",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gabrielson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Oiar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": "Advokat"
+    }
+  ],
+  "additional_notes": null
+}

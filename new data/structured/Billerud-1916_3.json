@@ -1,0 +1,70 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": 3442905.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3429852.64
+  },
+  "balance_sheet": {
+    "total_assets": 19505937.58,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 8971356.49,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7252045.85
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ewert",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Axel F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Axelson",
+      "first_name": "H. von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brunes",
+      "first_name": "And.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storjohann",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Aquilon",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bäärnhielm",
+      "first_name": "L.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AB",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 1071.553739,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 885.112969,
+    "wages_expense": null,
+    "tax_expense": 41.0,
+    "depreciation": 108.586323,
+    "net_income": 42.0
+  },
+  "balance_sheet": {
+    "total_assets": 1344.956541,
+    "current_assets": 339.522426,
+    "fixed_assets": 646.869899,
+    "total_liabilities": 681.886592,
+    "current_liabilities": 210.083169,
+    "long_term_liabilities": 153.835429,
+    "shareholders_equity": 663.069949
+  },
+  "employees": {
+    "n_employees": 11371,
+    "n_blue_collar_workers": 9050,
+    "n_white_collar_workers": 2321
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": "M",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": "Ståthållare"
+    },
+    {
+      "surname": "Malmfors",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Generaldirektör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Essen",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "Friherre"
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Sven-Håkan",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Carl Axel",
+      "initials": null,
+      "auditing_firm": "\"\nv Överlantmätare"
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G",
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

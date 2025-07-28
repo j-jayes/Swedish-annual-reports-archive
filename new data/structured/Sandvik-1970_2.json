@@ -1,0 +1,134 @@
+{
+  "company_name": "SANDVIK-KONCERNEN",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 1600.882,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1244.921,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 84.615,
+    "net_income": 39.496
+  },
+  "balance_sheet": {
+    "total_assets": 2113.172,
+    "current_assets": 1362.844,
+    "fixed_assets": 698.319,
+    "total_liabilities": 1630.75,
+    "current_liabilities": 597.597,
+    "long_term_liabilities": 628.592,
+    "shareholders_equity": 482.422
+  },
+  "employees": {
+    "n_employees": 18173,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": "Jr.",
+      "position": null
+    },
+    {
+      "surname": "LANDQVIST",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Docent"
+    },
+    {
+      "surname": "BAHRKE",
+      "first_name": "SIGVARD",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "CLASON",
+      "first_name": "EDWARD",
+      "initials": null,
+      "position": "Kommendör"
+    },
+    {
+      "surname": "EDSTRÖM",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KLINGSPOR",
+      "first_name": "CARL-GUSTAF",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "RYDIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Hovrättsrådet"
+    },
+    {
+      "surname": "AF UGGLAS",
+      "first_name": "MARGARETHA",
+      "initials": null,
+      "position": "Civilekonom"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "KORAEN",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": "Bergsingenjör"
+    },
+    {
+      "surname": "NORDENBACK",
+      "first_name": "JAN",
+      "initials": null,
+      "auditing_firm": "Aukt Revisor"
+    },
+    {
+      "surname": "MORLING",
+      "first_name": "PEHR",
+      "initials": "M",
+      "auditing_firm": "Aukt, Revisor"
+    },
+    {
+      "surname": "ALMQVIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "Hellefors Bruks Aktiebolags",
+  "fiscal_year": 1915,
+  "income_statement": {
+    "revenue": 1395543.58,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 373303.78,
+    "net_income": 633868.67
+  },
+  "balance_sheet": {
+    "total_assets": 12872553.5,
+    "current_assets": 1285483.24,
+    "fixed_assets": 10935727.75,
+    "total_liabilities": null,
+    "current_liabilities": 3139937.05,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6010434.65
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Åkerström",
+      "first_name": "B.",
+      "initials": "B. A.",
+      "position": null
+    },
+    {
+      "surname": "Falkman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "F.",
+      "initials": "F. G.",
+      "position": null
+    },
+    {
+      "surname": "Ros.",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wigelius.",
+      "first_name": "Th.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona.",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ljungdahl.",
+      "first_name": "C.",
+      "initials": "C. E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

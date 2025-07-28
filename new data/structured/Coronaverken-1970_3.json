@@ -1,0 +1,88 @@
+{
+  "company_name": "Coronaverken AB",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 446.43,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 11.044,
+    "net_income": 8.022
+  },
+  "balance_sheet": {
+    "total_assets": 378.289,
+    "current_assets": 296.197,
+    "fixed_assets": 76.748,
+    "total_liabilities": 177.484,
+    "current_liabilities": 177.484,
+    "long_term_liabilities": 67.772,
+    "shareholders_equity": 71.584
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hartmann",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hill-Lindqvist",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trolle",
+      "first_name": "Ulf",
+      "initials": "af",
+      "position": null
+    },
+    {
+      "surname": "Ljungcrantz",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Risberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Simonsson",
+      "first_name": "Svante",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjalmarsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ahrén",
+      "first_name": "Claes",
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rilby",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

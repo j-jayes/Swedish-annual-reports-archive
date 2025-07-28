@@ -1,0 +1,104 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 595.141,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9.295,
+    "depreciation": 43.096,
+    "net_income": 14.0
+  },
+  "balance_sheet": {
+    "total_assets": 652.109,
+    "current_assets": 296.789,
+    "fixed_assets": 350.49,
+    "total_liabilities": 338.945,
+    "current_liabilities": 78.95,
+    "long_term_liabilities": 258.681,
+    "shareholders_equity": 298.104
+  },
+  "employees": {
+    "n_employees": 13428,
+    "n_blue_collar_workers": 10823,
+    "n_white_collar_workers": 2605
+  },
+  "board": [
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": "C A",
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AKERMAN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": "K-G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WERNER",
+      "first_name": "DONOVAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDAHL",
+      "first_name": "MAGNUS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FRISELL",
+      "first_name": "G",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GEIJER",
+      "first_name": "REINH",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "UPMARK",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

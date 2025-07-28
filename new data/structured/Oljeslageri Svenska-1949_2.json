@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA OLJESLAGERI AKTIEBOLAGET",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 1709990.48,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 370000.0,
+    "depreciation": 140613.0,
+    "net_income": 1412485.27
+  },
+  "balance_sheet": {
+    "total_assets": 17453942.66,
+    "current_assets": 14663571.42,
+    "fixed_assets": 2790371.24,
+    "total_liabilities": 16537708.25,
+    "current_liabilities": 16537708.25,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5738432.24
+  },
+  "employees": {
+    "n_employees": 470,
+    "n_blue_collar_workers": 266,
+    "n_white_collar_workers": 204
+  },
+  "board": [
+    {
+      "surname": "Sörensen",
+      "first_name": "S. H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmgren",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Osvald",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmerson",
+      "first_name": "H. E.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thufvesson",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

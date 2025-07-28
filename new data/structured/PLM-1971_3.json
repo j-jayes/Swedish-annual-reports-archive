@@ -1,0 +1,92 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 674.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 40.3,
+    "net_income": 12.5
+  },
+  "balance_sheet": {
+    "total_assets": 603.1,
+    "current_assets": 266.4,
+    "fixed_assets": 336.7,
+    "total_liabilities": 310.5,
+    "current_liabilities": 134.5,
+    "long_term_liabilities": 176.0,
+    "shareholders_equity": 186.6
+  },
+  "employees": {
+    "n_employees": 5820,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindskog",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "styrelsens ordförande"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": null,
+      "initials": "CG",
+      "position": "styrelsens vice ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Emblad",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

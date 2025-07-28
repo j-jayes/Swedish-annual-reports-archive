@@ -1,0 +1,122 @@
+{
+  "company_name": "Aktiebolaget Papyrus",
+  "fiscal_year": 1977,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1509.252,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 28.706,
+    "depreciation": 91.95,
+    "net_income": 28.51066666666667
+  },
+  "balance_sheet": {
+    "total_assets": 1847.183,
+    "current_assets": 512.379,
+    "fixed_assets": 1317.23,
+    "total_liabilities": 577.882,
+    "current_liabilities": 347.483,
+    "long_term_liabilities": 230.399,
+    "shareholders_equity": 475.035
+  },
+  "employees": {
+    "n_employees": 4525,
+    "n_blue_collar_workers": 3138,
+    "n_white_collar_workers": 1197
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Boheman",
+      "first_name": null,
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": null,
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rudengren",
+      "first_name": "Sigge",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Hansson",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gilbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "Gert",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Hallgren",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Lagerarbetare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jansson",
+      "first_name": "Nils Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kjellman",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nauclér",
+      "first_name": "Carl-Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

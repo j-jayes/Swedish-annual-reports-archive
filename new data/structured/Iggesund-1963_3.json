@@ -1,0 +1,58 @@
+{
+  "company_name": "AKTIEBOLAGET IGGESUNDS BRUK",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 37.186,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.457,
+    "depreciation": 15.164,
+    "net_income": 6.513
+  },
+  "balance_sheet": {
+    "total_assets": 200.809,
+    "current_assets": 44.417,
+    "fixed_assets": 156.392,
+    "total_liabilities": 137.634,
+    "current_liabilities": 26.628,
+    "long_term_liabilities": 22.621,
+    "shareholders_equity": 63.175
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": "S. L.",
+      "position": "directör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars G.",
+      "initials": null,
+      "position": "verkst."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": "Jelf",
+      "auditing_firm": "Revisor"
+    }
+  ],
+  "additional_notes": null
+}

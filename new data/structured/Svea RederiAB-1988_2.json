@@ -1,0 +1,104 @@
+{
+  "company_name": "Rederiaktiebolaget Transatlantic",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 2850.7,
+    "cost_of_goods_sold": -2719.8,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.3,
+    "depreciation": null,
+    "net_income": 145.2
+  },
+  "balance_sheet": {
+    "total_assets": 2297.337,
+    "current_assets": 944.007,
+    "fixed_assets": 858.945,
+    "total_liabilities": 1227.408,
+    "current_liabilities": 624.746,
+    "long_term_liabilities": 602.662,
+    "shareholders_equity": 691.405
+  },
+  "employees": {
+    "n_employees": 1433,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Bergkvist",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": "G.",
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Martin",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Midander",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Thorell",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Barbro",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Michael",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ekwall",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Gunnarsson",
+      "first_name": "Olle",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": "G.",
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

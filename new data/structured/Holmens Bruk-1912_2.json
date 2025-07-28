@@ -1,0 +1,64 @@
+{
+  "company_name": "Holmens Bruks och Fabriks Aktiebolag",
+  "fiscal_year": 1912,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 758481.47
+  },
+  "balance_sheet": {
+    "total_assets": 15210134.85,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 10484406.15,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3967247.23
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Lind",
+      "first_name": "Adolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahren",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blombergh",
+      "first_name": "Edw.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Philipson",
+      "first_name": "Carl Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tamm",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

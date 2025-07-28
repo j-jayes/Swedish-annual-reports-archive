@@ -1,0 +1,52 @@
+{
+  "company_name": "Förvaltnings AB Providentia",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 49.579,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5.071,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 61.699
+  },
+  "balance_sheet": {
+    "total_assets": 375.786,
+    "current_assets": 25.063,
+    "fixed_assets": 350.723,
+    "total_liabilities": null,
+    "current_liabilities": 3.21,
+    "long_term_liabilities": null,
+    "shareholders_equity": 372.576
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": null,
+      "initials": "P",
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": null,
+      "initials": "K",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": null,
+      "initials": "P",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,124 @@
+{
+  "company_name": "KOPPARFORS",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 556.806,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 394.671,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 28.7,
+    "net_income": 16.63
+  },
+  "balance_sheet": {
+    "total_assets": 573.157,
+    "current_assets": 236.836,
+    "fixed_assets": 322.729,
+    "total_liabilities": 401.302,
+    "current_liabilities": 151.949,
+    "long_term_liabilities": 122.766,
+    "shareholders_equity": 171.855
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "M.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "HOLGERSSON",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "MONTGOMERY",
+      "first_name": null,
+      "initials": "HENRY",
+      "position": null
+    },
+    {
+      "surname": "GRIPENSTEDT",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBLAD",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIKBERG",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALMSTIERNA",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

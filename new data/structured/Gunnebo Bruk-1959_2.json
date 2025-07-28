@@ -1,0 +1,74 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 57605.0,
+    "depreciation": 1205725.28,
+    "net_income": 1004755.55
+  },
+  "balance_sheet": {
+    "total_assets": 26422523.29,
+    "current_assets": 12958686.3,
+    "fixed_assets": 12326237.05,
+    "total_liabilities": 15034160.75,
+    "current_liabilities": 4969190.55,
+    "long_term_liabilities": 5928220.2,
+    "shareholders_equity": 11388362.54
+  },
+  "employees": {
+    "n_employees": 722,
+    "n_blue_collar_workers": 587,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Öberg",
+      "first_name": "Thure",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Setterwall",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rehnqvist",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jern",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Bolagets totala omsättning under året har uppgått till kronor 41.260.122"
+}

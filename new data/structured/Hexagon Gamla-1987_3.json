@@ -1,0 +1,140 @@
+{
+  "company_name": "HEXAGON",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 3509.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 74.7,
+    "depreciation": 82.6,
+    "net_income": 91.2
+  },
+  "balance_sheet": {
+    "total_assets": 2981.4,
+    "current_assets": 1813.6,
+    "fixed_assets": 703.6,
+    "total_liabilities": 1361.6,
+    "current_liabilities": 1090.0,
+    "long_term_liabilities": 792.3,
+    "shareholders_equity": 615.7
+  },
+  "employees": {
+    "n_employees": 3790,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ROOS",
+      "first_name": "CARL-SIGVARD",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "EK",
+      "first_name": "TORBJÖRN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "ENNERFELT",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSCARSSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRANDES",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VIRGIN",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEKSELL",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GREEN",
+      "first_name": "MONICA",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "SÄLLBERG",
+      "first_name": "MARGONA",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "FRANSSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "ÖBERG",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PIEHL",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RAPP",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THURESSON",
+      "first_name": "WIGON",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "HAMMAR",
+      "first_name": "RALPH",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "COTE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "BERTIL",
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "STÅHL",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "AKTIEBOLAGET ELEKTROLUX",
+  "fiscal_year": 1946,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 14863053.623333333,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1868031.01,
+    "net_income": 9885936.33
+  },
+  "balance_sheet": {
+    "total_assets": 106499750.15,
+    "current_assets": 72764701.15,
+    "fixed_assets": 33735049.0,
+    "total_liabilities": 54166416.81666666,
+    "current_liabilities": 12437405.33,
+    "long_term_liabilities": 11587103.363333333,
+    "shareholders_equity": 51000000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Enström",
+      "first_name": "Axel",
+      "initials": "F.",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wernher",
+      "first_name": "Harold",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Siegbahn",
+      "first_name": "Manne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engberg",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "vice Verkställande Direktör"
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Steny",
+      "initials": null,
+      "position": "vice Verkställande Direktör"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Verkställande Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

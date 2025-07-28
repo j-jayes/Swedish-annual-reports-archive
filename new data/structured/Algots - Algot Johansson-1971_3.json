@@ -1,0 +1,92 @@
+{
+  "company_name": "Algot Johansson Aktiebolag",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 167.091,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 162.229,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1.823
+  },
+  "balance_sheet": {
+    "total_assets": 65.591,
+    "current_assets": 63.2,
+    "fixed_assets": 1.805,
+    "total_liabilities": 39.586,
+    "current_liabilities": 15.882,
+    "long_term_liabilities": 3.499,
+    "shareholders_equity": 26.005
+  },
+  "employees": {
+    "n_employees": 2091,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Johansson",
+      "first_name": "Algot",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Fredén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Curtman",
+      "first_name": null,
+      "initials": "C. W.",
+      "position": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": null,
+      "initials": "Göte D.",
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Hernqvist",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Lagberg",
+      "first_name": null,
+      "initials": "Karl Y.",
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

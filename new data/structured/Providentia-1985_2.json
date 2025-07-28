@@ -1,0 +1,106 @@
+{
+  "company_name": "Förvaltnings AB Providentia",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 146.602,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8.949,
+    "wages_expense": null,
+    "tax_expense": 5.913,
+    "depreciation": null,
+    "net_income": 203.895
+  },
+  "balance_sheet": {
+    "total_assets": 3744.68,
+    "current_assets": 194.88,
+    "fixed_assets": 3549.8,
+    "total_liabilities": 1444.4,
+    "current_liabilities": 521.903,
+    "long_term_liabilities": 1440.0,
+    "shareholders_equity": 2277.196
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

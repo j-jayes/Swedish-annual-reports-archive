@@ -1,0 +1,62 @@
+{
+  "company_name": "AKTIEBOLAGET CHOKLADFABRIKEN MARABOU",
+  "fiscal_year": 1944,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 975739.45,
+    "net_income": 934589.42
+  },
+  "balance_sheet": {
+    "total_assets": 19724194.52,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 19724194.52,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 1325,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HOLST",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DANNFELT",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLST",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SVENSSON",
+      "first_name": "SETH",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

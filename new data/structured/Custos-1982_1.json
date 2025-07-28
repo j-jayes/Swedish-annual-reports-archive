@@ -1,0 +1,104 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 90.011,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.862,
+    "depreciation": 69.0,
+    "net_income": 136.735
+  },
+  "balance_sheet": {
+    "total_assets": 862.131,
+    "current_assets": 55.717,
+    "fixed_assets": 806.414,
+    "total_liabilities": 104.279,
+    "current_liabilities": 104.279,
+    "long_term_liabilities": 84.643,
+    "shareholders_equity": 673.199
+  },
+  "employees": {
+    "n_employees": 9,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "\"",
+      "initials": "Å",
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": "K.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "L-E",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ulfsparre",
+      "first_name": "Karin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öhman",
+      "first_name": "Anders",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Ando",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ericson",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Thoren",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

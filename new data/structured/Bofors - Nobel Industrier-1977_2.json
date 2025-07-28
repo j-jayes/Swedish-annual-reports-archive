@@ -1,0 +1,104 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 2325.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 16.9,
+    "depreciation": 92.6,
+    "net_income": 22.7
+  },
+  "balance_sheet": {
+    "total_assets": 4105.9,
+    "current_assets": 1124.5,
+    "fixed_assets": 938.4,
+    "total_liabilities": 2205.5,
+    "current_liabilities": 680.7,
+    "long_term_liabilities": 860.6,
+    "shareholders_equity": 302.0
+  },
+  "employees": {
+    "n_employees": 13557,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "Ordförande i styrelsen för AB BOFORS"
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "Vice ordförande i styrelsen för AB BOFORS"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Vd i Byggnads AB Balken"
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Vd i Investment AB Asken"
+    },
+    {
+      "surname": "Kylvik",
+      "first_name": "Frank",
+      "initials": null,
+      "position": "Svarvare"
+    },
+    {
+      "surname": "Nordin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Waldenström",
+      "first_name": "Erland",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": "Bruksdisponent"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "IGGESUNDS BRUK",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 12552607.63,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6009738.7,
+    "net_income": 5048436.61
+  },
+  "balance_sheet": {
+    "total_assets": 88383150.23,
+    "current_assets": 12210998.79,
+    "fixed_assets": 18991183.17,
+    "total_liabilities": 58383150.23,
+    "current_liabilities": 25012000.0,
+    "long_term_liabilities": 8133998.67,
+    "shareholders_equity": 53029960.27
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1743,
+    "n_white_collar_workers": 938
+  },
+  "board": [
+    {
+      "surname": "Bexelius",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westberg",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

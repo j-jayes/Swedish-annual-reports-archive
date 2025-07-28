@@ -1,0 +1,128 @@
+{
+  "company_name": "SUNDSVALLS BANKEN",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 45.797,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 13.189,
+    "tax_expense": 5.8,
+    "depreciation": null,
+    "net_income": 5.9
+  },
+  "balance_sheet": {
+    "total_assets": 1459.519,
+    "current_assets": 1023.02,
+    "fixed_assets": null,
+    "total_liabilities": 1158.865,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 35.525
+  },
+  "employees": {
+    "n_employees": 428,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": "N",
+      "position": "direktör"
+    },
+    {
+      "surname": "Hannell",
+      "first_name": "Gösta",
+      "initials": "G",
+      "position": "direktör"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Folke",
+      "initials": "F",
+      "position": "direktör"
+    },
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": "Y",
+      "position": "disponent"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "K. G.",
+      "initials": "K.G.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Gunnar",
+      "initials": "G",
+      "position": "jur. dr"
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": "E",
+      "position": "direktör"
+    },
+    {
+      "surname": "Rogberg",
+      "first_name": "Nils",
+      "initials": "N",
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "A. G.",
+      "initials": "A.G.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": "J",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Appeltofft",
+      "first_name": "Olof H.",
+      "initials": "O.H.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Gösta",
+      "initials": "G",
+      "position": "odont. dr"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": "G",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": "R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": "N",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": "S",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

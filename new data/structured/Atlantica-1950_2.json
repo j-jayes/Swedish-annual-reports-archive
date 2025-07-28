@@ -1,0 +1,98 @@
+{
+  "company_name": "ATLANTICA",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 12299360.66,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5494766.53,
+    "wages_expense": null,
+    "tax_expense": 257166.38,
+    "depreciation": null,
+    "net_income": 887373.19
+  },
+  "balance_sheet": {
+    "total_assets": 27807173.12,
+    "current_assets": null,
+    "fixed_assets": 1255002.01,
+    "total_liabilities": 23307173.12,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4500000.0
+  },
+  "employees": {
+    "n_employees": 43,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "CARLSSON",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": null,
+      "initials": "E. W.",
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORBURN",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": null,
+      "initials": "K. E.",
+      "position": null
+    },
+    {
+      "surname": "LANGE",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOLMQVIST",
+      "first_name": "HARRY",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Försäkringsinspektionen förordnad revisor"
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

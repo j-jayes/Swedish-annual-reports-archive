@@ -1,0 +1,82 @@
+{
+  "company_name": "HEXAGON AB",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 103.497,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 92.433,
+    "wages_expense": null,
+    "tax_expense": 1.818,
+    "depreciation": 2.254,
+    "net_income": 2.943
+  },
+  "balance_sheet": {
+    "total_assets": 42.142,
+    "current_assets": 11.284,
+    "fixed_assets": 30.919,
+    "total_liabilities": 20.468,
+    "current_liabilities": 8.417,
+    "long_term_liabilities": 7.673,
+    "shareholders_equity": 21.674
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Waldemar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": "Civilekonom"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": null,
+      "initials": "G.",
+      "position": "Kapten"
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": "Direktör, verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

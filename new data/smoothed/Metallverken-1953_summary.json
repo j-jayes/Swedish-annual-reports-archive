@@ -1,0 +1,49 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSKA METALLVERKEN",
+  "fiscal_year": 1953,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 27011273.91,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5000000.0,
+    "depreciation": null,
+    "net_income": 4576635.36
+  },
+  "balance_sheet": {
+    "total_assets": 170077840.01333332,
+    "current_assets": 46361193.60666667,
+    "fixed_assets": 168552878.77666667,
+    "total_liabilities": 44969544.96,
+    "current_liabilities": 35048711.233333334,
+    "long_term_liabilities": 52003322.053333335,
+    "shareholders_equity": 44040657.876666665
+  },
+  "employees": {
+    "n_employees": 4382,
+    "n_blue_collar_workers": 3092,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Thjelvar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

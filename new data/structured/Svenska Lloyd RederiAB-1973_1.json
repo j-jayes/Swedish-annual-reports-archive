@@ -1,0 +1,94 @@
+{
+  "company_name": "Rederiaktiebolaget Svenska Lloyd",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 143.111,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10.394,
+    "net_income": 842.389
+  },
+  "balance_sheet": {
+    "total_assets": 184.709,
+    "current_assets": 31.914,
+    "fixed_assets": 152.803,
+    "total_liabilities": 29.37,
+    "current_liabilities": 29.37,
+    "long_term_liabilities": 39.036,
+    "shareholders_equity": 29.472
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ordinarie"
+    },
+    {
+      "surname": "Granberg",
+      "first_name": null,
+      "initials": "NE",
+      "position": "ordinarie"
+    },
+    {
+      "surname": "Kristensen",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "ordinarie"
+    },
+    {
+      "surname": "Pålsson",
+      "first_name": "Paul",
+      "initials": null,
+      "position": "ordinarie"
+    },
+    {
+      "surname": "Nilson",
+      "first_name": null,
+      "initials": "B G",
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Pihlo",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ahrén",
+      "first_name": "Claes",
+      "initials": "E",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Brandrup-Wognsen",
+      "first_name": "Georg",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Rilby",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "A.-B. NORDISKA KOMPANIET",
+  "fiscal_year": 1926,
+  "income_statement": {
+    "revenue": 8865886.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1901915.18
+  },
+  "balance_sheet": {
+    "total_assets": 51562642.58,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 22216244.11,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20000000.0
+  },
+  "employees": {
+    "n_employees": 2445,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HELLNER",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THIEL",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "MAUR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WENNBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "MAY",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "AF SANDEBERG",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "REGNSTRAND",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "Marabou",
+  "fiscal_year": 1983,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1564.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 26.766666666666666,
+    "depreciation": null,
+    "net_income": 11.7
+  },
+  "balance_sheet": {
+    "total_assets": 880.8,
+    "current_assets": 453.2,
+    "fixed_assets": 305.8,
+    "total_liabilities": 334.3,
+    "current_liabilities": 211.2,
+    "long_term_liabilities": 84.33333333333333,
+    "shareholders_equity": 86.0
+  },
+  "employees": {
+    "n_employees": 2764,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Osvald",
+      "first_name": "Per",
+      "initials": "Håkan",
+      "position": null
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mohler",
+      "first_name": "Harold",
+      "initials": "S",
+      "position": null
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sandström",
+      "first_name": "Svante",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Barbro",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pulli",
+      "first_name": "Yrjö",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Akteus",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Almqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

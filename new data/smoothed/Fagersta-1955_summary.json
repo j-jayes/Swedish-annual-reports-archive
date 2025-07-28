@@ -1,0 +1,74 @@
+{
+  "company_name": "FAGERSTA BRUKS AKTIEBOLAG",
+  "fiscal_year": 1955,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 41151473.25,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7537004.09,
+    "wages_expense": null,
+    "tax_expense": 565803.2,
+    "depreciation": 7537004.09,
+    "net_income": 14717449.27
+  },
+  "balance_sheet": {
+    "total_assets": 173556243.27,
+    "current_assets": 69754348.4,
+    "fixed_assets": 38343812.29333334,
+    "total_liabilities": 71376359.21,
+    "current_liabilities": 32734279.25,
+    "long_term_liabilities": 38642079.96,
+    "shareholders_equity": 102179884.06
+  },
+  "employees": {
+    "n_employees": 5608,
+    "n_blue_collar_workers": 4690,
+    "n_white_collar_workers": 918
+  },
+  "board": [
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖBERG",
+      "first_name": "THURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅSELIUS",
+      "first_name": null,
+      "initials": "HJ.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "BERGVIK och ALA AKTIEBOLAG",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 23196881.65,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3849453.69,
+    "net_income": 6651354.65
+  },
+  "balance_sheet": {
+    "total_assets": 125227542.08,
+    "current_assets": 52953522.27,
+    "fixed_assets": 72274019.81,
+    "total_liabilities": 62436926.14,
+    "current_liabilities": 12886716.86,
+    "long_term_liabilities": 49537116.96,
+    "shareholders_equity": 45000000.0
+  },
+  "employees": {
+    "n_employees": 2501,
+    "n_blue_collar_workers": 2244,
+    "n_white_collar_workers": 257
+  },
+  "board": [
+    {
+      "surname": "Odmark",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Francke",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Söderman",
+      "first_name": "H.",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Sundfeldt",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Öhrling",
+      "first_name": "P.",
+      "initials": "O.",
+      "position": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhrling",
+      "first_name": "P.",
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

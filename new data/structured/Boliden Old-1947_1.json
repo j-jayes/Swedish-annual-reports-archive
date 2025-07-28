@@ -1,0 +1,86 @@
+{
+  "company_name": "BOLIDENS GRUVAKTIEBOLAG",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 16249772.25,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3428720.25,
+    "depreciation": 7952300.6,
+    "net_income": 4252547.24
+  },
+  "balance_sheet": {
+    "total_assets": 125070249.68,
+    "current_assets": 73484229.02,
+    "fixed_assets": 51586020.66,
+    "total_liabilities": 17788452.61,
+    "current_liabilities": 9298688.8,
+    "long_term_liabilities": 200000.0,
+    "shareholders_equity": 107281797.57
+  },
+  "employees": {
+    "n_employees": 3447,
+    "n_blue_collar_workers": 2670,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Ake",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bengtson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomquist",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": "Cison",
+      "position": null
+    },
+    {
+      "surname": "Ljungdahl",
+      "first_name": "K.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Sehwartz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wijk",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wendler",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

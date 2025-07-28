@@ -1,0 +1,92 @@
+{
+  "company_name": "KOCKUMS JERNVERK",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 184.446,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 179.79,
+    "wages_expense": null,
+    "tax_expense": 1.106,
+    "depreciation": 9.058,
+    "net_income": 1.678
+  },
+  "balance_sheet": {
+    "total_assets": 188.123,
+    "current_assets": 116.923,
+    "fixed_assets": 69.564,
+    "total_liabilities": 40.76,
+    "current_liabilities": 40.441,
+    "long_term_liabilities": 46.01,
+    "shareholders_equity": 40.76
+  },
+  "employees": {
+    "n_employees": 932,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hybinette",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jörgensen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": "representant för de anställda"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

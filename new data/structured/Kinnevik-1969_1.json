@@ -1,0 +1,92 @@
+{
+  "company_name": "Klippans Finpappersbruk",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 339.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 314.646,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 17.6,
+    "net_income": 2.975
+  },
+  "balance_sheet": {
+    "total_assets": 298.539,
+    "current_assets": 146.734,
+    "fixed_assets": 151.805,
+    "total_liabilities": 122.381,
+    "current_liabilities": 73.139,
+    "long_term_liabilities": 48.42,
+    "shareholders_equity": 70.578
+  },
+  "employees": {
+    "n_employees": 3487,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Crafoord",
+      "first_name": "Holger",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "\nÅke",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hellestam",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Larson",
+      "first_name": "Rutger",
+      "initials": null,
+      "position": "Direktör, VD"
+    },
+    {
+      "surname": "Modig",
+      "first_name": "Karl-Evert",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Tage",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Elvefors",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

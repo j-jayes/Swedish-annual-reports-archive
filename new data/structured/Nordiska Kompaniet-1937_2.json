@@ -1,0 +1,92 @@
+{
+  "company_name": "NORDISKA KOMPANIET",
+  "fiscal_year": 1937,
+  "income_statement": {
+    "revenue": 10843034.54,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7557580.78,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 134119.0,
+    "net_income": 1862539.07
+  },
+  "balance_sheet": {
+    "total_assets": 53646905.18,
+    "current_assets": 17217398.34,
+    "fixed_assets": 33087319.76,
+    "total_liabilities": 30646545.97,
+    "current_liabilities": 3819706.71,
+    "long_term_liabilities": 24920359.15,
+    "shareholders_equity": 23000000.0
+  },
+  "employees": {
+    "n_employees": 2420,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HELLNER",
+      "first_name": "Joh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "Maur.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "Josef",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERNMARK",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": "C.",
+      "initials": "ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

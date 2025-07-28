@@ -1,0 +1,98 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AB",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 2019.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1782.565,
+    "wages_expense": null,
+    "tax_expense": 11.2,
+    "depreciation": 151.8,
+    "net_income": 37.0
+  },
+  "balance_sheet": {
+    "total_assets": 2362.65,
+    "current_assets": 572.206,
+    "fixed_assets": 1306.924,
+    "total_liabilities": 1695.832,
+    "current_liabilities": 662.572,
+    "long_term_liabilities": 1003.832,
+    "shareholders_equity": 666.818
+  },
+  "employees": {
+    "n_employees": 13938,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmfors",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "M.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Sven-Håkan",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": null,
+      "initials": "C. A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

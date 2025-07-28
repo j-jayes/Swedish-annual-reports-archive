@@ -1,0 +1,94 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1976,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 40837706.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2228346.0,
+    "wages_expense": null,
+    "tax_expense": 971964.0,
+    "depreciation": null,
+    "net_income": 75237120.0
+  },
+  "balance_sheet": {
+    "total_assets": 326832571.0,
+    "current_assets": 48177571.0,
+    "fixed_assets": 278655000.0,
+    "total_liabilities": null,
+    "current_liabilities": 2266907.0,
+    "long_term_liabilities": 21600000.0,
+    "shareholders_equity": 302965664.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "förordnad av Kungl. Maj:t"
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "Magnus",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "förordnad av Kungl. Maj:t"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    }
+  ]
+}

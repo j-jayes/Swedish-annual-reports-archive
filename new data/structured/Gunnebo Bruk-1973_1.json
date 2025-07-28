@@ -1,0 +1,98 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 191581000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 169571000.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6054000.0,
+    "net_income": 3421000.0
+  },
+  "balance_sheet": {
+    "total_assets": 164543000.0,
+    "current_assets": 119088000.0,
+    "fixed_assets": 44185000.0,
+    "total_liabilities": 73656000.0,
+    "current_liabilities": 33060000.0,
+    "long_term_liabilities": 36534000.0,
+    "shareholders_equity": 46024000.0
+  },
+  "employees": {
+    "n_employees": 1256,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Widerström",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eneroth",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Paues",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Loftén",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "arbetstagareledamot"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Bert",
+      "initials": null,
+      "position": "arbetstagareledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ranby",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Wennström",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 1300.372,
+    "cost_of_goods_sold": 1117.036,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 26.138,
+    "net_income": 30.049
+  },
+  "balance_sheet": {
+    "total_assets": 1518.291,
+    "current_assets": 770.652,
+    "fixed_assets": 130.831,
+    "total_liabilities": 388.98,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 219.453
+  },
+  "employees": {
+    "n_employees": 9020,
+    "n_blue_collar_workers": 5879,
+    "n_white_collar_workers": 3141
+  },
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HALLSTRÖM",
+      "first_name": "HADAR HISON",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JUNKER",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF TROLLE",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRYKLUND",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

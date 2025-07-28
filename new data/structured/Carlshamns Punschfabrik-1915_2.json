@@ -1,0 +1,64 @@
+{
+  "company_name": "Carlshamns Punschfabriksaktiebolag (C. G. Berg)",
+  "fiscal_year": 1915,
+  "income_statement": {
+    "revenue": 495793.56,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 381190.28,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 114603.28
+  },
+  "balance_sheet": {
+    "total_assets": 1274227.44,
+    "current_assets": 619673.04,
+    "fixed_assets": 587587.64,
+    "total_liabilities": 1159624.16,
+    "current_liabilities": 437172.55,
+    "long_term_liabilities": 722451.61,
+    "shareholders_equity": 114603.28
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mathiasson.",
+      "first_name": null,
+      "initials": "N. P.",
+      "position": null
+    },
+    {
+      "surname": "Söderlund.",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Schmidt.",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Abramson.",
+      "first_name": null,
+      "initials": "A. E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

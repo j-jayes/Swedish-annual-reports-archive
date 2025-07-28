@@ -1,0 +1,128 @@
+{
+  "company_name": "UPLANDS ENSKILDA BANK",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 15705308.88,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 9747563.01,
+    "wages_expense": 5286335.68,
+    "tax_expense": 1850000.0,
+    "depreciation": 513761.63,
+    "net_income": 1885322.69
+  },
+  "balance_sheet": {
+    "total_assets": 492956158.31,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 459434412.26,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 33521746.05
+  },
+  "employees": {
+    "n_employees": 238,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sterner",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "generalkonsul, ordf."
+    },
+    {
+      "surname": "Hæggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "direktör, v. ordf."
+    },
+    {
+      "surname": "Göth",
+      "first_name": "H.",
+      "initials": "Elis A.",
+      "position": "civilingeniör"
+    },
+    {
+      "surname": "Källström",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "W.",
+      "initials": null,
+      "position": "fil. lic., försäkringsdirektör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Gottfrid",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Segerstedt",
+      "first_name": "Torgny",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Stiernstedt",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "friherre, riksdagsman"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "bankdirektör, verkst. direktör"
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Th.",
+      "initials": null,
+      "position": "bankdirektör, v. verkst. direktör"
+    },
+    {
+      "surname": "Essen",
+      "first_name": "Carl",
+      "initials": "von",
+      "position": "greve"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brundin",
+      "first_name": "Gerdt",
+      "initials": null,
+      "auditing_firm": "Kungl. Bankinspektionen"
+    },
+    {
+      "surname": "Henningson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Fridolf",
+      "initials": null,
+      "auditing_firm": "direktör"
+    },
+    {
+      "surname": "Löfberg",
+      "first_name": "Jan-Harald",
+      "initials": null,
+      "auditing_firm": "akademiräntmästare"
+    },
+    {
+      "surname": "Åkerstedt",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "kronokamrerare"
+    }
+  ],
+  "additional_notes": null
+}

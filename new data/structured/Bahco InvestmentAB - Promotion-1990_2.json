@@ -1,0 +1,128 @@
+{
+  "company_name": "Investment AB BAHCO",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 5458.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 186.0,
+    "depreciation": 186.0,
+    "net_income": 224.0
+  },
+  "balance_sheet": {
+    "total_assets": 4719.0,
+    "current_assets": 2431.0,
+    "fixed_assets": 2247.0,
+    "total_liabilities": 3073.0,
+    "current_liabilities": 1658.0,
+    "long_term_liabilities": 635.0,
+    "shareholders_equity": 1646.0
+  },
+  "employees": {
+    "n_employees": 7806,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Feinsilber",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Görgen",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Langenius",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindqvist",
+      "first_name": "Berthold",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pahlin",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Clas",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Rudewald",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Unger",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Hallman",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Jönsson",
+      "first_name": "Benny",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

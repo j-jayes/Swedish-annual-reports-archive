@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSKA METALLVERKEN",
+  "fiscal_year": 1948,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 14854389.72,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2850000.0,
+    "depreciation": null,
+    "net_income": 2802139.57
+  },
+  "balance_sheet": {
+    "total_assets": 92574068.01,
+    "current_assets": 55569186.58,
+    "fixed_assets": 85009128.03,
+    "total_liabilities": 51273324.4,
+    "current_liabilities": 14814163.535,
+    "long_term_liabilities": 35866803.40333333,
+    "shareholders_equity": 35600554.22
+  },
+  "employees": {
+    "n_employees": 4724,
+    "n_blue_collar_workers": 3464,
+    "n_white_collar_workers": 1251
+  },
+  "board": [
+    {
+      "surname": "WESTERBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRIIS",
+      "first_name": null,
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": null,
+      "initials": "B. G.",
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": null
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FREDHOLM",
+      "first_name": null,
+      "initials": "I.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HEDBERG",
+      "first_name": "Thjelvar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

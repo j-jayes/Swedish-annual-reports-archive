@@ -1,0 +1,104 @@
+{
+  "company_name": "Mo och Domsjö Aktiebolag",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 1156.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 0.268,
+    "tax_expense": 13.808,
+    "depreciation": 66.3,
+    "net_income": 50.0
+  },
+  "balance_sheet": {
+    "total_assets": 1328.954,
+    "current_assets": 611.265,
+    "fixed_assets": 711.578,
+    "total_liabilities": 942.74,
+    "current_liabilities": 354.381,
+    "long_term_liabilities": 544.63,
+    "shareholders_equity": 366.44
+  },
+  "employees": {
+    "n_employees": 7715,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Peppler",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Påhlgren",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

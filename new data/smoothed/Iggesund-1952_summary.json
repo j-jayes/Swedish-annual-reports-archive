@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET IGGESUNDS BRUK",
+  "fiscal_year": 1952,
+  "additional_notes": "Bolagets försäljningssumma för under 1952 levererade produkter uppgår, efter avdrag av inbetalade konjunkturutjämningsavgifter, till kr. 96.761.000. Koncernens försäljning till utomstående kunder uppgår till kr. 115.118.596.",
+  "income_statement": {
+    "revenue": 15982342.229999999,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 87254.05,
+    "depreciation": 6516964.69,
+    "net_income": 5480253.65
+  },
+  "balance_sheet": {
+    "total_assets": 93380582.69,
+    "current_assets": 34121568.08,
+    "fixed_assets": 41874242.42,
+    "total_liabilities": 63380582.69,
+    "current_liabilities": 26969423.296666667,
+    "long_term_liabilities": 11545475.73,
+    "shareholders_equity": 30000000.0
+  },
+  "employees": {
+    "n_employees": 1905,
+    "n_blue_collar_workers": 2176.5,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "Hufvudstaden",
+  "fiscal_year": 2002,
+  "income_statement": {
+    "revenue": 1347.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -116.0,
+    "depreciation": -98.0,
+    "net_income": 337.2
+  },
+  "balance_sheet": {
+    "total_assets": 10952.4,
+    "current_assets": 275.6,
+    "fixed_assets": 10676.8,
+    "total_liabilities": 6161.0,
+    "current_liabilities": 1316.1,
+    "long_term_liabilities": 2986.2,
+    "shareholders_equity": 4791.4
+  },
+  "employees": {
+    "n_employees": 133,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Boustedt",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mertzig",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Waldemarson",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Mats",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stopner",
+      "first_name": "Ivo",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ribers",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    },
+    {
+      "surname": "Älgne",
+      "first_name": "Stefan",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    }
+  ],
+  "additional_notes": null
+}

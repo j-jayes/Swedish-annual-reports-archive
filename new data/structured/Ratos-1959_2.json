@@ -1,0 +1,76 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Ratos",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 3.58400198,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3.47875303
+  },
+  "balance_sheet": {
+    "total_assets": 59.80352854,
+    "current_assets": null,
+    "fixed_assets": 40.575,
+    "total_liabilities": null,
+    "current_liabilities": 14.65317876,
+    "long_term_liabilities": null,
+    "shareholders_equity": 39.25
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": "R",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M",
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "LARS",
+      "initials": "Lars",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "ERIK",
+      "initials": "E",
+      "position": null
+    },
+    {
+      "surname": "Lönn",
+      "first_name": "B.",
+      "initials": "B.",
+      "position": "VERKST. DIR."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "SVEN",
+      "initials": "SVEN",
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": "EBBE",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

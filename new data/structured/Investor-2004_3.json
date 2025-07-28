@@ -1,0 +1,98 @@
+{
+  "company_name": "Investor AB",
+  "fiscal_year": 2001,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -476.0,
+    "depreciation": null,
+    "net_income": 8156.0
+  },
+  "balance_sheet": {
+    "total_assets": 73168.0,
+    "current_assets": 9056.0,
+    "fixed_assets": 64112.0,
+    "total_liabilities": 20182.0,
+    "current_liabilities": 7968.0,
+    "long_term_liabilities": 11853.0,
+    "shareholders_equity": 52986.0
+  },
+  "employees": {
+    "n_employees": 627,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Nishimura",
+      "first_name": "Koichi",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "Sutherland",
+      "first_name": "Peter",
+      "initials": "D.",
+      "position": null
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "Michael",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    }
+  ],
+  "additional_notes": null
+}

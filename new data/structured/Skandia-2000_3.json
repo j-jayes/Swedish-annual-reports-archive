@@ -1,0 +1,110 @@
+{
+  "company_name": "Skandia",
+  "fiscal_year": 2000,
+  "income_statement": {
+    "revenue": 197.784,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -1090.0,
+    "wages_expense": null,
+    "tax_expense": -1118.0,
+    "depreciation": null,
+    "net_income": 2826.0
+  },
+  "balance_sheet": {
+    "total_assets": 589.2,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 481.749,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20.749
+  },
+  "employees": {
+    "n_employees": 7161,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Vice Chairman of the Board"
+    },
+    {
+      "surname": "Heliövaara",
+      "first_name": "Eero",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Petersson",
+      "first_name": "Lars-Eric",
+      "initials": null,
+      "position": "President and Chief Executive Officer"
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": "Policyholders' representative, appointed by the Stockholm Chamber of Commerce"
+    },
+    {
+      "surname": "Ramqvist",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Chairman of the Board"
+    },
+    {
+      "surname": "Flodgren",
+      "first_name": "Boel",
+      "initials": null,
+      "position": "Appointed by the Swedish Consumer Agency."
+    },
+    {
+      "surname": "Odfjell",
+      "first_name": "Johan",
+      "initials": "Fr.",
+      "position": null
+    },
+    {
+      "surname": "Gavatin",
+      "first_name": "Jac",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Mesdag",
+      "first_name": "Willem",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Ingolf",
+      "initials": null,
+      "position": "Employee representative."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Birgerson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    },
+    {
+      "surname": "Mårtensson",
+      "first_name": "Tommy",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen"
+    }
+  ],
+  "additional_notes": null
+}

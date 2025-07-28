@@ -1,0 +1,140 @@
+{
+  "company_name": "Mo och Domsjö Aktiebolag",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 1607.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 31.8,
+    "depreciation": null,
+    "net_income": 27.4
+  },
+  "balance_sheet": {
+    "total_assets": 2508.2,
+    "current_assets": 1365.2,
+    "fixed_assets": 1032.7,
+    "total_liabilities": 714.4,
+    "current_liabilities": 484.4,
+    "long_term_liabilities": 717.6,
+    "shareholders_equity": 466.2
+  },
+  "employees": {
+    "n_employees": 8141,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Peppler",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "suppl"
+    },
+    {
+      "surname": "Andrén",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": "suppl"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "suppl"
+    },
+    {
+      "surname": "Kassman",
+      "first_name": "Ivan",
+      "initials": null,
+      "position": "suppl"
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schumacher",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "suppl"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "suppl"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

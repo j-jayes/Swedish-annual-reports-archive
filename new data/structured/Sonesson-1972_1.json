@@ -1,0 +1,98 @@
+{
+  "company_name": "SONESSONS",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 185.44,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4.887,
+    "net_income": 4.604
+  },
+  "balance_sheet": {
+    "total_assets": 163.431,
+    "current_assets": 115.319,
+    "fixed_assets": 45.252,
+    "total_liabilities": 40.723,
+    "current_liabilities": 40.723,
+    "long_term_liabilities": null,
+    "shareholders_equity": 53.101
+  },
+  "employees": {
+    "n_employees": 1520,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Hellestam",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "v Verkst direktör"
+    },
+    {
+      "surname": "Kristensson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Sonesson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hansson",
+      "first_name": "\"\"\nÅke",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor, suppleant"
+    },
+    {
+      "surname": "Tillman",
+      "first_name": "Torsten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor, suppleant"
+    }
+  ],
+  "additional_notes": null
+}

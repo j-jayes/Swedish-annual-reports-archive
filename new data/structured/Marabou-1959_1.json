@@ -1,0 +1,68 @@
+{
+  "company_name": "MARABOU",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 17331000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2597000.0,
+    "depreciation": 5275000.0,
+    "net_income": 1934000.0
+  },
+  "balance_sheet": {
+    "total_assets": 59531000.0,
+    "current_assets": 49828000.0,
+    "fixed_assets": 33393000.0,
+    "total_liabilities": 43044000.0,
+    "current_liabilities": 25128000.0,
+    "long_term_liabilities": 16620000.0,
+    "shareholders_equity": 37137000.0
+  },
+  "employees": {
+    "n_employees": 2114,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "GöTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "H:SON-ERICSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERFELT",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GENTELE",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BEKELIUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

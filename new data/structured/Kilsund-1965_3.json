@@ -1,0 +1,82 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 62792057.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 871173.0
+  },
+  "balance_sheet": {
+    "total_assets": 30084460.0,
+    "current_assets": 8965402.0,
+    "fixed_assets": 20997882.0,
+    "total_liabilities": 11220801.0,
+    "current_liabilities": 5702571.0,
+    "long_term_liabilities": 5518230.0,
+    "shareholders_equity": 14402999.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "UDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BERGENGREN",
+      "first_name": "GORAN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "HALLIN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "LAGNELL",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "LINDQUIST",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "af TROLLE",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "Professor"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KARLGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KRONBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

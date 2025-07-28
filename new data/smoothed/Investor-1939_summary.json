@@ -1,0 +1,58 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1939,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3688760.94
+  },
+  "balance_sheet": {
+    "total_assets": 54377759.23,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 33296218.54
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARC.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLNER",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LILJENROTH",
+      "first_name": "F. G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAHN",
+      "first_name": "BROR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

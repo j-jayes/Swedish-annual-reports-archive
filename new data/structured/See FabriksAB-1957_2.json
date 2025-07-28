@@ -1,0 +1,80 @@
+{
+  "company_name": "SEE FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 1949.658,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 515.0,
+    "depreciation": 572.369,
+    "net_income": 457.543
+  },
+  "balance_sheet": {
+    "total_assets": 19398.727,
+    "current_assets": 9646.884,
+    "fixed_assets": 9751.843,
+    "total_liabilities": 11294.526,
+    "current_liabilities": 5017.725,
+    "long_term_liabilities": 6276.801,
+    "shareholders_equity": 8104.201
+  },
+  "employees": {
+    "n_employees": 766,
+    "n_blue_collar_workers": 614,
+    "n_white_collar_workers": 152
+  },
+  "board": [
+    {
+      "surname": "Gille",
+      "first_name": null,
+      "initials": "Nils J.",
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": null,
+      "initials": "Erik W.",
+      "position": null
+    },
+    {
+      "surname": "Östberg",
+      "first_name": "Per Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Haal",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "Bergström",
+      "first_name": null,
+      "initials": "C. H.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rainer",
+      "first_name": "Gustaf",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,62 @@
+{
+  "company_name": "Aktiebolaget Chokladfabriken Marabou",
+  "fiscal_year": 1939,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 504809.54,
+    "net_income": 672860.62
+  },
+  "balance_sheet": {
+    "total_assets": 11859830.29,
+    "current_assets": 3300163.58,
+    "fixed_assets": 6418987.49,
+    "total_liabilities": 11859830.29,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 716106.96
+  },
+  "employees": {
+    "n_employees": 1150,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Almström",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holst",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dannfelt",
+      "first_name": "C. Juhlin",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

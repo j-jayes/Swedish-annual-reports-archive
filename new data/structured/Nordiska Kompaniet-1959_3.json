@@ -1,0 +1,104 @@
+{
+  "company_name": "AB NORDISKA KOMPANIET",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4315694.15
+  },
+  "balance_sheet": {
+    "total_assets": 139014133.45,
+    "current_assets": 69556001.67,
+    "fixed_assets": 69458131.78,
+    "total_liabilities": 61921505.98,
+    "current_liabilities": 20201332.95,
+    "long_term_liabilities": 41720173.03,
+    "shareholders_equity": 77092627.47
+  },
+  "employees": {
+    "n_employees": 2785,
+    "n_blue_collar_workers": 719,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "BRUSEWITZ",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": null,
+      "initials": "HERBERT",
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": null,
+      "initials": "STIG",
+      "position": null
+    },
+    {
+      "surname": "HAMMARSKIOLD",
+      "first_name": null,
+      "initials": "ARVID",
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": null,
+      "initials": "WALTER",
+      "position": null
+    },
+    {
+      "surname": "WARN",
+      "first_name": null,
+      "initials": "TAGE",
+      "position": null
+    },
+    {
+      "surname": "KALDERÉN",
+      "first_name": null,
+      "initials": "R.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GRUMME",
+      "first_name": null,
+      "initials": "C. ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

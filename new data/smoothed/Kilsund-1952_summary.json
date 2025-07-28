@@ -1,0 +1,74 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1952,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2332082.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 772932.37
+  },
+  "balance_sheet": {
+    "total_assets": 20915363.72,
+    "current_assets": null,
+    "fixed_assets": 8144903.89,
+    "total_liabilities": null,
+    "current_liabilities": 2853588.8,
+    "long_term_liabilities": null,
+    "shareholders_equity": 10550000.0
+  },
+  "employees": {
+    "n_employees": 856,
+    "n_blue_collar_workers": 745,
+    "n_white_collar_workers": 108
+  },
+  "board": [
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖRSTADIUS",
+      "first_name": null,
+      "initials": "N. W.",
+      "position": null
+    },
+    {
+      "surname": "ÖDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PFANNENSTILL",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSON",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Karlgren",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenström",
+      "first_name": "Miles",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

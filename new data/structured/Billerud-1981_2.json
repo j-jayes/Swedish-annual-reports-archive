@@ -1,0 +1,110 @@
+{
+  "company_name": "BILLERUD",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 3665.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 76.8,
+    "depreciation": 177.8,
+    "net_income": 124.8
+  },
+  "balance_sheet": {
+    "total_assets": 5684.5,
+    "current_assets": 2115.5,
+    "fixed_assets": 3569.0,
+    "total_liabilities": 1353.7,
+    "current_liabilities": 1599.5,
+    "long_term_liabilities": 1993.1,
+    "shareholders_equity": 1353.7
+  },
+  "employees": {
+    "n_employees": 9349,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ekbage",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Envall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Gyll",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Kihlberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Rhenman",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Sjöström",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Ahlström",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Unghanse",
+      "first_name": "Carl Patric",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Engman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinhold",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

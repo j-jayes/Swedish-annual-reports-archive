@@ -1,0 +1,152 @@
+{
+  "company_name": "Tidnings AB Marieberg",
+  "fiscal_year": 1997,
+  "income_statement": {
+    "revenue": 4427.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -3832.0,
+    "wages_expense": null,
+    "tax_expense": -319.0,
+    "depreciation": -284.0,
+    "net_income": 701.0
+  },
+  "balance_sheet": {
+    "total_assets": 8828.0,
+    "current_assets": 745.0,
+    "fixed_assets": 7662.0,
+    "total_liabilities": 4790.0,
+    "current_liabilities": 2078.0,
+    "long_term_liabilities": 2638.0,
+    "shareholders_equity": 4100.0
+  },
+  "employees": {
+    "n_employees": 3503,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Måberg",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Axberger",
+      "first_name": "Hans-Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Carl-Johan",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Pontus",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Mundebo",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bäckström",
+      "first_name": "Berndt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmquist",
+      "first_name": "Malin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Carry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Jeanette",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Karl-Adam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Karl Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Björk",
+      "first_name": "Rikard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lönnfält",
+      "first_name": "Lena",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Ohrling Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Ohrlings Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Forsgårdh",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "auditing_firm": "Sveriges Aktiesparares Riksförbund"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Kenneth",
+      "initials": null,
+      "auditing_firm": "Öhrlings Coopers & Lybrand AB"
+    }
+  ],
+  "additional_notes": null
+}

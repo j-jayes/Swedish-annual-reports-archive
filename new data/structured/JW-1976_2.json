@@ -1,0 +1,140 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 130431.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 126076.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1560.0,
+    "net_income": 1634.0
+  },
+  "balance_sheet": {
+    "total_assets": 81614.0,
+    "current_assets": 52438.0,
+    "fixed_assets": 28946.0,
+    "total_liabilities": 18872.0,
+    "current_liabilities": 18654.0,
+    "long_term_liabilities": 17550.0,
+    "shareholders_equity": 45905.0
+  },
+  "employees": {
+    "n_employees": 785,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wettergren",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Wiklund",
+      "first_name": "John",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Odlund",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "\nÖlund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Hans-Göran",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Hansbo",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Marin",
+      "first_name": "Jean",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Rune",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Zetterberg",
+      "first_name": "\nÅke",
+      "initials": null,
+      "position": "arbetstagarledamöter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Godkänd revisor"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": "Godkänd revisor"
+    },
+    {
+      "surname": "Welander",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Lundell",
+      "first_name": "Torsten",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

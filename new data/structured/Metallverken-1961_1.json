@@ -1,0 +1,110 @@
+{
+  "company_name": "SVENSKA METALLVERKEN",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 554.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.9,
+    "depreciation": null,
+    "net_income": 10.9
+  },
+  "balance_sheet": {
+    "total_assets": 381.8,
+    "current_assets": 192.9,
+    "fixed_assets": 188.9,
+    "total_liabilities": 199.6,
+    "current_liabilities": 71.2,
+    "long_term_liabilities": 124.4,
+    "shareholders_equity": 182.2
+  },
+  "employees": {
+    "n_employees": 5838,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hägglof",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Warn",
+      "first_name": null,
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Carl",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "Bror",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lund",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bon de Soutra Pernes",
+      "first_name": "Manoel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhle",
+      "first_name": null,
+      "initials": "Nils",
+      "position": "K."
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Thjelvar",
+      "initials": null,
+      "auditing_firm": "Stadsdirektör"
+    }
+  ],
+  "additional_notes": null
+}

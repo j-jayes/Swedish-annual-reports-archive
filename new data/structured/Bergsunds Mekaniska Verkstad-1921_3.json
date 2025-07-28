@@ -1,0 +1,76 @@
+{
+  "company_name": "Bergsunds Mekaniska Verkstads Aktiebolag",
+  "fiscal_year": 1921,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -1291461.64
+  },
+  "balance_sheet": {
+    "total_assets": 13056043.87,
+    "current_assets": null,
+    "fixed_assets": 4340379.63,
+    "total_liabilities": 9276043.87,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3780000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "CEDERCRANTZ",
+      "first_name": null,
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "HÖK",
+      "first_name": null,
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "EDQUIST",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHUBERT",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDSTEDT",
+      "first_name": "Sam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CEDERHOLM",
+      "first_name": null,
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NISSVANDT",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

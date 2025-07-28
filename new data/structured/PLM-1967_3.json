@@ -1,0 +1,92 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 303657.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9949.0,
+    "depreciation": null,
+    "net_income": 9302.0
+  },
+  "balance_sheet": {
+    "total_assets": 209285.0,
+    "current_assets": 91052.0,
+    "fixed_assets": 111975.0,
+    "total_liabilities": 83110.0,
+    "current_liabilities": 28806.0,
+    "long_term_liabilities": 76966.0,
+    "shareholders_equity": 83082.0
+  },
+  "employees": {
+    "n_employees": 3423,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindskog",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Styrelsens vice ordförande"
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Bertil",
+      "initials": "T",
+      "position": "Bergsingenjör"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "C G",
+      "initials": null,
+      "position": "Friherre, verkställande direktör"
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

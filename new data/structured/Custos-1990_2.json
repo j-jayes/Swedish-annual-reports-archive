@@ -1,0 +1,74 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 465.862,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -33.881,
+    "depreciation": null,
+    "net_income": 471.899
+  },
+  "balance_sheet": {
+    "total_assets": 9.54652,
+    "current_assets": 1.857959,
+    "fixed_assets": 7.688561,
+    "total_liabilities": 5.418891,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4.127629
+  },
+  "employees": {
+    "n_employees": 4,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gunnar",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "Ando",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\nÖhman",
+      "first_name": "Anders",
+      "initials": "R",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ericson",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "ERNST & YOUNG AB"
+    },
+    {
+      "surname": "Blix",
+      "first_name": "Clas",
+      "initials": null,
+      "auditing_firm": "ERNST & YOUNG AB"
+    }
+  ],
+  "additional_notes": null
+}

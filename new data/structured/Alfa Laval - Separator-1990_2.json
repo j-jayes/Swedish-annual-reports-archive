@@ -1,0 +1,140 @@
+{
+  "company_name": "ALFA-LAVAL",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 17881.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 419.3,
+    "net_income": 1145.0
+  },
+  "balance_sheet": {
+    "total_assets": 18718.2,
+    "current_assets": 14888.5,
+    "fixed_assets": 456.7,
+    "total_liabilities": null,
+    "current_liabilities": 10860.2,
+    "long_term_liabilities": 2287.4,
+    "shareholders_equity": 5401.8
+  },
+  "employees": {
+    "n_employees": 20809,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V.",
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljunggren",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pålsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jorma",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klintin",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "Bengt-Olof",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lundvall",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå"
+    },
+    {
+      "surname": "Tillman",
+      "first_name": "Torsten",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "AB ELECTROLUX",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 405.408,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 11.468,
+    "net_income": 16.048
+  },
+  "balance_sheet": {
+    "total_assets": 469.782,
+    "current_assets": 237.86,
+    "fixed_assets": 223.406,
+    "total_liabilities": null,
+    "current_liabilities": 71.242,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 5049,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VRETHEM",
+      "first_name": "ÅKE",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "WENNBERG",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOFVING",
+      "first_name": "ARNE",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOLLART",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOLMEN",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    },
+    {
+      "surname": "LUFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "BRUNO",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    }
+  ],
+  "additional_notes": null
+}

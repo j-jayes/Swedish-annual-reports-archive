@@ -1,0 +1,86 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 419.133,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8.75,
+    "depreciation": 34.03,
+    "net_income": 17.0
+  },
+  "balance_sheet": {
+    "total_assets": 427.277,
+    "current_assets": 215.857,
+    "fixed_assets": 207.42,
+    "total_liabilities": 163.987,
+    "current_liabilities": 45.369,
+    "long_term_liabilities": 92.591,
+    "shareholders_equity": 246.84
+  },
+  "employees": {
+    "n_employees": 12936,
+    "n_blue_collar_workers": 11063,
+    "n_white_collar_workers": 1873
+  },
+  "board": [
+    {
+      "surname": "LINDAHL",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDSTRÖM",
+      "first_name": "\n\nGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": "K",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FRISELL",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GEIJER",
+      "first_name": "REINH.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

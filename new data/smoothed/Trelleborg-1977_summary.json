@@ -1,0 +1,128 @@
+{
+  "company_name": "Trelleborg AB",
+  "fiscal_year": 1977,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 985.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 905.7,
+    "wages_expense": 301.0,
+    "tax_expense": 6.5,
+    "depreciation": 43.8,
+    "net_income": 0.0
+  },
+  "balance_sheet": {
+    "total_assets": 1089.5,
+    "current_assets": 657.2,
+    "fixed_assets": 336.26666666666665,
+    "total_liabilities": 514.6666666666666,
+    "current_liabilities": 270.7,
+    "long_term_liabilities": 538.4,
+    "shareholders_equity": 192.66666666666666
+  },
+  "employees": {
+    "n_employees": 6072,
+    "n_blue_collar_workers": 4073,
+    "n_white_collar_workers": 1999
+  },
+  "board": [
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Herrlin",
+      "first_name": "Karl-Magnus",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Fd bankdirektör"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": "P",
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Mörck",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "Fd v verkst direktör"
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Utredningschef"
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "Gummiarbetare"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Harvidsson",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "Produktchef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wallin",
+      "first_name": "Per-Gustaf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

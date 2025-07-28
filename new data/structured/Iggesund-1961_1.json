@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET IGGESUNDS BRUK",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 27897476.66,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 788364.44,
+    "depreciation": 11701709.96,
+    "net_income": 6015853.71
+  },
+  "balance_sheet": {
+    "total_assets": 174298040.16,
+    "current_assets": 7737758.4,
+    "fixed_assets": 94396815.8,
+    "total_liabilities": 13888074.75,
+    "current_liabilities": null,
+    "long_term_liabilities": 4962837.44,
+    "shareholders_equity": 54000000.0
+  },
+  "employees": {
+    "n_employees": 3200,
+    "n_blue_collar_workers": 2838,
+    "n_white_collar_workers": 362
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblade",
+      "first_name": "Lars",
+      "initials": "G.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": "Koncernvinsten år 1961 kr 10.146.025: 11"
+}

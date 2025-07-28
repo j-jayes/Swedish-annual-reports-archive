@@ -1,0 +1,128 @@
+{
+  "company_name": "SKARABORGSBANKEN",
+  "fiscal_year": 1989,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 547.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 267.115,
+    "wages_expense": null,
+    "tax_expense": 43.5,
+    "depreciation": null,
+    "net_income": 1.8
+  },
+  "balance_sheet": {
+    "total_assets": 18576.4,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 14293.643,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 202.1
+  },
+  "employees": {
+    "n_employees": 536,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Skoglund",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Hertzman",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "vice verkställande direktör, administrativ chef"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "vice verkställande direktör, chef Stockholmsrörelsen"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "chefsjurist"
+    },
+    {
+      "surname": "Nävarp",
+      "first_name": "Sten-Börje",
+      "initials": null,
+      "position": "chef ekonomiplanering"
+    },
+    {
+      "surname": "Rosén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "vice verkställande direktör, chef kontorsrörelsen"
+    },
+    {
+      "surname": "Dahl",
+      "first_name": "Rigmor",
+      "initials": null,
+      "position": "bankkamrer, personalrepresentant"
+    },
+    {
+      "surname": "Rosén",
+      "first_name": "Maj-Lis",
+      "initials": null,
+      "position": "banktjänsteman, personalrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Waller",
+      "first_name": "Edward",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Gunnarsson",
+      "first_name": "Olle",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "riksdagsman"
+    },
+    {
+      "surname": "Lund",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Fernström",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Lindgren",
+      "first_name": "Uno",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Demitz-Helin",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "fd landstingsdirektör"
+    }
+  ]
+}

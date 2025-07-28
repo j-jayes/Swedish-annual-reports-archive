@@ -1,0 +1,86 @@
+{
+  "company_name": "HOLMENS BRUK",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 4602584.85,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": 26726484.15,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 3347,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "E.",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Martin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahren",
+      "first_name": null,
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": null,
+      "initials": "Chr. von",
+      "position": "Verkställande direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

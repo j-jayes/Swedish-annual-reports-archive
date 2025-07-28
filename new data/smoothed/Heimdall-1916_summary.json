@@ -1,0 +1,70 @@
+{
+  "company_name": "HEIMDALL",
+  "fiscal_year": 1916,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 304409.771,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 61623.56374333334,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 45493.632320000004
+  },
+  "balance_sheet": {
+    "total_assets": 1852768.33,
+    "current_assets": 274370.095,
+    "fixed_assets": 1466172.1600000001,
+    "total_liabilities": 502335.17,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 541653.7999999999
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "ELLSÉN",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAURELL",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRUNDSTRÖM",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MILLAR",
+      "first_name": "JAMES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF SILLEN",
+      "first_name": "J. O.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAMMARSTRÖM",
+      "first_name": "ALEXIS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DRAKENBERG",
+      "first_name": "JEAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1957,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2595.297,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 918.0,
+    "depreciation": 799.0,
+    "net_income": 765.0
+  },
+  "balance_sheet": {
+    "total_assets": 13916.955,
+    "current_assets": 6995.953333333333,
+    "fixed_assets": 3781.826666666667,
+    "total_liabilities": 6910.603666666667,
+    "current_liabilities": 2298.6716666666666,
+    "long_term_liabilities": 514.4333333333333,
+    "shareholders_equity": 6503.5
+  },
+  "employees": {
+    "n_employees": 607,
+    "n_blue_collar_workers": 503,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HALLIN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "ODDESTAD",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PFANNENSTILL",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Karlgren",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Stenström",
+      "first_name": "Miles",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

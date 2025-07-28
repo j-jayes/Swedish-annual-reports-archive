@@ -1,0 +1,74 @@
+{
+  "company_name": "KOPPARFORS AKTIEBOLAG",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 11053426.27,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7410648.62,
+    "depreciation": 1585206.34,
+    "net_income": 4367787.59
+  },
+  "balance_sheet": {
+    "total_assets": 44354472.6,
+    "current_assets": 7912245.19,
+    "fixed_assets": 27244252.55,
+    "total_liabilities": 8830682.54,
+    "current_liabilities": 8712265.38,
+    "long_term_liabilities": null,
+    "shareholders_equity": 35523790.06
+  },
+  "employees": {
+    "n_employees": 2848,
+    "n_blue_collar_workers": 2643,
+    "n_white_collar_workers": 205
+  },
+  "board": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Lars",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Ax.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Holgersson",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JULIN",
+      "first_name": "Rich.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

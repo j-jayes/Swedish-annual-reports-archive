@@ -1,0 +1,134 @@
+{
+  "company_name": "SONESSONS",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 1673.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1441.4,
+    "wages_expense": null,
+    "tax_expense": 35.6,
+    "depreciation": null,
+    "net_income": 39.8
+  },
+  "balance_sheet": {
+    "total_assets": 1569.5,
+    "current_assets": 1096.9,
+    "fixed_assets": 494.1,
+    "total_liabilities": 605.2,
+    "current_liabilities": 567.1,
+    "long_term_liabilities": 33.2,
+    "shareholders_equity": 252.4
+  },
+  "employees": {
+    "n_employees": 5226,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Brink",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Kessman",
+      "first_name": "Per Olof",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Raihle",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Agrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Linders",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Meldgaard",
+      "first_name": "Jörn",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Göteborg"
+    },
+    {
+      "surname": "Hansson",
+      "first_name": "Åke",
+      "initials": "J.",
+      "auditing_firm": "Malmö"
+    },
+    {
+      "surname": "Billing",
+      "first_name": "Ragne",
+      "initials": null,
+      "auditing_firm": "Göteborg"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Malmö"
+    }
+  ],
+  "additional_notes": null
+}

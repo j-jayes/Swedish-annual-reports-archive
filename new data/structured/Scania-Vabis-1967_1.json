@@ -1,0 +1,92 @@
+{
+  "company_name": "AB SCANIA-VABIS",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 1154.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1056.6,
+    "wages_expense": null,
+    "tax_expense": 34.2,
+    "depreciation": 32.9,
+    "net_income": 32.2
+  },
+  "balance_sheet": {
+    "total_assets": 1084.741,
+    "current_assets": 651.444,
+    "fixed_assets": 383.749,
+    "total_liabilities": 730.0,
+    "current_liabilities": 346.99,
+    "long_term_liabilities": 115.127,
+    "shareholders_equity": 354.841
+  },
+  "employees": {
+    "n_employees": 9280,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "Nils-Fredrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc",
+      "initials": "Jr",
+      "position": "Styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Godin",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenberg",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Edemar",
+      "first_name": "C. O.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

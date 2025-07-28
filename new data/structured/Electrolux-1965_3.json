@@ -1,0 +1,98 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 420.122,
+    "cost_of_goods_sold": 399.138,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 10.597,
+    "depreciation": null,
+    "net_income": 20.085
+  },
+  "balance_sheet": {
+    "total_assets": 469.788,
+    "current_assets": 258.96,
+    "fixed_assets": 200.798,
+    "total_liabilities": 68.456,
+    "current_liabilities": 66.62,
+    "long_term_liabilities": 55.755,
+    "shareholders_equity": 280.325
+  },
+  "employees": {
+    "n_employees": 5595,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SALMONSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VRETHEM",
+      "first_name": "ÅKE T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WENNBERG",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOFVING",
+      "first_name": "ARNE M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOLLART",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOLMÉN",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    }
+  ],
+  "additional_notes": null
+}

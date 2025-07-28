@@ -1,0 +1,74 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 3562085.81,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 210424.55,
+    "depreciation": null,
+    "net_income": 486211.86
+  },
+  "balance_sheet": {
+    "total_assets": 25614304.97,
+    "current_assets": 2522704.97,
+    "fixed_assets": 23091600.0,
+    "total_liabilities": 16551667.44,
+    "current_liabilities": 594356.23,
+    "long_term_liabilities": 16551667.44,
+    "shareholders_equity": 7750450.0
+  },
+  "employees": {
+    "n_employees": 20,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "OSSBAHR",
+      "first_name": "CARL",
+      "initials": "CARL PATRIC",
+      "position": null
+    },
+    {
+      "surname": "DOUGLAS",
+      "first_name": "G.",
+      "initials": "G. A.",
+      "position": null
+    },
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": "CARL von",
+      "position": null
+    },
+    {
+      "surname": "NESSEN",
+      "first_name": "NILS",
+      "initials": "NILS",
+      "position": null
+    },
+    {
+      "surname": "HEMSTAD",
+      "first_name": "TORD",
+      "initials": "TORD",
+      "position": "Verkst, direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FLOGNER",
+      "first_name": "S.",
+      "initials": "S.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "Theodor",
+      "initials": "Theodor",
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

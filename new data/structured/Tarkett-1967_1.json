@@ -1,0 +1,68 @@
+{
+  "company_name": "Tarkett ab",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 122.097,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3.451,
+    "depreciation": 4.938,
+    "net_income": 3.207
+  },
+  "balance_sheet": {
+    "total_assets": 81.021,
+    "current_assets": 46.655,
+    "fixed_assets": 32.986,
+    "total_liabilities": 53.635,
+    "current_liabilities": 23.622,
+    "long_term_liabilities": 20.813,
+    "shareholders_equity": 27.386
+  },
+  "employees": {
+    "n_employees": 1279,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Urban",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Bramsved",
+      "first_name": "Hans-Ove",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

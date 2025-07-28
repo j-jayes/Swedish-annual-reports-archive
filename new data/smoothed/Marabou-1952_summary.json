@@ -1,0 +1,74 @@
+{
+  "company_name": "MARABOU",
+  "fiscal_year": 1952,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 13267065.396666666,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1355216.0,
+    "depreciation": null,
+    "net_income": 1119738.85
+  },
+  "balance_sheet": {
+    "total_assets": 46055719.9,
+    "current_assets": 28199149.43,
+    "fixed_assets": 17856570.47,
+    "total_liabilities": 24464479.933333334,
+    "current_liabilities": 11012000.7,
+    "long_term_liabilities": 19027000.0,
+    "shareholders_equity": 14865000.0
+  },
+  "employees": {
+    "n_employees": 1659,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "HENNING",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "H:SON-ERICSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERFELT",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SVENSSON",
+      "first_name": "SETH",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GENTELE",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1975,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 356.026,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 333.806,
+    "wages_expense": null,
+    "tax_expense": 4.1466666666666665,
+    "depreciation": 5.096,
+    "net_income": 3.837
+  },
+  "balance_sheet": {
+    "total_assets": 193.472,
+    "current_assets": 139.333,
+    "fixed_assets": 50.827,
+    "total_liabilities": 57.976,
+    "current_liabilities": 59.52133333333333,
+    "long_term_liabilities": 32.39366666666667,
+    "shareholders_equity": 29.78933333333333
+  },
+  "employees": {
+    "n_employees": 995,
+    "n_blue_collar_workers": 367,
+    "n_white_collar_workers": 628
+  },
+  "board": [
+    {
+      "surname": "af Klercker",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Krokstedt",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Malmvik",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Minten",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Rynell",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åman",
+      "first_name": "Karl E",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Rydholm",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ]
+}

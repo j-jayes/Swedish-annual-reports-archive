@@ -1,0 +1,92 @@
+{
+  "company_name": "BERGVIK OCH ALA AKTIEBOLAG",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 25645761.14,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5852565.91,
+    "depreciation": null,
+    "net_income": 7321463.14
+  },
+  "balance_sheet": {
+    "total_assets": 141441468.65,
+    "current_assets": 55182252.79,
+    "fixed_assets": 86259215.86,
+    "total_liabilities": 64413243.89,
+    "current_liabilities": null,
+    "long_term_liabilities": 49561000.0,
+    "shareholders_equity": 77028224.76
+  },
+  "employees": {
+    "n_employees": 2556,
+    "n_blue_collar_workers": 2285,
+    "n_white_collar_workers": 271
+  },
+  "board": [
+    {
+      "surname": "Odmark",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Francke",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "Sundfeldt",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Öhrling",
+      "first_name": null,
+      "initials": "P. O.",
+      "position": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhrling",
+      "first_name": null,
+      "initials": "P. O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

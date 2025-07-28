@@ -1,0 +1,92 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 2764.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 484.78,
+    "tax_expense": 44.1,
+    "depreciation": 101.243,
+    "net_income": 71.4
+  },
+  "balance_sheet": {
+    "total_assets": 2939.183,
+    "current_assets": 1859.943,
+    "fixed_assets": 1059.859,
+    "total_liabilities": 788.765,
+    "current_liabilities": 538.867,
+    "long_term_liabilities": 265.626,
+    "shareholders_equity": 911.383
+  },
+  "employees": {
+    "n_employees": 32401,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "VRETHEM",
+      "first_name": "ÅKET",
+      "initials": null,
+      "position": "koncernchef"
+    },
+    {
+      "surname": "RAUSING",
+      "first_name": "RUBEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NICOLIN",
+      "first_name": "CURT",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten S:son",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1993,
+  "income_statement": {
+    "revenue": 1177.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1062.5,
+    "wages_expense": null,
+    "tax_expense": 12.3,
+    "depreciation": null,
+    "net_income": 16.7
+  },
+  "balance_sheet": {
+    "total_assets": 1089.2,
+    "current_assets": 459.0,
+    "fixed_assets": 574.5,
+    "total_liabilities": 395.9,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 232.3
+  },
+  "employees": {
+    "n_employees": 1871,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Irstad",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Brodahl",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Levin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Petersson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Copoví-Mena",
+      "first_name": "Juan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johanson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Ohrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

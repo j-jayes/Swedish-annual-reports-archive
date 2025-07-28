@@ -1,0 +1,98 @@
+{
+  "company_name": "BERGVIK OCH ALA AKTIEBOLAG",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 17376117.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3372412.0,
+    "depreciation": 7554580.0,
+    "net_income": 4586863.0
+  },
+  "balance_sheet": {
+    "total_assets": 144163947.0,
+    "current_assets": 32570506.0,
+    "fixed_assets": 115185396.0,
+    "total_liabilities": 65053534.0,
+    "current_liabilities": 21617420.0,
+    "long_term_liabilities": 98817275.0,
+    "shareholders_equity": 79110413.0
+  },
+  "employees": {
+    "n_employees": 2306,
+    "n_blue_collar_workers": 2026,
+    "n_white_collar_workers": 280
+  },
+  "board": [
+    {
+      "surname": "ÖDMARK",
+      "first_name": null,
+      "initials": "STIG",
+      "position": null
+    },
+    {
+      "surname": "FRANCKE",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "MELIN",
+      "first_name": null,
+      "initials": "HILDING",
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "SUNDFELDT",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Öhrling",
+      "first_name": null,
+      "initials": "P. O.",
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "position": null
+    },
+    {
+      "surname": "Ernsell",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ÖHRLING",
+      "first_name": null,
+      "initials": "P. O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": null,
+      "initials": "D.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ERNSELL",
+      "first_name": "OLOV",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

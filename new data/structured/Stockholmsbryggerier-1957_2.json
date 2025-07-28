@@ -1,0 +1,100 @@
+{
+  "company_name": "AKTIEBOLAGET STOCKHOLMS BRYGGERIER",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 69961.0,
+    "cost_of_goods_sold": 44546.0,
+    "operating_expenses": null,
+    "wages_expense": 17370.0,
+    "tax_expense": 1269.0,
+    "depreciation": 3135.0,
+    "net_income": 4860.0
+  },
+  "balance_sheet": {
+    "total_assets": 120562.0,
+    "current_assets": 18752.0,
+    "fixed_assets": 92537.0,
+    "total_liabilities": 23087.0,
+    "current_liabilities": 7105.0,
+    "long_term_liabilities": 5653.0,
+    "shareholders_equity": 40197.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ANDERSON",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELMFELDT",
+      "first_name": "B",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "NORDENSON",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "S",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": "R V",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "TM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STERKY",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERDAHL",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WIRSTRÖM",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HAAGE",
+      "first_name": "GEORG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

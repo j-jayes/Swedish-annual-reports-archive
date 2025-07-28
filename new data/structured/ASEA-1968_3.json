@@ -1,0 +1,86 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGET",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 2728.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 53.8,
+    "depreciation": null,
+    "net_income": 86.1
+  },
+  "balance_sheet": {
+    "total_assets": 3720.7,
+    "current_assets": 2582.1,
+    "fixed_assets": 1119.8,
+    "total_liabilities": null,
+    "current_liabilities": 597.55,
+    "long_term_liabilities": 848.624,
+    "shareholders_equity": 984.403
+  },
+  "employees": {
+    "n_employees": 32726,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "VRETHEM",
+      "first_name": "\"\"\nÅKE",
+      "initials": null,
+      "position": "koncernchef"
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": "Skeppsredare"
+    },
+    {
+      "surname": "NICOLIN",
+      "first_name": "CURT",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

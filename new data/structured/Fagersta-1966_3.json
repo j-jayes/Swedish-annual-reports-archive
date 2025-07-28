@@ -1,0 +1,124 @@
+{
+  "company_name": "Fagersta Bruks Aktiebolag",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 398.275,
+    "cost_of_goods_sold": 361.861,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 25.558,
+    "net_income": 6.45
+  },
+  "balance_sheet": {
+    "total_assets": 366.875,
+    "current_assets": 225.855,
+    "fixed_assets": 141.02,
+    "total_liabilities": 200.428,
+    "current_liabilities": 68.766,
+    "long_term_liabilities": 131.662,
+    "shareholders_equity": 156.672
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ödmark",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Elfström",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "v. verkst. dir."
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "v. verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "Audin",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": "Revisionschef"
+    },
+    {
+      "surname": "Witt",
+      "first_name": "Carl Henrik",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    }
+  ],
+  "additional_notes": null
+}

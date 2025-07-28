@@ -1,0 +1,80 @@
+{
+  "company_name": "Garphyttan",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 1422.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 31.0,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 1164.3,
+    "current_assets": 607.8,
+    "fixed_assets": 529.3,
+    "total_liabilities": 362.9,
+    "current_liabilities": 301.5,
+    "long_term_liabilities": 290.0,
+    "shareholders_equity": 268.6
+  },
+  "employees": {
+    "n_employees": 1814,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bern",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Warnander",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Lundborg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    }
+  ],
+  "additional_notes": null
+}

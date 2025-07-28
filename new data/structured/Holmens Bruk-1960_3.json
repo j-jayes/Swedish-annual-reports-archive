@@ -1,0 +1,98 @@
+{
+  "company_name": "HOLMENS BRUK",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 318000000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9324000.0,
+    "depreciation": 24420000.0,
+    "net_income": 10725000.0
+  },
+  "balance_sheet": {
+    "total_assets": 289741977.0,
+    "current_assets": 131438609.0,
+    "fixed_assets": 141088644.0,
+    "total_liabilities": 95982037.0,
+    "current_liabilities": 46765874.0,
+    "long_term_liabilities": 39548681.0,
+    "shareholders_equity": 101609000.0
+  },
+  "employees": {
+    "n_employees": 5593,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Boheman",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Martin",
+      "initials": null,
+      "position": "v. talman"
+    },
+    {
+      "surname": "von Sydow",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahren",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "v. verkst. dir."
+    },
+    {
+      "surname": "Gabrielson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "v. verkst. dir."
+    },
+    {
+      "surname": "Wahren",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": "Advokat"
+    }
+  ],
+  "additional_notes": null
+}

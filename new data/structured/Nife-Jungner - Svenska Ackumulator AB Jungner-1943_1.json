@@ -1,0 +1,70 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1943,
+  "income_statement": {
+    "revenue": 1888179.98,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 552323.3,
+    "depreciation": 800917.68,
+    "net_income": 800917.68
+  },
+  "balance_sheet": {
+    "total_assets": 22479939.0,
+    "current_assets": null,
+    "fixed_assets": 8030000.0,
+    "total_liabilities": 10591487.08,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6298500.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ingeström",
+      "first_name": "Bengt",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Sparre",
+      "first_name": null,
+      "initials": "L. C.",
+      "position": null
+    },
+    {
+      "surname": "Liljenroth",
+      "first_name": null,
+      "initials": "F. G.",
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Robert",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Jung",
+      "first_name": "Torsten",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": null,
+      "initials": "C. H. A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nelson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

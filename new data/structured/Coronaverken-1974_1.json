@@ -1,0 +1,76 @@
+{
+  "company_name": "Coronaverken AB",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 123829.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2710.0,
+    "net_income": -12989.0
+  },
+  "balance_sheet": {
+    "total_assets": null,
+    "current_assets": 92445.0,
+    "fixed_assets": 90910.0,
+    "total_liabilities": null,
+    "current_liabilities": 67196.0,
+    "long_term_liabilities": 69265.0,
+    "shareholders_equity": 46894.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Löjdquist",
+      "first_name": "Inge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mauritzon",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

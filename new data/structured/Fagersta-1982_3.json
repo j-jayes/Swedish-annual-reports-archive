@@ -1,0 +1,128 @@
+{
+  "company_name": "FAGERSTA",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 2165.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 72.5,
+    "net_income": 0.0
+  },
+  "balance_sheet": {
+    "total_assets": 2902.6,
+    "current_assets": 1704.4,
+    "fixed_assets": 1198.2,
+    "total_liabilities": 2138.5,
+    "current_liabilities": 868.9,
+    "long_term_liabilities": 1170.8,
+    "shareholders_equity": 764.1
+  },
+  "employees": {
+    "n_employees": 5827,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyll",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Tony",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan H",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ahlström",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Hjernberg",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Mattsson",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Nerpin",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

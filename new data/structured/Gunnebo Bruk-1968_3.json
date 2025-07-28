@@ -1,0 +1,86 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 28.16,
+    "tax_expense": 826000.0,
+    "depreciation": 5.201,
+    "net_income": 1820000.0
+  },
+  "balance_sheet": {
+    "total_assets": 105306000.0,
+    "current_assets": 32427000.0,
+    "fixed_assets": 23962000.0,
+    "total_liabilities": 35031000.0,
+    "current_liabilities": 17198000.0,
+    "long_term_liabilities": 15690000.0,
+    "shareholders_equity": 32190000.0
+  },
+  "employees": {
+    "n_employees": 1220,
+    "n_blue_collar_workers": 986,
+    "n_white_collar_workers": 234
+  },
+  "board": [
+    {
+      "surname": "HÄGGQVIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDERSTRÖM",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WILHELMSON",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TIGERSCHIOLD",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖHOLM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WENNSTRÖM",
+      "first_name": "INGE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

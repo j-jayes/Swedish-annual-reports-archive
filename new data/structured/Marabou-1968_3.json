@@ -1,0 +1,74 @@
+{
+  "company_name": "MARABOU",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 208.053,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3.027
+  },
+  "balance_sheet": {
+    "total_assets": 126.966,
+    "current_assets": 63.885,
+    "fixed_assets": 62.161,
+    "total_liabilities": null,
+    "current_liabilities": 40.191,
+    "long_term_liabilities": 7.28,
+    "shareholders_equity": 60.425
+  },
+  "employees": {
+    "n_employees": 1331,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "H:SON-ERICSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERFELT",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAN",
+      "first_name": "GENDLE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BEXELIUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

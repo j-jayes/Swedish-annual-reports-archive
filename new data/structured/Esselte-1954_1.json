@@ -1,0 +1,86 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 183.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 60.6,
+    "tax_expense": null,
+    "depreciation": 5.4,
+    "net_income": 4.8
+  },
+  "balance_sheet": {
+    "total_assets": 36.385,
+    "current_assets": 3.071,
+    "fixed_assets": 31.099,
+    "total_liabilities": 45.934,
+    "current_liabilities": 16.525,
+    "long_term_liabilities": 22.286,
+    "shareholders_equity": 53.834
+  },
+  "employees": {
+    "n_employees": 6059,
+    "n_blue_collar_workers": 4337,
+    "n_white_collar_workers": 1682
+  },
+  "board": [
+    {
+      "surname": "EKEBERG",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": "ORDF."
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "V. ORDF."
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "FRITHIOF",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "BJÖRKMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SILLÉN",
+      "first_name": "O.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLÉN",
+      "first_name": "Oskar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BIESÈRT",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

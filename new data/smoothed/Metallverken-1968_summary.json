@@ -1,0 +1,110 @@
+{
+  "company_name": "AB Svenska Metallverken",
+  "fiscal_year": 1968,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1203.829,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1107.492,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 51.304,
+    "net_income": 12.323
+  },
+  "balance_sheet": {
+    "total_assets": 924.4146666666667,
+    "current_assets": 469.8043333333333,
+    "fixed_assets": 354.79866666666663,
+    "total_liabilities": 572.3683333333333,
+    "current_liabilities": 212.71266666666665,
+    "long_term_liabilities": 239.54466666666667,
+    "shareholders_equity": 209.98466666666667
+  },
+  "employees": {
+    "n_employees": 5971.333333333333,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "erdf."
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS",
+      "initials": "K.",
+      "position": "v/ordf."
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "TORE",
+      "initials": "dr",
+      "position": null
+    },
+    {
+      "surname": "DE GEER",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JENSEN",
+      "first_name": "C.E.V.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOSSBERG",
+      "first_name": "EIJE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIEGBAHN",
+      "first_name": "KAI",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "SERRANDER",
+      "first_name": "STAFFAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HEDBERG",
+      "first_name": "THJELVAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LILLIESTRÖM-TJUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ÅSTRÖM",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

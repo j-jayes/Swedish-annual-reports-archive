@@ -1,0 +1,74 @@
+{
+  "company_name": "Atlas Diesel",
+  "fiscal_year": 1946,
+  "income_statement": {
+    "revenue": 6.12980321,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1.52007057,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.250931,
+    "net_income": 2.70332923
+  },
+  "balance_sheet": {
+    "total_assets": 30.1426898,
+    "current_assets": 20.73305686,
+    "fixed_assets": 4.782535,
+    "total_liabilities": 18.71609845,
+    "current_liabilities": 10.95629145,
+    "long_term_liabilities": 4.974807,
+    "shareholders_equity": 11.43045
+  },
+  "employees": {
+    "n_employees": 1732,
+    "n_blue_collar_workers": 1144,
+    "n_white_collar_workers": 588
+  },
+  "board": [
+    {
+      "surname": "Liljenroth",
+      "first_name": "F",
+      "initials": "F. G.",
+      "position": null
+    },
+    {
+      "surname": "Sällfors",
+      "first_name": "C",
+      "initials": "C. Tarras",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Pyk",
+      "first_name": "H",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": "Walter",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L",
+      "initials": "L. T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnstrand",
+      "first_name": "Olof",
+      "initials": "Olof",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

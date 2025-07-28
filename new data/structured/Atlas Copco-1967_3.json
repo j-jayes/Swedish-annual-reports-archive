@@ -1,0 +1,86 @@
+{
+  "company_name": "Atlas Copco AB",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 378275578.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4002194.0,
+    "net_income": 20496600.0
+  },
+  "balance_sheet": {
+    "total_assets": 408090029.0,
+    "current_assets": 120034084.0,
+    "fixed_assets": 49965421.0,
+    "total_liabilities": 194565975.0,
+    "current_liabilities": null,
+    "long_term_liabilities": 88285371.0,
+    "shareholders_equity": 182632500.0
+  },
+  "employees": {
+    "n_employees": 725,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "BORLIND",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SPORBORG",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARC",
+      "initials": "JR",
+      "position": "Deputy Member"
+    },
+    {
+      "surname": "BELFRAGE",
+      "first_name": "KURT-ALLAN",
+      "initials": null,
+      "position": "Man. Dir."
+    },
+    {
+      "surname": "EKEFALK",
+      "first_name": "STURE",
+      "initials": null,
+      "position": "1st Deputy Man. Dir."
+    },
+    {
+      "surname": "JOHNSSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Deputy Man. Dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

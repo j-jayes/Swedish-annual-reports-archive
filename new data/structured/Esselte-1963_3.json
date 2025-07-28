@@ -1,0 +1,86 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 25747477.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10340485.0,
+    "net_income": 6410504.0
+  },
+  "balance_sheet": {
+    "total_assets": 119505685.0,
+    "current_assets": 52029223.0,
+    "fixed_assets": 63641062.0,
+    "total_liabilities": 74900083.0,
+    "current_liabilities": 36509470.0,
+    "long_term_liabilities": 47933.0,
+    "shareholders_equity": 44654377.0
+  },
+  "employees": {
+    "n_employees": 7575,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "GENERALKONSUL ORDF."
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "FRITHIOF",
+      "initials": null,
+      "position": "BANKDIREKTÖR"
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "CIVILINGENJÖR VICE VERKST. DIREKTÖR"
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": "ÖVERINTENDENT"
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "SUNDEN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "f. d. HOVRÄTTSRÅDET VERKST. DIREKTÖR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "AUKT. REVISOR"
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "auditing_firm": "DIREKTÖR"
+    }
+  ],
+  "additional_notes": null
+}

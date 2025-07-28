@@ -1,0 +1,98 @@
+{
+  "company_name": "H & M HENNES & MAURITZ AB",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 1194.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 42.9,
+    "depreciation": 6.4,
+    "net_income": 32.3
+  },
+  "balance_sheet": {
+    "total_assets": 327.6,
+    "current_assets": 288.6,
+    "fixed_assets": 32.1,
+    "total_liabilities": 125.9,
+    "current_liabilities": 115.6,
+    "long_term_liabilities": 10.3,
+    "shareholders_equity": 48.5
+  },
+  "employees": {
+    "n_employees": 2747,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mattson",
+      "first_name": "John",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Chrantz",
+      "first_name": "Rosa",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stjernquist",
+      "first_name": "Inge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erling",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Ella",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Kristfeldt",
+      "first_name": "Jens",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

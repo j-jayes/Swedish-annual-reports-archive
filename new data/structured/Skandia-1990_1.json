@@ -1,0 +1,146 @@
+{
+  "company_name": "Skandia Group",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 24853.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 228.0
+  },
+  "balance_sheet": {
+    "total_assets": 89697.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": 10816.0,
+    "shareholders_equity": 6888.0
+  },
+  "employees": {
+    "n_employees": 10893,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Niskanen",
+      "first_name": "Yrj\"o",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindquist",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Green",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fahlin",
+      "first_name": "Roland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kronblad",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tobisson",
+      "first_name": "Lars",
+      "initials": "F",
+      "position": null
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Weise",
+      "first_name": "Barbara",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wolrath",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindén",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "Swarting",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Sören",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "Lekman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

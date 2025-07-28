@@ -1,0 +1,140 @@
+{
+  "company_name": "Mo och Domsjö AB (MoDo)",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 7397.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -6668.0,
+    "wages_expense": null,
+    "tax_expense": -21.0,
+    "depreciation": null,
+    "net_income": 161.0
+  },
+  "balance_sheet": {
+    "total_assets": 11175.0,
+    "current_assets": 3349.0,
+    "fixed_assets": 5017.0,
+    "total_liabilities": 6149.0,
+    "current_liabilities": 2154.9,
+    "long_term_liabilities": 4782.0,
+    "shareholders_equity": 2144.0
+  },
+  "employees": {
+    "n_employees": 7090,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karhola-Wettergren",
+      "first_name": "Lil",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Löf",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "Nordin",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Frank",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brandstrom",
+      "first_name": "Hilding",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Algot",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lejeune",
+      "first_name": "Jacques",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Frans",
+      "initials": null,
+      "auditing_firm": "Godkänd revisor"
+    },
+    {
+      "surname": "Schumacher",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisors"
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Kerstin",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

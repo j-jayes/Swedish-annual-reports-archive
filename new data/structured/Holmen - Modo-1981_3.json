@@ -1,0 +1,98 @@
+{
+  "company_name": "MoDo",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 4188.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 25.0,
+    "depreciation": null,
+    "net_income": 1.7
+  },
+  "balance_sheet": {
+    "total_assets": 5708.7,
+    "current_assets": 2365.0,
+    "fixed_assets": 3343.7,
+    "total_liabilities": 3430.9,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1254.8
+  },
+  "employees": {
+    "n_employees": 7494,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Löntagarrepresentant, PTK"
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Sprängare",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerlund",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Löntagarrepresentant, SPIAF"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

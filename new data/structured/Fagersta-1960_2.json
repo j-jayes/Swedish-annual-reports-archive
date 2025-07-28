@@ -1,0 +1,86 @@
+{
+  "company_name": "Fagersta Bruks Aktiebolag",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 55753284.86,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 10300000.0,
+    "depreciation": 16324877.51,
+    "net_income": 9326801.69
+  },
+  "balance_sheet": {
+    "total_assets": 257932721.88,
+    "current_assets": 60086216.26,
+    "fixed_assets": 61470875.13,
+    "total_liabilities": 125586290.83,
+    "current_liabilities": 40463069.52,
+    "long_term_liabilities": 85123221.31,
+    "shareholders_equity": 120346431.05
+  },
+  "employees": {
+    "n_employees": 6053,
+    "n_blue_collar_workers": 5064,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "\nASELIUS",
+      "first_name": null,
+      "initials": "HJ.",
+      "position": null
+    },
+    {
+      "surname": "ODMARK",
+      "first_name": null,
+      "initials": "STIG",
+      "position": null
+    },
+    {
+      "surname": "HÄGGQVIST",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "STERKY",
+      "first_name": null,
+      "initials": "GÖSTA",
+      "position": null
+    },
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OBERG",
+      "first_name": "THURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELFSTROM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOFLUND",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

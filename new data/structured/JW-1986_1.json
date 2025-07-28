@@ -1,0 +1,128 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 382.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 144.122,
+    "tax_expense": 7.735,
+    "depreciation": 7.931,
+    "net_income": 17.5
+  },
+  "balance_sheet": {
+    "total_assets": 345.764,
+    "current_assets": 226.934,
+    "fixed_assets": 115.105,
+    "total_liabilities": 142.27,
+    "current_liabilities": 43.694,
+    "long_term_liabilities": 105.671,
+    "shareholders_equity": 84.712
+  },
+  "employees": {
+    "n_employees": 1015,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ROOS",
+      "first_name": "FREDRIK",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "IRSTAD",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "DANIELSEN",
+      "first_name": "TORE",
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "LEVIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PAULI",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDH",
+      "first_name": "ZERNY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ZETTERBERG",
+      "first_name": "\nÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDSTRÖM",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "BERGQUIST",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERMANSSON",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDSTRÖM",
+      "first_name": "HELMER",
+      "initials": "J",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AXELSSON",
+      "first_name": "KURT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "SUNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBERG",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

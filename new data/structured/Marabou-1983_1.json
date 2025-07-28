@@ -1,0 +1,43 @@
+{
+  "company_name": "Maraboukoncernen",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 1564.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 17.9,
+    "depreciation": 34.7,
+    "net_income": 11.7
+  },
+  "balance_sheet": {
+    "total_assets": 880.8,
+    "current_assets": 425.7,
+    "fixed_assets": 425.7,
+    "total_liabilities": 334.3,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 25.8
+  },
+  "employees": {
+    "n_employees": 2764,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Akteus",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Almqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

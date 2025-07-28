@@ -1,0 +1,128 @@
+{
+  "company_name": "Marabou",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 371.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.3,
+    "depreciation": null,
+    "net_income": 8.4
+  },
+  "balance_sheet": {
+    "total_assets": 230.6,
+    "current_assets": 52.6,
+    "fixed_assets": 150.6,
+    "total_liabilities": 100.0,
+    "current_liabilities": 46.8,
+    "long_term_liabilities": 35.5,
+    "shareholders_equity": 100.0
+  },
+  "employees": {
+    "n_employees": 1612,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Henning",
+      "initials": null,
+      "position": "Ordförande, Direktör"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ericson",
+      "first_name": null,
+      "initials": "Stig H:son",
+      "position": "Riksmarskalk"
+    },
+    {
+      "surname": "Ohlin",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Høyesterettsadvokat"
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Johnson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Sigvor",
+      "initials": null,
+      "position": "Fru"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Gentele",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Rinnan",
+      "first_name": "Börge",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

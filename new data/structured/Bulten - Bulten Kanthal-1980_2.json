@@ -1,0 +1,128 @@
+{
+  "company_name": "Bulten-Kanthal",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 1009.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 11.0,
+    "depreciation": 35.0,
+    "net_income": 17.0
+  },
+  "balance_sheet": {
+    "total_assets": 1061.0,
+    "current_assets": 678.01,
+    "fixed_assets": 383.0,
+    "total_liabilities": 564.0,
+    "current_liabilities": 269.0,
+    "long_term_liabilities": 295.0,
+    "shareholders_equity": 238.0
+  },
+  "employees": {
+    "n_employees": 4191,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ehrner",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Berth",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Louis",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Norberg",
+      "first_name": "Per-Olov",
+      "initials": null,
+      "position": "verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Jarl",
+      "initials": null,
+      "position": "styrelsesuppleant"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagerqvist",
+      "first_name": "Sten-Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Mats",
+      "initials": null,
+      "position": "styrelsesuppleant"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Tage",
+      "initials": null,
+      "position": "styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ernfridsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Morling",
+      "first_name": "Pehr Magnus",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

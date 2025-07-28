@@ -1,0 +1,116 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1972,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 220055633.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 177592280.0,
+    "wages_expense": null,
+    "tax_expense": 1489100.0,
+    "depreciation": 2728345.5,
+    "net_income": 1951536.0
+  },
+  "balance_sheet": {
+    "total_assets": 158023255.0,
+    "current_assets": 100587748.0,
+    "fixed_assets": 57435507.0,
+    "total_liabilities": 56411214.0,
+    "current_liabilities": 38077983.666666664,
+    "long_term_liabilities": 18046560.333333332,
+    "shareholders_equity": 38127258.0
+  },
+  "employees": {
+    "n_employees": 1459,
+    "n_blue_collar_workers": 426,
+    "n_white_collar_workers": 611
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "Georg",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Degefors",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Käll",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hultén",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lindqvist",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Browall",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Dillén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Kanslirådet"
+    },
+    {
+      "surname": "Hultén",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Feinstein",
+      "first_name": "Sten Erik",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Tönnervik",
+      "first_name": "Henry",
+      "initials": null,
+      "auditing_firm": "Revisor SRS"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nyman",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Revisor SRS"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 64895704.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 6832050.0
+  },
+  "balance_sheet": {
+    "total_assets": 331269140.0,
+    "current_assets": 162690687.0,
+    "fixed_assets": 71457196.0,
+    "total_liabilities": 210583760.0,
+    "current_liabilities": 31356345.0,
+    "long_term_liabilities": 70501569.0,
+    "shareholders_equity": 120685380.0
+  },
+  "employees": {
+    "n_employees": 6815,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "HAGLUND",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "ERIK",
+      "initials": "W",
+      "position": "Direktör"
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": "Tandläkare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": "Konsul"
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

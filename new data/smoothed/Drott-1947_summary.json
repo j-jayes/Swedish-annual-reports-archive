@@ -1,0 +1,74 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1947,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2273631.55,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 100004.0,
+    "net_income": 302320.75
+  },
+  "balance_sheet": {
+    "total_assets": 24170734.6,
+    "current_assets": 464733.6,
+    "fixed_assets": 23706001.0,
+    "total_liabilities": 14234005.33,
+    "current_liabilities": 569804.03,
+    "long_term_liabilities": 14234005.33,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 60.666666666666664,
+    "n_blue_collar_workers": 48,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "TENGBOM",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSSBAHR",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖQVIST",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": "Verkst. direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ALMQVIST",
+      "first_name": "HARALD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

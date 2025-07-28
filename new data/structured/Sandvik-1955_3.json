@@ -1,0 +1,80 @@
+{
+  "company_name": "Sandvikens Jernverks Aktiebolag",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 31587914.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 6471548.0
+  },
+  "balance_sheet": {
+    "total_assets": 226949457.0,
+    "current_assets": 101763107.0,
+    "fixed_assets": 125186350.0,
+    "total_liabilities": 136568267.0,
+    "current_liabilities": 37015475.0,
+    "long_term_liabilities": 74544513.0,
+    "shareholders_equity": 90381190.0
+  },
+  "employees": {
+    "n_employees": 6802,
+    "n_blue_collar_workers": 5091,
+    "n_white_collar_workers": 1711
+  },
+  "board": [
+    {
+      "surname": "Magnusson",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Erik",
+      "initials": "W",
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": null,
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sebardt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": "O",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

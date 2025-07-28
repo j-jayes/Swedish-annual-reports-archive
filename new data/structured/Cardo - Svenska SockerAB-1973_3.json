@@ -1,0 +1,94 @@
+{
+  "company_name": "AB CARDO",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 896.0,
+    "depreciation": null,
+    "net_income": 24773.0
+  },
+  "balance_sheet": {
+    "total_assets": 284038.0,
+    "current_assets": 144.0,
+    "fixed_assets": 283894.0,
+    "total_liabilities": null,
+    "current_liabilities": 10498.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 273540.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hammarskiöld",
+      "first_name": null,
+      "initials": "S.",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": null,
+      "initials": "H.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": null,
+      "initials": "Th.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Kennedy",
+      "first_name": "Douglas",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Kihlstedt",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ambassadör"
+    },
+    {
+      "surname": "Nordenskjöld",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Faxe",
+      "first_name": null,
+      "initials": "J.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": null,
+      "initials": "N. A.",
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

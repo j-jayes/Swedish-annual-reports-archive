@@ -1,0 +1,51 @@
+{
+  "company_name": "BLEKINGE KUSTBANOR",
+  "fiscal_year": 1907,
+  "income_statement": {
+    "revenue": 1126537.52,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 372375.08,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 234955.82
+  },
+  "balance_sheet": {
+    "total_assets": 6184040.68,
+    "current_assets": 220667.07,
+    "fixed_assets": 5988868.53,
+    "total_liabilities": 5512399.47,
+    "current_liabilities": 730942.51,
+    "long_term_liabilities": 3096966.84,
+    "shareholders_equity": 671641.21
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ekenman",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leth",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Swanlund",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

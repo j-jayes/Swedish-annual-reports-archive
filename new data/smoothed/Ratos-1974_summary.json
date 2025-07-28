@@ -1,0 +1,76 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Ratos",
+  "fiscal_year": 1974,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 12731000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 12478000.0
+  },
+  "balance_sheet": {
+    "total_assets": 178879000.0,
+    "current_assets": 48949000.0,
+    "fixed_assets": 129150000.0,
+    "total_liabilities": 48842000.0,
+    "current_liabilities": 5111500.0,
+    "long_term_liabilities": 3935000.0,
+    "shareholders_equity": 149541666.66666666
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilstein",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Regelius",
+      "first_name": "Karl",
+      "initials": "Erik",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

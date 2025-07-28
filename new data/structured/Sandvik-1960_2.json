@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 354.63,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 15.09,
+    "net_income": 9.12
+  },
+  "balance_sheet": {
+    "total_assets": 403.01,
+    "current_assets": 66.27,
+    "fixed_assets": 158.65,
+    "total_liabilities": 198.65,
+    "current_liabilities": 61.49,
+    "long_term_liabilities": 45.72,
+    "shareholders_equity": 123.17
+  },
+  "employees": {
+    "n_employees": 7906,
+    "n_blue_collar_workers": 6114,
+    "n_white_collar_workers": 1792
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HAGLUND",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBLOM",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": "Konsul"
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": "Koncernens externa fakturering av järn-, stål- och hårdmetallprodukter under år 1960 uppgick till 454,5 milj. kronor jämfört med 376,6 milj. kronor under år 1959."
+}

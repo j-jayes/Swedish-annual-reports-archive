@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET KLIPPANS FINPAPPERSBRUK",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 14.545,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1.427,
+    "net_income": 2.569
+  },
+  "balance_sheet": {
+    "total_assets": 103.255,
+    "current_assets": 41.079,
+    "fixed_assets": 61.846,
+    "total_liabilities": 37.989,
+    "current_liabilities": 19.519,
+    "long_term_liabilities": 37.989,
+    "shareholders_equity": 45.066
+  },
+  "employees": {
+    "n_employees": 1921,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GUSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "WESTERSTROM",
+      "first_name": null,
+      "initials": "TH.",
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "RUTGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELVEFORS",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Auktoriserad revisor"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LARSSON",
+      "first_name": "TAGE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ELVEFORS",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,140 @@
+{
+  "company_name": "Telefonaktiebolaget LM Ericsson",
+  "fiscal_year": 1951,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 48.359,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 10.131,
+    "depreciation": 8.9,
+    "net_income": 11.533
+  },
+  "balance_sheet": {
+    "total_assets": 348.645,
+    "current_assets": 157.967,
+    "fixed_assets": 26.438,
+    "total_liabilities": 171.709,
+    "current_liabilities": 67.131,
+    "long_term_liabilities": 85.302,
+    "shareholders_equity": 166.483
+  },
+  "employees": {
+    "n_employees": 7711,
+    "n_blue_collar_workers": 5254,
+    "n_white_collar_workers": 2457
+  },
+  "board": [
+    {
+      "surname": "Borgquist",
+      "first_name": "Waldemar",
+      "initials": null,
+      "position": "Generaldirektör, ordf."
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Bankdirektör, v. ordf."
+    },
+    {
+      "surname": "Behn",
+      "first_name": "Sosthenes",
+      "initials": null,
+      "position": "Överste"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Ernfrid",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Harrison",
+      "first_name": "William H.",
+      "initials": null,
+      "position": "General"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Wicander",
+      "first_name": "Carl Aug.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Woxén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Helge",
+      "initials": null,
+      "position": "Direktör, verkst. dir."
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Montelius",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Överingenjör"
+    },
+    {
+      "surname": "Roemer",
+      "first_name": "Henry C.",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Rudberg",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Kapten"
+    },
+    {
+      "surname": "Sterner",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå Aktiebolag"
+    },
+    {
+      "surname": "Stevenson",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

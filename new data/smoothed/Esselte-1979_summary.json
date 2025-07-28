@@ -1,0 +1,98 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1979,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 4094.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3612.4,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 114.0,
+    "net_income": 129.5
+  },
+  "balance_sheet": {
+    "total_assets": 3511.4,
+    "current_assets": 2313.2,
+    "fixed_assets": 1102.0333333333333,
+    "total_liabilities": 1154.5,
+    "current_liabilities": 1146.1,
+    "long_term_liabilities": 723.3,
+    "shareholders_equity": 633.7
+  },
+  "employees": {
+    "n_employees": 14210,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Solveig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmén",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Nordenback",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ]
+}

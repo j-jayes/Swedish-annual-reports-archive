@@ -1,0 +1,82 @@
+{
+  "company_name": "Aktiebolaget Papyrus",
+  "fiscal_year": 1984,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 4068.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3524.8,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 90.7
+  },
+  "balance_sheet": {
+    "total_assets": 4058.3,
+    "current_assets": 1896.6,
+    "fixed_assets": 2082.9,
+    "total_liabilities": 2490.6,
+    "current_liabilities": 741.9,
+    "long_term_liabilities": 515.9,
+    "shareholders_equity": 1207.7
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Harrison",
+      "first_name": "Per",
+      "initials": "Å",
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bäckberg",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Herry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jansson",
+      "first_name": "Nils",
+      "initials": "G",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gustavsson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

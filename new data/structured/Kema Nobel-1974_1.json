@@ -1,0 +1,98 @@
+{
+  "company_name": "KemaNord",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 1444.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1163.425,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 72.943,
+    "net_income": 34.346
+  },
+  "balance_sheet": {
+    "total_assets": 1239.381,
+    "current_assets": 704.914,
+    "fixed_assets": 453.343,
+    "total_liabilities": 471.244,
+    "current_liabilities": 242.13,
+    "long_term_liabilities": 426.196,
+    "shareholders_equity": 263.6
+  },
+  "employees": {
+    "n_employees": 5248,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dybeck",
+      "first_name": "Clarence",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trolle-Wachtmeister",
+      "first_name": "Hans-Gabriel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linder",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": "Advokat"
+    },
+    {
+      "surname": "Pontin",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

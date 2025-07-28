@@ -1,0 +1,104 @@
+{
+  "company_name": "SVENSKA LLOYD",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 25.258,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.874,
+    "depreciation": null,
+    "net_income": 1.486
+  },
+  "balance_sheet": {
+    "total_assets": 68.144,
+    "current_assets": null,
+    "fixed_assets": 47.456,
+    "total_liabilities": 17.028,
+    "current_liabilities": 18.649,
+    "long_term_liabilities": null,
+    "shareholders_equity": 26.746
+  },
+  "employees": {
+    "n_employees": 1210,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HOOGLAND",
+      "first_name": "HERMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLIDBERG",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "PETTERSON",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CHRISTOFFERSEN",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOOGLAND",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BLIDBERG",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

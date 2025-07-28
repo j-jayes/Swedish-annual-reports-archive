@@ -1,0 +1,98 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGET",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 584.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 43.5,
+    "depreciation": null,
+    "net_income": 27.3
+  },
+  "balance_sheet": {
+    "total_assets": 688.18,
+    "current_assets": 331.72,
+    "fixed_assets": 356.46,
+    "total_liabilities": 375.53,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 312.65
+  },
+  "employees": {
+    "n_employees": 30300,
+    "n_blue_collar_workers": 19182,
+    "n_white_collar_workers": 11118
+  },
+  "board": [
+    {
+      "surname": "Ericson",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke",
+      "initials": "T",
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Edström",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lilliecreutz",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Douglas",
+      "first_name": null,
+      "initials": "G A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": "Fakturerade omsättningen uppgick till 584 Mkr. (1954 exkl. STAL, Elektro-Helios och Liljeholmens Kabelfabrik 538 Mkr.) och koncernomsättningen till 1.133 Mkr. (1.045 Mkr.)"
+}

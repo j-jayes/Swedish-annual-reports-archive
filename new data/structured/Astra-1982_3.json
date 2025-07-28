@@ -1,0 +1,104 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 2740.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2452.5,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 370.0
+  },
+  "balance_sheet": {
+    "total_assets": 3305.6,
+    "current_assets": 2206.1,
+    "fixed_assets": 1046.4,
+    "total_liabilities": 815.2,
+    "current_liabilities": 884.4,
+    "long_term_liabilities": 371.0,
+    "shareholders_equity": 472.5
+  },
+  "employees": {
+    "n_employees": 6162,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Tony",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Julin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "vice ordf"
+    },
+    {
+      "surname": "Tillander",
+      "first_name": "Barbro",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werkö",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "vice VD"
+    },
+    {
+      "surname": "Widengren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "Professor"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

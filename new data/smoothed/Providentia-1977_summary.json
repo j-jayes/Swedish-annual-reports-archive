@@ -1,0 +1,88 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Providentia",
+  "fiscal_year": 1977,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 26767621.666666668,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 12512.666666666666,
+    "wages_expense": null,
+    "tax_expense": -1949000.0,
+    "depreciation": null,
+    "net_income": 33456720.0
+  },
+  "balance_sheet": {
+    "total_assets": 239061471.0,
+    "current_assets": 70820059.0,
+    "fixed_assets": 168241412.0,
+    "total_liabilities": 55053999.0,
+    "current_liabilities": 6806000.0,
+    "long_term_liabilities": 5486000.0,
+    "shareholders_equity": 231725805.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gösta Archibald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagergren",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "förordnad av Kungl. Majst"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hermansson",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Markdahl",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

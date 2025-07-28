@@ -1,0 +1,116 @@
+{
+  "company_name": "BEIJERINVEST",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 20951.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 20480.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 155.0,
+    "net_income": 118.4
+  },
+  "balance_sheet": {
+    "total_assets": 6346.5,
+    "current_assets": 3937.7,
+    "fixed_assets": 2391.1,
+    "total_liabilities": 4181.1,
+    "current_liabilities": 2877.5,
+    "long_term_liabilities": 1900.3,
+    "shareholders_equity": 906.2
+  },
+  "employees": {
+    "n_employees": 11591,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "G Rune",
+      "initials": null,
+      "position": "Generaldirektör"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Säve",
+      "first_name": "Carl T",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Walter",
+      "first_name": "James W",
+      "initials": null,
+      "position": "Mr"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Agrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Jörgensen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Sandberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Fd förbundsordförande"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "REVEKO Karlgrens, Nordelöfs, Nils Olsson & Engqvist"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå"
+    }
+  ],
+  "additional_notes": null
+}

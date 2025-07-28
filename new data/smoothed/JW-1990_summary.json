@@ -1,0 +1,110 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1990,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 538001076.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 66.0,
+    "net_income": -10380687.414
+  },
+  "balance_sheet": {
+    "total_assets": 457926592.802,
+    "current_assets": 163077744.248,
+    "fixed_assets": 275498831.89,
+    "total_liabilities": 223437214.0,
+    "current_liabilities": 182557.0,
+    "long_term_liabilities": 147748.714,
+    "shareholders_equity": 46872205.492
+  },
+  "employees": {
+    "n_employees": 3715.3333333333335,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Roos",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Irstad",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Levin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Jarl",
+      "initials": null,
+      "position": "vVD"
+    },
+    {
+      "surname": "Pauli",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "sektionschef"
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Ekonomidirektör"
+    },
+    {
+      "surname": "Sandh",
+      "first_name": "Zerny",
+      "initials": null,
+      "position": "Koncernchef"
+    },
+    {
+      "surname": "Weström",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlkvist",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johanson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ]
+}

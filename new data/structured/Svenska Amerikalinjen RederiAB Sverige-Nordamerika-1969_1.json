@@ -1,0 +1,116 @@
+{
+  "company_name": "Svenska Amerika Linien",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 98.415,
+    "cost_of_goods_sold": 48.919,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 12.0,
+    "depreciation": null,
+    "net_income": 4.03
+  },
+  "balance_sheet": {
+    "total_assets": 62.155,
+    "current_assets": 9.072,
+    "fixed_assets": 51.26,
+    "total_liabilities": 26.042,
+    "current_liabilities": 2.69,
+    "long_term_liabilities": 23.352,
+    "shareholders_equity": 36.113
+  },
+  "employees": {
+    "n_employees": 927,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Boheman",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Steen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilson",
+      "first_name": null,
+      "initials": "B-G",
+      "position": "vice verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

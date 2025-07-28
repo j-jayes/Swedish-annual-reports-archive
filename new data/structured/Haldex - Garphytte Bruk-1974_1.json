@@ -1,0 +1,86 @@
+{
+  "company_name": "Garphyttan",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 135.188,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6.211,
+    "net_income": 1.986
+  },
+  "balance_sheet": {
+    "total_assets": 140.12,
+    "current_assets": 78.605,
+    "fixed_assets": 61.434,
+    "total_liabilities": 60.07,
+    "current_liabilities": 31.081,
+    "long_term_liabilities": 44.988,
+    "shareholders_equity": 22.885
+  },
+  "employees": {
+    "n_employees": 828,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": "Ulf-C.",
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werme",
+      "first_name": "Henrik",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Bäcker",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

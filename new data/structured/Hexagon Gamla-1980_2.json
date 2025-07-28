@@ -1,0 +1,92 @@
+{
+  "company_name": "Hexagon AB",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 939.722,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 850.843,
+    "wages_expense": null,
+    "tax_expense": 6.95,
+    "depreciation": 23.167,
+    "net_income": 6.985
+  },
+  "balance_sheet": {
+    "total_assets": 667.462,
+    "current_assets": 442.875,
+    "fixed_assets": 222.864,
+    "total_liabilities": 305.109,
+    "current_liabilities": 185.375,
+    "long_term_liabilities": 263.898,
+    "shareholders_equity": 73.066
+  },
+  "employees": {
+    "n_employees": 3022,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hæggström",
+      "first_name": "Göran",
+      "initials": "G. Z.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engkvist",
+      "first_name": "Norrberth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lillieh",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ek",
+      "first_name": "Torbjörn",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil E.",
+      "initials": null,
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

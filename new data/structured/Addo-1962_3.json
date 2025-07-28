@@ -1,0 +1,80 @@
+{
+  "company_name": "AB ADDO",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 76.31,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.506,
+    "depreciation": null,
+    "net_income": 1.712
+  },
+  "balance_sheet": {
+    "total_assets": 52.689,
+    "current_assets": 43.812,
+    "fixed_assets": 8.877,
+    "total_liabilities": 27.755,
+    "current_liabilities": 20.393,
+    "long_term_liabilities": 7.814,
+    "shareholders_equity": 18.175
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1319,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Vilén",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Agrell",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bruzelius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bruzelius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

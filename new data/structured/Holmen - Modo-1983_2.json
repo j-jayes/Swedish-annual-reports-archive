@@ -1,0 +1,104 @@
+{
+  "company_name": "MoDo",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 5786.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 251.0
+  },
+  "balance_sheet": {
+    "total_assets": 7508.0,
+    "current_assets": 4071.0,
+    "fixed_assets": 3437.0,
+    "total_liabilities": 2781.0,
+    "current_liabilities": 2181.0,
+    "long_term_liabilities": 2781.0,
+    "shareholders_equity": 2781.0
+  },
+  "employees": {
+    "n_employees": 6762,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Löntagarrepresentant, PTK."
+    },
+    {
+      "surname": "Karhola-Wettergren",
+      "first_name": "Lil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sprängare",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerlund",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Löntagarrepresentant, LO."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fog Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

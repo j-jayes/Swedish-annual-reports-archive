@@ -1,0 +1,67 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolagets",
+  "fiscal_year": 1941,
+  "income_statement": {
+    "revenue": 20319352.73,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5249597.27,
+    "net_income": 9915677.02
+  },
+  "balance_sheet": {
+    "total_assets": 214955177.06,
+    "current_assets": 82816841.8,
+    "fixed_assets": 39532117.2,
+    "total_liabilities": 39232832.91,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 95600000.0
+  },
+  "employees": {
+    "n_employees": 20464,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "EDSTRÖM",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENSTRÖM",
+      "first_name": "AXEL",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGENGREN",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MURRAY",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDÉN",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

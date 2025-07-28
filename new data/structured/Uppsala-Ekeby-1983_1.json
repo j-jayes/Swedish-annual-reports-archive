@@ -1,0 +1,98 @@
+{
+  "company_name": "UPSALA-EKEBY",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 498.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 427.432,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 29.645
+  },
+  "balance_sheet": {
+    "total_assets": 805.01,
+    "current_assets": 463.806,
+    "fixed_assets": 326.739,
+    "total_liabilities": 290.848,
+    "current_liabilities": 166.982,
+    "long_term_liabilities": 83.529,
+    "shareholders_equity": 252.897
+  },
+  "employees": {
+    "n_employees": 1403,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ALFREDSON",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "JOSEPHSON",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "finansdirektör"
+    },
+    {
+      "surname": "MAGNUSSON",
+      "first_name": "LARS-GÖSTA",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "ROSÉN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "SKOOG",
+      "first_name": "INGVAR",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "WEIL",
+      "first_name": "ROBERT",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WERTHÉN-KYLIN",
+      "first_name": "BARBRO",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "EDLUND",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "BÖRJE",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

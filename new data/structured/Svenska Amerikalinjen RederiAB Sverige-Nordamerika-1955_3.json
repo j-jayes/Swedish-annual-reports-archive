@@ -1,0 +1,92 @@
+{
+  "company_name": "AKTIEBOLAGET Svenska Amerika Linien",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 34695307.99,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6133476.99,
+    "wages_expense": null,
+    "tax_expense": 6430347.88,
+    "depreciation": 5103355.18,
+    "net_income": 7565304.65
+  },
+  "balance_sheet": {
+    "total_assets": 222437130.11,
+    "current_assets": 54125482.08,
+    "fixed_assets": 168311648.03,
+    "total_liabilities": 150347068.97,
+    "current_liabilities": 69083373.62,
+    "long_term_liabilities": 80403694.35,
+    "shareholders_equity": 72090062.14
+  },
+  "employees": {
+    "n_employees": 1649,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "T. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Hernod",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fagerberg",
+      "first_name": "J. A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": "Av Handelskammaren i Göteborg auktoriserade revisorer"
+    },
+    {
+      "surname": "Zetterholm",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Av Handelskammaren i Göteborg auktoriserade revisorer"
+    },
+    {
+      "surname": "Bredberg",
+      "first_name": "Leo",
+      "initials": null,
+      "auditing_firm": "Av Handelskammaren i Göteborg auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

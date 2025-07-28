@@ -1,0 +1,112 @@
+{
+  "company_name": "Esselte",
+  "fiscal_year": 1985,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 10222.266666666666,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 388.0,
+    "net_income": 562.3
+  },
+  "balance_sheet": {
+    "total_assets": 8158.0,
+    "current_assets": 5125.3,
+    "fixed_assets": 2995.0,
+    "total_liabilities": 2162.6,
+    "current_liabilities": 3026.1,
+    "long_term_liabilities": 2162.6,
+    "shareholders_equity": 1344.4333333333334
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindholm",
+      "first_name": "Gerhard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Solveig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Strandberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Erlandsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Invald 1981. Anställd vid Esselte Well. Representant för Grafiska Fackförbundet."
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Birgit",
+      "initials": null,
+      "position": "Anställd vid Esselte Wezäta. SIF-representant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    },
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    }
+  ]
+}

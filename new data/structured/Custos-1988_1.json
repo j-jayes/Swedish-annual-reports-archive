@@ -1,0 +1,86 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 259.962,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 121.249,
+    "wages_expense": null,
+    "tax_expense": 8.295,
+    "depreciation": 328.0,
+    "net_income": 251.056
+  },
+  "balance_sheet": {
+    "total_assets": 7.146479,
+    "current_assets": 2.512883,
+    "fixed_assets": 4.633596,
+    "total_liabilities": 4.435182,
+    "current_liabilities": 4.403405,
+    "long_term_liabilities": 31.777,
+    "shareholders_equity": 2.711297
+  },
+  "employees": {
+    "n_employees": 9,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ando",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Senneby",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gunnar",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Öhman",
+      "first_name": "Anders",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Verkst\nVerkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ericson",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "HAGSTRÖM & SILLÉN AB"
+    },
+    {
+      "surname": "Blix",
+      "first_name": "Clas",
+      "initials": null,
+      "auditing_firm": "BERTIL OLSSONS REVISIONSBYRÅ AB"
+    }
+  ],
+  "additional_notes": null
+}

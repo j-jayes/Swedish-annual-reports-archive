@@ -1,0 +1,80 @@
+{
+  "company_name": "KOPPARFORS AKTIEBOLAG",
+  "fiscal_year": 1954,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 18354.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6856978.0,
+    "depreciation": null,
+    "net_income": 4001333.0
+  },
+  "balance_sheet": {
+    "total_assets": 33948299.0,
+    "current_assets": 15197595.0,
+    "fixed_assets": 18750704.0,
+    "total_liabilities": 7949306.0,
+    "current_liabilities": 3645546.0,
+    "long_term_liabilities": 3975432.0,
+    "shareholders_equity": 26679659.666666668
+  },
+  "employees": {
+    "n_employees": 2026.3333333333333,
+    "n_blue_collar_workers": 2699,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Ax.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgersson",
+      "first_name": "S.",
+      "initials": null,
+      "position": "Verkst. direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "company_name": "Nessim",
+  "years_covered": "1983-1985",
+  "total_years": 3,
+  "total_members": 6,
+  "avg_board_size": 2.3333333333333335,
+  "avg_tenure": 2.1666666666666665,
+  "median_tenure": 2.0,
+  "avg_turnover_rate": 0.4,
+  "board_size_by_year": {
+    "1983": 3,
+    "1984": 2,
+    "1985": 2
+  },
+  "turnover_by_period": {
+    "1983-1984": {
+      "joined": 3,
+      "left": 1,
+      "stayed": 2,
+      "turnover_rate": 0.8
+    },
+    "1984-1985": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0.0
+    }
+  }
+}

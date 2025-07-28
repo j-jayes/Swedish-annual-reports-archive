@@ -1,0 +1,70 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1929,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2716677.45
+  },
+  "balance_sheet": {
+    "total_assets": 48443750.39,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 36000000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARC",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PRINTZSKÖLD",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "LILJENROTH",
+      "first_name": "F. G.",
+      "initials": "F. G.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CEDERSTRÖM",
+      "first_name": "R.",
+      "initials": "R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "KINNANDER",
+      "first_name": "O.",
+      "initials": "O.",
+      "auditing_firm": null
+    }
+  ]
+}

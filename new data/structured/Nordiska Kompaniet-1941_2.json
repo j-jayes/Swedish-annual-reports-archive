@@ -1,0 +1,100 @@
+{
+  "company_name": "NORDISKA KOMPANIET",
+  "fiscal_year": 1941,
+  "income_statement": {
+    "revenue": 11439142.57,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8875042.79,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1362004.7
+  },
+  "balance_sheet": {
+    "total_assets": 61694755.04,
+    "current_assets": 26894024.27,
+    "fixed_assets": 32426868.9,
+    "total_liabilities": 38694755.04,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 23000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "MAUR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLNER",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERNADOTTE",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERNMARK",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": "C.",
+      "initials": "ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "AKTIEBOLAGET INVESTOR",
+  "fiscal_year": 1928,
+  "income_statement": {
+    "revenue": 4594071.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 228206.42,
+    "depreciation": null,
+    "net_income": 2724689.38
+  },
+  "balance_sheet": {
+    "total_assets": 69362958.06,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 29556744.04,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 37000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARC.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PRINTZSKÖLD",
+      "first_name": "OTTO",
+      "initials": "OTTO",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": "M.",
+      "position": "Jr."
+    },
+    {
+      "surname": "LILJENROTH",
+      "first_name": "F.",
+      "initials": "F.",
+      "position": "G."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CEDERSTRÖM",
+      "first_name": "R.",
+      "initials": "R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "KINNANDER",
+      "first_name": "O.",
+      "initials": "O.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

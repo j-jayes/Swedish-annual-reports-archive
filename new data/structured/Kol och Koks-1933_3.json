@@ -1,0 +1,70 @@
+{
+  "company_name": "KOL OCH KOKS",
+  "fiscal_year": 1933,
+  "income_statement": {
+    "revenue": 857.73502,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 50000.0,
+    "depreciation": 89214.97,
+    "net_income": 390821.17
+  },
+  "balance_sheet": {
+    "total_assets": 7977097.4,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 526324.63,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4025000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ARFWEDSON",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TAMM",
+      "first_name": "H. S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "G. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ESSÉN",
+      "first_name": "THURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WILTON",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RENGSTRAND",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CLASON",
+      "first_name": "OTTO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

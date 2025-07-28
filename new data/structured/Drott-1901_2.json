@@ -1,0 +1,76 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1901,
+  "income_statement": {
+    "revenue": 650700.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 205691.68
+  },
+  "balance_sheet": {
+    "total_assets": 10311706.53,
+    "current_assets": null,
+    "fixed_assets": 9896451.85,
+    "total_liabilities": 7048622.71,
+    "current_liabilities": null,
+    "long_term_liabilities": 6848643.75,
+    "shareholders_equity": 3051000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "VON DER LANCKEN",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "RUBENSON",
+      "first_name": "SEMMY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅKERSTRÖM",
+      "first_name": "B.",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "LEIJONHUFVUD",
+      "first_name": "K.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ORTENBLAD",
+      "first_name": "G.",
+      "initials": "O.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DIEDEN",
+      "first_name": "F.",
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "MONTAN",
+      "first_name": "V.",
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "TAMM",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

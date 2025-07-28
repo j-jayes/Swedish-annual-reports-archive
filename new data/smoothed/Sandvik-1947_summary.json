@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1947,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 13901108.09,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1453784.2,
+    "depreciation": null,
+    "net_income": 3151109.69
+  },
+  "balance_sheet": {
+    "total_assets": 67514065.22,
+    "current_assets": 21640128.505,
+    "fixed_assets": 28890604.0,
+    "total_liabilities": 15601887.169999998,
+    "current_liabilities": 8140598.68,
+    "long_term_liabilities": 25788695.64,
+    "shareholders_equity": 49324695.0
+  },
+  "employees": {
+    "n_employees": 6170,
+    "n_blue_collar_workers": 4973,
+    "n_white_collar_workers": 1197
+  },
+  "board": [
+    {
+      "surname": "Magnuson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": null,
+      "initials": "Erik W",
+      "position": null
+    },
+    {
+      "surname": "Göransson",
+      "first_name": null,
+      "initials": "KF",
+      "position": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": null,
+      "initials": "Erik G",
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sehlberg",
+      "first_name": null,
+      "initials": "J H",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sillén",
+      "first_name": null,
+      "initials": "O",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

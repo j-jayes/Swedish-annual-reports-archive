@@ -1,0 +1,88 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1950,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 111539780.95,
+    "cost_of_goods_sold": 79092964.4,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 12000000.0,
+    "depreciation": 10595848.2,
+    "net_income": 9236842.43
+  },
+  "balance_sheet": {
+    "total_assets": 147679195.37,
+    "current_assets": 85345822.59,
+    "fixed_assets": 62333372.78,
+    "total_liabilities": 27581143.92,
+    "current_liabilities": 27581143.92,
+    "long_term_liabilities": 29518376.89,
+    "shareholders_equity": 90579674.56
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "SMITH",
+      "first_name": null,
+      "initials": "AND.",
+      "position": null
+    },
+    {
+      "surname": "STORJOHANN",
+      "first_name": "CHR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KILLANDER",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMMARSKJÖLD",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KLAVENESS",
+      "first_name": "A. F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "Y.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BÖRJESON",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ALMQUIST",
+      "first_name": "HARRY",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

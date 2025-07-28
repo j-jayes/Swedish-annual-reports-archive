@@ -1,0 +1,104 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 4375.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 31.0,
+    "depreciation": null,
+    "net_income": 111.0
+  },
+  "balance_sheet": {
+    "total_assets": 5366.0,
+    "current_assets": 1104.0,
+    "fixed_assets": 1590.0,
+    "total_liabilities": 2950.0,
+    "current_liabilities": 885.0,
+    "long_term_liabilities": 559.0,
+    "shareholders_equity": 501.0
+  },
+  "employees": {
+    "n_employees": 11036,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "Fil dr, ordförande"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Direktör, vice ordförande"
+    },
+    {
+      "surname": "Eldh",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Hambræus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gunnar L",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Kylvik",
+      "first_name": "Frank",
+      "initials": null,
+      "position": "Svarvare"
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Rudholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Riksmarskalk"
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": "Bruksdisponent"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Markland",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

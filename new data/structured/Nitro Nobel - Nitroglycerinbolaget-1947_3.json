@@ -1,0 +1,80 @@
+{
+  "company_name": "NITROGLYCERIN AKTIEBOLAGET",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 1427347.44,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 343183.54,
+    "wages_expense": null,
+    "tax_expense": 300000.0,
+    "depreciation": 142689.76,
+    "net_income": 529235.96
+  },
+  "balance_sheet": {
+    "total_assets": 13503117.86,
+    "current_assets": 2939709.36,
+    "fixed_assets": 5819150.5,
+    "total_liabilities": 1536988.19,
+    "current_liabilities": 988135.22,
+    "long_term_liabilities": 331055.66,
+    "shareholders_equity": 8966129.66
+  },
+  "employees": {
+    "n_employees": 620,
+    "n_blue_collar_workers": 499,
+    "n_white_collar_workers": 121
+  },
+  "board": [
+    {
+      "surname": "Nordenson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten Sison",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

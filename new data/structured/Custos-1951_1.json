@@ -1,0 +1,86 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 5226495.78,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4530060.98
+  },
+  "balance_sheet": {
+    "total_assets": 62830803.46,
+    "current_assets": 298860.77,
+    "fixed_assets": 62532196.69,
+    "total_liabilities": 2786125.0,
+    "current_liabilities": 77821.5,
+    "long_term_liabilities": 12496490.35,
+    "shareholders_equity": 35000000.0
+  },
+  "employees": {
+    "n_employees": 5,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HERSLOW",
+      "first_name": "E",
+      "initials": null,
+      "position": "C:SON"
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "HAKON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKELUND",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TONDEN",
+      "first_name": "ALBERT",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "A.-B. NORDISKA KOMPANIET",
+  "fiscal_year": 1923,
+  "income_statement": {
+    "revenue": 7357890.05,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5835105.49,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 70742.07,
+    "net_income": 1333788.11
+  },
+  "balance_sheet": {
+    "total_assets": 49316038.38,
+    "current_assets": 6236643.08,
+    "fixed_assets": 18649800.0,
+    "total_liabilities": 29316038.38,
+    "current_liabilities": 9765618.64,
+    "long_term_liabilities": 8184850.0,
+    "shareholders_equity": 20000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "HELLNER",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THIEL",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WENNBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "MAY",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SANDEBERG",
+      "first_name": "F.",
+      "initials": "AF",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

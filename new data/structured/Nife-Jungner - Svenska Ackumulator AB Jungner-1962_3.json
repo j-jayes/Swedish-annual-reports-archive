@@ -1,0 +1,74 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 9.408,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1.65
+  },
+  "balance_sheet": {
+    "total_assets": 144.083,
+    "current_assets": 110.912,
+    "fixed_assets": 30.131,
+    "total_liabilities": 116.238,
+    "current_liabilities": 70.577,
+    "long_term_liabilities": 29.506,
+    "shareholders_equity": 27.845
+  },
+  "employees": {
+    "n_employees": 2940,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "AMELN",
+      "first_name": "STURE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AMELN",
+      "first_name": "KARL",
+      "initials": "R",
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "NELSON",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    }
+  ],
+  "additional_notes": null
+}

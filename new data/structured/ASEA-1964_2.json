@@ -1,0 +1,104 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolaget",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 1011.875,
+    "cost_of_goods_sold": 849.316,
+    "operating_expenses": null,
+    "wages_expense": 372.139,
+    "tax_expense": 64.0,
+    "depreciation": 31.959,
+    "net_income": 53.88
+  },
+  "balance_sheet": {
+    "total_assets": 1319.29,
+    "current_assets": 507.919,
+    "fixed_assets": 841.479,
+    "total_liabilities": 660.389,
+    "current_liabilities": 174.202,
+    "long_term_liabilities": 408.075,
+    "shareholders_equity": 567.423
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 11212,
+    "n_white_collar_workers": 7592
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke",
+      "initials": "T",
+      "position": "koncernchef"
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Lilliecreutz",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten Sison",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

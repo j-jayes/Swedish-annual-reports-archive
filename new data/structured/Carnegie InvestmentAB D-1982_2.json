@@ -1,0 +1,100 @@
+{
+  "company_name": "D. Carnegie & Co.",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 66850.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 37620.0,
+    "wages_expense": null,
+    "tax_expense": 6078.0,
+    "depreciation": null,
+    "net_income": 26497.0
+  },
+  "balance_sheet": {
+    "total_assets": 2026502.0,
+    "current_assets": 1725862.0,
+    "fixed_assets": 299932.0,
+    "total_liabilities": 1939233.0,
+    "current_liabilities": 1592592.0,
+    "long_term_liabilities": 194642.0,
+    "shareholders_equity": 87269.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ekman",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Björkegren",
+      "first_name": "Carl",
+      "initials": "Eric",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": null,
+      "initials": "Oscar",
+      "position": "Civilekonom"
+    },
+    {
+      "surname": "Vigerland",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Finnhammar",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Ankerton",
+      "first_name": "Ove",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Björner",
+      "first_name": "Torbjörn",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Stern",
+      "first_name": "Torkel",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

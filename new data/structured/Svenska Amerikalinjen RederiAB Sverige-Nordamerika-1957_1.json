@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA AMERIKA LINIEN",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 167013911.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1876732.0
+  },
+  "balance_sheet": {
+    "total_assets": 110047704.0,
+    "current_assets": 31381297.0,
+    "fixed_assets": 72697000.0,
+    "total_liabilities": 42198281.0,
+    "current_liabilities": 24143668.0,
+    "long_term_liabilities": 20477500.0,
+    "shareholders_equity": 67849423.0
+  },
+  "employees": {
+    "n_employees": 1816,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "TOR",
+      "initials": "E J:SON",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "FAGERBERG",
+      "first_name": "J A",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "NORDELÖF",
+      "first_name": "IVAR",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

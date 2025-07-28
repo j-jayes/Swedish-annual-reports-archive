@@ -1,0 +1,110 @@
+{
+  "company_name": "Aktiebolaget Electrolux",
+  "fiscal_year": 1964,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 46.103,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 22.921,
+    "wages_expense": null,
+    "tax_expense": 16.349,
+    "depreciation": 9.412,
+    "net_income": 21.095
+  },
+  "balance_sheet": {
+    "total_assets": 418.67,
+    "current_assets": 224.205,
+    "fixed_assets": 186.275,
+    "total_liabilities": 134.70866666666666,
+    "current_liabilities": 62.204,
+    "long_term_liabilities": 39.606,
+    "shareholders_equity": 206.29999999999998
+  },
+  "employees": {
+    "n_employees": 10216.333333333334,
+    "n_blue_collar_workers": 3539,
+    "n_white_collar_workers": 1790
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\"\"\nke T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wennberg",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Holving",
+      "first_name": "Arne M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wollart",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Holm\n",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "Sandvik AB",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 6640.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -106.2,
+    "depreciation": -240.5,
+    "net_income": 173.1
+  },
+  "balance_sheet": {
+    "total_assets": 9002.4,
+    "current_assets": 6068.4,
+    "fixed_assets": 2934.0,
+    "total_liabilities": 2645.4,
+    "current_liabilities": 2218.4,
+    "long_term_liabilities": 387.4,
+    "shareholders_equity": 1647.0
+  },
+  "employees": {
+    "n_employees": 30124,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan",
+      "initials": "H.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bahrke",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kvarfordh",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ollén",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Schiller",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

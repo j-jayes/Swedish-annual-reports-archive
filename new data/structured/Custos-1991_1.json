@@ -1,0 +1,68 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1991,
+  "income_statement": {
+    "revenue": 457.305,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 141.999,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 159.369
+  },
+  "balance_sheet": {
+    "total_assets": 8.688816,
+    "current_assets": 675.005,
+    "fixed_assets": 7.853714,
+    "total_liabilities": 4.792977,
+    "current_liabilities": 82.174,
+    "long_term_liabilities": 26.094,
+    "shareholders_equity": 3.870398
+  },
+  "employees": {
+    "n_employees": 4,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "L Johansson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\"{Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öhman",
+      "first_name": "Anders",
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "SET-Svensson, Erikson & Tjus Revisionsbyrå HB"
+    }
+  ],
+  "additional_notes": null
+}

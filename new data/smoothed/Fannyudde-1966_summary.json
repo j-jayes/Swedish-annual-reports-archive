@@ -1,0 +1,100 @@
+{
+  "company_name": "AKTIEBOLAGET FANNYUDDE",
+  "fiscal_year": 1966,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3.064419,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 16000.0,
+    "depreciation": null,
+    "net_income": 3.015
+  },
+  "balance_sheet": {
+    "total_assets": 62.550857,
+    "current_assets": 43954.066,
+    "fixed_assets": 62.419258,
+    "total_liabilities": null,
+    "current_liabilities": 60857.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 62.49
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhle",
+      "first_name": null,
+      "initials": "Nils K.",
+      "position": null
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": null,
+      "initials": "C. H.",
+      "position": null
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": null,
+      "initials": "Bo",
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Hellstenius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schéle",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bendel",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schröder",
+      "first_name": "Sture",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dubois",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ]
+}

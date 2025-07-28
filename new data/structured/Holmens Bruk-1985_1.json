@@ -1,0 +1,122 @@
+{
+  "company_name": "HOLMEN",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 3790.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -2930.3,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": -194.2,
+    "net_income": 17.9
+  },
+  "balance_sheet": {
+    "total_assets": 4899.3,
+    "current_assets": 1720.5,
+    "fixed_assets": 3178.8,
+    "total_liabilities": 1593.7,
+    "current_liabilities": 1371.7,
+    "long_term_liabilities": 1110.3,
+    "shareholders_equity": 732.9
+  },
+  "employees": {
+    "n_employees": 3645,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "TROLLE-LÖWEN",
+      "first_name": "AUGUST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "WEINE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": "FREDRIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ZETTERBERG",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "GRIPENSTEDT",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": "CLAS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖNNESJÖ",
+      "first_name": "KARL",
+      "initials": "E",
+      "position": null
+    },
+    {
+      "surname": "THERMÆNIUS",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDBLAD",
+      "first_name": "LARS",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "HALLBERG",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KARLSON",
+      "first_name": "JOHNNY",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "ÖIAR",
+      "initials": null,
+      "auditing_firm": "BOHLINS REVISIONSBYRÅ AB"
+    },
+    {
+      "surname": "FRIDMAN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "BOHLINS REVISIONSBYRÅ AB"
+    }
+  ],
+  "additional_notes": null
+}

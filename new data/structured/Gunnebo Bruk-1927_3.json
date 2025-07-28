@@ -1,0 +1,58 @@
+{
+  "company_name": "Gunnebo Bruks Nya Aktiebolag",
+  "fiscal_year": 1927,
+  "income_statement": {
+    "revenue": 899968.02,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 603619.59,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 296348.43
+  },
+  "balance_sheet": {
+    "total_assets": 7539476.38,
+    "current_assets": 1220288.4,
+    "fixed_assets": 5759445.28,
+    "total_liabilities": 3117868.44,
+    "current_liabilities": 135480.97,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3952000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hansen",
+      "first_name": "Hans",
+      "initials": "Fr.",
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Zethelius",
+      "first_name": "Otto",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olivecrona",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

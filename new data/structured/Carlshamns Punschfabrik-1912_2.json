@@ -1,0 +1,58 @@
+{
+  "company_name": "Carlshamns Punschfabriksaktiebolag (C. G. Berg)",
+  "fiscal_year": 1912,
+  "income_statement": {
+    "revenue": 373915.31,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 291286.43,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 82628.88
+  },
+  "balance_sheet": {
+    "total_assets": 1175305.54,
+    "current_assets": null,
+    "fixed_assets": 590802.24,
+    "total_liabilities": 1175305.54,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenberg",
+      "first_name": "A. E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

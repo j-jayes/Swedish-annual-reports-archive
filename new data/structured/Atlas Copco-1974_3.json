@@ -1,0 +1,92 @@
+{
+  "company_name": "Atlas Copco AB",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 2949.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 124.0,
+    "depreciation": 63.0,
+    "net_income": 118.0
+  },
+  "balance_sheet": {
+    "total_assets": 819.763,
+    "current_assets": 361.976,
+    "fixed_assets": 334.028,
+    "total_liabilities": null,
+    "current_liabilities": 52.069,
+    "long_term_liabilities": 200.201,
+    "shareholders_equity": 459.612
+  },
+  "employees": {
+    "n_employees": 17392,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Kurt-Allan",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Sporborg",
+      "first_name": "Henry N.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ödner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Man. Dir."
+    },
+    {
+      "surname": "Henning",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyholm",
+      "first_name": "P-E",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil E.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

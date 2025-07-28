@@ -1,0 +1,82 @@
+{
+  "company_name": "SVENSKA LLOYD",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 89000000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 74530000.0,
+    "wages_expense": null,
+    "tax_expense": 208000.0,
+    "depreciation": null,
+    "net_income": 567000.0
+  },
+  "balance_sheet": {
+    "total_assets": 50333000.0,
+    "current_assets": null,
+    "fixed_assets": 38589000.0,
+    "total_liabilities": 9917000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 25676000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "LUNDBERG",
+      "first_name": null,
+      "initials": "E",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": null,
+      "initials": "ERIK",
+      "position": null
+    },
+    {
+      "surname": "PETTERSON",
+      "first_name": null,
+      "initials": "TORSTEN",
+      "position": null
+    },
+    {
+      "surname": "CHRISTOFFERSEN",
+      "first_name": null,
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": null,
+      "initials": "STIG",
+      "position": null
+    },
+    {
+      "surname": "BÖKΜΑΝ",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOOGLAND",
+      "first_name": null,
+      "initials": "HERMAN",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ROHLIN",
+      "first_name": null,
+      "initials": "SVEN-RUNE",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "BLIDBERG",
+      "first_name": null,
+      "initials": "CARL ÅKE",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

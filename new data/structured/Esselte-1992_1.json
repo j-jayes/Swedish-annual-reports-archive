@@ -1,0 +1,50 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 9909.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8941.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 438.0,
+    "net_income": -251.0
+  },
+  "balance_sheet": {
+    "total_assets": 8156.0,
+    "current_assets": 4477.0,
+    "fixed_assets": 2028.0,
+    "total_liabilities": 5992.0,
+    "current_liabilities": 2386.0,
+    "long_term_liabilities": 1412.0,
+    "shareholders_equity": 2164.0
+  },
+  "employees": {
+    "n_employees": 12334,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Peters & Co"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,134 @@
+{
+  "company_name": "MARIEBERG",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 3267.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -2773.42,
+    "wages_expense": null,
+    "tax_expense": -58.2,
+    "depreciation": null,
+    "net_income": 283.6
+  },
+  "balance_sheet": {
+    "total_assets": 6649.4,
+    "current_assets": 2563.2,
+    "fixed_assets": 3988.2,
+    "total_liabilities": 4605.5,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2043.9
+  },
+  "employees": {
+    "n_employees": 4475,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ekstrand",
+      "first_name": "Nils-Erik",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Strömstedt",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "chefredaktör"
+    },
+    {
+      "surname": "Ruth",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "chefredaktör"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Pontus",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Jeanette",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Karl",
+      "initials": "O",
+      "position": "bokförläggare"
+    },
+    {
+      "surname": "Bäckström",
+      "first_name": "Berndt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Carry",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Petrén",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "jur dr"
+    },
+    {
+      "surname": "Svenson",
+      "first_name": "Sven",
+      "initials": "G",
+      "position": "fil dr"
+    },
+    {
+      "surname": "Måberg",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

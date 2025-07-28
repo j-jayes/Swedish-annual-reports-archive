@@ -1,0 +1,104 @@
+{
+  "company_name": "NORDISKA KOMPANIET",
+  "fiscal_year": 1939,
+  "income_statement": {
+    "revenue": 10781816.34,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8066504.21,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1916059.99
+  },
+  "balance_sheet": {
+    "total_assets": 32765092.85,
+    "current_assets": null,
+    "fixed_assets": 21801085.21,
+    "total_liabilities": null,
+    "current_liabilities": 2725814.53,
+    "long_term_liabilities": 21151792.65,
+    "shareholders_equity": 23000000.0
+  },
+  "employees": {
+    "n_employees": 2428,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLNER",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "MAUR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FALLENIUS",
+      "first_name": null,
+      "initials": "C. M.",
+      "position": "SUPPLEANT"
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERNMARK",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": "C. ED.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

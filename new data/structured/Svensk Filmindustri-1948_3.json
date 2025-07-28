@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSK FILMINDUSTRI",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 1360545.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 207574.0,
+    "depreciation": 367508.66,
+    "net_income": 434924.47
+  },
+  "balance_sheet": {
+    "total_assets": 13254665.75,
+    "current_assets": 7167387.84,
+    "fixed_assets": 6087277.91,
+    "total_liabilities": 2616161.26,
+    "current_liabilities": 1451766.87,
+    "long_term_liabilities": 364394.39,
+    "shareholders_equity": 9600012.0
+  },
+  "employees": {
+    "n_employees": 887,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUNDELL",
+      "first_name": null,
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "LISTANDER",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "SILJEST RÖM",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROMS",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "CARL",
+      "initials": "A.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Kastengren",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

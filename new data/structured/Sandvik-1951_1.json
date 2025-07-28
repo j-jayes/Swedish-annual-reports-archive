@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 38260163.11,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 19960015.0,
+    "net_income": 6222347.57
+  },
+  "balance_sheet": {
+    "total_assets": 158460840.96,
+    "current_assets": 87304147.96,
+    "fixed_assets": 71156693.0,
+    "total_liabilities": 88661880.3,
+    "current_liabilities": 22729138.3,
+    "long_term_liabilities": 61529847.0,
+    "shareholders_equity": 69798960.66
+  },
+  "employees": {
+    "n_employees": 6735,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Magnusson",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Erik",
+      "initials": "W",
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sebardt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sillén",
+      "first_name": null,
+      "initials": "O",
+      "position": null
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": null,
+      "initials": "O",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

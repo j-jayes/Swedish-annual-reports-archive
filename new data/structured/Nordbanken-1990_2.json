@@ -1,0 +1,146 @@
+{
+  "company_name": "Nordbanken",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 11.874,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6.776,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -1.139
+  },
+  "balance_sheet": {
+    "total_assets": 410.931,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 394.903,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3.744
+  },
+  "employees": {
+    "n_employees": 6795,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wahlström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "chair"
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dalborg",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "Feldt",
+      "first_name": "Kjell-Olof",
+      "initials": null,
+      "position": "fd statsråd"
+    },
+    {
+      "surname": "Hjärre",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Johansson-Hedberg",
+      "first_name": "Birgitta",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Renell",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Rosengren",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "TCO:s ordförande"
+    },
+    {
+      "surname": "Rydh",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "Lövgren",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "arbetstagarrepresentanter"
+    },
+    {
+      "surname": "Ragnarsson",
+      "first_name": "Birgit",
+      "initials": null,
+      "position": "arbetstagarrepresentanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Carlstein",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Mundebo",
+      "first_name": "Ingemar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Egenäs",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "Löwbeer",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Gunnar Nilssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

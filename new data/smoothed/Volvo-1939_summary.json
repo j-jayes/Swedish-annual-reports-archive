@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1939,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 44711617.96,
+    "cost_of_goods_sold": 38510255.77,
+    "operating_expenses": 3301080.46,
+    "wages_expense": null,
+    "tax_expense": 900000.0,
+    "depreciation": 1218420.59,
+    "net_income": 1645795.82
+  },
+  "balance_sheet": {
+    "total_assets": 35480279.87,
+    "current_assets": 30064989.31,
+    "fixed_assets": 5226691.14,
+    "total_liabilities": 12567546.91,
+    "current_liabilities": 12567546.91,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20020000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "HASSELROT",
+      "first_name": "BROR",
+      "initials": "BROR C.",
+      "position": null
+    },
+    {
+      "surname": "WINGQUIST",
+      "first_name": "SVEN",
+      "initials": "SVEN",
+      "position": null
+    },
+    {
+      "surname": "TORNEBOHM",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "MAGNUS",
+      "first_name": "E.",
+      "initials": "E. L.",
+      "position": null
+    },
+    {
+      "surname": "GABRIELSSON",
+      "first_name": null,
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "LARSON",
+      "first_name": "GUSTAF",
+      "initials": "GUSTAF",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "ROLF",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

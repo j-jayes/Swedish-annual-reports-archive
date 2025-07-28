@@ -1,0 +1,76 @@
+{
+  "company_name": "Försäkringsaktiebolaget Atlantica",
+  "fiscal_year": 1919,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 16198984.37,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1666191.09
+  },
+  "balance_sheet": {
+    "total_assets": 13280960.65,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 7396191.09,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3794923.1866666665
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "BOMAN",
+      "first_name": "GUSTAF",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "S.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "OLBURS",
+      "first_name": "VIDAR",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "METCALFE",
+      "first_name": "H.",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "G.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ADAMSON",
+      "first_name": "C.",
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "DALMAN",
+      "first_name": "OTTO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

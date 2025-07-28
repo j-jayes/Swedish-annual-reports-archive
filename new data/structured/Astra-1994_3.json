@@ -1,0 +1,110 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1994,
+  "income_statement": {
+    "revenue": 29095.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 18651.0,
+    "wages_expense": null,
+    "tax_expense": 2821.0,
+    "depreciation": null,
+    "net_income": 6795.0
+  },
+  "balance_sheet": {
+    "total_assets": 35318.0,
+    "current_assets": 18121.0,
+    "fixed_assets": 17197.0,
+    "total_liabilities": 8447.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 23301.0
+  },
+  "employees": {
+    "n_employees": 14377,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BERGGREN",
+      "first_name": "BO",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BJÖRNSON",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAULKNER",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "TONY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOGREN",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": "Verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "RAMQVIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RINGQVIST",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WACHTMEISTER",
+      "first_name": "TOM",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": "Professor emeritus"
+    },
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

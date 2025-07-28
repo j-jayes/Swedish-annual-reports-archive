@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 9244097.62,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1824013.2
+  },
+  "balance_sheet": {
+    "total_assets": 143852712.23,
+    "current_assets": 110386261.23,
+    "fixed_assets": 30426451.0,
+    "total_liabilities": 56638616.26,
+    "current_liabilities": 15786937.35,
+    "long_term_liabilities": 26616226.58,
+    "shareholders_equity": 37810932.04
+  },
+  "employees": {
+    "n_employees": 2990,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "AMELN",
+      "first_name": "STURE",
+      "initials": null,
+      "position": "Direktör, ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Viceamiral"
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": "Bankdirektör, Greve"
+    },
+    {
+      "surname": "LUNDVIK",
+      "first_name": "VILHELM",
+      "initials": null,
+      "position": "Landshövding"
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "AMELN",
+      "first_name": "KARL ROBERT",
+      "initials": null,
+      "position": "Civilingenjör, verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "NELSON",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

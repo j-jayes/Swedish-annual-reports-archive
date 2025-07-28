@@ -1,0 +1,94 @@
+{
+  "company_name": "Aktiebolaget Stockholms Bryggerier",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 75.474,
+    "cost_of_goods_sold": 46.457,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 800.0,
+    "depreciation": 3.548,
+    "net_income": 6.401
+  },
+  "balance_sheet": {
+    "total_assets": 148.838,
+    "current_assets": 20.711,
+    "fixed_assets": 96.333,
+    "total_liabilities": 59.804,
+    "current_liabilities": 18.842,
+    "long_term_liabilities": 12.098,
+    "shareholders_equity": 89.034
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Anderson",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Setterwall",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Simonson",
+      "first_name": "T.M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "S",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Elmfeldt",
+      "first_name": "B",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Haage",
+      "first_name": "Georg",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Broman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

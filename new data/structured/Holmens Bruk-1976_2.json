@@ -1,0 +1,98 @@
+{
+  "company_name": "HOLMENS BRUK",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 1242.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1171.428,
+    "wages_expense": null,
+    "tax_expense": 11.314,
+    "depreciation": 60.6,
+    "net_income": 22.222
+  },
+  "balance_sheet": {
+    "total_assets": 1543.233,
+    "current_assets": 609.039,
+    "fixed_assets": 924.583,
+    "total_liabilities": 424.96,
+    "current_liabilities": 354.528,
+    "long_term_liabilities": 507.964,
+    "shareholders_equity": 354.528
+  },
+  "employees": {
+    "n_employees": 4036,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Gripenstedt",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Trolle-Löwen",
+      "first_name": "August",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl",
+      "initials": "Erik",
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lantz",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Oiar",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Lundén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

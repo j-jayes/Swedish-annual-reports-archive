@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Astra",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 847.593,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 761.434,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 26.5,
+    "net_income": 21.692
+  },
+  "balance_sheet": {
+    "total_assets": 463.791,
+    "current_assets": 242.883,
+    "fixed_assets": 219.746,
+    "total_liabilities": 188.705,
+    "current_liabilities": 88.262,
+    "long_term_liabilities": 45.624,
+    "shareholders_equity": 148.705
+  },
+  "employees": {
+    "n_employees": 5884,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Herrman",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Alm",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Julin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sager",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werkö",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wegerfelt",
+      "first_name": null,
+      "initials": "KA",
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

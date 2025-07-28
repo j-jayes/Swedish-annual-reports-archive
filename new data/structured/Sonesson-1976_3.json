@@ -1,0 +1,92 @@
+{
+  "company_name": "SONESSONS",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 403.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 15.3
+  },
+  "balance_sheet": {
+    "total_assets": 302.4,
+    "current_assets": 225.5,
+    "fixed_assets": 73.0,
+    "total_liabilities": 92.8,
+    "current_liabilities": 92.8,
+    "long_term_liabilities": null,
+    "shareholders_equity": 93.7
+  },
+  "employees": {
+    "n_employees": 1863,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ordförande Verkst direktör"
+    },
+    {
+      "surname": "Hellestam",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "v Verkst direktör"
+    },
+    {
+      "surname": "Kristensson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Malmborg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Popper",
+      "first_name": "Alfred",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hansson",
+      "first_name": "Åke",
+      "initials": "J",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

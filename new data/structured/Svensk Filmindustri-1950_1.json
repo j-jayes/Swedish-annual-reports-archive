@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSK FILMINDUSTRI",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 2347606.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 22130.88,
+    "depreciation": 332210.0,
+    "net_income": 593950.0
+  },
+  "balance_sheet": {
+    "total_assets": 12404936.97,
+    "current_assets": 5417876.07,
+    "fixed_assets": 6987060.9,
+    "total_liabilities": 1851307.79,
+    "current_liabilities": 1670299.79,
+    "long_term_liabilities": 181008.0,
+    "shareholders_equity": 9600012.0
+  },
+  "employees": {
+    "n_employees": 846,
+    "n_blue_collar_workers": 57,
+    "n_white_collar_workers": 244
+  },
+  "board": [
+    {
+      "surname": "SILJESTRÖM",
+      "first_name": "GÖSTA",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "BROMS",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JUBERG",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANÉR",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUNDELL",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "CARL ANDERS",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "VIFOT",
+      "first_name": "MALTE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

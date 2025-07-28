@@ -1,0 +1,88 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 809.411,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 728.295,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 46.979,
+    "net_income": 22.069
+  },
+  "balance_sheet": {
+    "total_assets": 778.854,
+    "current_assets": 414.62,
+    "fixed_assets": 358.636,
+    "total_liabilities": 428.634,
+    "current_liabilities": 209.951,
+    "long_term_liabilities": 206.198,
+    "shareholders_equity": 350.22
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "ORDFÖRANDE"
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "VICE ORDFÖRANDE"
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rosén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Silfverstolpe",
+      "first_name": "Gudmund",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

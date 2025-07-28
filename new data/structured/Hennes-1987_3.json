@@ -1,0 +1,92 @@
+{
+  "company_name": "H&M Hennes & Mauritz AB",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 5002.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 41.5,
+    "net_income": 160.1
+  },
+  "balance_sheet": {
+    "total_assets": 1551.6,
+    "current_assets": 1136.2,
+    "fixed_assets": 415.4,
+    "total_liabilities": 438.3,
+    "current_liabilities": 345.2,
+    "long_term_liabilities": 9.3,
+    "shareholders_equity": 301.9
+  },
+  "employees": {
+    "n_employees": 4979,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Felixon",
+      "first_name": "Max",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Hertzen",
+      "first_name": "Krister",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Ella",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Revisonsbyrå AB"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

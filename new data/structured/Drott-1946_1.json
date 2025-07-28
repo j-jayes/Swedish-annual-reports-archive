@@ -1,0 +1,70 @@
+{
+  "company_name": "FASTIGHETSAKΤΙΕΒΟLAGET DROTT",
+  "fiscal_year": 1946,
+  "income_statement": {
+    "revenue": 2150319.97,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 866768.74,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 150325.0,
+    "net_income": 317340.54
+  },
+  "balance_sheet": {
+    "total_assets": 24441595.81,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "TENGBOM",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": "Professor, ordförande"
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "OSSBAHR",
+      "first_name": "CARL",
+      "initials": "P",
+      "position": "Protokollssekreterare"
+    },
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": "VON",
+      "position": "Advokat"
+    },
+    {
+      "surname": "SJÖQVIST",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": "Arkitekt, verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ALMQVIST",
+      "first_name": "HARALD",
+      "initials": null,
+      "auditing_firm": "Kammarrättsråd"
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

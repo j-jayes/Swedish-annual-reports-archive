@@ -1,0 +1,86 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 244.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 223.4,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 16.6,
+    "net_income": 4.711
+  },
+  "balance_sheet": {
+    "total_assets": 174.2,
+    "current_assets": 48.2,
+    "fixed_assets": 126.0,
+    "total_liabilities": 124.5,
+    "current_liabilities": 36.9,
+    "long_term_liabilities": 74.5,
+    "shareholders_equity": 49.7
+  },
+  "employees": {
+    "n_employees": 4411,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "vice ordfö-rande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": "j:r",
+      "position": null
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Yngve",
+      "initials": "Fil. dr",
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "Chefredaktör"
+    },
+    {
+      "surname": "Wrigstad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Chefredaktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "Åke",
+      "initials": "v.",
+      "auditing_firm": "Generaldirektör"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "TRELLEBORG",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 267.269,
+    "cost_of_goods_sold": 237.159,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.518,
+    "depreciation": 17.1,
+    "net_income": 5.137
+  },
+  "balance_sheet": {
+    "total_assets": 210.727,
+    "current_assets": 116.782,
+    "fixed_assets": 92.725,
+    "total_liabilities": 105.024,
+    "current_liabilities": 51.203,
+    "long_term_liabilities": 14.805,
+    "shareholders_equity": 105.703
+  },
+  "employees": {
+    "n_employees": 3775,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Nedström",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ekblom",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gorthon",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric",
+      "initials": "A.",
+      "auditing_firm": "Advokat"
+    }
+  ],
+  "additional_notes": null
+}

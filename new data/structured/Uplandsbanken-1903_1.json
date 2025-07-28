@@ -1,0 +1,51 @@
+{
+  "company_name": "UPLANDS ENSKILDA BANK",
+  "fiscal_year": 1903,
+  "income_statement": {
+    "revenue": 351615.22,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 254427.68
+  },
+  "balance_sheet": {
+    "total_assets": 28973246.86,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 4600000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2020000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Flodman",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Grönbeck",
+      "first_name": null,
+      "initials": "K. R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hagen",
+      "first_name": null,
+      "initials": "Rob.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Siljeström",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

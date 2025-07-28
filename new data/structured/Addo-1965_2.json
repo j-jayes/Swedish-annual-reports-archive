@@ -1,0 +1,80 @@
+{
+  "company_name": "AB ADDO",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 98.25,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 0.869,
+    "depreciation": 0.859,
+    "net_income": 1.805
+  },
+  "balance_sheet": {
+    "total_assets": 65.843,
+    "current_assets": 56.468,
+    "fixed_assets": 9.375,
+    "total_liabilities": 47.618,
+    "current_liabilities": 22.966,
+    "long_term_liabilities": 17.693,
+    "shareholders_equity": 18.875
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1263,
+    "n_white_collar_workers": 734
+  },
+  "board": [
+    {
+      "surname": "Vilén",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Agrell",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Agrell",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Civilingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bruzelius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "BEIJERINVEST",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 26953.051,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 26233.254,
+    "wages_expense": null,
+    "tax_expense": 182.958,
+    "depreciation": null,
+    "net_income": 165.072
+  },
+  "balance_sheet": {
+    "total_assets": 9530.2,
+    "current_assets": 6019.368,
+    "fixed_assets": 3485.831,
+    "total_liabilities": 4478.804,
+    "current_liabilities": 2960.417,
+    "long_term_liabilities": 1205.419,
+    "shareholders_equity": 272.965
+  },
+  "employees": {
+    "n_employees": 16650,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": null,
+      "initials": "G.R.",
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Sillén & Jacobsson AB, Göteborg"
+    },
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Reveko AB, Göteborg"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB, Stockholm"
+    }
+  ],
+  "additional_notes": null
+}

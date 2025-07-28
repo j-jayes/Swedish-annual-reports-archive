@@ -1,0 +1,134 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 177839.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2878.0,
+    "net_income": 3699.0
+  },
+  "balance_sheet": {
+    "total_assets": 134244.0,
+    "current_assets": 88252.0,
+    "fixed_assets": 45768.0,
+    "total_liabilities": 32383.0,
+    "current_liabilities": 1706.0,
+    "long_term_liabilities": 3342.0,
+    "shareholders_equity": 13349.0
+  },
+  "employees": {
+    "n_employees": 929,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Algurén",
+      "first_name": "Klas",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Civilingenjör, VD"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Hans-Göran",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Hansbo",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Victorsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Levin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Zetterberg",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Ölund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Civilingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": "Godk revisor"
+    },
+    {
+      "surname": "Ryberg",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Lundell",
+      "first_name": "Torsten",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

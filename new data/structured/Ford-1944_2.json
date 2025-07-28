@@ -1,0 +1,82 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1944,
+  "income_statement": {
+    "revenue": 290.871,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -250.108
+  },
+  "balance_sheet": {
+    "total_assets": 9.403036,
+    "current_assets": null,
+    "fixed_assets": 2.102454,
+    "total_liabilities": null,
+    "current_liabilities": 868.443,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1.866786
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "PERRY",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": "ROLF von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERNOD",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÉN",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRÖNDUM",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ISELL",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SILLÉN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

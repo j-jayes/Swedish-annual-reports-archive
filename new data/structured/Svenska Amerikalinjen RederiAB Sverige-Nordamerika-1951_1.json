@@ -1,0 +1,92 @@
+{
+  "company_name": "Svenska Amerika Linien",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 31464904.73,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3123028.79
+  },
+  "balance_sheet": {
+    "total_assets": 220561851.86,
+    "current_assets": 49317195.75,
+    "fixed_assets": 113870000.0,
+    "total_liabilities": 43750000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 28180367.0
+  },
+  "employees": {
+    "n_employees": 1456,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "Tor",
+      "initials": "E:son",
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Simonsson",
+      "first_name": "Y.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Zetterholm",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bredberg",
+      "first_name": "Leo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

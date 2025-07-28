@@ -1,0 +1,86 @@
+{
+  "company_name": "SVERIGES LITOGRAFISKA TRYCKERIER",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 16440144.11,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3893701.27,
+    "net_income": 4732415.62
+  },
+  "balance_sheet": {
+    "total_assets": 126319350.14,
+    "current_assets": 58232208.32,
+    "fixed_assets": 68037141.82,
+    "total_liabilities": 53334500.0,
+    "current_liabilities": 15254443.12,
+    "long_term_liabilities": 30779484.0,
+    "shareholders_equity": 43395000.0
+  },
+  "employees": {
+    "n_employees": 5968,
+    "n_blue_collar_workers": 464,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": null,
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BJÖRKMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": null,
+      "initials": "J.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLÉN",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "BIESÈRT",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

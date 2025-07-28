@@ -1,0 +1,100 @@
+{
+  "company_name": "AKTIEBOLAGET FANNYUDDE",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 3323485.44,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 134190.0,
+    "depreciation": null,
+    "net_income": 3110000.0
+  },
+  "balance_sheet": {
+    "total_assets": 58146797.33,
+    "current_assets": 7780874.32,
+    "fixed_assets": 50365923.01,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 52800000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellstenius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schéle",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhle",
+      "first_name": null,
+      "initials": "Nils K.",
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bendel",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schröder",
+      "first_name": "Sture",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dubois",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

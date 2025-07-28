@@ -1,0 +1,76 @@
+{
+  "company_name": "HEVEA",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 4033163.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2721472.0
+  },
+  "balance_sheet": {
+    "total_assets": 37843164.0,
+    "current_assets": 2189764.0,
+    "fixed_assets": 35653400.0,
+    "total_liabilities": 61438.0,
+    "current_liabilities": 48886.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 37781726.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ohlsson",
+      "first_name": "Lars",
+      "initials": "L. G.",
+      "position": "ordf."
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": "Å.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": "G.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lewenhaupt",
+      "first_name": "Gösta",
+      "initials": "G.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": "O. P.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar",
+      "initials": "H.",
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brane",
+      "first_name": "Bertil",
+      "initials": "B.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": "B.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

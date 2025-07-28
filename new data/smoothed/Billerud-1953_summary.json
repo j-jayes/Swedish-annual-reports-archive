@@ -1,0 +1,92 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1953,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 172438426.81,
+    "cost_of_goods_sold": 133202374.6,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 16000000.0,
+    "depreciation": 16101243.87,
+    "net_income": 11909329.45
+  },
+  "balance_sheet": {
+    "total_assets": 183390560.22,
+    "current_assets": 87170605.29,
+    "fixed_assets": 96219954.93,
+    "total_liabilities": 71938182.7,
+    "current_liabilities": 37126046.58,
+    "long_term_liabilities": 34812136.12,
+    "shareholders_equity": 111452377.52
+  },
+  "employees": {
+    "n_employees": 5273,
+    "n_blue_collar_workers": 4642,
+    "n_white_collar_workers": 631
+  },
+  "board": [
+    {
+      "surname": "HAMMARSKJÖLD",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "STORJOHANN",
+      "first_name": null,
+      "initials": "Chr.",
+      "position": null
+    },
+    {
+      "surname": "HISING",
+      "first_name": null,
+      "initials": "K. I.",
+      "position": null
+    },
+    {
+      "surname": "KILLANDER",
+      "first_name": null,
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": null,
+      "initials": "Y.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ALMQUIST",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WENDT",
+      "first_name": "Stellan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

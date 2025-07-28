@@ -1,0 +1,98 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1974,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1418.8,
+    "cost_of_goods_sold": 1198.7,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 69.6,
+    "net_income": 38.4
+  },
+  "balance_sheet": {
+    "total_assets": 1137.6,
+    "current_assets": 587.6,
+    "fixed_assets": 540.3,
+    "total_liabilities": 350.8,
+    "current_liabilities": 162.4,
+    "long_term_liabilities": 292.6,
+    "shareholders_equity": 95.43333333333334
+  },
+  "employees": {
+    "n_employees": 9581,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Styrelsens vice ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Emblad",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Stig Andersson"
+    },
+    {
+      "surname": "Rydelius",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Herbert Adamsson"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ]
+}

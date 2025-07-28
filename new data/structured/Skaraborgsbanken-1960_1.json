@@ -1,0 +1,122 @@
+{
+  "company_name": "Skaraborgs Enskilda BanK",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 10559709.88,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6023147.41,
+    "wages_expense": null,
+    "tax_expense": 1031000.0,
+    "depreciation": 264959.0,
+    "net_income": 984383.54
+  },
+  "balance_sheet": {
+    "total_assets": 384678584.59,
+    "current_assets": null,
+    "fixed_assets": 530000.0,
+    "total_liabilities": 384678584.59,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20389000.0
+  },
+  "employees": {
+    "n_employees": 220,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Pontén",
+      "first_name": "Sigurd",
+      "initials": "S.",
+      "position": "direktör, Skövde, ordförande"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": "G.",
+      "position": "kapten, Mariedal, Lundsbrunn, vice ordförande"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": null,
+      "initials": "Ä. T.",
+      "position": "bankdirektör, Skövde"
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": null,
+      "initials": "C. S:son",
+      "position": "civilingenjör, Göteborg"
+    },
+    {
+      "surname": "Hofsten",
+      "first_name": "Erland",
+      "initials": "E.",
+      "position": "landstingsdirektör, Mariestad"
+    },
+    {
+      "surname": "Waller",
+      "first_name": "Eric",
+      "initials": "E.",
+      "position": "agronom, Skara"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Arvid",
+      "initials": "A.",
+      "position": "bankdirektör, Skövde, verkst. direktör"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": "S.",
+      "position": "agronom, Ryholm, Moholm"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": null,
+      "initials": "W.",
+      "position": "disponent, Lidköping"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Lars",
+      "initials": "L.",
+      "position": "disponent, Mariestad"
+    },
+    {
+      "surname": "Sundelöf",
+      "first_name": null,
+      "initials": "K.",
+      "position": "köpman, Skövde"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": "U.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Karl",
+      "initials": "K. L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": "F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gösta",
+      "initials": "G.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

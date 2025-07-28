@@ -1,0 +1,110 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGET",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 906.572882,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 33.369534,
+    "net_income": 43.4597
+  },
+  "balance_sheet": {
+    "total_assets": 1193407791.0,
+    "current_assets": 651183149.0,
+    "fixed_assets": 522562082.0,
+    "total_liabilities": 603561371.0,
+    "current_liabilities": 354336361.0,
+    "long_term_liabilities": 184944032.0,
+    "shareholders_equity": 589846420.0
+  },
+  "employees": {
+    "n_employees": 18571,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Raguar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": null,
+      "initials": "A. T",
+      "position": "koncernchef"
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Edström",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lilliecreutz",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg Jr",
+      "first_name": "Marc",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten S:son",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

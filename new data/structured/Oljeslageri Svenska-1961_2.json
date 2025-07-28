@@ -1,0 +1,104 @@
+{
+  "company_name": "SVENSKA OLJESLAGERI AKTIEBOLAGET",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 74.255,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.53,
+    "net_income": 0.512
+  },
+  "balance_sheet": {
+    "total_assets": 30.541,
+    "current_assets": 9.907,
+    "fixed_assets": 20.715,
+    "total_liabilities": 9.199,
+    "current_liabilities": 7.174,
+    "long_term_liabilities": 2.0,
+    "shareholders_equity": 24.511
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 253,
+    "n_white_collar_workers": 217
+  },
+  "board": [
+    {
+      "surname": "LILLJEGREN",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ORRMELL",
+      "first_name": "ARON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGWALL",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖGBERG",
+      "first_name": "EMAN.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSVALD",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGBLOM",
+      "first_name": "C. P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUFVESSON",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMGREN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELMERSON",
+      "first_name": "HE",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "SKÅNSBERG",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLJEGREN",
+      "first_name": "PER",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "THUFVESSON",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

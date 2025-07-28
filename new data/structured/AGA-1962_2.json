@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSKA AB GASACCUMULATOR",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 150.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 7.227
+  },
+  "balance_sheet": {
+    "total_assets": 121.213,
+    "current_assets": 120.129,
+    "fixed_assets": 36.219,
+    "total_liabilities": 62.405,
+    "current_liabilities": 39.325,
+    "long_term_liabilities": 17.977,
+    "shareholders_equity": 50.6
+  },
+  "employees": {
+    "n_employees": 3331,
+    "n_blue_collar_workers": 1998,
+    "n_white_collar_workers": 1333
+  },
+  "board": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "BANCK",
+      "first_name": "PERCY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEDIN",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSON",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DALÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅSELIUS",
+      "first_name": "HJ.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HANNER",
+      "first_name": "PER",
+      "initials": "V. A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGLUND",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

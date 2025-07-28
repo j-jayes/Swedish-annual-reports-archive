@@ -1,0 +1,92 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 18402.049,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1700.0,
+    "depreciation": null,
+    "net_income": 2321.999
+  },
+  "balance_sheet": {
+    "total_assets": 153984.666,
+    "current_assets": 52851.992,
+    "fixed_assets": 48181.392,
+    "total_liabilities": 45629.165,
+    "current_liabilities": 29438.539,
+    "long_term_liabilities": 36586.673,
+    "shareholders_equity": 54154.606
+  },
+  "employees": {
+    "n_employees": 3244,
+    "n_blue_collar_workers": 1986,
+    "n_white_collar_workers": 1160
+  },
+  "board": [
+    {
+      "surname": "Hjorth",
+      "first_name": "Arnold",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Forssius",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": null,
+      "initials": "Å.",
+      "position": null
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

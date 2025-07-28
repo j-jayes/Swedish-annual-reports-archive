@@ -1,0 +1,92 @@
+{
+  "company_name": "Tarkett ab",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 203.038,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 172.413,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9.15,
+    "net_income": 2.926
+  },
+  "balance_sheet": {
+    "total_assets": 116.441,
+    "current_assets": 67.404,
+    "fixed_assets": 49.037,
+    "total_liabilities": 49.587,
+    "current_liabilities": 45.002,
+    "long_term_liabilities": 24.587,
+    "shareholders_equity": 34.652
+  },
+  "employees": {
+    "n_employees": 1698,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Deinoff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "direktör, Jönköping styrelsens ordförande"
+    },
+    {
+      "surname": "Ovesson",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": "direktör, Åstorp"
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "direktör, Jönköping"
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Urban",
+      "initials": null,
+      "position": "direktör, Malmö"
+    },
+    {
+      "surname": "Senn",
+      "first_name": "Willi",
+      "initials": null,
+      "position": "Direktör, Ronneby verkställande direktör"
+    },
+    {
+      "surname": "Arp",
+      "first_name": "Jochum",
+      "initials": null,
+      "position": "direktör, Malmö"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "aukt.revisor, Malmö"
+    },
+    {
+      "surname": "Bramsved",
+      "first_name": "Hans-Ove",
+      "initials": null,
+      "auditing_firm": "aukt.revisor, Malmö"
+    },
+    {
+      "surname": "Bruzelius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "aukt.revisor, Malmö"
+    },
+    {
+      "surname": "Stångberg",
+      "first_name": "Sven-Ingvar",
+      "initials": null,
+      "auditing_firm": "aukt.revisor, Malmö"
+    }
+  ],
+  "additional_notes": null
+}

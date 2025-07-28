@@ -1,0 +1,43 @@
+{
+  "company_name": "HEIMDALL",
+  "fiscal_year": 1914,
+  "income_statement": {
+    "revenue": 531342.25,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 111383.88,
+    "wages_expense": 60929.74,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 421.17
+  },
+  "balance_sheet": {
+    "total_assets": 870902.76,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 870902.76,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 12251,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HAMMARSTRÖM",
+      "first_name": "ALEXIS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DRAKENBERG",
+      "first_name": "JEAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

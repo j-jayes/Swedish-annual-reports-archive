@@ -1,0 +1,98 @@
+{
+  "company_name": "HOLMEN",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 2983.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2562.1,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 123.9,
+    "net_income": 65.6
+  },
+  "balance_sheet": {
+    "total_assets": 3060.4,
+    "current_assets": 1860.8,
+    "fixed_assets": 1199.6,
+    "total_liabilities": 1085.4,
+    "current_liabilities": 869.3,
+    "long_term_liabilities": 476.2,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 3754,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl Mison",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Gripenstedt",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Clas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Trolle-Löwen",
+      "first_name": "August",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Weine",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

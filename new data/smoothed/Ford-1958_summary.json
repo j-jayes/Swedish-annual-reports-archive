@@ -1,0 +1,80 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1958,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 171.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 268460.63166666665,
+    "net_income": 2205455.0
+  },
+  "balance_sheet": {
+    "total_assets": 45941638.0,
+    "current_assets": 29884476.0,
+    "fixed_assets": 7845085.0,
+    "total_liabilities": 16605567.0,
+    "current_liabilities": 10754958.666666666,
+    "long_term_liabilities": null,
+    "shareholders_equity": 28536071.0
+  },
+  "employees": {
+    "n_employees": 408,
+    "n_blue_collar_workers": 172,
+    "n_white_collar_workers": 236
+  },
+  "board": [
+    {
+      "surname": "FORD II",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS",
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "BORLIND",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONES",
+      "first_name": "H.",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "BRÖNDUM",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": "Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLÉN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DICKINSON",
+      "first_name": "JOHN",
+      "initials": "C.",
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ]
+}

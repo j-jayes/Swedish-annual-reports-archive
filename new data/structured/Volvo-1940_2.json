@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1940,
+  "income_statement": {
+    "revenue": 57234898.61,
+    "cost_of_goods_sold": 51191124.26,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1500000.0,
+    "depreciation": null,
+    "net_income": 1757948.08
+  },
+  "balance_sheet": {
+    "total_assets": 44860759.55,
+    "current_assets": null,
+    "fixed_assets": 5551624.44,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3210834.06
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "HASSELROT",
+      "first_name": "BROR",
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "WINGQUIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TORNEBOHM",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MAGNUS",
+      "first_name": "E.",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSON",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "ROLF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

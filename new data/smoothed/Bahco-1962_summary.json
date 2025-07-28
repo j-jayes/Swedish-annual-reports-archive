@@ -1,0 +1,86 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1962,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 6140155.092333334,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 850.85,
+    "depreciation": 4674018.0,
+    "net_income": 774774.440333
+  },
+  "balance_sheet": {
+    "total_assets": 51379601.550222,
+    "current_assets": 17634965.614664,
+    "fixed_assets": 16076540.524464,
+    "total_liabilities": 15224949.439868666,
+    "current_liabilities": 9822677.246631667,
+    "long_term_liabilities": 12207768.434055,
+    "shareholders_equity": 18069604.920202
+  },
+  "employees": {
+    "n_employees": 3244,
+    "n_blue_collar_workers": 1986,
+    "n_white_collar_workers": 1160
+  },
+  "board": [
+    {
+      "surname": "Tunhammar",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Forssius",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": null,
+      "initials": "Å.",
+      "position": null
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ]
+}

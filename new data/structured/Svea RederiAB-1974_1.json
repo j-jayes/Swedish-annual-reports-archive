@@ -1,0 +1,76 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 542.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 131.252,
+    "wages_expense": null,
+    "tax_expense": 0.8,
+    "depreciation": 28.1,
+    "net_income": 1.3
+  },
+  "balance_sheet": {
+    "total_assets": 548.447,
+    "current_assets": 114.767,
+    "fixed_assets": 430.826,
+    "total_liabilities": 212.029,
+    "current_liabilities": 212.029,
+    "long_term_liabilities": 292.04,
+    "shareholders_equity": 323.557
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wettermark",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Rodin",
+      "first_name": "John",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Rektor"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W",
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ehnborg",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "company_name": "BOLIDEN ΑΚΤΙEBOLAG",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 749.612,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -275.73,
+    "wages_expense": null,
+    "tax_expense": 44.2,
+    "depreciation": 48.273,
+    "net_income": 45.0
+  },
+  "balance_sheet": {
+    "total_assets": 623.7,
+    "current_assets": 330.387,
+    "fixed_assets": 290.513,
+    "total_liabilities": 337.461,
+    "current_liabilities": 194.479,
+    "long_term_liabilities": 116.156,
+    "shareholders_equity": 286.239
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "NORÉN",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "BRYNIELSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELFSTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAMARCHE",
+      "first_name": "ALFRED",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALM",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": "S. L.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DAHL",
+      "first_name": "CARL",
+      "initials": "OLOF",
+      "auditing_firm": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": "ALF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1930,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 300000.0,
+    "depreciation": null,
+    "net_income": 2930680.9
+  },
+  "balance_sheet": {
+    "total_assets": 105305178.74,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 42811000.0,
+    "current_liabilities": 2854316.98,
+    "long_term_liabilities": 42811000.0,
+    "shareholders_equity": 40472972.22
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "STORJOHANN",
+      "first_name": "CHR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KILLANDER",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DICKSON",
+      "first_name": "GEORGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLAKSTAD",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SMITH",
+      "first_name": "AND.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHMIDT",
+      "first_name": "SIXTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYSTER-AAS",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BARK",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BÖRJESON",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

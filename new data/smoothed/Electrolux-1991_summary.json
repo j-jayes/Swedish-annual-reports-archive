@@ -1,0 +1,134 @@
+{
+  "company_name": "Electrolux Group",
+  "fiscal_year": 1991,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 79027.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 73117.0,
+    "wages_expense": null,
+    "tax_expense": 595.0,
+    "depreciation": 3322.0,
+    "net_income": 377.0
+  },
+  "balance_sheet": {
+    "total_assets": 62329.0,
+    "current_assets": 31316.666666666668,
+    "fixed_assets": 22078.333333333332,
+    "total_liabilities": 22272.0,
+    "current_liabilities": 13879.666666666666,
+    "long_term_liabilities": 16155.333333333334,
+    "shareholders_equity": 15758.0
+  },
+  "employees": {
+    "n_employees": 134229,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Honorary Chairman of the Board"
+    },
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Chairman of the Board and CEO"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "Löwenhielm",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "Ribohn",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven",
+      "initials": "Åke",
+      "position": "Employee representames"
+    },
+    {
+      "surname": "Mörk",
+      "first_name": "Roland",
+      "initials": null,
+      "position": "Employee representames"
+    },
+    {
+      "surname": "Söderqvist",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Employee representames"
+    },
+    {
+      "surname": "Krantz",
+      "first_name": "Mari-Ann",
+      "initials": null,
+      "position": "Deputy members"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "Deputy members"
+    },
+    {
+      "surname": "Säll",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Deputy members"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ]
+}

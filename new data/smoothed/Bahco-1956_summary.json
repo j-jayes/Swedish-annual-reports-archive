@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET BAHCO",
+  "fiscal_year": 1956,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 627282.56
+  },
+  "balance_sheet": {
+    "total_assets": 66703604.57,
+    "current_assets": 48584948.32,
+    "fixed_assets": 18118656.25,
+    "total_liabilities": 24020395.78,
+    "current_liabilities": 20060121.07,
+    "long_term_liabilities": 16262087.719999999,
+    "shareholders_equity": 16262087.719999999
+  },
+  "employees": {
+    "n_employees": 1950,
+    "n_blue_collar_workers": 1147,
+    "n_white_collar_workers": 803
+  },
+  "board": [
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjorth",
+      "first_name": "Arnold",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Assarsson",
+      "first_name": null,
+      "initials": "V.",
+      "position": null
+    },
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Uggla",
+      "first_name": null,
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

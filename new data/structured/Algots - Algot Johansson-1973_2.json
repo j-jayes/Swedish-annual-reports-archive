@@ -1,0 +1,140 @@
+{
+  "company_name": "Algot Johansson Aktiebolag",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 193.059,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 190.494,
+    "wages_expense": null,
+    "tax_expense": 938.0,
+    "depreciation": null,
+    "net_income": 1.469
+  },
+  "balance_sheet": {
+    "total_assets": 99.244,
+    "current_assets": 86.252,
+    "fixed_assets": 10.522,
+    "total_liabilities": 40.507,
+    "current_liabilities": 40.507,
+    "long_term_liabilities": null,
+    "shareholders_equity": 29.807
+  },
+  "employees": {
+    "n_employees": 1554,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Johansson",
+      "first_name": "Algot",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Aasa",
+      "first_name": "Johannes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Curtman",
+      "first_name": "C",
+      "initials": "C W",
+      "position": null
+    },
+    {
+      "surname": "Hernqvist",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": "Göte D",
+      "position": null
+    },
+    {
+      "surname": "Wennerberg",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiking",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Weijmer",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gometz",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

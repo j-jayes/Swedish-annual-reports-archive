@@ -1,0 +1,82 @@
+{
+  "company_name": "Aktiebolaget Volvo",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 143149000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3750000.0,
+    "depreciation": null,
+    "net_income": 4243072.05
+  },
+  "balance_sheet": {
+    "total_assets": 189426544.19,
+    "current_assets": null,
+    "fixed_assets": 32614277.59,
+    "total_liabilities": null,
+    "current_liabilities": 115692581.17,
+    "long_term_liabilities": 15000000.0,
+    "shareholders_equity": 56624278.02
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Prytz",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": null,
+      "initials": "H",
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Magnus",
+      "first_name": "Erik",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Hilding",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larson",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,94 @@
+{
+  "company_name": "Dagens Nyheters Aktiebolag",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 162.391,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 146.346,
+    "wages_expense": null,
+    "tax_expense": 3.021,
+    "depreciation": 2.521,
+    "net_income": 3.269
+  },
+  "balance_sheet": {
+    "total_assets": 112.201,
+    "current_assets": 48.11,
+    "fixed_assets": 64.091,
+    "total_liabilities": 33.899,
+    "current_liabilities": 18.403,
+    "long_term_liabilities": 18.403,
+    "shareholders_equity": 34.789
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": "j:r",
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "\"\nke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "Chefredaktör"
+    },
+    {
+      "surname": "Wrigstad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Chefredaktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "\"\nke von",
+      "initials": null,
+      "auditing_firm": "Generaldirektör"
+    },
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": "Fil. dr",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

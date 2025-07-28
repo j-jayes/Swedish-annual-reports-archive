@@ -1,0 +1,82 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AKTIEBOLAG",
+  "fiscal_year": 1920,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4000000.0,
+    "depreciation": null,
+    "net_income": 9355372.27
+  },
+  "balance_sheet": {
+    "total_assets": 188496753.33,
+    "current_assets": 32145460.71,
+    "fixed_assets": 58431231.0,
+    "total_liabilities": 60000000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "Marc",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJKANDER",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRISELL",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RYDBECK",
+      "first_name": "O.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "Olof",
+      "initials": "A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRYXELL",
+      "first_name": "K.",
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "FLODSTRÖM",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "COLLÉN",
+      "first_name": "A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,94 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1958,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 9.429655,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 21.276,
+    "depreciation": null,
+    "net_income": 5333730.5801972905
+  },
+  "balance_sheet": {
+    "total_assets": 72128771.80436787,
+    "current_assets": 24947.54087,
+    "fixed_assets": 72128759.66241667,
+    "total_liabilities": null,
+    "current_liabilities": 172478.02925,
+    "long_term_liabilities": 6942978.81148767,
+    "shareholders_equity": 43480137.456617616
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "HERSLOW",
+      "first_name": "E",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "HAKON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SODERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKLUND",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CEDERBERG",
+      "first_name": "NIKLAS",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

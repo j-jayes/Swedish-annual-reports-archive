@@ -1,0 +1,58 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1968,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 28867722.51,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 217121.0,
+    "depreciation": 7388848.23,
+    "net_income": 20560792.42
+  },
+  "balance_sheet": {
+    "total_assets": 147551894.69,
+    "current_assets": 4508344.69,
+    "fixed_assets": 143043550.0,
+    "total_liabilities": 8365000.0,
+    "current_liabilities": 552468.25,
+    "long_term_liabilities": 8000000.0,
+    "shareholders_equity": 58397856.44
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "PIHL",
+      "first_name": "GUST.",
+      "initials": "OVE",
+      "auditing_firm": null
+    }
+  ]
+}

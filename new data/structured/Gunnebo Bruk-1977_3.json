@@ -1,0 +1,98 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 360.976,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 320.737,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 14.767,
+    "net_income": 3.799
+  },
+  "balance_sheet": {
+    "total_assets": 361.401,
+    "current_assets": 159.949,
+    "fixed_assets": 92.211,
+    "total_liabilities": 190.464,
+    "current_liabilities": 108.671,
+    "long_term_liabilities": 81.793,
+    "shareholders_equity": 60.068
+  },
+  "employees": {
+    "n_employees": 1432,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Widerström",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenstierna",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "A.",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "arbetstagareledamot"
+    },
+    {
+      "surname": "Stålbrand",
+      "first_name": "Bert",
+      "initials": null,
+      "position": "arbetstagareledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ranby",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Wennström",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

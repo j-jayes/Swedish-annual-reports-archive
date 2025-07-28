@@ -1,0 +1,70 @@
+{
+  "company_name": "Bergsunds Mekaniska Verkstads Aktiebolags",
+  "fiscal_year": 1905,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -162335.41
+  },
+  "balance_sheet": {
+    "total_assets": 4610512.44,
+    "current_assets": null,
+    "fixed_assets": 989271.71,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 700000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Lundström",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Starek",
+      "first_name": "Albert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schmalensée",
+      "first_name": null,
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "Fredholm",
+      "first_name": "Alb.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frestadius",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Borglund",
+      "first_name": "Waldemar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lettström",
+      "first_name": null,
+      "initials": "G.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "SKARABORGSBANKEN",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 87.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 58.0,
+    "wages_expense": null,
+    "tax_expense": 3.8,
+    "depreciation": null,
+    "net_income": 4.8
+  },
+  "balance_sheet": {
+    "total_assets": 2296.9,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2239.296,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 57.8
+  },
+  "employees": {
+    "n_employees": 367,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ulfenborg",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Demitz-Helin",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

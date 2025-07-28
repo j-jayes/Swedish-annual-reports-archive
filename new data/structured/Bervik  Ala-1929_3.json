@@ -1,0 +1,39 @@
+{
+  "company_name": "Bergvik och Ala Nya Aktiebolag",
+  "fiscal_year": 1929,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1389638.52,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5585463.85
+  },
+  "balance_sheet": {
+    "total_assets": 55126673.12,
+    "current_assets": 6893139.57,
+    "fixed_assets": 44859865.88,
+    "total_liabilities": 301937500.0,
+    "current_liabilities": 15052436.85,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fjästad",
+      "first_name": "Per",
+      "initials": "O. S.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

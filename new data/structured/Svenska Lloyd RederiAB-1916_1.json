@@ -1,0 +1,70 @@
+{
+  "company_name": "REDERIAKTIEBOLAGET SVENSKA LLOYD",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": 8609683.53,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 506504.66,
+    "net_income": 5032060.08
+  },
+  "balance_sheet": {
+    "total_assets": 10426171.54,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": 992483.33,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "METCALFE",
+      "first_name": "HERBERT",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "LUNDQVIST",
+      "first_name": "WERNER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRÜGER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LILLIENAU",
+      "first_name": "AUG.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅGREN",
+      "first_name": "AXEL",
+      "initials": "H.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "ALBERT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

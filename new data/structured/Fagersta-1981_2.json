@@ -1,0 +1,122 @@
+{
+  "company_name": "FAGERSTA",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 1990.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 79.5,
+    "net_income": 9.0
+  },
+  "balance_sheet": {
+    "total_assets": 2401.6,
+    "current_assets": 1469.5,
+    "fixed_assets": 932.1,
+    "total_liabilities": 1698.7,
+    "current_liabilities": 673.8,
+    "long_term_liabilities": 943.6,
+    "shareholders_equity": 702.9
+  },
+  "employees": {
+    "n_employees": 5670,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Tony",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": null,
+      "initials": "Jan H",
+      "position": null
+    },
+    {
+      "surname": "Åsberg",
+      "first_name": "Alvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjernberg",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice verkställande direktor"
+    },
+    {
+      "surname": "Wiklund",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

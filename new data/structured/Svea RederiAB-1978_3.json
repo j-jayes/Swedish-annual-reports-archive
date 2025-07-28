@@ -1,0 +1,92 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 626.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 134.529,
+    "wages_expense": null,
+    "tax_expense": 0.03,
+    "depreciation": 31.369,
+    "net_income": -14.23
+  },
+  "balance_sheet": {
+    "total_assets": 350.749,
+    "current_assets": 111.95,
+    "fixed_assets": 238.619,
+    "total_liabilities": 363.446,
+    "current_liabilities": 142.753,
+    "long_term_liabilities": 178.426,
+    "shareholders_equity": -12.697
+  },
+  "employees": {
+    "n_employees": 2086,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Birgander",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodin",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W.",
+      "position": "verkställande direktör t.o.m. 1978-11-30"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Eric",
+      "initials": "D.",
+      "position": "verkställande direktör fr.o.m. 1978-12-01"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehnborg",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

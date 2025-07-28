@@ -1,0 +1,122 @@
+{
+  "company_name": "Independent Leasing AB",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 538.263,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 58.817,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 319.391,
+    "net_income": 20.242
+  },
+  "balance_sheet": {
+    "total_assets": 1.551558,
+    "current_assets": 267.387,
+    "fixed_assets": 1.284171,
+    "total_liabilities": 1.446417,
+    "current_liabilities": 808.038,
+    "long_term_liabilities": 599.868,
+    "shareholders_equity": 105.141
+  },
+  "employees": {
+    "n_employees": 164,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ANDREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "BRYNELL",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "JONES",
+      "first_name": "RONALD",
+      "initials": "S",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "KJELLSTROM",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "LUND",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "MANTON",
+      "first_name": null,
+      "initials": "C",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "VAN SICKLE",
+      "first_name": "CHARLES",
+      "initials": "D",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "MANSSON",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "AHLQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "ALGELL",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "BALCKER",
+      "first_name": "EIVIND",
+      "initials": null,
+      "position": "Suppleant för personalrepresentant"
+    },
+    {
+      "surname": "LINDE",
+      "first_name": "BO",
+      "initials": null,
+      "position": "Suppleant för personalrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": "E",
+      "auditing_firm": "Deloitte Haskins & Sells AB"
+    }
+  ],
+  "additional_notes": null
+}

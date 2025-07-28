@@ -1,0 +1,128 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 998.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 17.0,
+    "depreciation": 28.0,
+    "net_income": 23.4
+  },
+  "balance_sheet": {
+    "total_assets": 858.984,
+    "current_assets": 356.947,
+    "fixed_assets": 492.129,
+    "total_liabilities": null,
+    "current_liabilities": 164.09,
+    "long_term_liabilities": 344.436,
+    "shareholders_equity": 159.146
+  },
+  "employees": {
+    "n_employees": 1978,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ROOS",
+      "first_name": "FREDRIK",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "IRSTAD",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "LEVIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "JARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PAULI",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": "sektionschef"
+    },
+    {
+      "surname": "RYDIN",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Ekonomidirektör"
+    },
+    {
+      "surname": "SANDH",
+      "first_name": "ZERNY",
+      "initials": null,
+      "position": "Koncernchef"
+    },
+    {
+      "surname": "WESTRÖM",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "LINDSTRÖM",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "regionchef"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": "avdelningschef"
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LORIN",
+      "first_name": "\nÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDSTRÖM",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHANSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "AXELSSON",
+      "first_name": "KURT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "BOLIDEN",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 2949.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2698.2,
+    "wages_expense": null,
+    "tax_expense": 20.1,
+    "depreciation": 179.5,
+    "net_income": 21.7
+  },
+  "balance_sheet": {
+    "total_assets": 3333.6,
+    "current_assets": 1358.9,
+    "fixed_assets": 1892.9,
+    "total_liabilities": 2772.4,
+    "current_liabilities": 642.0,
+    "long_term_liabilities": 1087.6,
+    "shareholders_equity": 561.2
+  },
+  "employees": {
+    "n_employees": 8590,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "\n\nÅkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Ordförande, bankdirektör"
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Vice ordförande, direktör"
+    },
+    {
+      "surname": "Brynielsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "af Ugglas",
+      "first_name": "Margaretha",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Bengt-Orvar",
+      "initials": null,
+      "position": "Arbetstagarrepr, skyddsingenjör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Arbetstagarrepr, bergarbetare"
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": "Koncernchef"
+    },
+    {
+      "surname": "Lamarche",
+      "first_name": "Alfred",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Glenngård",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Hagströms Revisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil E.",
+      "initials": null,
+      "auditing_firm": "Hagströms Revisionsbyrå AB"
+    },
+    {
+      "surname": "Näslund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Hagströms Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

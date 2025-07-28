@@ -1,0 +1,98 @@
+{
+  "company_name": "ATLANTICA",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 19318292.92,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3122645.55,
+    "wages_expense": null,
+    "tax_expense": 372618.3,
+    "depreciation": null,
+    "net_income": 415872.87
+  },
+  "balance_sheet": {
+    "total_assets": 38659669.45,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 38659669.45,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4000000.0
+  },
+  "employees": {
+    "n_employees": 41,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K.R.",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": null,
+      "initials": "E.W.",
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORBURN",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": null,
+      "initials": "K.E.",
+      "position": null
+    },
+    {
+      "surname": "LANGE",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOLMQVIST",
+      "first_name": "HARRY",
+      "initials": null,
+      "auditing_firm": "J. E. Stenbergs Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

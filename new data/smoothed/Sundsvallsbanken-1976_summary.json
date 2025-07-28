@@ -1,0 +1,116 @@
+{
+  "company_name": "Sundsvalls Banken",
+  "fiscal_year": 1976,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 159.007,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 78.474,
+    "wages_expense": null,
+    "tax_expense": 13.6,
+    "depreciation": null,
+    "net_income": 13.0
+  },
+  "balance_sheet": {
+    "total_assets": 2803.062164,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1420.9875,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 125.99
+  },
+  "employees": {
+    "n_employees": 550,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hellerot",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Järvefelt",
+      "first_name": null,
+      "initials": "L.E.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Lindmark",
+      "first_name": "S",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "F",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "C",
+      "initials": null,
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Valentin",
+      "first_name": "G",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ehn",
+      "first_name": "E",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Högström",
+      "first_name": "I",
+      "initials": null,
+      "position": "riksdagsman"
+    },
+    {
+      "surname": "Björk",
+      "first_name": "S",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Södergren",
+      "first_name": "H",
+      "initials": null,
+      "position": "bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Advokat"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1994,
+  "income_statement": {
+    "revenue": 12544.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 9858.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1244.0,
+    "net_income": 1269.0
+  },
+  "balance_sheet": {
+    "total_assets": 18994.0,
+    "current_assets": 5030.0,
+    "fixed_assets": 13964.0,
+    "total_liabilities": 6596.0,
+    "current_liabilities": 4352.0,
+    "long_term_liabilities": 173.0,
+    "shareholders_equity": 7771.0
+  },
+  "employees": {
+    "n_employees": 10546,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Clas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martin-Löf",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundholm",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klinga",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Elväng",
+      "first_name": "Katja",
+      "initials": null,
+      "auditing_firm": "KPMG Bohlins AB"
+    }
+  ],
+  "additional_notes": null
+}

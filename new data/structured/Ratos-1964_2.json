@@ -1,0 +1,70 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Ratos",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 4920073.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4305249.9
+  },
+  "balance_sheet": {
+    "total_assets": 92829478.5,
+    "current_assets": 6121.95,
+    "fixed_assets": 61075000.0,
+    "total_liabilities": 8637486.14,
+    "current_liabilities": 4504820.11,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8203979.71
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Soderberg",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "LARS",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

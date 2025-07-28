@@ -1,0 +1,92 @@
+{
+  "company_name": "PRIPP & LYCKHOLM",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 69.316,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.866,
+    "depreciation": null,
+    "net_income": 4.341
+  },
+  "balance_sheet": {
+    "total_assets": 89.54,
+    "current_assets": 23.091,
+    "fixed_assets": 26.578,
+    "total_liabilities": 31.864,
+    "current_liabilities": 5.584,
+    "long_term_liabilities": 23.111,
+    "shareholders_equity": 57.676
+  },
+  "employees": {
+    "n_employees": 1427,
+    "n_blue_collar_workers": 1053,
+    "n_white_collar_workers": 374
+  },
+  "board": [
+    {
+      "surname": "Olson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ygge",
+      "first_name": "Birger",
+      "initials": null,
+      "position": "vice verkställande direktör, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

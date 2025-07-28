@@ -1,0 +1,128 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 11039.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 9046.0,
+    "wages_expense": null,
+    "tax_expense": 113.0,
+    "depreciation": 770.0,
+    "net_income": 409.0
+  },
+  "balance_sheet": {
+    "total_assets": 17112.0,
+    "current_assets": 6500.0,
+    "fixed_assets": 10546.0,
+    "total_liabilities": 5143.0,
+    "current_liabilities": 4599.0,
+    "long_term_liabilities": 5143.0,
+    "shareholders_equity": 3927.0
+  },
+  "employees": {
+    "n_employees": 14552,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martin-Löf",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Staaff",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pålsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Elväng",
+      "first_name": "Katja",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bjelkberg",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

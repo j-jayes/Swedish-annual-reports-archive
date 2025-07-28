@@ -1,0 +1,122 @@
+{
+  "company_name": "H & M Hennes & Mauritz AB",
+  "fiscal_year": 1996,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 17212.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 12351.5,
+    "wages_expense": null,
+    "tax_expense": 574.0,
+    "depreciation": 236.4,
+    "net_income": 1331.0
+  },
+  "balance_sheet": {
+    "total_assets": 7171.7,
+    "current_assets": 5511.8,
+    "fixed_assets": 1659.9,
+    "total_liabilities": 2016.9,
+    "current_liabilities": 1526.8,
+    "long_term_liabilities": 490.1,
+    "shareholders_equity": 5154.8
+  },
+  "employees": {
+    "n_employees": 10469,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bingebo",
+      "first_name": "Britt-Marie",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "VD EF Education Yacht Racing AB"
+    },
+    {
+      "surname": "Brusberg",
+      "first_name": "Birgitta",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Lundius",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "VD Pilen AB"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Felixon",
+      "first_name": "Max",
+      "initials": null,
+      "position": "Inköpsdirektör H&M"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Koncernchef och VD"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Koncernchef och VD Esselte AB"
+    },
+    {
+      "surname": "Norin-Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Hofer",
+      "first_name": "Werner",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Finansdirektör H&M"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hedén",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

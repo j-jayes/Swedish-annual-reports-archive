@@ -1,0 +1,122 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 2054.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 104.6,
+    "net_income": 32.7
+  },
+  "balance_sheet": {
+    "total_assets": 1466.7,
+    "current_assets": 801.1,
+    "fixed_assets": 663.5,
+    "total_liabilities": 1036.2,
+    "current_liabilities": 458.7,
+    "long_term_liabilities": 577.5,
+    "shareholders_equity": 277.0
+  },
+  "employees": {
+    "n_employees": 9817,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordf."
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "V.ordf"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydelius",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Adamsson",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langebaek",
+      "first_name": "Steen",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Aukt revisor, Stockholm"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Aukt revisor, Stockholm"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": "Aukt revisor, Stockholm"
+    },
+    {
+      "surname": "Schumacher",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Aukt revisor, Stockholm"
+    }
+  ],
+  "additional_notes": null
+}

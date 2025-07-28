@@ -1,0 +1,55 @@
+{
+  "company_name": "STOCKHOLMS BRYGGERIER",
+  "fiscal_year": 1949,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 4373642.58,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 998248.86,
+    "net_income": 5272968.81
+  },
+  "balance_sheet": {
+    "total_assets": 83799329.35,
+    "current_assets": 14503972.45,
+    "fixed_assets": 68779739.9,
+    "total_liabilities": 23306843.933333334,
+    "current_liabilities": 4054899.67,
+    "long_term_liabilities": 19251944.263333336,
+    "shareholders_equity": 59140852.08
+  },
+  "employees": {
+    "n_employees": 1131,
+    "n_blue_collar_workers": 864,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tegnér",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Arthur",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

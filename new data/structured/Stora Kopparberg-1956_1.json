@@ -1,0 +1,92 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AKTIEBOLAG",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 582540000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 56000000.0,
+    "depreciation": 56697276.0,
+    "net_income": 33073301.71
+  },
+  "balance_sheet": {
+    "total_assets": 537644597.61,
+    "current_assets": 246893370.98,
+    "fixed_assets": 290751226.63,
+    "total_liabilities": 183590000.0,
+    "current_liabilities": 81860569.16,
+    "long_term_liabilities": 88000000.0,
+    "shareholders_equity": 319054856.82
+  },
+  "employees": {
+    "n_employees": 11726,
+    "n_blue_collar_workers": 10333,
+    "n_white_collar_workers": 1393
+  },
+  "board": [
+    {
+      "surname": "WAHLUND",
+      "first_name": null,
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "RODLING",
+      "first_name": "EJNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ABENIUS",
+      "first_name": null,
+      "initials": "H.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "ESSEN",
+      "first_name": "M. VON",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SÖDERBÄCK",
+      "first_name": "FRITIOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ÖBRINK",
+      "first_name": "ARNOLD",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

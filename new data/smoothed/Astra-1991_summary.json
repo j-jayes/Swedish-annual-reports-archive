@@ -1,0 +1,116 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1991,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 4167004171.167,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1228000000.0,
+    "depreciation": 537000000.0,
+    "net_income": 727334061.394
+  },
+  "balance_sheet": {
+    "total_assets": 4906671578.24,
+    "current_assets": 9378000000.0,
+    "fixed_assets": 4270000000.0,
+    "total_liabilities": null,
+    "current_liabilities": 3453000000.0,
+    "long_term_liabilities": 2824000000.0,
+    "shareholders_equity": 1354334689.021
+  },
+  "employees": {
+    "n_employees": 10236,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STÉN",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "BO",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "BJÖRNSON",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "FAULKNER",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "TONY",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "MOGREN",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "RINGQVIST",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "WACHTMEISTER",
+      "first_name": "TOM",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": "Professor emer."
+    },
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

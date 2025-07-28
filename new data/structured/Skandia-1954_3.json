@@ -1,0 +1,106 @@
+{
+  "company_name": "SKANDIA",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 52.53338158,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 43.91685178,
+    "wages_expense": null,
+    "tax_expense": 4186751.42,
+    "depreciation": null,
+    "net_income": 9485294.86
+  },
+  "balance_sheet": {
+    "total_assets": 249022655.66,
+    "current_assets": null,
+    "fixed_assets": 53254277.87,
+    "total_liabilities": 8298852.52,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 15893915.9
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MEIDNER",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KARLMANN",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIKLUND",
+      "first_name": "HOLGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDMAN",
+      "first_name": "ROLF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BJÖRFORS",
+      "first_name": "GOSTA",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RUNDQUIST",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Försäkringsinspektionen"
+    }
+  ],
+  "additional_notes": null
+}

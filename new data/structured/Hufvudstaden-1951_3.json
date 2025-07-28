@@ -1,0 +1,76 @@
+{
+  "company_name": "Fastighetsaktiebolaget Hufvudstaden",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 8363083.89,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 281246.0,
+    "net_income": 1825126.28
+  },
+  "balance_sheet": {
+    "total_assets": 66453592.94,
+    "current_assets": 1624426.11,
+    "fixed_assets": 64829166.83,
+    "total_liabilities": 41002189.74,
+    "current_liabilities": 1499263.14,
+    "long_term_liabilities": 39502926.6,
+    "shareholders_equity": 25451403.2
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Dunker",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wibom",
+      "first_name": "Tor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nothin",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "E.",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Ahrén",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellstenius",
+      "first_name": "G.",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cederberg",
+      "first_name": "Niklas",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

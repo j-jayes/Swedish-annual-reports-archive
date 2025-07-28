@@ -1,0 +1,80 @@
+{
+  "company_name": "AB Garphytte Bruk",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 173.631,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 172.137,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9.274,
+    "net_income": -17.487
+  },
+  "balance_sheet": {
+    "total_assets": 182.476,
+    "current_assets": 108.885,
+    "fixed_assets": 73.475,
+    "total_liabilities": 165.273,
+    "current_liabilities": 76.292,
+    "long_term_liabilities": 87.79,
+    "shareholders_equity": 17.203
+  },
+  "employees": {
+    "n_employees": 726,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-Christian",
+      "initials": "U.",
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Alde",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thell",
+      "first_name": "Ronny",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Bäcker",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

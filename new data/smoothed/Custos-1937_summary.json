@@ -1,0 +1,58 @@
+{
+  "company_name": "Aktiebolaget Custos",
+  "fiscal_year": 1937,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1113717.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 27066.49,
+    "net_income": 612000.77
+  },
+  "balance_sheet": {
+    "total_assets": 22655809.52,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 11329808.75,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 12604000.256666666
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "DUNKER",
+      "first_name": "HENRY",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "MANNHEIMER",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSON",
+      "first_name": "M.",
+      "initials": "M.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HALLBERG",
+      "first_name": "E.",
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

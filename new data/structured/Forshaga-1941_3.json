@@ -1,0 +1,76 @@
+{
+  "company_name": "LINOLEUM-AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1941,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 139206.53
+  },
+  "balance_sheet": {
+    "total_assets": 7298487.07,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "GRÖNBERG",
+      "first_name": "G.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "MATTSON",
+      "first_name": "ALBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BORELL",
+      "first_name": "TH.",
+      "initials": "TH.",
+      "position": null
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": "C.",
+      "initials": "C.",
+      "position": "G."
+    },
+    {
+      "surname": "ZOELLY",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "AUG."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "L.",
+      "auditing_firm": "Av Stockholms Handelskammare"
+    },
+    {
+      "surname": "Kahm.",
+      "first_name": "Gust.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

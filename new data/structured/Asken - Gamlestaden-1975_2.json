@@ -1,0 +1,82 @@
+{
+  "company_name": "INVESTMENT AKTIEBOLAGET ASKEN",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 10008.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 272.0,
+    "depreciation": null,
+    "net_income": 9382.0
+  },
+  "balance_sheet": {
+    "total_assets": 131017.0,
+    "current_assets": 4194.0,
+    "fixed_assets": 69195.0,
+    "total_liabilities": 32052.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 98965.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Henrikson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K:son",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kellgren",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Kjellman",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Askens styrelse föreslår, att till aktieägarna utdelas kr 6:- per aktie (få kr 5:25), vartill åtgår 8,25 mkr (få 7,22 mkr)."
+}

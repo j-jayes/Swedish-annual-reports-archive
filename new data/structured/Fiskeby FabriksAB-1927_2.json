@@ -1,0 +1,70 @@
+{
+  "company_name": "FISKEBY FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1927,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 78977.12,
+    "depreciation": 508372.05,
+    "net_income": 755618.86
+  },
+  "balance_sheet": {
+    "total_assets": 33823787.96,
+    "current_assets": null,
+    "fixed_assets": 19790132.67,
+    "total_liabilities": null,
+    "current_liabilities": 1070053.39,
+    "long_term_liabilities": null,
+    "shareholders_equity": 15000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Strömberg",
+      "first_name": "O.",
+      "initials": "O.",
+      "position": null
+    },
+    {
+      "surname": "Falkman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gullander",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "O.",
+      "initials": "O.",
+      "position": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Th.",
+      "initials": "Th.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Vilén",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ringborg",
+      "first_name": "Karl",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

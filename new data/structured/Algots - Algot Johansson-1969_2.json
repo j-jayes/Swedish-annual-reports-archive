@@ -1,0 +1,98 @@
+{
+  "company_name": "Algot Johansson Aktiebolag",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 114.377,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 109.481,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1.297,
+    "net_income": 1.997
+  },
+  "balance_sheet": {
+    "total_assets": 56.052,
+    "current_assets": 48.216,
+    "fixed_assets": 7.836,
+    "total_liabilities": 30.783,
+    "current_liabilities": 20.201,
+    "long_term_liabilities": 5.233,
+    "shareholders_equity": 25.269
+  },
+  "employees": {
+    "n_employees": 2438,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Johansson",
+      "first_name": "Algot",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Fredén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Curtman",
+      "first_name": "C.",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Elis",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": "D.",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Hernqvist",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Lagberg",
+      "first_name": "Karl",
+      "initials": "Y.",
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

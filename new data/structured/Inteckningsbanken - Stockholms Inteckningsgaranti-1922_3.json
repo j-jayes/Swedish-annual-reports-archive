@@ -1,0 +1,100 @@
+{
+  "company_name": "Stockholms Intecknings Garanti Aktiebolag",
+  "fiscal_year": 1922,
+  "income_statement": {
+    "revenue": 4027066.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 391838.62,
+    "net_income": 3153662.51
+  },
+  "balance_sheet": {
+    "total_assets": 205746827.01,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 191719760.61,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 14027066.4
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "PALME",
+      "first_name": "J",
+      "initials": "H",
+      "position": null
+    },
+    {
+      "surname": "HAY",
+      "first_name": "Berndt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PRIPP",
+      "first_name": "L",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KREUGER",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGLÖF",
+      "first_name": "Rob.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ROOTH",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": "L.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STERKY",
+      "first_name": "CARL",
+      "initials": "EDV.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "WESTERDAHL",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BREDBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

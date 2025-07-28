@@ -1,0 +1,86 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 460.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 6.4
+  },
+  "balance_sheet": {
+    "total_assets": 232170972.0,
+    "current_assets": 110807287.0,
+    "fixed_assets": 118681795.0,
+    "total_liabilities": 74900083.0,
+    "current_liabilities": 36509470.0,
+    "long_term_liabilities": 3722294.0,
+    "shareholders_equity": 113011419.0
+  },
+  "employees": {
+    "n_employees": 7575,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Ordf."
+    },
+    {
+      "surname": "Ahrén",
+      "first_name": "Frithiof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Vice Verkst. Direktör"
+    },
+    {
+      "surname": "von Horn",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sunden",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Nordenfalk",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "Ekeberg",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

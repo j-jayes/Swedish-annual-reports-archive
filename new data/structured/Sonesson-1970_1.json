@@ -1,0 +1,86 @@
+{
+  "company_name": "Wilh. Sonesson AB",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 87.637,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 76.069,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.79,
+    "net_income": 1.669
+  },
+  "balance_sheet": {
+    "total_assets": 82.167,
+    "current_assets": 58.224,
+    "fixed_assets": 23.866,
+    "total_liabilities": 26.811,
+    "current_liabilities": 22.278,
+    "long_term_liabilities": 6.555,
+    "shareholders_equity": 26.811
+  },
+  "employees": {
+    "n_employees": 750,
+    "n_blue_collar_workers": 266,
+    "n_white_collar_workers": 487
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hellestam",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kristensson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Sonesson",
+      "first_name": "Sven",
+      "initials": "D",
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hansson",
+      "first_name": "Åke",
+      "initials": "J",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Elvefors",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

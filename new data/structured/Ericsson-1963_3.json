@@ -1,0 +1,116 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET L M ERICSSON",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 1480.654,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 56.023,
+    "depreciation": null,
+    "net_income": 50.877
+  },
+  "balance_sheet": {
+    "total_assets": 2086.243,
+    "current_assets": 1504.257,
+    "fixed_assets": 386.534,
+    "total_liabilities": 1423.296,
+    "current_liabilities": 656.965,
+    "long_term_liabilities": 184.116,
+    "shareholders_equity": 662.947
+  },
+  "employees": {
+    "n_employees": 40600,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "ERNFRID",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN TURE",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "STERNER",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WALLENBERG JR",
+      "first_name": "MARC",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "LARS-ERIK",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "ÖDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "James",
+      "first_name": null,
+      "initials": "C. B.",
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

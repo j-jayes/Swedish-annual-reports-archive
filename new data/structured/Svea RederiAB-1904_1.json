@@ -1,0 +1,58 @@
+{
+  "company_name": "Nya Rederiaktiebolaget Sveas",
+  "fiscal_year": 1904,
+  "income_statement": {
+    "revenue": 1066580.06,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6228.22,
+    "depreciation": null,
+    "net_income": 101904.55
+  },
+  "balance_sheet": {
+    "total_assets": 1210741.54,
+    "current_assets": null,
+    "fixed_assets": 1135145.12,
+    "total_liabilities": 107639.64,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Larson",
+      "first_name": "Adler",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomberg",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lübeck",
+      "first_name": "Edv.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ström",
+      "first_name": null,
+      "initials": "J. F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylén",
+      "first_name": null,
+      "initials": "O. E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

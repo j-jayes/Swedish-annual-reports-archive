@@ -1,0 +1,70 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": 1224951.05,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 437251.71,
+    "depreciation": null,
+    "net_income": 4485551.53
+  },
+  "balance_sheet": {
+    "total_assets": 29118376.92,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 7436989.16,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20482213.5
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ewert",
+      "first_name": "W",
+      "initials": "W. T.",
+      "position": null
+    },
+    {
+      "surname": "Axelson",
+      "first_name": "H",
+      "initials": "H. von",
+      "position": null
+    },
+    {
+      "surname": "Storjohann",
+      "first_name": "Chr",
+      "initials": "Chr.",
+      "position": null
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Axel",
+      "initials": "Axel F.",
+      "position": null
+    },
+    {
+      "surname": "Brunes",
+      "first_name": "And",
+      "initials": "And.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Aquilon",
+      "first_name": null,
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Smith",
+      "first_name": "And",
+      "initials": "And.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

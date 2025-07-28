@@ -1,0 +1,82 @@
+{
+  "company_name": "Förvaltningsaktiebolaget RATOS",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 3675791.95,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3452292.99
+  },
+  "balance_sheet": {
+    "total_assets": 60474017.0,
+    "current_assets": 13474.05,
+    "fixed_assets": 60460543.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 35000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "E.M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDBLAD",
+      "first_name": "LARS",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "VERKST. DIR."
+    },
+    {
+      "surname": "Lönn",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

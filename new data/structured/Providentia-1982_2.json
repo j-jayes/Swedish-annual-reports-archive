@@ -1,0 +1,100 @@
+{
+  "company_name": "Förvaltnings AB Providentia",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 86.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3.652,
+    "wages_expense": null,
+    "tax_expense": 22.588,
+    "depreciation": null,
+    "net_income": 198.309
+  },
+  "balance_sheet": {
+    "total_assets": 736.903,
+    "current_assets": 5.004,
+    "fixed_assets": 731.899,
+    "total_liabilities": null,
+    "current_liabilities": 5.354,
+    "long_term_liabilities": null,
+    "shareholders_equity": 690.14
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": null,
+      "initials": "Ulf-C.",
+      "position": null
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": "A.",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

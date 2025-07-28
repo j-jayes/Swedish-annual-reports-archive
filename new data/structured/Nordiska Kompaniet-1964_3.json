@@ -1,0 +1,98 @@
+{
+  "company_name": "AB NORDISKA KOMPANIET",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 246316966.76,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1053566.0,
+    "depreciation": 4543298.1,
+    "net_income": 3460610.33
+  },
+  "balance_sheet": {
+    "total_assets": 207308963.05,
+    "current_assets": 60647375.75,
+    "fixed_assets": 146661587.3,
+    "total_liabilities": 128944468.26,
+    "current_liabilities": 39480227.98,
+    "long_term_liabilities": 89464240.28,
+    "shareholders_equity": 78364494.79
+  },
+  "employees": {
+    "n_employees": 3079,
+    "n_blue_collar_workers": 636,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SACHS",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": null,
+      "initials": "TAGE",
+      "position": null
+    },
+    {
+      "surname": "BRUSEWITZ",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "GEER",
+      "first_name": null,
+      "initials": "CARL DE",
+      "position": null
+    },
+    {
+      "surname": "RYDMAN",
+      "first_name": null,
+      "initials": "BENGT",
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": null,
+      "initials": "HERBERT",
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": null,
+      "initials": "WALTER",
+      "position": null
+    },
+    {
+      "surname": "KALDERÉN",
+      "first_name": null,
+      "initials": "R.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": null,
+      "initials": "C. ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": null,
+      "initials": "CARL",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

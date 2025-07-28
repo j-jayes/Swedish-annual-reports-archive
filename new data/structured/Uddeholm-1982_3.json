@@ -1,0 +1,116 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 3476.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3414.3,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 100.8,
+    "net_income": -122.2
+  },
+  "balance_sheet": {
+    "total_assets": 4994.1,
+    "current_assets": 3145.7,
+    "fixed_assets": 1532.6,
+    "total_liabilities": 3935.7,
+    "current_liabilities": 2289.5,
+    "long_term_liabilities": 1646.2,
+    "shareholders_equity": 979.2
+  },
+  "employees": {
+    "n_employees": 7727,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Örjan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martin-Lof",
+      "first_name": "Rutger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sohlberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyll",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinhold",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Wessman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Westling",
+      "first_name": "Harald",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

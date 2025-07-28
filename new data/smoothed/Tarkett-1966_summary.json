@@ -1,0 +1,68 @@
+{
+  "company_name": "Tarkett ab",
+  "fiscal_year": 1966,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 67163366.915,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 83735000.0,
+    "wages_expense": null,
+    "tax_expense": 3218000.0,
+    "depreciation": 2811334.739,
+    "net_income": 2050001.025
+  },
+  "balance_sheet": {
+    "total_assets": 43466021.733,
+    "current_assets": 26411346.539,
+    "fixed_assets": 16134674.734,
+    "total_liabilities": 26040013.286666665,
+    "current_liabilities": 11435339.051,
+    "long_term_liabilities": 11938005.969,
+    "shareholders_equity": 16759341.713
+  },
+  "employees": {
+    "n_employees": 1213,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": null,
+      "initials": "A",
+      "position": null
+    },
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": null,
+      "initials": "U",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BRANTBERG",
+      "first_name": "INGE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HULTÉN",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

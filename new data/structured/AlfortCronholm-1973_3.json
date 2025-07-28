@@ -1,0 +1,98 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 214.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3.8,
+    "net_income": 2.11
+  },
+  "balance_sheet": {
+    "total_assets": 131.163,
+    "current_assets": 87.179,
+    "fixed_assets": 43.47,
+    "total_liabilities": 36.205,
+    "current_liabilities": 39.12,
+    "long_term_liabilities": 34.963,
+    "shareholders_equity": 20.861
+  },
+  "employees": {
+    "n_employees": 918,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Plomgren",
+      "first_name": "Carl von",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ingeniör"
+    },
+    {
+      "surname": "Klercker",
+      "first_name": "Bertil af",
+      "initials": null,
+      "position": "jur dr"
+    },
+    {
+      "surname": "Krokstedt",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Minten",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "herr"
+    },
+    {
+      "surname": "Rynell",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wester",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "herr"
+    },
+    {
+      "surname": "Aman",
+      "first_name": "Karl E",
+      "initials": null,
+      "position": "bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Rydholm",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

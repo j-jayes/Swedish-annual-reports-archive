@@ -1,0 +1,49 @@
+{
+  "company_name": "BERGVIK OCH ALA AKTIEBOLAG",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 24742622.88,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9046845.77,
+    "net_income": 4550824.79
+  },
+  "balance_sheet": {
+    "total_assets": 148834187.29,
+    "current_assets": 50283104.39,
+    "fixed_assets": 98551082.9,
+    "total_liabilities": 70651009.47,
+    "current_liabilities": 19527009.47,
+    "long_term_liabilities": 51124000.0,
+    "shareholders_equity": 78183177.82
+  },
+  "employees": {
+    "n_employees": 2169,
+    "n_blue_collar_workers": 1892,
+    "n_white_collar_workers": 277
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Öhrling",
+      "first_name": null,
+      "initials": "P. O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ernsell",
+      "first_name": null,
+      "initials": "Olov",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

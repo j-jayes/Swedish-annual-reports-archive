@@ -1,0 +1,86 @@
+{
+  "company_name": "ALFA-LAVAL",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 1533.028,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1402.38,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 39.08,
+    "net_income": 29.501
+  },
+  "balance_sheet": {
+    "total_assets": 1701.992,
+    "current_assets": 1352.754,
+    "fixed_assets": 315.555,
+    "total_liabilities": 685.172,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 729.79
+  },
+  "employees": {
+    "n_employees": 14615,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Perén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

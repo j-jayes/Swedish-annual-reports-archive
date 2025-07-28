@@ -1,0 +1,68 @@
+{
+  "company_name": "AKTIEBOLAGET GARPHYTTE BRUK",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 3439.272,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1300.339,
+    "net_income": 1894.719
+  },
+  "balance_sheet": {
+    "total_assets": 23613.742,
+    "current_assets": 12275.0,
+    "fixed_assets": 11338.742,
+    "total_liabilities": 14613.742,
+    "current_liabilities": 4558.386,
+    "long_term_liabilities": 2792.62,
+    "shareholders_equity": 9000.0
+  },
+  "employees": {
+    "n_employees": 582,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "von Essen",
+      "first_name": "C.-R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmer",
+      "first_name": "Govert",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pihl",
+      "first_name": "Gust.",
+      "initials": "Ove",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

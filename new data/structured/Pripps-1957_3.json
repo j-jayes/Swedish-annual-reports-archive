@@ -1,0 +1,104 @@
+{
+  "company_name": "Pripp & Lyckholm",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 64626000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1945000.0,
+    "depreciation": 1700000.0,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 85159930.0,
+    "current_assets": 19287434.0,
+    "fixed_assets": 65872496.0,
+    "total_liabilities": null,
+    "current_liabilities": 7930725.0,
+    "long_term_liabilities": 9864142.0,
+    "shareholders_equity": 55599644.0
+  },
+  "employees": {
+    "n_employees": 701,
+    "n_blue_collar_workers": 485,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Loberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dickson",
+      "first_name": "James",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ygge",
+      "first_name": "Birger",
+      "initials": null,
+      "position": "vice verkställande direktör, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

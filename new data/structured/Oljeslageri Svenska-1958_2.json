@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSKA OLJESLAGERI AKTIEBOLAGET",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 62112000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 95000.0,
+    "depreciation": 1617782.0,
+    "net_income": 35398.2
+  },
+  "balance_sheet": {
+    "total_assets": 12338721.42,
+    "current_assets": 4161924.51,
+    "fixed_assets": 8752327.6,
+    "total_liabilities": null,
+    "current_liabilities": 9634810.43,
+    "long_term_liabilities": 2187578.08,
+    "shareholders_equity": 9268660.51
+  },
+  "employees": {
+    "n_employees": 483,
+    "n_blue_collar_workers": 260,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Osvald",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmgren",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engblom",
+      "first_name": "C.",
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Orrmell",
+      "first_name": "Aron",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmerson",
+      "first_name": "H.",
+      "initials": "E.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Thufvesson",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

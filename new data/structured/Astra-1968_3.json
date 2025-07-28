@@ -1,0 +1,98 @@
+{
+  "company_name": "Astra",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 525.205,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 463.807,
+    "wages_expense": null,
+    "tax_expense": 17.759,
+    "depreciation": null,
+    "net_income": 18.593
+  },
+  "balance_sheet": {
+    "total_assets": 364.76,
+    "current_assets": 156.748,
+    "fixed_assets": 153.548,
+    "total_liabilities": 87.486,
+    "current_liabilities": 87.486,
+    "long_term_liabilities": 39.006,
+    "shareholders_equity": 175.171
+  },
+  "employees": {
+    "n_employees": 4525,
+    "n_blue_collar_workers": 1635,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Herrman",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Julin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kistner",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werkö",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wegerfelt",
+      "first_name": "Karl Arne",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jakobsson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "VVD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

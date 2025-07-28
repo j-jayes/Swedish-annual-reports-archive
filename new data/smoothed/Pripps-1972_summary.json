@@ -1,0 +1,82 @@
+{
+  "company_name": "PRIBO (Prippbolagen) Aktiebolag",
+  "fiscal_year": 1973,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1369.6663333333333,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 18.525,
+    "depreciation": 69.944,
+    "net_income": 53.921
+  },
+  "balance_sheet": {
+    "total_assets": 1035.96,
+    "current_assets": 392.325,
+    "fixed_assets": 631.353,
+    "total_liabilities": 637.446,
+    "current_liabilities": 222.126,
+    "long_term_liabilities": 307.5296666666667,
+    "shareholders_equity": 398.514
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten Sison",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Risholm",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ägrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

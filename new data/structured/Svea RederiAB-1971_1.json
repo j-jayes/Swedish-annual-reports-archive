@@ -1,0 +1,88 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 260.116,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 81.169,
+    "wages_expense": null,
+    "tax_expense": 927.0,
+    "depreciation": 19.778,
+    "net_income": 1.715
+  },
+  "balance_sheet": {
+    "total_assets": 328.257,
+    "current_assets": 91.002,
+    "fixed_assets": 220.807,
+    "total_liabilities": 101.399,
+    "current_liabilities": 101.399,
+    "long_term_liabilities": 188.964,
+    "shareholders_equity": 30.371
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Wettermark",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W.",
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

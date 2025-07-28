@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET PRIPP & LYCKHOLM",
+  "fiscal_year": 1943,
+  "income_statement": {
+    "revenue": 8652364.04,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5752421.93,
+    "depreciation": null,
+    "net_income": 2004766.81
+  },
+  "balance_sheet": {
+    "total_assets": 30147893.42,
+    "current_assets": null,
+    "fixed_assets": 8482836.0,
+    "total_liabilities": 30147893.42,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 22400000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "MANSSON",
+      "first_name": "VILHELM",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "DIEDEN",
+      "first_name": "GOTTH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SALANDER",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BERGLIN",
+      "first_name": "YNGVE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WIKLAND",
+      "first_name": "HJALMAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

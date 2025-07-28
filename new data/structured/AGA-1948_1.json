@@ -1,0 +1,74 @@
+{
+  "company_name": "SVENSKA ΑΚΤΙΕΒOLAGET GASACCUMULATOR",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 4736195.35,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2329003.86,
+    "depreciation": null,
+    "net_income": 3354145.87
+  },
+  "balance_sheet": {
+    "total_assets": 84085103.94,
+    "current_assets": 16552420.85,
+    "fixed_assets": 4714665.23,
+    "total_liabilities": 38185103.94,
+    "current_liabilities": null,
+    "long_term_liabilities": 5986586.37,
+    "shareholders_equity": 45900000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1344,
+    "n_white_collar_workers": 927
+  },
+  "board": [
+    {
+      "surname": "HOLM",
+      "first_name": "H.",
+      "initials": "TH.",
+      "position": null
+    },
+    {
+      "surname": "ZETHELIUS",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEDIN",
+      "first_name": "JOHN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": "R.",
+      "initials": "VON",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BEFRITS",
+      "first_name": "R.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "SETH",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

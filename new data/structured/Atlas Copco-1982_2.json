@@ -1,0 +1,116 @@
+{
+  "company_name": "Atlas Copco AB",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 7923.9,
+    "cost_of_goods_sold": 6995.1,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 155.3,
+    "net_income": 201.2
+  },
+  "balance_sheet": {
+    "total_assets": 8021.3,
+    "current_assets": 6314.5,
+    "fixed_assets": 1706.8,
+    "total_liabilities": 4997.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2269.2
+  },
+  "employees": {
+    "n_employees": 18402,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": null,
+      "initials": "K-A",
+      "position": null
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Iveroth",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tidemand",
+      "first_name": "Otto Grieg",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sporborg",
+      "first_name": null,
+      "initials": "H N",
+      "position": null
+    },
+    {
+      "surname": "Ödner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mueller",
+      "first_name": "P Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "President"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil E",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    }
+  ],
+  "additional_notes": null
+}

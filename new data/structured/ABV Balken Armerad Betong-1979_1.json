@@ -1,0 +1,104 @@
+{
+  "company_name": "Armerad Betong Vägförbättringar AB",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 4240.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 48.5,
+    "depreciation": null,
+    "net_income": 11.7
+  },
+  "balance_sheet": {
+    "total_assets": 2485.7,
+    "current_assets": 1486.4,
+    "fixed_assets": 444.0,
+    "total_liabilities": 1302.2,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 129.0
+  },
+  "employees": {
+    "n_employees": 10715,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Malmström",
+      "first_name": "Bure",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lewenhaupt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ohlsson",
+      "first_name": "Carl-Olof",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

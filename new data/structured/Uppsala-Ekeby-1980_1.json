@@ -1,0 +1,134 @@
+{
+  "company_name": "Upsala-Ekeby AB",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 387583.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 178616.0,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 7457.0
+  },
+  "balance_sheet": {
+    "total_assets": 436301.0,
+    "current_assets": 216856.0,
+    "fixed_assets": null,
+    "total_liabilities": 100991.0,
+    "current_liabilities": 207055.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 28196.0
+  },
+  "employees": {
+    "n_employees": 1963,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindblad",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wetter",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Götdahl",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Carl-Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skoog",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Lars-Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammerlund",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Andreasson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "vVD"
+    },
+    {
+      "surname": "von Bahr",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rosén",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Synnerdahl",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Berne",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Witt",
+      "first_name": "Carl Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hedefalk",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

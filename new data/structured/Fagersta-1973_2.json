@@ -1,0 +1,134 @@
+{
+  "company_name": "FAGERSTA",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 1150.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 56.7,
+    "net_income": 23.1
+  },
+  "balance_sheet": {
+    "total_assets": 1078.7,
+    "current_assets": 605.6,
+    "fixed_assets": 472.9,
+    "total_liabilities": 876.3,
+    "current_liabilities": 302.6,
+    "long_term_liabilities": 586.7,
+    "shareholders_equity": 202.4
+  },
+  "employees": {
+    "n_employees": 8123,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kock",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åsberg",
+      "first_name": "Alvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Georgsson",
+      "first_name": "Göthe",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

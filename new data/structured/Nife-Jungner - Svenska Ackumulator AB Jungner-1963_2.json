@@ -1,0 +1,74 @@
+{
+  "company_name": "SVENSKA\nACKUMULATOR\nAKTIEBOLAGET\nJUNGNER",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 6372139.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1815200.0,
+    "net_income": 1673745.43
+  },
+  "balance_sheet": {
+    "total_assets": 30424993.0,
+    "current_assets": 31984831.0,
+    "fixed_assets": 15493000.0,
+    "total_liabilities": null,
+    "current_liabilities": 37899634.0,
+    "long_term_liabilities": 31984831.0,
+    "shareholders_equity": 8000000.0
+  },
+  "employees": {
+    "n_employees": 2605,
+    "n_blue_collar_workers": 1864,
+    "n_white_collar_workers": 741
+  },
+  "board": [
+    {
+      "surname": "AMELN",
+      "first_name": "STURE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "FRIK",
+      "initials": null,
+      "position": "Viceamiral"
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "AMELN",
+      "first_name": "KARL",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NELSON",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "Sandvik Aktiebolag",
+  "fiscal_year": 1996,
+  "income_statement": {
+    "revenue": 28265.0,
+    "cost_of_goods_sold": -23169.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -1204.0,
+    "depreciation": -1159.0,
+    "net_income": 3114.0
+  },
+  "balance_sheet": {
+    "total_assets": 32774.0,
+    "current_assets": 20080.0,
+    "fixed_assets": 12694.0,
+    "total_liabilities": null,
+    "current_liabilities": 6936.0,
+    "long_term_liabilities": 4727.0,
+    "shareholders_equity": 20035.0
+  },
+  "employees": {
+    "n_employees": 30362,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Boström",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Håkansson",
+      "first_name": "Lars-Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindstedt",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedström",
+      "first_name": "Clas Åke",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhrn",
+      "first_name": "Bernhard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svantemark",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

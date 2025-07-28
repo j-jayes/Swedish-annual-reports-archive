@@ -1,0 +1,116 @@
+{
+  "company_name": "GUNNEBO",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 992.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 15.5,
+    "depreciation": null,
+    "net_income": 17.1
+  },
+  "balance_sheet": {
+    "total_assets": 825.2,
+    "current_assets": 536.3,
+    "fixed_assets": 288.9,
+    "total_liabilities": 471.1,
+    "current_liabilities": 248.2,
+    "long_term_liabilities": 222.9,
+    "shareholders_equity": 113.3
+  },
+  "employees": {
+    "n_employees": 1150,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Asplund",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Unger",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "vVD"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Olle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjalmar",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hising",
+      "first_name": "Lars Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norrby",
+      "first_name": "Johannes",
+      "initials": null,
+      "position": "vVD"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pedersen",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "LO-representant"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "SIF-SALF-representant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Sandell",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Hermannsson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    },
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

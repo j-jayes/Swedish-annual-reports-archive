@@ -1,0 +1,116 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1974,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 458991775.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1360758.0,
+    "net_income": 1000.0
+  },
+  "balance_sheet": {
+    "total_assets": 175712353.0,
+    "current_assets": 126203296.0,
+    "fixed_assets": 49509057.0,
+    "total_liabilities": 143594353.0,
+    "current_liabilities": 104936206.0,
+    "long_term_liabilities": 26454979.0,
+    "shareholders_equity": 32118000.0
+  },
+  "employees": {
+    "n_employees": 385,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "RAMEL",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Ordförande-Chairman"
+    },
+    {
+      "surname": "BECKETT",
+      "first_name": "TERRY",
+      "initials": "N",
+      "position": null
+    },
+    {
+      "surname": "CZAMANSKE",
+      "first_name": "PAUL",
+      "initials": "W",
+      "position": null
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERICSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FEHRM",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HIRTH",
+      "first_name": "GÜNTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDAHL",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "KENNET",
+      "initials": null,
+      "position": "Deputy Members of the Board"
+    },
+    {
+      "surname": "JANSSON",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": "Deputy Members of the Board"
+    },
+    {
+      "surname": "POLING",
+      "first_name": "HAROLD",
+      "initials": "A",
+      "position": "Deputy Members of the Board"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WITT",
+      "first_name": "CARL",
+      "initials": "HENRIK",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NILSSON",
+      "first_name": "LARS",
+      "initials": "GÖRAN",
+      "auditing_firm": null
+    }
+  ]
+}

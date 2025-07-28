@@ -1,0 +1,98 @@
+{
+  "company_name": "SANDVIK",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 2390.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1966.236,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 133.768,
+    "net_income": 92.116
+  },
+  "balance_sheet": {
+    "total_assets": 3168.419,
+    "current_assets": 2053.556,
+    "fixed_assets": 1105.339,
+    "total_liabilities": null,
+    "current_liabilities": 873.818,
+    "long_term_liabilities": 746.262,
+    "shareholders_equity": 642.087
+  },
+  "employees": {
+    "n_employees": 22648,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": "Jr.",
+      "position": null
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bahrke",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stake",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Koraen",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Bergsingenjör"
+    }
+  ],
+  "additional_notes": null
+}

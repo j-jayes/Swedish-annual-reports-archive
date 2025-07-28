@@ -1,0 +1,92 @@
+{
+  "company_name": "KOCKUMS JERNVERK",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 178.214,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 7.438,
+    "net_income": 3.42
+  },
+  "balance_sheet": {
+    "total_assets": 165.846,
+    "current_assets": 82.676,
+    "fixed_assets": 81.4,
+    "total_liabilities": null,
+    "current_liabilities": 43.674,
+    "long_term_liabilities": 38.968,
+    "shareholders_equity": 34.087
+  },
+  "employees": {
+    "n_employees": 992,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindh",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Hybinette",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Qvarfort",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Waldolf",
+      "first_name": "Ake",
+      "initials": null,
+      "position": "verkställande direktor"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Thorn",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": "representant för de anställda"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

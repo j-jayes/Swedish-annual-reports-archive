@@ -1,0 +1,98 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1961,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1136.629,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 13.5,
+    "depreciation": null,
+    "net_income": 19.03
+  },
+  "balance_sheet": {
+    "total_assets": 324.373,
+    "current_assets": 87.673,
+    "fixed_assets": 83.99366666666667,
+    "total_liabilities": 98.14150000000001,
+    "current_liabilities": 156.8863333333333,
+    "long_term_liabilities": 81.851,
+    "shareholders_equity": 101.55699999999999
+  },
+  "employees": {
+    "n_employees": 18018,
+    "n_blue_collar_workers": 12074,
+    "n_white_collar_workers": 5944
+  },
+  "board": [
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "ASSAR",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HALLSTRÖM",
+      "first_name": "HADAR",
+      "initials": "H",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JUNKER",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF TROLLE",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": "uktoriserad revisor"
+    },
+    {
+      "surname": "ELVSTAD",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ]
+}

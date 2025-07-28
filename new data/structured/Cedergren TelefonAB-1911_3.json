@@ -1,0 +1,61 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET CEDEROREN",
+  "fiscal_year": 1911,
+  "income_statement": {
+    "revenue": 1578780.12,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 761676.5,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 606734.36,
+    "net_income": 216302.2
+  },
+  "balance_sheet": {
+    "total_assets": 9483478.09,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 4883019.68,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4389589.65
+  },
+  "employees": {
+    "n_employees": 637,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "MONTELIUS",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEGELOW",
+      "first_name": "F.",
+      "initials": "W.H.",
+      "position": null
+    },
+    {
+      "surname": "OLSZEWSKI",
+      "first_name": "A.",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "KLEMMING",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PILTZ",
+      "first_name": "Gottlieb",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

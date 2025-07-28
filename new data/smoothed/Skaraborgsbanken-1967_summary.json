@@ -1,0 +1,122 @@
+{
+  "company_name": "SKARABORGS Enskilda Bank",
+  "fiscal_year": 1967,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 24.866,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3.432,
+    "wages_expense": 8.631,
+    "tax_expense": 2.21,
+    "depreciation": 403.4033333333333,
+    "net_income": 2.701
+  },
+  "balance_sheet": {
+    "total_assets": 813.745,
+    "current_assets": null,
+    "fixed_assets": 654.0,
+    "total_liabilities": 783.476,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 30.0
+  },
+  "employees": {
+    "n_employees": 325,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": "G.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "von Hofsten",
+      "first_name": null,
+      "initials": "E.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Janson",
+      "first_name": null,
+      "initials": "S.",
+      "position": "agronom"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": null,
+      "initials": "W.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": null,
+      "initials": "L.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Sundelöf",
+      "first_name": null,
+      "initials": "K.",
+      "position": "köpman"
+    },
+    {
+      "surname": "Wästlund",
+      "first_name": null,
+      "initials": "G.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": null,
+      "initials": "E.",
+      "position": "försäkringsdirektör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": null,
+      "initials": "G.",
+      "position": "bankdirektör, verkställande direktör"
+    },
+    {
+      "surname": "Waller",
+      "first_name": null,
+      "initials": "L.",
+      "position": "bankdirektör, vice verkställande direktör"
+    },
+    {
+      "surname": "Grundfors",
+      "first_name": null,
+      "initials": "E.",
+      "position": "bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "distriktslantmätare"
+    },
+    {
+      "surname": "Walck",
+      "first_name": null,
+      "initials": "K. J.",
+      "auditing_firm": "ekonomidirektör"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": null,
+      "initials": "S.",
+      "auditing_firm": "förste länsassistent"
+    }
+  ]
+}

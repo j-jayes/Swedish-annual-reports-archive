@@ -1,0 +1,74 @@
+{
+  "company_name": "Holmens Bruks och Fabriks Aktiebolag",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 74495933.78,
+    "current_assets": 36837850.43,
+    "fixed_assets": 24060159.35,
+    "total_liabilities": 9733567.92,
+    "current_liabilities": 6250103.76,
+    "long_term_liabilities": 7703241.5,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 3731,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Fristedt",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "E.",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": "Chr.",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Wahren",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

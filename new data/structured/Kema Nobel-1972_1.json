@@ -1,0 +1,92 @@
+{
+  "company_name": "KemaNord",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 826.427,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 58.916,
+    "net_income": 10.613
+  },
+  "balance_sheet": {
+    "total_assets": 606.111,
+    "current_assets": 169.963,
+    "fixed_assets": 241.477,
+    "total_liabilities": 383.711,
+    "current_liabilities": 78.188,
+    "long_term_liabilities": 207.98,
+    "shareholders_equity": 222.3
+  },
+  "employees": {
+    "n_employees": 4901,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ödner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Linder",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten Sison",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pontin",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

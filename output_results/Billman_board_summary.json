@@ -1,0 +1,85 @@
+{
+  "company_name": "Billman",
+  "years_covered": "1960-1970",
+  "total_years": 11,
+  "total_members": 21,
+  "avg_board_size": 5.2727272727272725,
+  "avg_tenure": 2.9523809523809526,
+  "median_tenure": 1.0,
+  "avg_turnover_rate": 0.30725274725274726,
+  "board_size_by_year": {
+    "1960": 0,
+    "1961": 4,
+    "1962": 7,
+    "1963": 6,
+    "1964": 6,
+    "1965": 4,
+    "1966": 6,
+    "1967": 5,
+    "1968": 6,
+    "1969": 7,
+    "1970": 7
+  },
+  "turnover_by_period": {
+    "1960-1961": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 4,
+      "turnover_rate": 0.0
+    },
+    "1961-1962": {
+      "joined": 3,
+      "left": 0,
+      "stayed": 4,
+      "turnover_rate": 0.2727272727272727
+    },
+    "1962-1963": {
+      "joined": 0,
+      "left": 1,
+      "stayed": 6,
+      "turnover_rate": 0.07692307692307693
+    },
+    "1963-1964": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.0
+    },
+    "1964-1965": {
+      "joined": 0,
+      "left": 2,
+      "stayed": 4,
+      "turnover_rate": 0.2
+    },
+    "1965-1966": {
+      "joined": 3,
+      "left": 1,
+      "stayed": 3,
+      "turnover_rate": 0.4
+    },
+    "1966-1967": {
+      "joined": 2,
+      "left": 3,
+      "stayed": 3,
+      "turnover_rate": 0.45454545454545453
+    },
+    "1967-1968": {
+      "joined": 2,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 0.2727272727272727
+    },
+    "1968-1969": {
+      "joined": 4,
+      "left": 3,
+      "stayed": 3,
+      "turnover_rate": 0.5384615384615384
+    },
+    "1969-1970": {
+      "joined": 6,
+      "left": 6,
+      "stayed": 1,
+      "turnover_rate": 0.8571428571428571
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "AKTIEBOLAGET KREDITBANKEN",
+  "fiscal_year": 1935,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 314218.57,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 23479.9,
+    "net_income": 171680.78
+  },
+  "balance_sheet": {
+    "total_assets": 15460607.92,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 5384871.96,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5000000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "TOLL",
+      "first_name": "KARL",
+      "initials": "OSV.",
+      "position": null
+    },
+    {
+      "surname": "HASSELGREN",
+      "first_name": "C.",
+      "initials": "LUDV.",
+      "position": null
+    },
+    {
+      "surname": "LILLIEHÖÖK",
+      "first_name": "E.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SCHNELL",
+      "first_name": "CARL",
+      "initials": "HENRIK",
+      "position": null
+    },
+    {
+      "surname": "BJÖRKLUND",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ODELFELT",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WREDE",
+      "first_name": "FAB.",
+      "initials": "F:SON",
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOLMBLAD",
+      "first_name": "DAVID",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HULTMAN",
+      "first_name": "IVAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

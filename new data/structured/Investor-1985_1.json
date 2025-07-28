@@ -1,0 +1,100 @@
+{
+  "company_name": "Investor",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7.2,
+    "depreciation": null,
+    "net_income": 185.1
+  },
+  "balance_sheet": {
+    "total_assets": 4451.5,
+    "current_assets": 181.9,
+    "fixed_assets": 3318.1,
+    "total_liabilities": 2170.9,
+    "current_liabilities": 530.5,
+    "long_term_liabilities": 1624.4,
+    "shareholders_equity": 2298.9
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rudholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "N.",
+      "initials": "A",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

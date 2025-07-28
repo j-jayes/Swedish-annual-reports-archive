@@ -1,0 +1,76 @@
+{
+  "company_name": "Aktiebolaget Ytterstfors-Munksunds",
+  "fiscal_year": 1918,
+  "income_statement": {
+    "revenue": 3356757.46,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 557928.58,
+    "net_income": 2790752.85
+  },
+  "balance_sheet": {
+    "total_assets": 67734507.5,
+    "current_assets": null,
+    "fixed_assets": 35228261.56,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 35767421.73
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Norman",
+      "first_name": "Uno",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmström",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dymling",
+      "first_name": "Richard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bellander",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enell",
+      "first_name": null,
+      "initials": "O.",
+      "position": null
+    },
+    {
+      "surname": "Aspgren",
+      "first_name": "Nestor",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Glas",
+      "first_name": null,
+      "initials": "K.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Raaschou",
+      "first_name": null,
+      "initials": "Th.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

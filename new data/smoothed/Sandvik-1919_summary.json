@@ -1,0 +1,74 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1919,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2037188.77
+  },
+  "balance_sheet": {
+    "total_assets": 27405496.14,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3510022.46,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 12000000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2556,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Magnuson",
+      "first_name": "Tord",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Göransson",
+      "first_name": null,
+      "initials": "K. F.",
+      "position": null
+    },
+    {
+      "surname": "Yngström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Koraen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kronberg",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kjellerstedt",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

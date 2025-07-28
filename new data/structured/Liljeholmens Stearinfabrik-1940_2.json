@@ -1,0 +1,70 @@
+{
+  "company_name": "Liljeholmens Stearinfabriks Aktiebolags",
+  "fiscal_year": 1940,
+  "income_statement": {
+    "revenue": 358632.95,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 490450.87
+  },
+  "balance_sheet": {
+    "total_assets": 7452865.84,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 7452865.84,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 538423.17
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wrede",
+      "first_name": "F:son",
+      "initials": null,
+      "position": "Fab."
+    },
+    {
+      "surname": "Ljunglöf",
+      "first_name": "Rob.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Silfverswärd",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Revisorsvärd."
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lagercrantz",
+      "first_name": "B.",
+      "initials": "G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Stockholms Handelskammare"
+    }
+  ],
+  "additional_notes": null
+}

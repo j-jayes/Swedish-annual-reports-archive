@@ -1,0 +1,110 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1967,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1103.2566666666667,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 22.837,
+    "depreciation": null,
+    "net_income": 32.08266666666667
+  },
+  "balance_sheet": {
+    "total_assets": 952.965,
+    "current_assets": 685.911,
+    "fixed_assets": 264.4,
+    "total_liabilities": 310.414,
+    "current_liabilities": 271.926,
+    "long_term_liabilities": 68.285,
+    "shareholders_equity": 489.924
+  },
+  "employees": {
+    "n_employees": 19150,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Suderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pavenham",
+      "first_name": "Lord Luke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthen",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Hofving",
+      "first_name": "Arne M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Arpi",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmen",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    },
+    {
+      "surname": "Lufgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    }
+  ]
+}

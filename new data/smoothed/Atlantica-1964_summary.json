@@ -1,0 +1,110 @@
+{
+  "company_name": "FÖRSÄKRINGSAKTIEBOLAGET ATLANTICA",
+  "fiscal_year": 1964,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 23640972.55,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 803669.0,
+    "depreciation": null,
+    "net_income": 802218.48
+  },
+  "balance_sheet": {
+    "total_assets": 43362863.97,
+    "current_assets": null,
+    "fixed_assets": 3468852.5,
+    "total_liabilities": 31292340.63,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 12070523.34
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 32
+  },
+  "board": [
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDEN",
+      "first_name": "DAVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORBURN",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K. R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDQVIST",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDRÉASON",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KIHLBOM",
+      "first_name": "NIKLAS",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FALLENIUS",
+      "first_name": "C.-A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "KARLGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Försäkringsinspektionen förordnad revisor"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 946.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 866.1,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 48.7,
+    "net_income": 12.9
+  },
+  "balance_sheet": {
+    "total_assets": 1052.0,
+    "current_assets": 706.2,
+    "fixed_assets": 338.2,
+    "total_liabilities": 819.8,
+    "current_liabilities": 550.5,
+    "long_term_liabilities": 231.0,
+    "shareholders_equity": 232.2
+  },
+  "employees": {
+    "n_employees": 12544,
+    "n_blue_collar_workers": 7758,
+    "n_white_collar_workers": 4786
+  },
+  "board": [
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R",
+      "position": "ordförande"
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WALDENSTRÖM",
+      "first_name": "ERLAND",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "LARS-ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLM",
+      "first_name": "TRYGGVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HINDEMARK",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ODELBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

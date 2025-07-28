@@ -1,0 +1,79 @@
+{
+  "company_name": "Motala Verkstads Nya Aktiebolags",
+  "fiscal_year": 1915,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 250676.89,
+    "net_income": 801209.57
+  },
+  "balance_sheet": {
+    "total_assets": 7241890.37,
+    "current_assets": null,
+    "fixed_assets": 3164506.65,
+    "total_liabilities": null,
+    "current_liabilities": 2604647.66,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2250000.0
+  },
+  "employees": {
+    "n_employees": 928,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Arfwedson",
+      "first_name": null,
+      "initials": "A. Gerh.",
+      "position": null
+    },
+    {
+      "surname": "Berg",
+      "first_name": "Alfred",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": null,
+      "initials": "H. L. F.",
+      "position": null
+    },
+    {
+      "surname": "Österlöf",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Jochnick",
+      "first_name": "Adolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nissvandt",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

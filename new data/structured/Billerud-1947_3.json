@@ -1,0 +1,92 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 96232846.84,
+    "cost_of_goods_sold": 73498906.61,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7200000.0,
+    "depreciation": 5788002.31,
+    "net_income": 8005335.78
+  },
+  "balance_sheet": {
+    "total_assets": 113062984.11,
+    "current_assets": 57755248.66,
+    "fixed_assets": 55307735.45,
+    "total_liabilities": 23189252.56,
+    "current_liabilities": 17577172.17,
+    "long_term_liabilities": 23189252.56,
+    "shareholders_equity": 72296559.38
+  },
+  "employees": {
+    "n_employees": 4775,
+    "n_blue_collar_workers": 4377,
+    "n_white_collar_workers": 398
+  },
+  "board": [
+    {
+      "surname": "SMITH",
+      "first_name": "AND",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STORJOHANN",
+      "first_name": "CHR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KLAVENESS",
+      "first_name": null,
+      "initials": "A. F.",
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KILLANDER",
+      "first_name": null,
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "Y.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "HAMMARSKJÖLD",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BÖRJESON",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ALMQUIST",
+      "first_name": "HARRY",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

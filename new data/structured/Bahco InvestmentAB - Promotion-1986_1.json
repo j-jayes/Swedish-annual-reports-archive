@@ -1,0 +1,122 @@
+{
+  "company_name": "Investment AB Promotion",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 3937.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 56.7,
+    "depreciation": null,
+    "net_income": 250.0
+  },
+  "balance_sheet": {
+    "total_assets": 3000.9,
+    "current_assets": 1806.7,
+    "fixed_assets": 1118.7,
+    "total_liabilities": 1046.0,
+    "current_liabilities": 242.3,
+    "long_term_liabilities": 805.4,
+    "shareholders_equity": 869.0
+  },
+  "employees": {
+    "n_employees": 7702,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Brändström",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Feinsilber",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rudewald",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belin",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Bergquist",
+      "first_name": "Christer",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Pernvi",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

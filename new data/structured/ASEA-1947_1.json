@@ -1,0 +1,86 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolagets",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 18560848.66
+  },
+  "balance_sheet": {
+    "total_assets": 383439663.22,
+    "current_assets": 239809115.96,
+    "fixed_assets": 143630547.26,
+    "total_liabilities": 135399501.77,
+    "current_liabilities": 36898704.8,
+    "long_term_liabilities": 26195629.97,
+    "shareholders_equity": 137153878.41
+  },
+  "employees": {
+    "n_employees": 19547,
+    "n_blue_collar_workers": 13155,
+    "n_white_collar_workers": 6392
+  },
+  "board": [
+    {
+      "surname": "Edström",
+      "first_name": "J",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enström",
+      "first_name": "Axel",
+      "initials": "F",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": "O",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ljungdahl",
+      "first_name": "C",
+      "initials": "E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G",
+      "initials": "A",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA OLJESLAGERI AKTIEBOLAGET",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 1978637.02,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 350000.0,
+    "depreciation": null,
+    "net_income": 388319.7
+  },
+  "balance_sheet": {
+    "total_assets": 14679418.89,
+    "current_assets": 11577265.67,
+    "fixed_assets": 14.67941889,
+    "total_liabilities": 5910751.94,
+    "current_liabilities": 14568975.08,
+    "long_term_liabilities": 554722.56,
+    "shareholders_equity": 5910751.94
+  },
+  "employees": {
+    "n_employees": 531,
+    "n_blue_collar_workers": 323,
+    "n_white_collar_workers": 208
+  },
+  "board": [
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sörensen",
+      "first_name": "S. H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Osvald",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engblom",
+      "first_name": "C. P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmgren",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmerson",
+      "first_name": "H. E.",
+      "initials": null,
+      "position": "Verkst. direktör,"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tufvesson",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Bolagets omsättning för år 1950 uppgick till Kr. 46.588.000:-."
+}

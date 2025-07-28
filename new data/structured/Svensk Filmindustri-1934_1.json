@@ -1,0 +1,94 @@
+{
+  "company_name": "Svensk Filmindustri",
+  "fiscal_year": 1935,
+  "income_statement": {
+    "revenue": 766945.86,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 248745.37,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 695199.49
+  },
+  "balance_sheet": {
+    "total_assets": 12019942.83,
+    "current_assets": 1417625.12,
+    "fixed_assets": 5711493.18,
+    "total_liabilities": 1386283.15,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8000010.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BRUNDELL",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDQVIST",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LISTANDER",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HINTZE",
+      "first_name": "HUGO",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "SILJESTRÖM",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHÖNMEYR",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wahlgren",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kastengren",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

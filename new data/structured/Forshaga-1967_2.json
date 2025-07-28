@@ -1,0 +1,92 @@
+{
+  "company_name": "FORSHAGA AKTIEBOLAG",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 79.117,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 71.968,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.088,
+    "net_income": 932.0
+  },
+  "balance_sheet": {
+    "total_assets": 41.33,
+    "current_assets": 30.157,
+    "fixed_assets": 5.0,
+    "total_liabilities": 21.256,
+    "current_liabilities": 11.131,
+    "long_term_liabilities": 4.306,
+    "shareholders_equity": 19.893
+  },
+  "employees": {
+    "n_employees": 263,
+    "n_blue_collar_workers": 263,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thomsen",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bentz van den Berg",
+      "first_name": "Pieter",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Rösselet",
+      "first_name": "Arnold",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rönnmark",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jakobsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljungren",
+      "first_name": "Sverker",
+      "initials": "E.",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergbrant",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

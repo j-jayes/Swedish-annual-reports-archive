@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET CUSTOS",
+  "fiscal_year": 1995,
+  "income_statement": {
+    "revenue": 264.937,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 306.217
+  },
+  "balance_sheet": {
+    "total_assets": 6816.086,
+    "current_assets": 848.726,
+    "fixed_assets": 5967.36,
+    "total_liabilities": 3658.669,
+    "current_liabilities": 2058.767,
+    "long_term_liabilities": 229.673,
+    "shareholders_equity": 3157.417
+  },
+  "employees": {
+    "n_employees": 7,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyll",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hagströmer",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunell",
+      "first_name": "Lars",
+      "initials": "H",
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "SET-Svensson, Erikson & Tjus Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

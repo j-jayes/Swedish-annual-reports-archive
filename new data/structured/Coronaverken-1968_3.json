@@ -1,0 +1,92 @@
+{
+  "company_name": "CORONAVERKEN AB",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 342.352,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4.115,
+    "depreciation": null,
+    "net_income": 3.154
+  },
+  "balance_sheet": {
+    "total_assets": 307.205,
+    "current_assets": 229.299,
+    "fixed_assets": 71.483,
+    "total_liabilities": 113.888,
+    "current_liabilities": 67.776,
+    "long_term_liabilities": 4.457,
+    "shareholders_equity": 57.972
+  },
+  "employees": {
+    "n_employees": 4167,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HILL-LINDQVIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "RISBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "SVANTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF TROLLE",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGCRANTZ",
+      "first_name": "SIGURD",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AHREN",
+      "first_name": "CLAES",
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "RILBY",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ELVSTAD",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": "suppleant"
+    },
+    {
+      "surname": "EKBOM",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": "suppleant"
+    }
+  ],
+  "additional_notes": null
+}

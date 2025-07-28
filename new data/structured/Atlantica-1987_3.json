@@ -1,0 +1,134 @@
+{
+  "company_name": "Atlantica",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 280.747,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 69.567,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5.531
+  },
+  "balance_sheet": {
+    "total_assets": 429.928,
+    "current_assets": 179.637,
+    "fixed_assets": 21.314,
+    "total_liabilities": 429.928,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 30.5
+  },
+  "employees": {
+    "n_employees": 83,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Essunger",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Od\nén",
+      "first_name": "Kjell-\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": null,
+      "initials": "Jan H",
+      "position": null
+    },
+    {
+      "surname": "von Sydow",
+      "first_name": "Kristian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Dag",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiss\nén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "John-Gabriel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mikulandra",
+      "first_name": "Yvonne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wrangel",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thor\nén",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thorstensson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Crafoord",
+      "first_name": "Leif",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bertheden",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

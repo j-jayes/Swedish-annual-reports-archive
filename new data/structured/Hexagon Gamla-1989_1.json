@@ -1,0 +1,98 @@
+{
+  "company_name": "Hexagon",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 3160.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 255.0,
+    "net_income": 105.8
+  },
+  "balance_sheet": {
+    "total_assets": 2753.6,
+    "current_assets": 1523.2,
+    "fixed_assets": 1204.1,
+    "total_liabilities": 831.1,
+    "current_liabilities": 830.4,
+    "long_term_liabilities": 709.3,
+    "shareholders_equity": 831.1
+  },
+  "employees": {
+    "n_employees": 4087,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ekedahl",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Green",
+      "first_name": "Monica",
+      "initials": null,
+      "position": "Fabriksarbetare"
+    },
+    {
+      "surname": "Fransson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Tapetserare"
+    },
+    {
+      "surname": "Sällberg",
+      "first_name": "Margona",
+      "initials": null,
+      "position": "Lagerchef"
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Holmqvist",
+      "first_name": "Bjarne",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sjölin",
+      "first_name": "Bert",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Thuresson",
+      "first_name": "Wigon",
+      "initials": null,
+      "position": "VD och Koncernchef"
+    },
+    {
+      "surname": "Ragnar",
+      "first_name": "Sven Erik",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlins",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "Revisionsbyrå AB"
+    },
+    {
+      "surname": "Hagström",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "& Olsson AB"
+    }
+  ],
+  "additional_notes": null
+}

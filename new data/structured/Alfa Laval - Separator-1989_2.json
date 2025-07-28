@@ -1,0 +1,116 @@
+{
+  "company_name": "Alfa-Laval",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 15227.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 13537.8,
+    "wages_expense": null,
+    "tax_expense": 406.1,
+    "depreciation": 379.0,
+    "net_income": 882.7
+  },
+  "balance_sheet": {
+    "total_assets": 16628.0,
+    "current_assets": 13142.5,
+    "fixed_assets": 3456.7,
+    "total_liabilities": 9526.5,
+    "current_liabilities": 9526.5,
+    "long_term_liabilities": 5471.2,
+    "shareholders_equity": 3320.3
+  },
+  "employees": {
+    "n_employees": 19717,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V.",
+      "position": "Verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljunggren",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pålsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": null,
+      "initials": "S.E.",
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jorma",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klintin",
+      "first_name": "\"\".",
+      "initials": "\"\".",
+      "position": "Utvecklingsingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": "F d",
+      "auditing_firm": "SPP."
+    },
+    {
+      "surname": "Lundvall",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå."
+    }
+  ],
+  "additional_notes": null
+}

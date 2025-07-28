@@ -1,0 +1,158 @@
+{
+  "company_name": "Marieberg",
+  "fiscal_year": 1991,
+  "income_statement": {
+    "revenue": 7651.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6954.5,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 249.8,
+    "net_income": 59.0
+  },
+  "balance_sheet": {
+    "total_assets": 7875.2,
+    "current_assets": 3679.5,
+    "fixed_assets": 3086.6,
+    "total_liabilities": 3449.8,
+    "current_liabilities": 2100.2,
+    "long_term_liabilities": 9.8,
+    "shareholders_equity": 2315.4
+  },
+  "employees": {
+    "n_employees": 8926,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Måberg",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "direktör, ordförande"
+    },
+    {
+      "surname": "Svenson",
+      "first_name": "Sven",
+      "initials": "G",
+      "position": "fil dr, le vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "2:e vice ordförande"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Barnéus",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Pontus",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Bäckström",
+      "first_name": "Berndt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mundebo",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "generaldirektör"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Carry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Strömstedt",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "chefredaktör"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Jutterström",
+      "first_name": "Christina",
+      "initials": null,
+      "position": "chefredaktör"
+    },
+    {
+      "surname": "Kopp",
+      "first_name": "Jürgen",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ruth",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "chefredaktör"
+    },
+    {
+      "surname": "Fingmalm",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Åsander",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eklöv",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "ingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "Professor emeritus"
+    }
+  ],
+  "additional_notes": null
+}

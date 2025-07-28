@@ -1,0 +1,86 @@
+{
+  "company_name": "Aktiebolaget Bofors",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 119651727.67,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 48089700.98,
+    "tax_expense": 3655866.0,
+    "depreciation": 13706237.27,
+    "net_income": 4143267.09
+  },
+  "balance_sheet": {
+    "total_assets": 229507477.83,
+    "current_assets": 75056195.68,
+    "fixed_assets": 44750761.32,
+    "total_liabilities": 40990000.0,
+    "current_liabilities": 28952025.61,
+    "long_term_liabilities": 13562997.69,
+    "shareholders_equity": 40990000.0
+  },
+  "employees": {
+    "n_employees": 7139,
+    "n_blue_collar_workers": 4935,
+    "n_white_collar_workers": 2204
+  },
+  "board": [
+    {
+      "surname": "Nauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wetter",
+      "first_name": "E",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "E",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Sablin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Glimstedt",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wilkens",
+      "first_name": "A. J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": "L. T.",
+      "initials": null,
+      "position": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Alfred",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå Aktiebolag"
+    }
+  ],
+  "additional_notes": null
+}

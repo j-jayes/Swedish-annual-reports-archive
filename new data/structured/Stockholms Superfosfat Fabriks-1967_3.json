@@ -1,0 +1,86 @@
+{
+  "company_name": "Fosfatbolaget Aktiebolag",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 186.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 151.134,
+    "wages_expense": null,
+    "tax_expense": 2.8,
+    "depreciation": 29.0,
+    "net_income": 10.672
+  },
+  "balance_sheet": {
+    "total_assets": 386.527,
+    "current_assets": 98.718,
+    "fixed_assets": 186.0,
+    "total_liabilities": 204.766,
+    "current_liabilities": 47.99,
+    "long_term_liabilities": 114.135,
+    "shareholders_equity": 181.761
+  },
+  "employees": {
+    "n_employees": 1466,
+    "n_blue_collar_workers": 1004,
+    "n_white_collar_workers": 462
+  },
+  "board": [
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Agronom"
+    },
+    {
+      "surname": "Blegvad",
+      "first_name": "Jörgen M.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Pontin",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Wedelin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "auditing_firm": "Kamrer"
+    }
+  ],
+  "additional_notes": null
+}

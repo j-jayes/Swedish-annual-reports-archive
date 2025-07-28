@@ -1,0 +1,74 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 189.703,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 176.475,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3.233,
+    "net_income": 2.208
+  },
+  "balance_sheet": {
+    "total_assets": 85.093,
+    "current_assets": 54.592,
+    "fixed_assets": 29.688,
+    "total_liabilities": 65.023,
+    "current_liabilities": 30.775,
+    "long_term_liabilities": 29.78,
+    "shareholders_equity": 20.07
+  },
+  "employees": {
+    "n_employees": 883,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Plomgren",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ingenjör"
+    },
+    {
+      "surname": "Rynell",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Aman",
+      "first_name": "Karl",
+      "initials": "E",
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rydholm",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

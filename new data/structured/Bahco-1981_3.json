@@ -1,0 +1,98 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 2213.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 50.633,
+    "net_income": 6.666
+  },
+  "balance_sheet": {
+    "total_assets": 2195.087,
+    "current_assets": 1665.094,
+    "fixed_assets": 524.052,
+    "total_liabilities": 1965.305,
+    "current_liabilities": 935.6,
+    "long_term_liabilities": 820.734,
+    "shareholders_equity": 229.782
+  },
+  "employees": {
+    "n_employees": 8833,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Feinsilber",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": "ordförande, VD"
+    },
+    {
+      "surname": "Belin",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "ingenjör"
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Ek",
+      "first_name": "Carl Olof",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Hjalmar",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Krüger",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "industrielektriker"
+    },
+    {
+      "surname": "Lehto",
+      "first_name": "Sakari T.",
+      "initials": null,
+      "position": "minister, VD"
+    },
+    {
+      "surname": "Mauritzon",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

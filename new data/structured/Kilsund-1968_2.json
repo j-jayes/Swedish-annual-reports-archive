@@ -1,0 +1,82 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 712.757,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 853.261
+  },
+  "balance_sheet": {
+    "total_assets": 19128234.0,
+    "current_assets": 1340706.0,
+    "fixed_assets": 17787528.0,
+    "total_liabilities": 75000.0,
+    "current_liabilities": 382885.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 18670348.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "TROLLE",
+      "first_name": "ULF",
+      "initials": "AF",
+      "position": "ordförande"
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "LAGNELL",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LANGENSKIOLD",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "Friherre"
+    },
+    {
+      "surname": "LINDQUIST",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEHRSSON",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PONTIN",
+      "first_name": "MAGNUS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KELLGREN",
+      "first_name": "SUNE",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "AHNFELT",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    }
+  ],
+  "additional_notes": null
+}

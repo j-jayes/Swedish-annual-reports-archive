@@ -1,0 +1,88 @@
+{
+  "company_name": "FISKEBY FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 90405.53,
+    "depreciation": 523936.0,
+    "net_income": 446160.15
+  },
+  "balance_sheet": {
+    "total_assets": 35394179.9,
+    "current_assets": 4434043.77,
+    "fixed_assets": 19661464.82,
+    "total_liabilities": 20394179.9,
+    "current_liabilities": 2435249.82,
+    "long_term_liabilities": 9458800.0,
+    "shareholders_equity": 15000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Kreuger",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "O.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gullander",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heijne",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skeppstedt",
+      "first_name": "Aug.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Th.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Ivar",
+      "initials": "Fr.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Vilén",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ringborg",
+      "first_name": "Karl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "T.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

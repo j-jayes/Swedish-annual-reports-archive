@@ -1,0 +1,94 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 8000591.87
+  },
+  "balance_sheet": {
+    "total_assets": 108193103.61,
+    "current_assets": 37402.61,
+    "fixed_assets": 108193103.61,
+    "total_liabilities": null,
+    "current_liabilities": 258587.75,
+    "long_term_liabilities": 10414463.01,
+    "shareholders_equity": 65220200.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "HERSLOW",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "HAKON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SODERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKLUND",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CEDERBERG",
+      "first_name": "NIKLAS",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

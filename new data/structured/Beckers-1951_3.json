@@ -1,0 +1,80 @@
+{
+  "company_name": "AB WILH. BECKER STOCKHOLM",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 827830.0,
+    "depreciation": 461221.6,
+    "net_income": 978150.43
+  },
+  "balance_sheet": {
+    "total_assets": 26197676.07,
+    "current_assets": 13912265.31,
+    "fixed_assets": 12285410.76,
+    "total_liabilities": 13912265.31,
+    "current_liabilities": 3398591.13,
+    "long_term_liabilities": 9762085.48,
+    "shareholders_equity": 8870000.0
+  },
+  "employees": {
+    "n_employees": 741,
+    "n_blue_collar_workers": 267,
+    "n_white_collar_workers": 474
+  },
+  "board": [
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÅLBRAND",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALL",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TESCH",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ABENIUS",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NYBERG",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "ÖSTERGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Godk. granskningsman"
+    }
+  ],
+  "additional_notes": null
+}

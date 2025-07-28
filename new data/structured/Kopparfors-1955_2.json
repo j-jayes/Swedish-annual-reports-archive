@@ -1,0 +1,80 @@
+{
+  "company_name": "KOPPARFORS AKTIEBOLAG",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 43.421,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 28.347,
+    "tax_expense": 16.29,
+    "depreciation": 4.265,
+    "net_income": 4.512
+  },
+  "balance_sheet": {
+    "total_assets": 51.984,
+    "current_assets": 35.139,
+    "fixed_assets": 47.664,
+    "total_liabilities": 24.916,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 57.207
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2713,
+    "n_white_collar_workers": 229
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Ax.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgersson",
+      "first_name": "S.",
+      "initials": null,
+      "position": "Verkst. direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergström",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Julin",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

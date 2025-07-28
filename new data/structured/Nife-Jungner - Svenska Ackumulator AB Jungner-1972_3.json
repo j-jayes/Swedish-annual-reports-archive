@@ -1,0 +1,92 @@
+{
+  "company_name": "Svenska Ackumulator Aktiebolaget Jungner",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 145.728,
+    "cost_of_goods_sold": 126.693,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5.679,
+    "depreciation": null,
+    "net_income": 10.767
+  },
+  "balance_sheet": {
+    "total_assets": 196.727,
+    "current_assets": 140.246,
+    "fixed_assets": 49.944,
+    "total_liabilities": 78.785,
+    "current_liabilities": 32.449,
+    "long_term_liabilities": 49.816,
+    "shareholders_equity": 78.785
+  },
+  "employees": {
+    "n_employees": 698,
+    "n_blue_collar_workers": 429,
+    "n_white_collar_workers": 269
+  },
+  "board": [
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Örtegren",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Karl Robert",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Wieslander",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nelson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "Svenska Amerika Linien",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 166814176.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 100000.0,
+    "depreciation": null,
+    "net_income": 1148356.0
+  },
+  "balance_sheet": {
+    "total_assets": 108892042.0,
+    "current_assets": 25565189.0,
+    "fixed_assets": 83326853.0,
+    "total_liabilities": 44394263.0,
+    "current_liabilities": 24218707.0,
+    "long_term_liabilities": 19320000.0,
+    "shareholders_equity": 64497779.0
+  },
+  "employees": {
+    "n_employees": 2099,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Fagerberg",
+      "first_name": null,
+      "initials": "J.A.",
+      "position": null
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Boheman",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": "Bruttointäkten av rederirörelsen var i stort sett oförändrad, men drifts- och förvaltningskostnaderna fortsatte att öka och överskottet utgjorde endast omkring elva procent av omsättningen mot ett genomsnitt för femårsperioden 1953-1957 på sjutton procent. Tankmotorfartyget MARIEHOLM om ca 18 500 ton d.w. försåldes i september månad till finsk köpare och i stället insattes det från Eriksbergs Mekaniska Verkstad levererade tankmotorfartyget KRONOHOLM om ca 25 500 ton i trafiken."
+}

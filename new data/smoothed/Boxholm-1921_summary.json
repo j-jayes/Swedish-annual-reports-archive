@@ -1,0 +1,82 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1921,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 35821.32,
+    "net_income": -526902.56
+  },
+  "balance_sheet": {
+    "total_assets": 18791261.28,
+    "current_assets": 3426134.5,
+    "fixed_assets": 12192072.76,
+    "total_liabilities": 9716022.29,
+    "current_liabilities": 5304707.01,
+    "long_term_liabilities": 4411315.28,
+    "shareholders_equity": 7644000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Bahr",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kinander",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Petterson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Uggla",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Elis",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Aurell",
+      "first_name": "Ludy.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rundquist",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "G. A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

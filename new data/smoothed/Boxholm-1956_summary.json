@@ -1,0 +1,98 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1956,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7391420.57,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2506000.0,
+    "depreciation": 1097000.0,
+    "net_income": 1234635.52
+  },
+  "balance_sheet": {
+    "total_assets": 28005775.4,
+    "current_assets": 14010138.066666666,
+    "fixed_assets": 12012255.0,
+    "total_liabilities": 4226581.7,
+    "current_liabilities": 3283080.13,
+    "long_term_liabilities": 1032345.53,
+    "shareholders_equity": 20286666.666666668
+  },
+  "employees": {
+    "n_employees": 1286,
+    "n_blue_collar_workers": 1166,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "von Hofsten",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rothlind",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiking-Johnsson",
+      "first_name": "Uno",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "von Hofsten",
+      "first_name": "Sixten",
+      "initials": null,
+      "auditing_firm": "Godkänd granskningsman"
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

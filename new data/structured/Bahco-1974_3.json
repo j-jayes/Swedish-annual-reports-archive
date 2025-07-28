@@ -1,0 +1,128 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 584.513,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 531.348,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 12.465,
+    "net_income": 3.03
+  },
+  "balance_sheet": {
+    "total_assets": 423.429,
+    "current_assets": 347.319,
+    "fixed_assets": 76.11,
+    "total_liabilities": 328.712,
+    "current_liabilities": 143.541,
+    "long_term_liabilities": 85.171,
+    "shareholders_equity": 94.716
+  },
+  "employees": {
+    "n_employees": 4348,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordförande, VD för AB Industrivärden"
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Ekon. Dr, vice ordförande, VD för Coronaverken AB"
+    },
+    {
+      "surname": "Blomgren",
+      "first_name": "Boris",
+      "initials": null,
+      "position": "VD för John Mattson Byggnads AB"
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "förste vice VD i AB Volvo"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Anton",
+      "initials": null,
+      "position": "riktare, representant för de anställda"
+    },
+    {
+      "surname": "Hybinette",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "vice VD i AB Bahco"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "VD för AB Bahco"
+    },
+    {
+      "surname": "Svegmar",
+      "first_name": "Carl-Axel",
+      "initials": null,
+      "position": "kalkylingenjör, representant för de anställda"
+    },
+    {
+      "surname": "Åfors",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "styrelseordförande i AB Emmaboda Glasverk"
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "VD för AGA AB"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "kontrollant, representant för de anstälida"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "ingenjör, representant för de anställda"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Billing",
+      "first_name": "Ragne",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,94 @@
+{
+  "company_name": "AB Fannyudde",
+  "fiscal_year": 1968,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3553859.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3490000.0
+  },
+  "balance_sheet": {
+    "total_assets": 66693059.0,
+    "current_assets": 48797.0,
+    "fixed_assets": 66644262.0,
+    "total_liabilities": 63059.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 66630000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderman",
+      "first_name": "H. W.",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Hellstenius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "C. H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhle",
+      "first_name": "Nils K.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bendel",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schröder",
+      "first_name": "Sture",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

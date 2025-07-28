@@ -1,0 +1,92 @@
+{
+  "company_name": "Trelleborg AB",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 2843.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 21.6,
+    "depreciation": null,
+    "net_income": 134.3
+  },
+  "balance_sheet": {
+    "total_assets": 3562.0,
+    "current_assets": 1875.7,
+    "fixed_assets": 1355.0,
+    "total_liabilities": null,
+    "current_liabilities": 1179.6,
+    "long_term_liabilities": 751.8,
+    "shareholders_equity": 1219.8
+  },
+  "employees": {
+    "n_employees": 5305,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linders",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Peters & Co Revisionsbyrå AB"
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "Aktiebolaget Iggesunds Bruk",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 364.681,
+    "cost_of_goods_sold": 270.779,
+    "operating_expenses": 6.805,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 13.0
+  },
+  "balance_sheet": {
+    "total_assets": 440.521,
+    "current_assets": 127.014,
+    "fixed_assets": 275.207,
+    "total_liabilities": 185.633,
+    "current_liabilities": 61.72,
+    "long_term_liabilities": 114.38,
+    "shareholders_equity": 138.0
+  },
+  "employees": {
+    "n_employees": 3052,
+    "n_blue_collar_workers": 2417,
+    "n_white_collar_workers": 635
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

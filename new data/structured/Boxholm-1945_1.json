@@ -1,0 +1,76 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1945,
+  "income_statement": {
+    "revenue": 1707346.95,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 580831.13,
+    "depreciation": 604289.72,
+    "net_income": 522282.1
+  },
+  "balance_sheet": {
+    "total_assets": 14907861.77,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 8323935.18,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6583926.59
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Elis",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hult",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hultman",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hofsten",
+      "first_name": "Sixten",
+      "initials": "von",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

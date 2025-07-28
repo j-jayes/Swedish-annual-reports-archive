@@ -1,0 +1,104 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1748989.84
+  },
+  "balance_sheet": {
+    "total_assets": 35090338.56,
+    "current_assets": 17176980.38,
+    "fixed_assets": 11582232.0,
+    "total_liabilities": 19782516.51,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 15307822.05
+  },
+  "employees": {
+    "n_employees": 2731,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Tor",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heilborn",
+      "first_name": "Helge",
+      "initials": null,
+      "position": "Verkst. direktören"
+    },
+    {
+      "surname": "Tingsten",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": "Chefredaktören"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": "j:r",
+      "position": "SUPPLEANTER"
+    },
+    {
+      "surname": "Ljungquist",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Redaktör"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "\nÅke",
+      "initials": null,
+      "auditing_firm": "Byråchef von"
+    }
+  ],
+  "additional_notes": null
+}

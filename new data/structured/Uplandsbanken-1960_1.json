@@ -1,0 +1,116 @@
+{
+  "company_name": "UPLANDS ENSKILDA BANK",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 12854758.04,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6429608.6,
+    "wages_expense": 3996301.68,
+    "tax_expense": 1500000.0,
+    "depreciation": null,
+    "net_income": 1602860.55
+  },
+  "balance_sheet": {
+    "total_assets": 425259630.97,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 425259630.97,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 212,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sterner",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "generalkonsul, Uppsala, ordf."
+    },
+    {
+      "surname": "Hæggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "direktör, Uppsala, v. ordf."
+    },
+    {
+      "surname": "Bernadotte af Wisborg",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "greve, Vårsta"
+    },
+    {
+      "surname": "Göth",
+      "first_name": "H.",
+      "initials": "Elis A.",
+      "position": "civilingeniör, Uppsala"
+    },
+    {
+      "surname": "Källström",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "skeppsredare, Stockholm"
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "W.",
+      "initials": null,
+      "position": "fil. lic., försäkringsdirektör, Stockholm"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Gottfrid",
+      "initials": null,
+      "position": "direktör, Uppsala"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "bankdirektör, Uppsala, verkst. direktör"
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Th.",
+      "initials": null,
+      "position": "bankdirektör, Uppsala, v. verkst, direktör"
+    },
+    {
+      "surname": "Essen",
+      "first_name": "Carl von",
+      "initials": null,
+      "position": "greve, Bro"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brundin",
+      "first_name": "Gerdt",
+      "initials": null,
+      "auditing_firm": "Kungl. Bank- o. Fondinspektionen"
+    },
+    {
+      "surname": "Henningson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Fridolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Åkerstedt",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

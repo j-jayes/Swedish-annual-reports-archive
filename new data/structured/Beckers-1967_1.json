@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 132.4936,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.620341,
+    "net_income": 1.455734
+  },
+  "balance_sheet": {
+    "total_assets": 46.113174,
+    "current_assets": 18.643724,
+    "fixed_assets": 27.46945,
+    "total_liabilities": 8.799468,
+    "current_liabilities": 8.267214,
+    "long_term_liabilities": 3.726153,
+    "shareholders_equity": 37.312706
+  },
+  "employees": {
+    "n_employees": 1167,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "OLSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "CARLGREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DEGEFORS",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÅKANSON",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HJERNE",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTLING",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JELF",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "FEINSTEIN",
+      "first_name": "STEN",
+      "initials": "ERIK",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "TÖNNERVIK",
+      "first_name": "HENRY",
+      "initials": null,
+      "auditing_firm": "Revisor SRS"
+    }
+  ],
+  "additional_notes": null
+}

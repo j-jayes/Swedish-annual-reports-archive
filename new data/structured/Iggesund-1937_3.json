@@ -1,0 +1,64 @@
+{
+  "company_name": "AKTIEBOLAGET IGGESUNDS BRUK",
+  "fiscal_year": 1937,
+  "income_statement": {
+    "revenue": 2482496.05,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 659769.59,
+    "depreciation": null,
+    "net_income": 1203441.12
+  },
+  "balance_sheet": {
+    "total_assets": 32669666.98,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 12869225.87,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 19800441.11
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westermark",
+      "first_name": "Frans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hallgren",
+      "first_name": "Hugo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Weinberg",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Elfborg",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "Investment AB Asken",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 942.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 15.3
+  },
+  "balance_sheet": {
+    "total_assets": 963.0,
+    "current_assets": 387.523,
+    "fixed_assets": 422.528,
+    "total_liabilities": 458.313,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 143.54
+  },
+  "employees": {
+    "n_employees": 3865,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K:son",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Andréasson",
+      "first_name": "Lage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gunnar",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Jan/",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Gometz",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

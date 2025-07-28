@@ -1,0 +1,80 @@
+{
+  "company_name": "NORDISKA ARMATURFABRIKERNA",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 5153696.46,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1725000.0,
+    "depreciation": 990686.0,
+    "net_income": 1108074.66
+  },
+  "balance_sheet": {
+    "total_assets": 28670175.27,
+    "current_assets": 11631102.58,
+    "fixed_assets": 9249003.0,
+    "total_liabilities": 10355968.78,
+    "current_liabilities": 8691978.68,
+    "long_term_liabilities": 3857636.1,
+    "shareholders_equity": 10314559.82
+  },
+  "employees": {
+    "n_employees": 1287,
+    "n_blue_collar_workers": 915,
+    "n_white_collar_workers": 372
+  },
+  "board": [
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "\nÅge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rothlind",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Berlin",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

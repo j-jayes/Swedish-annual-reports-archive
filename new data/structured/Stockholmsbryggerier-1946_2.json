@@ -1,0 +1,92 @@
+{
+  "company_name": "STOCKHOLMS BRYGGERIER",
+  "fiscal_year": 1946,
+  "income_statement": {
+    "revenue": 4580317.93,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5285902.97
+  },
+  "balance_sheet": {
+    "total_assets": 70504205.66,
+    "current_assets": 11088374.56,
+    "fixed_assets": 49415831.1,
+    "total_liabilities": 17489216.39,
+    "current_liabilities": 3538228.19,
+    "long_term_liabilities": 7550988.2,
+    "shareholders_equity": 53014989.27
+  },
+  "employees": {
+    "n_employees": 1117,
+    "n_blue_collar_workers": 883,
+    "n_white_collar_workers": 234
+  },
+  "board": [
+    {
+      "surname": "Anderson",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engström",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "Ljunglöf",
+      "first_name": "Rob.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schwartz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerdahl",
+      "first_name": null,
+      "initials": "N.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Riben",
+      "first_name": "C. F.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lamby",
+      "first_name": "Henrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

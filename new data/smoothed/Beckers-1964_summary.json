@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1964,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 10734687.263333334,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2428222.34,
+    "net_income": 2580788.27
+  },
+  "balance_sheet": {
+    "total_assets": 66730559.17,
+    "current_assets": 25378032.33,
+    "fixed_assets": 41352526.84,
+    "total_liabilities": 27932303.593333334,
+    "current_liabilities": 11420381.57,
+    "long_term_liabilities": 14382901.073333332,
+    "shareholders_equity": 26831036.63
+  },
+  "employees": {
+    "n_employees": 1008,
+    "n_blue_collar_workers": 336,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "OLSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "ELIASSON",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "ERICSON",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HÅKANSON",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KÄLL",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "NORDLUND",
+      "first_name": "JOHN",
+      "initials": null,
+      "position": "Överingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JELF",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HJERNE",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "direktör"
+    }
+  ]
+}

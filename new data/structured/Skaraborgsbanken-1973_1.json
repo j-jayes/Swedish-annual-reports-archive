@@ -1,0 +1,122 @@
+{
+  "company_name": "Skaraborgsbanken",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 48.857,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 29.1,
+    "wages_expense": null,
+    "tax_expense": 2.1,
+    "depreciation": 1.851,
+    "net_income": 3.317
+  },
+  "balance_sheet": {
+    "total_assets": 1432.378,
+    "current_assets": 765.526,
+    "fixed_assets": 27.486,
+    "total_liabilities": 1224.476,
+    "current_liabilities": null,
+    "long_term_liabilities": 33.714,
+    "shareholders_equity": 45.356
+  },
+  "employees": {
+    "n_employees": 347,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "G. Ivar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "W.",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Ulfenborg",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Waller",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "f.d. bankdirektör"
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Paul",
+      "initials": null,
+      "position": "riksdagsman"
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Möller",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "bankkamrer"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Hadar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Demitz-Helin",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

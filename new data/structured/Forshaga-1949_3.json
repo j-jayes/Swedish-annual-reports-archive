@@ -1,0 +1,74 @@
+{
+  "company_name": "LINOLEUM-AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 4298450.91,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 273328.54,
+    "net_income": 357198.0
+  },
+  "balance_sheet": {
+    "total_assets": 9709804.26,
+    "current_assets": 1853710.12,
+    "fixed_assets": 1421273.23,
+    "total_liabilities": 3108878.96,
+    "current_liabilities": null,
+    "long_term_liabilities": 661323.38,
+    "shareholders_equity": 5907589.96
+  },
+  "employees": {
+    "n_employees": 314,
+    "n_blue_collar_workers": 231,
+    "n_white_collar_workers": 83
+  },
+  "board": [
+    {
+      "surname": "GRÖNBERG",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "ZOELLY",
+      "first_name": null,
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "ÖRTEGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "SYPESTEYN",
+      "first_name": "E.",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Bohlins Revisionsbyrå Aktiebolag"
+    },
+    {
+      "surname": "KAHM",
+      "first_name": "GUST.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

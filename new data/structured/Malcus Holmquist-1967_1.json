@@ -1,0 +1,100 @@
+{
+  "company_name": "MALCUS HOLMQUIST",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 32.736,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 33.457,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 654.0,
+    "net_income": 1.567
+  },
+  "balance_sheet": {
+    "total_assets": 18.086,
+    "current_assets": 6.756,
+    "fixed_assets": 11.33,
+    "total_liabilities": 196.0,
+    "current_liabilities": 196.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 17.89
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wahlsteen",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "G\n\n",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bendz",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "Svante",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bäck",
+      "first_name": "Cronje",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rönnberg",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

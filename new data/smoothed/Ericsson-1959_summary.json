@@ -1,0 +1,104 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET L M ERICSSON",
+  "fiscal_year": 1959,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 854812000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 44452000.0,
+    "depreciation": null,
+    "net_income": 30637000.0
+  },
+  "balance_sheet": {
+    "total_assets": 1376316000.0,
+    "current_assets": 970564000.0,
+    "fixed_assets": 232471000.0,
+    "total_liabilities": 43094000.0,
+    "current_liabilities": 357998000.0,
+    "long_term_liabilities": 145895000.0,
+    "shareholders_equity": 439304000.0
+  },
+  "employees": {
+    "n_employees": 28100,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "ERNFRID",
+      "initials": null,
+      "position": "Bankdirektör Vice ordförande"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Viceamiral"
+    },
+    {
+      "surname": "SALMONSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "SCUDDER",
+      "first_name": "HENRY",
+      "initials": "H.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN",
+      "initials": "TURE",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dickinson",
+      "first_name": "John",
+      "initials": "C.",
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ]
+}

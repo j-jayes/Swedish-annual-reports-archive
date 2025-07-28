@@ -1,0 +1,122 @@
+{
+  "company_name": "SUNDSVALLS BANKEN",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 239.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 121.6,
+    "wages_expense": null,
+    "tax_expense": 23.0,
+    "depreciation": null,
+    "net_income": 23.0
+  },
+  "balance_sheet": {
+    "total_assets": 6788.6,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 5751.019,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 155.485
+  },
+  "employees": {
+    "n_employees": 611,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hellerot",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Aggeryd",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": "Tandläkare"
+    },
+    {
+      "surname": "Järvefelt",
+      "first_name": null,
+      "initials": "L.E.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Lindmark",
+      "first_name": "Samme",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Persson",
+      "first_name": null,
+      "initials": "C.",
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Valentin",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ehn",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Högström",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "f d riksdagsman"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "bankkamrer"
+    },
+    {
+      "surname": "Åkerberg",
+      "first_name": "Sigge",
+      "initials": null,
+      "position": "bankkamrer"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Advokat"
+    },
+    {
+      "surname": "Martenius",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Fd regeringsråd"
+    }
+  ],
+  "additional_notes": null
+}

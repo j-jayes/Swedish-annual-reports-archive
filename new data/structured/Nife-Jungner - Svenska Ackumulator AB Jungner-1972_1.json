@@ -1,0 +1,92 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 145.728,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 126.693,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 10.767
+  },
+  "balance_sheet": {
+    "total_assets": 196.727,
+    "current_assets": 140.246,
+    "fixed_assets": 49.944,
+    "total_liabilities": 78.785,
+    "current_liabilities": 32.449,
+    "long_term_liabilities": 38.915,
+    "shareholders_equity": 78.785
+  },
+  "employees": {
+    "n_employees": 698,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Örtegren",
+      "first_name": "Tage",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Wieslander",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nelson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

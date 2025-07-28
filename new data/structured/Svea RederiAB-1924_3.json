@@ -1,0 +1,82 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1924,
+  "income_statement": {
+    "revenue": 24772705.55,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 22413745.47,
+    "wages_expense": null,
+    "tax_expense": 92490.24,
+    "depreciation": null,
+    "net_income": 1648827.52
+  },
+  "balance_sheet": {
+    "total_assets": 55086222.01,
+    "current_assets": null,
+    "fixed_assets": 41692500.0,
+    "total_liabilities": 25686222.01,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 29400000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Tamm",
+      "first_name": "H.",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Joseph",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Appelqvist",
+      "first_name": "J.",
+      "initials": "J. Ax.",
+      "position": null
+    },
+    {
+      "surname": "Sandwall",
+      "first_name": "A.",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": "B.",
+      "initials": "B. v.",
+      "position": null
+    },
+    {
+      "surname": "Roberg",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nyström",
+      "first_name": "M.",
+      "initials": "M.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

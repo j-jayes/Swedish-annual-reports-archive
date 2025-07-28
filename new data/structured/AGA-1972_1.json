@@ -1,0 +1,86 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 1180.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1038.7,
+    "wages_expense": null,
+    "tax_expense": 39.1,
+    "depreciation": null,
+    "net_income": 24.8
+  },
+  "balance_sheet": {
+    "total_assets": 1358.7,
+    "current_assets": 769.9,
+    "fixed_assets": 584.6,
+    "total_liabilities": null,
+    "current_liabilities": 384.7,
+    "long_term_liabilities": 484.1,
+    "shareholders_equity": 444.1
+  },
+  "employees": {
+    "n_employees": 12864,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "ekon doktor"
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

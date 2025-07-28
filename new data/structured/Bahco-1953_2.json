@@ -1,0 +1,80 @@
+{
+  "company_name": "B. A. HJORTH & CO",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 6380335.48,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 45831367.46,
+    "current_assets": 32548599.46,
+    "fixed_assets": 13282768.0,
+    "total_liabilities": 14321743.86,
+    "current_liabilities": 18028673.73,
+    "long_term_liabilities": 14321743.86,
+    "shareholders_equity": 13480949.87
+  },
+  "employees": {
+    "n_employees": 1976,
+    "n_blue_collar_workers": 1269,
+    "n_white_collar_workers": 707
+  },
+  "board": [
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Assarsson",
+      "first_name": null,
+      "initials": "V.",
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Uggla",
+      "first_name": null,
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Hjorth",
+      "first_name": "Arnold",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": "Bohlins Revisionsbyrå Aktiebolag"
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

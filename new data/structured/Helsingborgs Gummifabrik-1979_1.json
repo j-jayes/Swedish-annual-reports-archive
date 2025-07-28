@@ -1,0 +1,88 @@
+{
+  "company_name": "HEVEA",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 2989613.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 398747.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2759077.0
+  },
+  "balance_sheet": {
+    "total_assets": 43310874.0,
+    "current_assets": 3874097.0,
+    "fixed_assets": 39436777.0,
+    "total_liabilities": null,
+    "current_liabilities": 150531.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 43160343.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ohlsson",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "ordf."
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lewenhaupt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": "P",
+      "position": null
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Rydberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Björk",
+      "first_name": "Villiam",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brane",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fagergren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

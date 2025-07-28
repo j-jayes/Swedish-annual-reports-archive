@@ -1,0 +1,52 @@
+{
+  "company_name": "Uplands Enskilda Bank",
+  "fiscal_year": 1900,
+  "income_statement": {
+    "revenue": 670248.48,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 217215.97,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 56005.06,
+    "net_income": 283351.46
+  },
+  "balance_sheet": {
+    "total_assets": 38860897.78,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 28860897.78,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4126000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Holmberg",
+      "first_name": "Fredr.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Flodman",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Siljeström",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfquist",
+      "first_name": "P. H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

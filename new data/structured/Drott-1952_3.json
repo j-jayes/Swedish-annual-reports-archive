@@ -1,0 +1,70 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 2608019.83,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1293522.71,
+    "wages_expense": null,
+    "tax_expense": 269189.0,
+    "depreciation": null,
+    "net_income": 361650.48
+  },
+  "balance_sheet": {
+    "total_assets": 24268534.78,
+    "current_assets": 392808.2,
+    "fixed_assets": 23875726.58,
+    "total_liabilities": 16143961.8,
+    "current_liabilities": 229938.48,
+    "long_term_liabilities": 13857372.47,
+    "shareholders_equity": 8124572.98
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "TENGBOM",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": "VON",
+      "position": null
+    },
+    {
+      "surname": "OSSBAHR",
+      "first_name": "CARL",
+      "initials": "PATRIC",
+      "position": null
+    },
+    {
+      "surname": "SJÖQVIST",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Flogner",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Theodor",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

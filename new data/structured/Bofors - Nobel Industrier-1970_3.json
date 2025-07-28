@@ -1,0 +1,98 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 1071.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 931.9,
+    "wages_expense": null,
+    "tax_expense": 8.3,
+    "depreciation": null,
+    "net_income": 12.6
+  },
+  "balance_sheet": {
+    "total_assets": 1103.3,
+    "current_assets": 718.3,
+    "fixed_assets": 375.1,
+    "total_liabilities": 607.9,
+    "current_liabilities": 485.1,
+    "long_term_liabilities": 239.8,
+    "shareholders_equity": 234.1
+  },
+  "employees": {
+    "n_employees": 13135,
+    "n_blue_collar_workers": 8029,
+    "n_white_collar_workers": 5106
+  },
+  "board": [
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R:SON",
+      "position": "ordförande"
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WALDENSTRÖM",
+      "first_name": "ERLAND",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "LARS-ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLM",
+      "first_name": "TRYGGVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HINDEMARK",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ODELBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af KLINT",
+      "first_name": "BÖRJE",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

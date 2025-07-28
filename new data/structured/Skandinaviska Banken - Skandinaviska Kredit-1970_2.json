@@ -1,0 +1,200 @@
+{
+  "company_name": "Skandinaviska Banken",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 453.61,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 224.07,
+    "tax_expense": 24.1,
+    "depreciation": 17.35,
+    "net_income": 47.5
+  },
+  "balance_sheet": {
+    "total_assets": 15657.01,
+    "current_assets": 4188.01,
+    "fixed_assets": null,
+    "total_liabilities": 7861.9,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 718.48
+  },
+  "employees": {
+    "n_employees": 5583,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hartmann",
+      "first_name": "F.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "S.",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Waldenström",
+      "first_name": "E.",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Gorthon",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre",
+      "initials": "R:",
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Holmström",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wetterlundh",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Berch",
+      "first_name": "Otto",
+      "initials": null,
+      "position": "godsägare"
+    },
+    {
+      "surname": "Mannheimer",
+      "first_name": "Love",
+      "initials": null,
+      "position": "advokat"
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": null,
+      "initials": "L.E.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": null,
+      "initials": "Curt",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenhammar",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bager",
+      "first_name": null,
+      "initials": "J.P.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Blomstedt",
+      "first_name": null,
+      "initials": "C.R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": null,
+      "initials": "J.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hellstenius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Setterwall",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Malmquist",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hanström",
+      "first_name": "Torsten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wistrand",
+      "first_name": "Jerker",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

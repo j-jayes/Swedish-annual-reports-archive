@@ -1,0 +1,98 @@
+{
+  "company_name": "Stockholms Superfosfat Fabriks Aktiebolag",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4600000.0,
+    "depreciation": 3253321.19,
+    "net_income": 6758092.95
+  },
+  "balance_sheet": {
+    "total_assets": 241685275.02,
+    "current_assets": 31367166.24,
+    "fixed_assets": 122800000.0,
+    "total_liabilities": 158840750.56,
+    "current_liabilities": 20354215.29,
+    "long_term_liabilities": null,
+    "shareholders_equity": 95279524.46
+  },
+  "employees": {
+    "n_employees": 1546,
+    "n_blue_collar_workers": 1102,
+    "n_white_collar_workers": 444
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Abenius",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": "de",
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pontin",
+      "first_name": "M.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

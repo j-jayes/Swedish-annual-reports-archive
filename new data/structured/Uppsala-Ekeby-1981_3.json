@@ -1,0 +1,104 @@
+{
+  "company_name": "Upsala-Ekeby",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 525432.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -31216.0
+  },
+  "balance_sheet": {
+    "total_assets": 534426.0,
+    "current_assets": 216856.0,
+    "fixed_assets": 305785.0,
+    "total_liabilities": 531239.0,
+    "current_liabilities": 112081.0,
+    "long_term_liabilities": 266264.0,
+    "shareholders_equity": 3187.0
+  },
+  "employees": {
+    "n_employees": 1585,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindblad",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Matsson",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Götdahl",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Claes-Urban",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Lars-Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Carl-Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skoog",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

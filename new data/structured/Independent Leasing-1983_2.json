@@ -1,0 +1,110 @@
+{
+  "company_name": "Independent Leasing AB",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 538.263,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 58.817,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 20.242
+  },
+  "balance_sheet": {
+    "total_assets": 1551.558,
+    "current_assets": 267.387,
+    "fixed_assets": 1284.171,
+    "total_liabilities": 1446.417,
+    "current_liabilities": 808.038,
+    "long_term_liabilities": 599.868,
+    "shareholders_equity": 105.141
+  },
+  "employees": {
+    "n_employees": 164,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ANDREN",
+      "first_name": "SVEN",
+      "initials": "G",
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "BRYNELL",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONES",
+      "first_name": "RONALD",
+      "initials": "S",
+      "position": null
+    },
+    {
+      "surname": "KJELLSTROM",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUND",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MANTON",
+      "first_name": null,
+      "initials": "C.H.",
+      "position": null
+    },
+    {
+      "surname": "VAN SICKLE",
+      "first_name": "CHARLES",
+      "initials": "D.",
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MANSSON",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AHLQVIST",
+      "first_name": "\"\n\nÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ALGELL",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DELOITTE",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "HASKINS & SELLS AB"
+    }
+  ],
+  "additional_notes": null
+}

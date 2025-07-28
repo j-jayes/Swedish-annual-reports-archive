@@ -1,0 +1,104 @@
+{
+  "company_name": "Beijerinvest",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 15187.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 35.2,
+    "depreciation": null,
+    "net_income": 140.615
+  },
+  "balance_sheet": {
+    "total_assets": 4977.0,
+    "current_assets": 3380.8,
+    "fixed_assets": 1572.9,
+    "total_liabilities": 2268.4,
+    "current_liabilities": 2268.4,
+    "long_term_liabilities": 1282.8,
+    "shareholders_equity": 709.1
+  },
+  "employees": {
+    "n_employees": 10069,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "G",
+      "initials": "G",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Säve",
+      "first_name": "Carl",
+      "initials": "T",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Walter",
+      "first_name": "James",
+      "initials": "W",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Ägrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 220.949,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 774.401,
+    "net_income": 1394.2337843333335
+  },
+  "balance_sheet": {
+    "total_assets": 90044.95355666666,
+    "current_assets": 71551.00385433334,
+    "fixed_assets": 18493.949702333335,
+    "total_liabilities": 35154.025524666664,
+    "current_liabilities": 35146.881825666664,
+    "long_term_liabilities": 27994.939873,
+    "shareholders_equity": 26871.833873000003
+  },
+  "employees": {
+    "n_employees": 3564,
+    "n_blue_collar_workers": 2188,
+    "n_white_collar_workers": 1472
+  },
+  "board": [
+    {
+      "surname": "Tunhammar",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forssius",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brusewitz",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET HUFVUDSTADEN",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 7414027.12,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1424381.52,
+    "depreciation": 354697.16,
+    "net_income": 1181832.33
+  },
+  "balance_sheet": {
+    "total_assets": 65999316.41,
+    "current_assets": 6392070.5,
+    "fixed_assets": 63706047.89,
+    "total_liabilities": 42833165.67,
+    "current_liabilities": 2814538.16,
+    "long_term_liabilities": 41153952.67,
+    "shareholders_equity": 26743683.08
+  },
+  "employees": {
+    "n_employees": 27,
+    "n_blue_collar_workers": 81,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "E.",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Nothin",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wibom",
+      "first_name": "Tor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ahrén",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Wejke",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Cederberg",
+      "first_name": "Niklas",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "Billeruds",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 1178.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 44.4,
+    "depreciation": null,
+    "net_income": 44.4
+  },
+  "balance_sheet": {
+    "total_assets": 1760.3,
+    "current_assets": 848.4,
+    "fixed_assets": 854.6,
+    "total_liabilities": 72.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 416.5
+  },
+  "employees": {
+    "n_employees": 6277,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bergquist",
+      "first_name": "\"\n\n",
+      "initials": "Ake",
+      "position": null
+    },
+    {
+      "surname": "Smith",
+      "first_name": "\"\n",
+      "initials": "Anders",
+      "position": null
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "\"\n",
+      "initials": "Ture",
+      "position": null
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": null,
+      "initials": "L-E",
+      "position": null
+    },
+    {
+      "surname": "Mandahl",
+      "first_name": null,
+      "initials": "Kont",
+      "position": null
+    },
+    {
+      "surname": "Östlund",
+      "first_name": null,
+      "initials": "Kurt",
+      "position": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": null,
+      "initials": "Leif",
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": null,
+      "initials": "Lars",
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": null,
+      "initials": "Börje",
+      "position": null
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": null,
+      "initials": "G",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Wendt",
+      "first_name": "Stellan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Herting",
+      "first_name": "N",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

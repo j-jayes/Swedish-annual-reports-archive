@@ -1,0 +1,80 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AB",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 765514000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 113734108.63,
+    "net_income": 35030931.55
+  },
+  "balance_sheet": {
+    "total_assets": 919127283.15,
+    "current_assets": 295497182.64,
+    "fixed_assets": 623630100.51,
+    "total_liabilities": 389206773.11,
+    "current_liabilities": 116071664.55,
+    "long_term_liabilities": 273135109.0,
+    "shareholders_equity": 480927509.6
+  },
+  "employees": {
+    "n_employees": 13766,
+    "n_blue_collar_workers": 11745,
+    "n_white_collar_workers": 2021
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wieslander",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    },
+    {
+      "surname": "\nÖbrink",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": "F.d. stadskamrer"
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "Friherre"
+    },
+    {
+      "surname": "Trolle",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Kammarherre"
+    }
+  ],
+  "additional_notes": null
+}

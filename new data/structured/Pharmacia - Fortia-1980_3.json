@@ -1,0 +1,104 @@
+{
+  "company_name": "FORTIA TA",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 1221.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": -34.2,
+    "net_income": 22.2
+  },
+  "balance_sheet": {
+    "total_assets": 1191.3,
+    "current_assets": 522.7,
+    "fixed_assets": 665.8,
+    "total_liabilities": 796.7,
+    "current_liabilities": 243.2,
+    "long_term_liabilities": 127.0,
+    "shareholders_equity": 394.9
+  },
+  "employees": {
+    "n_employees": 3574,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "MARK",
+      "first_name": "KURT",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "DARBERG",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKEMARK",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMBRAEUS",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LANNEBERG",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMSTEN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VIRDING",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESSMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JAKOBSON",
+      "first_name": "ALLAN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "PRAMHÄLL",
+      "first_name": "INGVAR",
+      "initials": null,
+      "auditing_firm": "COOPERS & LYBRAND AB"
+    },
+    {
+      "surname": "HEURLIN",
+      "first_name": "SIGVARD",
+      "initials": null,
+      "auditing_firm": "COOPERS & LYBRAND AB"
+    }
+  ],
+  "additional_notes": null
+}

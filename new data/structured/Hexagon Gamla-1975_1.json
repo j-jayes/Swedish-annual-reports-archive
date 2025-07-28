@@ -1,0 +1,86 @@
+{
+  "company_name": "Hexagon AB",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 345.134,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 10.437,
+    "depreciation": 10.483,
+    "net_income": 5.834
+  },
+  "balance_sheet": {
+    "total_assets": 287.038,
+    "current_assets": 136.874,
+    "fixed_assets": 146.155,
+    "total_liabilities": 45.731,
+    "current_liabilities": 38.838,
+    "long_term_liabilities": 95.858,
+    "shareholders_equity": 35.705
+  },
+  "employees": {
+    "n_employees": 1865,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HOLM",
+      "first_name": "TRYGGVE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HAEGGSTROM",
+      "first_name": "GORAN",
+      "initials": "Z.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BERGLUND",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NERMAN",
+      "first_name": "MANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TORSTENSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VIRGIN",
+      "first_name": "IVAR",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SJÖSTROM",
+      "first_name": "CARL-ERIC",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "BERTIL",
+      "initials": "E.",
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": "Dividend of 8 SEK per share is proposed."
+}

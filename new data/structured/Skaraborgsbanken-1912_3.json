@@ -1,0 +1,100 @@
+{
+  "company_name": "SKARABORGS ENSKILDA BANK",
+  "fiscal_year": 1912,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 547443.19,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1070855.0
+  },
+  "balance_sheet": {
+    "total_assets": 59294825.59,
+    "current_assets": null,
+    "fixed_assets": 1647500.0,
+    "total_liabilities": 59294825.59,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hedenstierna",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dickson",
+      "first_name": "Wim",
+      "initials": "Fil. D:r",
+      "position": null
+    },
+    {
+      "surname": "Brodén",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berg",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Tor",
+      "initials": null,
+      "position": "Bankdirektörerna"
+    },
+    {
+      "surname": "Blomdahl",
+      "first_name": "F.",
+      "initials": null,
+      "position": "Bankdirektörerna"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beckman",
+      "first_name": "Cl.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lilliestierna",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundell",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frölich",
+      "first_name": "Fredrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tomtlund",
+      "first_name": "A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

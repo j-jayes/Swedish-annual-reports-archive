@@ -1,0 +1,86 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGET",
+  "fiscal_year": 1959,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 261.62666666666667,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 234.4,
+    "tax_expense": 13.0,
+    "depreciation": 22.2,
+    "net_income": 25.006666666666668
+  },
+  "balance_sheet": {
+    "total_assets": 888.55,
+    "current_assets": 413.05,
+    "fixed_assets": 341.52,
+    "total_liabilities": 438.93,
+    "current_liabilities": 171.42,
+    "long_term_liabilities": 59.8,
+    "shareholders_equity": 428.25
+  },
+  "employees": {
+    "n_employees": 17833,
+    "n_blue_collar_workers": 9891,
+    "n_white_collar_workers": 7942
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\nAke",
+      "initials": "T",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G",
+      "initials": "A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

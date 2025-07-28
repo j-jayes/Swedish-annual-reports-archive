@@ -1,0 +1,98 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 429.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3.9,
+    "depreciation": null,
+    "net_income": 3.2
+  },
+  "balance_sheet": {
+    "total_assets": 434.6,
+    "current_assets": 324.6,
+    "fixed_assets": 92.4,
+    "total_liabilities": 256.2,
+    "current_liabilities": 127.6,
+    "long_term_liabilities": 128.6,
+    "shareholders_equity": 60.1
+  },
+  "employees": {
+    "n_employees": 1617,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LINDBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "GYLLENSTIERNA",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LOFTÉN",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDERSTRÖM",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYGREN",
+      "first_name": "A.",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "STÅLBRAND",
+      "first_name": "BERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÄGGQVIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEHRSSON",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖHOLM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "WENNSTRÖM",
+      "first_name": "INGE",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

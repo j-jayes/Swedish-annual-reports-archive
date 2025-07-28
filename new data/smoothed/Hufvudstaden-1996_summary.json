@@ -1,0 +1,82 @@
+{
+  "company_name": "Hufvudstaden-koncernen",
+  "fiscal_year": 1996,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 861.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 412.2,
+    "wages_expense": null,
+    "tax_expense": 61.5,
+    "depreciation": 57.9,
+    "net_income": 153.0
+  },
+  "balance_sheet": {
+    "total_assets": 5196.3,
+    "current_assets": 342.1,
+    "fixed_assets": 4854.2,
+    "total_liabilities": 3549.9,
+    "current_liabilities": 2878.2,
+    "long_term_liabilities": 671.6666666666666,
+    "shareholders_equity": 1646.1
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gardell",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hall",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Qviberg",
+      "first_name": "Mats",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Agri",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "SET - Svensson, Erikson & Tjus Revisionsbyrå AB"
+    }
+  ]
+}

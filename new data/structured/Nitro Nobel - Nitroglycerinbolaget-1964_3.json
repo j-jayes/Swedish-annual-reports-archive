@@ -1,0 +1,86 @@
+{
+  "company_name": "NITROGLYCERIN AKTIEBOLAGET",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 10.819,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1.321,
+    "net_income": 3.079
+  },
+  "balance_sheet": {
+    "total_assets": 57.919,
+    "current_assets": 27.485,
+    "fixed_assets": 27.981,
+    "total_liabilities": 22.496,
+    "current_liabilities": 6.076,
+    "long_term_liabilities": 5.267,
+    "shareholders_equity": 35.422
+  },
+  "employees": {
+    "n_employees": 728,
+    "n_blue_collar_workers": 553,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "RODLING",
+      "first_name": "EJNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RYDIN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ABENIUS",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EDLUND",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ANKARCROΝΑ",
+      "first_name": "STEN S:SON",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

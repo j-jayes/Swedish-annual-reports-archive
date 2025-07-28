@@ -1,0 +1,82 @@
+{
+  "company_name": "Nordiska Armaturfabrikerna",
+  "fiscal_year": 1944,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 68.0,
+    "depreciation": 111.0,
+    "net_income": 562528.76
+  },
+  "balance_sheet": {
+    "total_assets": 16040566.06,
+    "current_assets": null,
+    "fixed_assets": 5017457.2,
+    "total_liabilities": null,
+    "current_liabilities": 3222224.09,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8850000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enström",
+      "first_name": "Axel",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "Åge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlander",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenram",
+      "first_name": "B.",
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sandberg",
+      "first_name": "Gustaf",
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Berlin",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

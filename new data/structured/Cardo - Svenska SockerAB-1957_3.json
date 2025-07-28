@@ -1,0 +1,134 @@
+{
+  "company_name": "SVENSKA SOCKERFABRIKS AKTIEBOLAGET",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 51940.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 20881.0,
+    "depreciation": 14677.0,
+    "net_income": 13442.0
+  },
+  "balance_sheet": {
+    "total_assets": 276275.0,
+    "current_assets": 159714.0,
+    "fixed_assets": 110361.0,
+    "total_liabilities": 151560.0,
+    "current_liabilities": 31179.0,
+    "long_term_liabilities": 55557.0,
+    "shareholders_equity": 124715.0
+  },
+  "employees": {
+    "n_employees": 3775,
+    "n_blue_collar_workers": 3033,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WEHTJE",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": "ORDFÖRANDE"
+    },
+    {
+      "surname": "BAHRKE",
+      "first_name": "w.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUMMESON",
+      "first_name": "P. EG.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "HAKON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTRUP",
+      "first_name": "z.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "S.",
+      "initials": null,
+      "position": "VERKST. DIR"
+    },
+    {
+      "surname": "WINTZELL",
+      "first_name": "T.",
+      "initials": null,
+      "position": "Tekn. direktören"
+    },
+    {
+      "surname": "ROOTH",
+      "first_name": "GUSTAF T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDSKOG",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EKMAN",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MALMQUIST",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KOCKUM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MÅNSSON",
+      "first_name": "EMIL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CAVALLI",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

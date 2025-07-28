@@ -1,0 +1,242 @@
+{
+  "company_name": "Skandinaviska Banken",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 439.933,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 33.9,
+    "depreciation": null,
+    "net_income": 47.43
+  },
+  "balance_sheet": {
+    "total_assets": 13175.083,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 6563.295,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 611.788
+  },
+  "employees": {
+    "n_employees": 5179,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": null,
+      "initials": "F.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": null,
+      "initials": "S.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WALDENSTRÖM",
+      "first_name": null,
+      "initials": "E.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GORTHON",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SYDOW",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SOHLMAN",
+      "first_name": "Sverre",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLMSTRÖM",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WETTERLUNDH",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": null,
+      "initials": "L.E.",
+      "position": null
+    },
+    {
+      "surname": "BLENNOW",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CAVALLI-BJÖRKMAN",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PIHLGREN",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORÉN",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERCH",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MANNHEIMER",
+      "first_name": "Love",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MANNERFELT",
+      "first_name": null,
+      "initials": "C.M.",
+      "position": null
+    },
+    {
+      "surname": "STAHLBRANDT",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DE MARÉ",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRANBERG",
+      "first_name": null,
+      "initials": "N.E.",
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SENNEBY",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "STENHAMMAR",
+      "first_name": "Ove",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "BLOMSTEDT",
+      "first_name": null,
+      "initials": "C.R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": null,
+      "initials": "J.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MALMQUIST",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BAGER",
+      "first_name": null,
+      "initials": "J.P.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "KELLGREN",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "ÄLMEBY",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

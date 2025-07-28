@@ -1,0 +1,82 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1923,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 107613939.71,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Kjellberg",
+      "first_name": "J",
+      "initials": "J",
+      "position": "C:son"
+    },
+    {
+      "surname": "Herlenius",
+      "first_name": "Aug",
+      "initials": "Aug",
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Gust",
+      "initials": "Gust",
+      "position": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "M",
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Troili",
+      "first_name": "E",
+      "initials": "E",
+      "position": "U. P:son"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Mueller",
+      "first_name": "Jofin",
+      "initials": "Jofin",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dag",
+      "first_name": "Knut",
+      "initials": "Knut",
+      "auditing_firm": "H:son Natt och"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinfi",
+      "initials": "Reinfi",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenius",
+      "first_name": "Elias",
+      "initials": "Elias",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

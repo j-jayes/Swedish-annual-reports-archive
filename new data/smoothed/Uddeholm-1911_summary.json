@@ -1,0 +1,70 @@
+{
+  "company_name": "Uddeholms Aktiebolags",
+  "fiscal_year": 1911,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1870473.98,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 984397.09
+  },
+  "balance_sheet": {
+    "total_assets": 33355125.96,
+    "current_assets": null,
+    "fixed_assets": 14165800.0,
+    "total_liabilities": 20121973.8,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 11220224.646666666
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Danielsson",
+      "first_name": null,
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "Herlenius",
+      "first_name": null,
+      "initials": "Aug.",
+      "position": null
+    },
+    {
+      "surname": "Berndes",
+      "first_name": null,
+      "initials": "G. F.",
+      "position": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergström",
+      "first_name": "L.",
+      "initials": "W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijerstam",
+      "first_name": "Carl",
+      "initials": "af",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Mueller",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

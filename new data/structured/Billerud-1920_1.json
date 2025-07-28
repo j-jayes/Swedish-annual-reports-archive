@@ -1,0 +1,82 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1920,
+  "income_statement": {
+    "revenue": 6367653.92,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4231881.14
+  },
+  "balance_sheet": {
+    "total_assets": 65072359.21,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 15262273.78,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 36800174.2
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ewert",
+      "first_name": "W.",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Storjohann",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Axel",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "von Axelson",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bovin",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blakstad",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lilliehöök",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Aquilon",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Smith",
+      "first_name": "And.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

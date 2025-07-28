@@ -1,0 +1,116 @@
+{
+  "company_name": "SKARABORGSBANKEN",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 37.799,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 23.272,
+    "wages_expense": null,
+    "tax_expense": 1.768,
+    "depreciation": 1.281,
+    "net_income": 2.77
+  },
+  "balance_sheet": {
+    "total_assets": 1083.891,
+    "current_assets": 765.526,
+    "fixed_assets": 5.261,
+    "total_liabilities": 953.82,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 38.176
+  },
+  "employees": {
+    "n_employees": 337,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": "G.",
+      "position": "vice talman, Mariedal, Lundsbrunn, ordförande"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": "S.",
+      "position": "agr. doktor, Ryholm, Moholm, vice ordförande"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": null,
+      "initials": "W.",
+      "position": "disponent, Lidköping"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Lars",
+      "initials": "L.",
+      "position": "disponent, Saltsjöbaden"
+    },
+    {
+      "surname": "Sundelöf",
+      "first_name": null,
+      "initials": "K.",
+      "position": "köpman, Skövde"
+    },
+    {
+      "surname": "Waller",
+      "first_name": "Lars",
+      "initials": "L.",
+      "position": "bankdirektör, Skövde"
+    },
+    {
+      "surname": "Ulfenborg",
+      "first_name": "Harald",
+      "initials": "H.",
+      "position": "disponent, Tibro"
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Bengt",
+      "initials": "B.",
+      "position": "direktör, Mariestad"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Paul",
+      "initials": "P.",
+      "position": "riksdagsman, Moholm"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gösta",
+      "initials": "G.",
+      "position": "bankdirektör, Skövde, verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": "U.",
+      "auditing_firm": "Auktoriserad revisor, Göteborg"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gösta",
+      "initials": "G.",
+      "auditing_firm": "distriktslantmätare, Skövde"
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Hadar",
+      "initials": "H.",
+      "auditing_firm": "Auktoriserad revisor, Stockholm"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Stig",
+      "initials": "S.",
+      "auditing_firm": "förste byråsekreterare, Mariestad"
+    }
+  ],
+  "additional_notes": null
+}

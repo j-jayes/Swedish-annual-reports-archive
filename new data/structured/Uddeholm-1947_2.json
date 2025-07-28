@@ -1,0 +1,80 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 163017000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 15669843.93,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 205969820.37,
+    "current_assets": 85431303.41,
+    "fixed_assets": 120538516.96,
+    "total_liabilities": 85629372.74,
+    "current_liabilities": 40866908.07,
+    "long_term_liabilities": 20181663.48,
+    "shareholders_equity": 91453112.56
+  },
+  "employees": {
+    "n_employees": 10323,
+    "n_blue_collar_workers": 8886,
+    "n_white_collar_workers": 1437
+  },
+  "board": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

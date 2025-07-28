@@ -1,0 +1,94 @@
+{
+  "company_name": "Aktiebolaget Bofors",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 445.737,
+    "cost_of_goods_sold": 371.886,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7.475,
+    "depreciation": 37.768,
+    "net_income": 12.002
+  },
+  "balance_sheet": {
+    "total_assets": 852.07,
+    "current_assets": 539.11,
+    "fixed_assets": 299.795,
+    "total_liabilities": 645.809,
+    "current_liabilities": 459.371,
+    "long_term_liabilities": 157.818,
+    "shareholders_equity": 206.261
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R:SON",
+      "position": "Bruksdisponent, ordförande"
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "Direktör, vice ordförande"
+    },
+    {
+      "surname": "WIJKANDER",
+      "first_name": "EVERT",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Hovrättsrådet"
+    },
+    {
+      "surname": "WALDENSTRÖM",
+      "first_name": "ERLAND",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Agronom"
+    },
+    {
+      "surname": "ODELBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": "Bruksdisponent"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "NORDQVIST",
+      "first_name": "HELMER",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

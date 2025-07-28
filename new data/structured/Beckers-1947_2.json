@@ -1,0 +1,74 @@
+{
+  "company_name": "AB WILH. BECKER STOCKHOLM",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 3238945.71,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 450000.0,
+    "depreciation": 770097.02,
+    "net_income": 901683.43
+  },
+  "balance_sheet": {
+    "total_assets": 12736638.5,
+    "current_assets": 8726429.64,
+    "fixed_assets": 4010208.86,
+    "total_liabilities": 6039146.56,
+    "current_liabilities": null,
+    "long_term_liabilities": 1015032.44,
+    "shareholders_equity": 6697491.94
+  },
+  "employees": {
+    "n_employees": 789,
+    "n_blue_collar_workers": 327,
+    "n_white_collar_workers": 462
+  },
+  "board": [
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TESCH",
+      "first_name": "HJ.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGLÖF",
+      "first_name": "ROB.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALL",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÅLBRAND",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NYBERG",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WELAND",
+      "first_name": "ERNST",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

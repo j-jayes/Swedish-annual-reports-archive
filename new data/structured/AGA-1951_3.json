@@ -1,0 +1,104 @@
+{
+  "company_name": "SVENSKA AKTIEBOLAGET GASACCUMULATOR",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 10982212.38,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4421864.3,
+    "net_income": 2327359.17
+  },
+  "balance_sheet": {
+    "total_assets": 96317208.38,
+    "current_assets": 49063083.25,
+    "fixed_assets": 47254125.13,
+    "total_liabilities": 47567208.38,
+    "current_liabilities": 16938778.75,
+    "long_term_liabilities": 27204760.15,
+    "shareholders_equity": 48750000.0
+  },
+  "employees": {
+    "n_employees": 8415,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Heidenstam",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "E.",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Holm",
+      "first_name": null,
+      "initials": "H. Th.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Banck",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Westberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Silfverstolpe",
+      "first_name": "Gudmund",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Befrits",
+      "first_name": "Ragnar",
+      "initials": null,
+      "auditing_firm": "direktör"
+    },
+    {
+      "surname": "Leffler",
+      "first_name": null,
+      "initials": "Sven H.",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Malmberg",
+      "first_name": "Harald",
+      "initials": null,
+      "auditing_firm": "generaldirektör"
+    }
+  ],
+  "additional_notes": "Total omsättningen uppgick till 279 miljoner kronor."
+}

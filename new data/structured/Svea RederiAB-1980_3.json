@@ -1,0 +1,92 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 619.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -131.124,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": -19.983,
+    "net_income": 3.194
+  },
+  "balance_sheet": {
+    "total_assets": 362.189,
+    "current_assets": 159.374,
+    "fixed_assets": 202.667,
+    "total_liabilities": 153.615,
+    "current_liabilities": 58.938,
+    "long_term_liabilities": 136.214,
+    "shareholders_equity": 21.175
+  },
+  "employees": {
+    "n_employees": 1728,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Birgander",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W",
+      "position": null
+    },
+    {
+      "surname": "Rodin",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Smedman",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Eric",
+      "initials": "D",
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehnborg",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundvall",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

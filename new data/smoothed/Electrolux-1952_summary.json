@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET ELEKTROLUX",
+  "fiscal_year": 1952,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5100674.82,
+    "wages_expense": null,
+    "tax_expense": 10824862.0,
+    "depreciation": 890001.0,
+    "net_income": 11177651.13
+  },
+  "balance_sheet": {
+    "total_assets": 154758226.85,
+    "current_assets": 68445736.67,
+    "fixed_assets": 86312390.18,
+    "total_liabilities": 47060227.41,
+    "current_liabilities": 10998089.93,
+    "long_term_liabilities": 30180177.48,
+    "shareholders_equity": 72000000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2446,
+    "n_white_collar_workers": 1045
+  },
+  "board": [
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Siegbahn",
+      "first_name": "Mane",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wermher",
+      "first_name": "H.",
+      "initials": "H. A.",
+      "position": null
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engberg",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Elon",
+      "initials": "V.",
+      "position": "Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

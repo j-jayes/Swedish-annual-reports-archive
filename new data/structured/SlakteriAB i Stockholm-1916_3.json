@@ -1,0 +1,45 @@
+{
+  "company_name": "SLAGTERIAKTIEBOLAGET",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": 238039.03,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 39407.07,
+    "wages_expense": 44029.84,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 169975.89
+  },
+  "balance_sheet": {
+    "total_assets": 1198976.96,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 520000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Hirsch",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lagerbjelke",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

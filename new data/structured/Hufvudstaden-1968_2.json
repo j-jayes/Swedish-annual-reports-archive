@@ -1,0 +1,74 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 20825559.99,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7802106.81,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 691532.85,
+    "net_income": 5685495.9
+  },
+  "balance_sheet": {
+    "total_assets": 160614217.26,
+    "current_assets": 3613944.49,
+    "fixed_assets": 157000272.77,
+    "total_liabilities": 97187486.84,
+    "current_liabilities": 6031650.89,
+    "long_term_liabilities": 91155826.95,
+    "shareholders_equity": 63426739.42
+  },
+  "employees": {
+    "n_employees": 75,
+    "n_blue_collar_workers": 20,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": "G.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": null,
+      "initials": "Å.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BOHMAN",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SCHMIDT",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLIESTRÖM-TJUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "LINDHOLM",
+      "first_name": "STIG",
+      "initials": "HJ:SON",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

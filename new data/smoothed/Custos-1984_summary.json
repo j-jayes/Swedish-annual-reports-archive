@@ -1,0 +1,92 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1984,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 660.9093333333333,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 130.63666666666668,
+    "wages_expense": null,
+    "tax_expense": 32.048,
+    "depreciation": 32.105,
+    "net_income": 297.3
+  },
+  "balance_sheet": {
+    "total_assets": 3799.931,
+    "current_assets": 834.026,
+    "fixed_assets": 2963.384,
+    "total_liabilities": 1078.053,
+    "current_liabilities": 947.3893333333334,
+    "long_term_liabilities": 799.815,
+    "shareholders_equity": 1451.078
+  },
+  "employees": {
+    "n_employees": 115,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ulfsparre",
+      "first_name": "Karin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öhman",
+      "first_name": "Anders",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Ando",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ericson",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": null
+    }
+  ]
+}

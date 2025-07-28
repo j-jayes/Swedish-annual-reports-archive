@@ -1,0 +1,98 @@
+{
+  "company_name": "Fastighetsaktiebolaget Drott",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 21191.004,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 410.0,
+    "net_income": 3726.337
+  },
+  "balance_sheet": {
+    "total_assets": 97504.839,
+    "current_assets": 15738.7,
+    "fixed_assets": 81768.139,
+    "total_liabilities": 50605.242,
+    "current_liabilities": 4535.173,
+    "long_term_liabilities": 46130.069,
+    "shareholders_equity": 46899.597
+  },
+  "employees": {
+    "n_employees": 22,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ulvskog",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "bankdirektör, Linköping, ordförande"
+    },
+    {
+      "surname": "Alexandersson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "direktör, Stockholm"
+    },
+    {
+      "surname": "Carleson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "finanschef, Täby"
+    },
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "direktör, Lidingö"
+    },
+    {
+      "surname": "Tengbom",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "arkitekt, Drottningholm"
+    },
+    {
+      "surname": "Forss",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "ekonomichef, Lidingö"
+    },
+    {
+      "surname": "Hemstad",
+      "first_name": "Tord",
+      "initials": null,
+      "position": "civilingenjör, Stockholm, verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor, Täby"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor, Danderyd"
+    },
+    {
+      "surname": "Lekman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor, Järfälla"
+    },
+    {
+      "surname": "Niklasson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor, Bromma"
+    }
+  ],
+  "additional_notes": null
+}

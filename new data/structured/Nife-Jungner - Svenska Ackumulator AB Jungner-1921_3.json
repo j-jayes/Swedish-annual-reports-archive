@@ -1,0 +1,76 @@
+{
+  "company_name": "Svenska Ackumulator Aktiebolaget Jungner",
+  "fiscal_year": 1921,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 38247.76,
+    "depreciation": null,
+    "net_income": -439800.0
+  },
+  "balance_sheet": {
+    "total_assets": 6581736.26,
+    "current_assets": null,
+    "fixed_assets": 1540783.91,
+    "total_liabilities": null,
+    "current_liabilities": 368477.5,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5520850.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hallin",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Aronowitsch",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sparre",
+      "first_name": "Lars",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "C.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Ingeström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Robert",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wijkström",
+      "first_name": "Gustaf",
+      "initials": "L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Forssberg",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Vinst- & Förlustkonto en förlust av Kronor 439,800: -"
+}

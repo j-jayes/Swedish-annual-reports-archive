@@ -1,0 +1,68 @@
+{
+  "company_name": "BILLMAN regulator ab",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 27.697,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 17.928,
+    "wages_expense": null,
+    "tax_expense": 503.112,
+    "depreciation": 482.632,
+    "net_income": 610.697
+  },
+  "balance_sheet": {
+    "total_assets": 34.907,
+    "current_assets": 17.562,
+    "fixed_assets": 17.345,
+    "total_liabilities": 20.165,
+    "current_liabilities": 7.386,
+    "long_term_liabilities": 11.452,
+    "shareholders_equity": 9.314
+  },
+  "employees": {
+    "n_employees": 522,
+    "n_blue_collar_workers": 291,
+    "n_white_collar_workers": 231
+  },
+  "board": [
+    {
+      "surname": "DALÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "direktör, ordförande"
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": null,
+      "initials": "S. T.",
+      "position": "direktör"
+    },
+    {
+      "surname": "OLSON",
+      "first_name": null,
+      "initials": "G.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "BILLMAN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare auktoriserade revisorer"
+    },
+    {
+      "surname": "THUNBERG",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

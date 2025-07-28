@@ -1,0 +1,74 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET HUFVUDSTADEN",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 9863734.84,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1527550.0,
+    "net_income": 1792168.87
+  },
+  "balance_sheet": {
+    "total_assets": 86990059.64,
+    "current_assets": 9531796.87,
+    "fixed_assets": 77458262.77,
+    "total_liabilities": 59165284.15,
+    "current_liabilities": 3838945.83,
+    "long_term_liabilities": 55326338.32,
+    "shareholders_equity": 27824775.49
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 88,
+    "n_white_collar_workers": 24
+  },
+  "board": [
+    {
+      "surname": "Hellstenius",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ahrén",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bohman",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cederberg",
+      "first_name": "Niklas",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

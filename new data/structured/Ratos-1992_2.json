@@ -1,0 +1,100 @@
+{
+  "company_name": "Ratos",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 12173.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -11829.0,
+    "wages_expense": null,
+    "tax_expense": 81.0,
+    "depreciation": -377.0,
+    "net_income": -505.0
+  },
+  "balance_sheet": {
+    "total_assets": 12117.0,
+    "current_assets": 3184.0,
+    "fixed_assets": 8933.0,
+    "total_liabilities": 9042.0,
+    "current_liabilities": 6556.0,
+    "long_term_liabilities": 2486.0,
+    "shareholders_equity": 3075.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BERN",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "FAHLIN",
+      "first_name": "ROLAND",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "LAURIN",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "FAULKNER",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "JANSSON",
+      "first_name": "URBAN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "RYDIN",
+      "first_name": "BO",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "JAN",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRIDMAN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "KMPG Bohlins"
+    },
+    {
+      "surname": "VIDHAGEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    }
+  ],
+  "additional_notes": null
+}

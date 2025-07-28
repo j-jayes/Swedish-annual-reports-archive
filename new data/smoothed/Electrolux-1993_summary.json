@@ -1,0 +1,86 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1993,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 100121.0,
+    "cost_of_goods_sold": 92594.0,
+    "operating_expenses": 92594.0,
+    "wages_expense": null,
+    "tax_expense": 932.0,
+    "depreciation": 4252.0,
+    "net_income": 584.0
+  },
+  "balance_sheet": {
+    "total_assets": 77647.0,
+    "current_assets": 47670.0,
+    "fixed_assets": 29960.0,
+    "total_liabilities": 33944.0,
+    "current_liabilities": 21342.0,
+    "long_term_liabilities": 20055.0,
+    "shareholders_equity": 13025.0
+  },
+  "employees": {
+    "n_employees": 114716,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Chairman of the Board and CEO"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "President, Investor AB"
+    },
+    {
+      "surname": "Danielsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V",
+      "position": null
+    },
+    {
+      "surname": "Löwenhielm",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Group Head Credit"
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Professor"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ]
+}

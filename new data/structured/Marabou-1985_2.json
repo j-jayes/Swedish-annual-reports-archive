@@ -1,0 +1,128 @@
+{
+  "company_name": "Maraboukoncernen",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 1942.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 15.8,
+    "depreciation": null,
+    "net_income": 16.1
+  },
+  "balance_sheet": {
+    "total_assets": 1221.4,
+    "current_assets": 567.1,
+    "fixed_assets": 651.1,
+    "total_liabilities": 455.4,
+    "current_liabilities": 335.0,
+    "long_term_liabilities": 202.0,
+    "shareholders_equity": 172.7
+  },
+  "employees": {
+    "n_employees": 2822,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Osvald",
+      "first_name": "Per Håkan",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Zimmerman",
+      "first_name": "Richard A.",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Östlund",
+      "first_name": "Bennet",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Agneta",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Pulli",
+      "first_name": "Yrjö",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Cappelen",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "WD och administrativ direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Akteus",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Almqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Jakobsson",
+      "first_name": "Evy",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

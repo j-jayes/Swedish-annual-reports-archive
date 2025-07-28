@@ -1,0 +1,36 @@
+{
+  "company_name": "Optimus",
+  "years_covered": "1914-1917",
+  "total_years": 4,
+  "total_members": 10,
+  "avg_board_size": 0.0,
+  "avg_tenure": 1.8,
+  "median_tenure": 1.5,
+  "avg_turnover_rate": 0.0,
+  "board_size_by_year": {
+    "1914": 0,
+    "1915": 0,
+    "1916": 0,
+    "1917": 0
+  },
+  "turnover_by_period": {
+    "1914-1915": {
+      "joined": 3,
+      "left": 3,
+      "stayed": 2,
+      "turnover_rate": 0
+    },
+    "1915-1916": {
+      "joined": 4,
+      "left": 4,
+      "stayed": 1,
+      "turnover_rate": 0
+    },
+    "1916-1917": {
+      "joined": 1,
+      "left": 3,
+      "stayed": 2,
+      "turnover_rate": 0
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 9420.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7076.0,
+    "wages_expense": null,
+    "tax_expense": 981.4,
+    "depreciation": 411.9,
+    "net_income": 1344.0
+  },
+  "balance_sheet": {
+    "total_assets": 11894.6,
+    "current_assets": 7859.1,
+    "fixed_assets": 2988.4,
+    "total_liabilities": 3549.7,
+    "current_liabilities": 1477.0,
+    "long_term_liabilities": 1682.8,
+    "shareholders_equity": 3312.9
+  },
+  "employees": {
+    "n_employees": 8846,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAULKNER",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "TONY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOGREN",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "BJÖRNSON",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RINGQVIST",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "TRG Revision, medlem av Deloitte Ross Tohmatsu"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1998,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 15088.0,
+    "cost_of_goods_sold": 9176.0,
+    "operating_expenses": 4291.5,
+    "wages_expense": 3514.0,
+    "tax_expense": 184.0,
+    "depreciation": null,
+    "net_income": 370.0
+  },
+  "balance_sheet": {
+    "total_assets": 26059.0,
+    "current_assets": 6508.0,
+    "fixed_assets": 19551.0,
+    "total_liabilities": 10547.333333333334,
+    "current_liabilities": 3417.0,
+    "long_term_liabilities": 6209.0,
+    "shareholders_equity": 12216.0
+  },
+  "employees": {
+    "n_employees": 10203,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "\nÅgrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöstrand",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bennet",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundholm",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martin-Löf",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Clas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Selander",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Fritshagen",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Engman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Elgenmark",
+      "first_name": "Ingegerd",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "ÖHRLINGS COOPERS & LYBRAND AB"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1951,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 37658876.11666667,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 19960015.0,
+    "net_income": 6222347.57
+  },
+  "balance_sheet": {
+    "total_assets": 134741943.29333335,
+    "current_assets": 71861961.25333333,
+    "fixed_assets": 71156693.0,
+    "total_liabilities": 66684299.63333333,
+    "current_liabilities": 22522227.713333335,
+    "long_term_liabilities": 61529847.0,
+    "shareholders_equity": 66556205.44
+  },
+  "employees": {
+    "n_employees": 6735,
+    "n_blue_collar_workers": 5206,
+    "n_white_collar_workers": 1529
+  },
+  "board": [
+    {
+      "surname": "Magnusson",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Erik",
+      "initials": "W",
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sebardt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sillén",
+      "first_name": null,
+      "initials": "O",
+      "position": null
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": null,
+      "initials": "O",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "SVENSKA METALLVERKEN",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 15271531.44,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3323777.66
+  },
+  "balance_sheet": {
+    "total_assets": 119057335.0,
+    "current_assets": 31351840.1,
+    "fixed_assets": 102594539.19,
+    "total_liabilities": 78141911.04,
+    "current_liabilities": null,
+    "long_term_liabilities": 50085530.42,
+    "shareholders_equity": 41671882.22
+  },
+  "employees": {
+    "n_employees": 4791,
+    "n_blue_collar_workers": 3462,
+    "n_white_collar_workers": 1320
+  },
+  "board": [
+    {
+      "surname": "Westerberg",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Früs",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": null,
+      "initials": "B. G.",
+      "position": null
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Grabe",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Serrander",
+      "first_name": "Staffan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Thjelvar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,128 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1979,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3432.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 88.1,
+    "depreciation": 95.2,
+    "net_income": 39.4
+  },
+  "balance_sheet": {
+    "total_assets": 3113.6,
+    "current_assets": 2112.6,
+    "fixed_assets": 964.3,
+    "total_liabilities": 982.6999999999999,
+    "current_liabilities": 509.0,
+    "long_term_liabilities": 637.6333333333333,
+    "shareholders_equity": 529.7
+  },
+  "employees": {
+    "n_employees": 13950,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Solveig",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmén",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fredriksson",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Birgit",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Holmen",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "aukt. revisor (suppleant)"
+    },
+    {
+      "surname": "Skeppstedt",
+      "first_name": "Anders",
+      "initials": null,
+      "auditing_firm": "aukt. revisor (suppleant)"
+    }
+  ]
+}

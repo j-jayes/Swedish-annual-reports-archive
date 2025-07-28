@@ -1,0 +1,64 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 21247057.97,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1473383.38,
+    "net_income": 19145411.89
+  },
+  "balance_sheet": {
+    "total_assets": 145605638.97,
+    "current_assets": 1598207.33,
+    "fixed_assets": 143685300.0,
+    "total_liabilities": 10890000.0,
+    "current_liabilities": 50491652.13,
+    "long_term_liabilities": 8500000.0,
+    "shareholders_equity": 54037064.02
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "PIHL",
+      "first_name": "GUST.",
+      "initials": "OVE",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

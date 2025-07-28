@@ -1,0 +1,122 @@
+{
+  "company_name": "Alfa Laval",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 9250.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 285.0,
+    "depreciation": 159.3,
+    "net_income": 421.8
+  },
+  "balance_sheet": {
+    "total_assets": 9648.6,
+    "current_assets": 3047.4,
+    "fixed_assets": 2004.9,
+    "total_liabilities": 3881.2,
+    "current_liabilities": 3881.2,
+    "long_term_liabilities": 1441.5,
+    "shareholders_equity": 2408.5
+  },
+  "employees": {
+    "n_employees": 15984,
+    "n_blue_collar_workers": 5522,
+    "n_white_collar_workers": 10462
+  },
+  "board": [
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Eliæson",
+      "first_name": "Per-Jonas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Faulkner",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Erik Johnson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlman",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmberg",
+      "first_name": "Siv",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jorma",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

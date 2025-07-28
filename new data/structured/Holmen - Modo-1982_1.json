@@ -1,0 +1,98 @@
+{
+  "company_name": "MoDo",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 4722.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -17.0,
+    "depreciation": null,
+    "net_income": 16.0
+  },
+  "balance_sheet": {
+    "total_assets": 6496.1,
+    "current_assets": 2726.3,
+    "fixed_assets": 2748.0,
+    "total_liabilities": 5251.6,
+    "current_liabilities": 1556.2,
+    "long_term_liabilities": 2934.0,
+    "shareholders_equity": 1244.5
+  },
+  "employees": {
+    "n_employees": 7026,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Löntagarrepresentant, PTK"
+    },
+    {
+      "surname": "Karhola-Wettergren",
+      "first_name": "Lil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Sprängare",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerlund",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Löntagarrepresentant, LO"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revi"
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "auditing_firm": "Jur dr"
+    }
+  ],
+  "additional_notes": null
+}

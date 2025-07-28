@@ -1,0 +1,88 @@
+{
+  "company_name": "AKTIEBOLAGET PAPYRUS",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 2344.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 130.0,
+    "net_income": 47.0
+  },
+  "balance_sheet": {
+    "total_assets": 3645.1,
+    "current_assets": 943.0,
+    "fixed_assets": 2698.1,
+    "total_liabilities": 295.0,
+    "current_liabilities": 528.7,
+    "long_term_liabilities": 770.6,
+    "shareholders_equity": 626.3
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Rudengren",
+      "first_name": "S",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Lindquist",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Herry",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Wijkström",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kjellman",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "N. G.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

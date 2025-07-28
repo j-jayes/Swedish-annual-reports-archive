@@ -1,0 +1,80 @@
+{
+  "company_name": "INVIK & CO. AB",
+  "fiscal_year": 2006,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1907.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -1520.5,
+    "wages_expense": null,
+    "tax_expense": -98.0,
+    "depreciation": null,
+    "net_income": 359.2
+  },
+  "balance_sheet": {
+    "total_assets": 14488.6,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1688.8
+  },
+  "employees": {
+    "n_employees": 284,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Klingspor",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "ORDFÖRANDE"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Cristina",
+      "initials": null,
+      "position": "VICE ORDFÖRANDE"
+    },
+    {
+      "surname": "Bramell",
+      "first_name": "Mia",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mitteregger",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Hern",
+      "first_name": "Rickard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fällman",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "VERKSTÄLLANDE DIREKTÖR"
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Mats",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson Henryson",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers AB"
+    }
+  ]
+}

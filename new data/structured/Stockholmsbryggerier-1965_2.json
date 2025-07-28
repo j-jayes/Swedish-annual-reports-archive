@@ -1,0 +1,92 @@
+{
+  "company_name": "AKTIEBOLAGET STOCKHOLMS BRYGGERIER",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 179.103,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4.446,
+    "net_income": 7.196
+  },
+  "balance_sheet": {
+    "total_assets": 192.882,
+    "current_assets": 41.212,
+    "fixed_assets": 75.436,
+    "total_liabilities": 98.46,
+    "current_liabilities": 21.041,
+    "long_term_liabilities": 36.259,
+    "shareholders_equity": 8.54
+  },
+  "employees": {
+    "n_employees": 3690,
+    "n_blue_collar_workers": 2413,
+    "n_white_collar_workers": 1277
+  },
+  "board": [
+    {
+      "surname": "ODELFELT",
+      "first_name": "B",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "F",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELMFELDT",
+      "first_name": "B",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDEGREN",
+      "first_name": "E",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "C.A",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLGERSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "RYDE",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GUSTA",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

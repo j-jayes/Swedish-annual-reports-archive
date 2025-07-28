@@ -1,0 +1,82 @@
+{
+  "company_name": "ATLANTICA",
+  "fiscal_year": 1933,
+  "income_statement": {
+    "revenue": 4871677.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 306380.6,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 403585.61
+  },
+  "balance_sheet": {
+    "total_assets": 7531723.29,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3673689.85,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3033593.85
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "HERBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K.",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E.",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "GUSTAF",
+      "initials": "E.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "BERNH.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

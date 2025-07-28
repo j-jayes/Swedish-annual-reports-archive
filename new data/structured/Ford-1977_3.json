@@ -1,0 +1,98 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 892717.386,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 32376.555,
+    "tax_expense": 3.01,
+    "depreciation": 4.387,
+    "net_income": 5.06
+  },
+  "balance_sheet": {
+    "total_assets": 426.014,
+    "current_assets": 116.208,
+    "fixed_assets": 52.053,
+    "total_liabilities": 341.916,
+    "current_liabilities": 144.434,
+    "long_term_liabilities": 6.377,
+    "shareholders_equity": 34.01
+  },
+  "employees": {
+    "n_employees": 488,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "RAMEL",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Ordförande-Chairman"
+    },
+    {
+      "surname": "BECKETT",
+      "first_name": "TERRY",
+      "initials": "N.",
+      "position": null
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "\nÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FEHRM",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRUEGER",
+      "first_name": "A.",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDAHL",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLQUIST",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDÉN",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WITT",
+      "first_name": "CARL",
+      "initials": "HENRIK",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NILSSON",
+      "first_name": "LARS",
+      "initials": "GÖRAN",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

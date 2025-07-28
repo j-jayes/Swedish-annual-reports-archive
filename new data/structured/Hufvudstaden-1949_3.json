@@ -1,0 +1,80 @@
+{
+  "company_name": "Fastighetsaktiebolaget Hufvudstaden",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 3115426.37,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 286532.0,
+    "net_income": 1107849.82
+  },
+  "balance_sheet": {
+    "total_assets": 65303080.24,
+    "current_assets": 592791.23,
+    "fixed_assets": 57571272.95,
+    "total_liabilities": 41169643.11,
+    "current_liabilities": 1875587.27,
+    "long_term_liabilities": 39294055.84,
+    "shareholders_equity": 24133437.13
+  },
+  "employees": {
+    "n_employees": 127,
+    "n_blue_collar_workers": 97,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nothin",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dunker",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wibom",
+      "first_name": "Tor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellstenius",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Celsing",
+      "first_name": null,
+      "initials": "F.v.",
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "E.",
+      "initials": "C:son",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fessé",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 26722618.66,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2097197.35,
+    "net_income": 1622808.95
+  },
+  "balance_sheet": {
+    "total_assets": 51204368.84,
+    "current_assets": 25835.1,
+    "fixed_assets": 18796836.68,
+    "total_liabilities": 43329196.38,
+    "current_liabilities": 15091038.28,
+    "long_term_liabilities": 8075832.24,
+    "shareholders_equity": 7875172.46
+  },
+  "employees": {
+    "n_employees": 751,
+    "n_blue_collar_workers": 299,
+    "n_white_collar_workers": 452
+  },
+  "board": [
+    {
+      "surname": "Alfort",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Carl-Axel",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    }
+  ],
+  "additional_notes": null
+}

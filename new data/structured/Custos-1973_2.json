@@ -1,0 +1,100 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 0.346,
+    "depreciation": null,
+    "net_income": 44.451
+  },
+  "balance_sheet": {
+    "total_assets": 301.262,
+    "current_assets": 5.551,
+    "fixed_assets": 295.711,
+    "total_liabilities": 5.976,
+    "current_liabilities": 4.892,
+    "long_term_liabilities": null,
+    "shareholders_equity": 295.286
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R:SON",
+      "position": "ordf."
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "GYLLENHAMMAR",
+      "first_name": "PEHR",
+      "initials": "G.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "ÖHMAN",
+      "first_name": "ANDERS",
+      "initials": "R.",
+      "position": "Advokat"
+    },
+    {
+      "surname": "ARONSON",
+      "first_name": "ALBERT",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "AKE",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PAHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SÖRENSEN",
+      "first_name": "CHRISTIAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

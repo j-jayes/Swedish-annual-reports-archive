@@ -1,0 +1,92 @@
+{
+  "company_name": "Bolidens Gruvaktiebolag",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 28.772,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 7.972
+  },
+  "balance_sheet": {
+    "total_assets": 181.628,
+    "current_assets": 59.491,
+    "fixed_assets": 122.137,
+    "total_liabilities": 58.255,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 123.373
+  },
+  "employees": {
+    "n_employees": 4170,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BELFRAGE",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": "K-G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": "S. L.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WENDLER",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

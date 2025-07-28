@@ -1,0 +1,86 @@
+{
+  "company_name": "AB SVENSKA METALLVERKEN",
+  "fiscal_year": 1950,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 13914717.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3052005.89
+  },
+  "balance_sheet": {
+    "total_assets": 146213622.44333333,
+    "current_assets": 65428624.88,
+    "fixed_assets": 80846286.6,
+    "total_liabilities": 51762985.42,
+    "current_liabilities": 13656641.95,
+    "long_term_liabilities": 47395413.89,
+    "shareholders_equity": 40525360.64
+  },
+  "employees": {
+    "n_employees": 4685,
+    "n_blue_collar_workers": 3394,
+    "n_white_collar_workers": 1282
+  },
+  "board": [
+    {
+      "surname": "WESTERBERG",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "FRIIS",
+      "first_name": null,
+      "initials": "ALF",
+      "position": "GRABE"
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": null,
+      "initials": "B. G.",
+      "position": null
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ODÉEN",
+      "first_name": null,
+      "initials": "PER",
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fredholm",
+      "first_name": "I.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Thjelvar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

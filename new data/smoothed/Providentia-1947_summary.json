@@ -1,0 +1,64 @@
+{
+  "company_name": "PROVIDENTIA",
+  "fiscal_year": 1947,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3592640.35,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7482.0,
+    "depreciation": null,
+    "net_income": 1670779.42
+  },
+  "balance_sheet": {
+    "total_assets": 38005219.72,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": 9221944.88,
+    "long_term_liabilities": null,
+    "shareholders_equity": 10275792.84
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Anér",
+      "first_name": "Josef",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G. A.",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Markdahl",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

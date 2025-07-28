@@ -1,0 +1,98 @@
+{
+  "company_name": "UPLANDSBANKEN",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 45691000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 28040000.0,
+    "wages_expense": null,
+    "tax_expense": 3900000.0,
+    "depreciation": null,
+    "net_income": 4633000.0
+  },
+  "balance_sheet": {
+    "total_assets": 1331901000.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1331901000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 30000000.0
+  },
+  "employees": {
+    "n_employees": 428,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hæggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Waldemar",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Göth",
+      "first_name": "Elis",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Gottfrid",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Segerstedt",
+      "first_name": "Torgny",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Stiernstedt",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "landstingsråd"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björfors",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Kungl. Bankinspektionen"
+    },
+    {
+      "surname": "Henningson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Fridolf",
+      "initials": null,
+      "auditing_firm": "direktör"
+    },
+    {
+      "surname": "Åkerstedt",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "fögderidirektör"
+    }
+  ],
+  "additional_notes": null
+}

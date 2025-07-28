@@ -1,0 +1,146 @@
+{
+  "company_name": "STOCKHOLMS ENSKILDA BANK",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 188.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 43.0,
+    "depreciation": null,
+    "net_income": 24.279
+  },
+  "balance_sheet": {
+    "total_assets": 5110.9,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3347.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 309.3
+  },
+  "employees": {
+    "n_employees": 967,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Boheman",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": "de",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "H:son-Ericson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ax:son Johnson",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Munck",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordmark",
+      "first_name": "Carl Henrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sachs",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier Jr",
+      "first_name": "Albert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stålhand",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg Jr",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gustaf",
+      "initials": "C:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": null,
+      "initials": "S-H",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "Kungl. Bankinspektionen"
+    }
+  ],
+  "additional_notes": null
+}

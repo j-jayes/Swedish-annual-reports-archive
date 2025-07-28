@@ -1,0 +1,80 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1993,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 266.393,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 309.57,
+    "wages_expense": null,
+    "tax_expense": -256.9576666666667,
+    "depreciation": 13.972666666666667,
+    "net_income": 380.45
+  },
+  "balance_sheet": {
+    "total_assets": 5.666034,
+    "current_assets": 89.746,
+    "fixed_assets": 5.575250333333333,
+    "total_liabilities": 2.055214,
+    "current_liabilities": 47.68,
+    "long_term_liabilities": 24.366,
+    "shareholders_equity": 3.5359393333333333
+  },
+  "employees": {
+    "n_employees": 7,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyll",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öhman",
+      "first_name": "Anders",
+      "initials": "R",
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "SET-Svensson, Erikson & Tjus Revisionsbyrå HB"
+    }
+  ]
+}

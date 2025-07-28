@@ -1,0 +1,116 @@
+{
+  "company_name": "H & M Hennes & Mauritz AB",
+  "fiscal_year": 1999,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 21995.3255,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 10155.8,
+    "wages_expense": null,
+    "tax_expense": 1122.6944,
+    "depreciation": 457.0,
+    "net_income": 2051.2918
+  },
+  "balance_sheet": {
+    "total_assets": 9470.199400000001,
+    "current_assets": 6405.500566666667,
+    "fixed_assets": 1998.5321000000001,
+    "total_liabilities": 2604.2348,
+    "current_liabilities": 2145.739,
+    "long_term_liabilities": 43.2,
+    "shareholders_equity": 6865.964599999999
+  },
+  "employees": {
+    "n_employees": 17652,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brusberg",
+      "first_name": "Birgitta",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Hofer",
+      "first_name": "Werner",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Kvart",
+      "first_name": "Sussi",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norin-Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Arbetstagarsuppleant"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Fabian",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Agneta",
+      "initials": null,
+      "position": "Arbetstagarsuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhage",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    }
+  ]
+}

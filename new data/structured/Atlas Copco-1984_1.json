@@ -1,0 +1,146 @@
+{
+  "company_name": "ATLAS COPCO",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 9099.6,
+    "cost_of_goods_sold": 8087.4,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 242.1,
+    "depreciation": null,
+    "net_income": 281.1
+  },
+  "balance_sheet": {
+    "total_assets": 8216.6,
+    "current_assets": 6372.4,
+    "fixed_assets": 1835.4,
+    "total_liabilities": 5151.5,
+    "current_liabilities": 3307.8,
+    "long_term_liabilities": 1843.7,
+    "shareholders_equity": 2387.9
+  },
+  "employees": {
+    "n_employees": 16484,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "WACHTMEISTER",
+      "first_name": "TOM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BELFRAGE",
+      "first_name": "K-A",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "CURT",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "MUELLER",
+      "first_name": "P.",
+      "initials": "HENRY",
+      "position": null
+    },
+    {
+      "surname": "TIDEMAND",
+      "first_name": "OTTO",
+      "initials": "GRIEG",
+      "position": null
+    },
+    {
+      "surname": "GYLLENHAMMAR",
+      "first_name": "PEHR",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "SVEDBERG",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "IVEROTH",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHNSSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENNING",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYHOLM",
+      "first_name": "PER-ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖDNER",
+      "first_name": "STURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEDBERG",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SONESSON",
+      "first_name": "BIRGER",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "BERTIL",
+      "initials": "E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "GIERTZ",
+      "first_name": "KARL-G",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RIBERS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

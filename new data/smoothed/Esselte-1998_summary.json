@@ -1,0 +1,92 @@
+{
+  "company_name": "Esselte",
+  "fiscal_year": 1998,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 9151.907,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -503.0,
+    "depreciation": null,
+    "net_income": 664.0
+  },
+  "balance_sheet": {
+    "total_assets": 9121.0,
+    "current_assets": 4452.0,
+    "fixed_assets": 1459.0,
+    "total_liabilities": 5571.0,
+    "current_liabilities": 3540.0,
+    "long_term_liabilities": 2020.0,
+    "shareholders_equity": 2271.135
+  },
+  "employees": {
+    "n_employees": 10517,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jofs",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kvarnström",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ohlsson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Luthman",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Markborn",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen & Co"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ]
+}

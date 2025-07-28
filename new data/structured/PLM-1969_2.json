@@ -1,0 +1,92 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 546.582,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 30.214,
+    "net_income": 16.27
+  },
+  "balance_sheet": {
+    "total_assets": 434.376,
+    "current_assets": 163.528,
+    "fixed_assets": 202.707,
+    "total_liabilities": 226.728,
+    "current_liabilities": 104.664,
+    "long_term_liabilities": 95.75,
+    "shareholders_equity": 168.927
+  },
+  "employees": {
+    "n_employees": 5736,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindskog",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Styrelsens vice ordförande"
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Bertil",
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "CG",
+      "initials": null,
+      "position": "Friherre"
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Direktör, Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 418.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 87.268,
+    "wages_expense": null,
+    "tax_expense": 0.65,
+    "depreciation": 18.936,
+    "net_income": 3.252
+  },
+  "balance_sheet": {
+    "total_assets": 536.246,
+    "current_assets": 119.555,
+    "fixed_assets": 323.557,
+    "total_liabilities": 4699.0,
+    "current_liabilities": 92.293,
+    "long_term_liabilities": 176.352,
+    "shareholders_equity": 31.878
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wettermark",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Birgander",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodin",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W.",
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

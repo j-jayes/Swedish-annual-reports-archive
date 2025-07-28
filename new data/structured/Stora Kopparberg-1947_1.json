@@ -1,0 +1,92 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AKTIEBOLAG",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 189961916.09,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 15900000.0,
+    "depreciation": null,
+    "net_income": 12585002.34
+  },
+  "balance_sheet": {
+    "total_assets": 86746491.4,
+    "current_assets": 86658573.03,
+    "fixed_assets": 30902840.4,
+    "total_liabilities": 27681815.24,
+    "current_liabilities": 25630094.4,
+    "long_term_liabilities": 2051720.84,
+    "shareholders_equity": 164648365.31
+  },
+  "employees": {
+    "n_employees": 9171,
+    "n_blue_collar_workers": 8154,
+    "n_white_collar_workers": 1017
+  },
+  "board": [
+    {
+      "surname": "LJUNGLÖF",
+      "first_name": "ROB.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLUND",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "SALWÉN",
+      "first_name": "E.",
+      "initials": "RIK.",
+      "position": null
+    },
+    {
+      "surname": "RODLING",
+      "first_name": "EJNAR",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "COLLÉN",
+      "first_name": "A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NORDENSTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RABENIUS",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

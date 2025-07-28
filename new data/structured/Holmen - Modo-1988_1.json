@@ -1,0 +1,122 @@
+{
+  "company_name": "MoDo",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 19532.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 16555.0,
+    "wages_expense": null,
+    "tax_expense": -291.0,
+    "depreciation": -832.0,
+    "net_income": 228.0
+  },
+  "balance_sheet": {
+    "total_assets": 26398.0,
+    "current_assets": 7240.0,
+    "fixed_assets": 15971.0,
+    "total_liabilities": 9251.0,
+    "current_liabilities": 4058.0,
+    "long_term_liabilities": 2120.0,
+    "shareholders_equity": 2619.0
+  },
+  "employees": {
+    "n_employees": 16714,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Engman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "vVD"
+    },
+    {
+      "surname": "Gidlöf",
+      "first_name": "Dick",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Karhola-Wettergren",
+      "first_name": "Lil",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Löf",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Måberg",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Nordin",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "VVD"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Schumacher",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

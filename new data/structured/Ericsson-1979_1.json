@@ -1,0 +1,110 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET LM ERICSSON",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 9328.9,
+    "cost_of_goods_sold": 5410.6,
+    "operating_expenses": 2943.9,
+    "wages_expense": null,
+    "tax_expense": 143.4,
+    "depreciation": 344.3,
+    "net_income": 198.3
+  },
+  "balance_sheet": {
+    "total_assets": 12959.3,
+    "current_assets": 9083.2,
+    "fixed_assets": 1840.0,
+    "total_liabilities": 10012.0,
+    "current_liabilities": 3887.9,
+    "long_term_liabilities": 2624.9,
+    "shareholders_equity": 2947.3
+  },
+  "employees": {
+    "n_employees": 59500,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LUNDVALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "\nÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BJUREL",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLSTRÖM",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERGREN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSCARSSON",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVEDBERG",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jones",
+      "first_name": "David",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    },
+    {
+      "surname": "Eskilson",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

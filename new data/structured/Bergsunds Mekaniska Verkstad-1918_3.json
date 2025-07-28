@@ -1,0 +1,64 @@
+{
+  "company_name": "Bergsunds Mekaniska Verkstads Aktiebolag",
+  "fiscal_year": 1918,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 108437.0,
+    "net_income": -169022.32
+  },
+  "balance_sheet": {
+    "total_assets": 15511080.54,
+    "current_assets": null,
+    "fixed_assets": 4330518.88,
+    "total_liabilities": 7976508.03,
+    "current_liabilities": null,
+    "long_term_liabilities": 1422000.0,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hök",
+      "first_name": "A.",
+      "initials": "A. W.",
+      "position": null
+    },
+    {
+      "surname": "Cedercrantz",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edquist",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schubert",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Mannerstedt",
+      "first_name": "V.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nissvandt",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Bolaget svarade vid årsskiftet för främmande diskonterade accepter samt andra utelöpande borgens- och ansvarsförbindelser till ett belopp av sammanlagt kr. 475.323: 85."
+}

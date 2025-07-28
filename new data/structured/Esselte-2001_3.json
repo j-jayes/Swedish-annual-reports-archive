@@ -1,0 +1,104 @@
+{
+  "company_name": "Esselte AB",
+  "fiscal_year": 2001,
+  "income_statement": {
+    "revenue": 10853.0,
+    "cost_of_goods_sold": -7786.0,
+    "operating_expenses": -2625.0,
+    "wages_expense": 2465.0,
+    "tax_expense": -34.0,
+    "depreciation": 528.0,
+    "net_income": 50.0
+  },
+  "balance_sheet": {
+    "total_assets": 8319.0,
+    "current_assets": 5043.0,
+    "fixed_assets": 1298.0,
+    "total_liabilities": 5834.0,
+    "current_liabilities": 2560.0,
+    "long_term_liabilities": 3274.0,
+    "shareholders_equity": 2485.0
+  },
+  "employees": {
+    "n_employees": 6462,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Igel",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Ohlsson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Jofs",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fröhlich",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jungner",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Ingela",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Arenander",
+      "first_name": "Andreas",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Birgersson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Wahlquist",
+      "first_name": "Ola",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Träff",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

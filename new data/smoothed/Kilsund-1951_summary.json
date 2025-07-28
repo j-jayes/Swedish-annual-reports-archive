@@ -1,0 +1,43 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1951,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2512991.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 930148.0,
+    "depreciation": 57091.61,
+    "net_income": 1093485.11
+  },
+  "balance_sheet": {
+    "total_assets": 17029346.73666667,
+    "current_assets": 14317593.55,
+    "fixed_assets": 6483180.043333333,
+    "total_liabilities": 5321867.49,
+    "current_liabilities": 3548997.8466666667,
+    "long_term_liabilities": 2660933.925,
+    "shareholders_equity": 10300000.0
+  },
+  "employees": {
+    "n_employees": 946,
+    "n_blue_collar_workers": 841,
+    "n_white_collar_workers": 105
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Karlgren",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenström",
+      "first_name": "Miles",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

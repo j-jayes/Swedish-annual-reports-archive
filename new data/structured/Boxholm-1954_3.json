@@ -1,0 +1,104 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 4448016.71,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1480.554,
+    "depreciation": 871000.0,
+    "net_income": 1213647.64
+  },
+  "balance_sheet": {
+    "total_assets": 22053742.29,
+    "current_assets": 11662623.01,
+    "fixed_assets": 10245116.28,
+    "total_liabilities": 13653742.29,
+    "current_liabilities": null,
+    "long_term_liabilities": 3179009.38,
+    "shareholders_equity": 8400000.0
+  },
+  "employees": {
+    "n_employees": 1275,
+    "n_blue_collar_workers": 1168,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "von Hofsten",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rothlind",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hult",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiking-Johnsson",
+      "first_name": "Uno",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "von Hofsten",
+      "first_name": "Sixten",
+      "initials": null,
+      "auditing_firm": "Godkänd granskningsman"
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

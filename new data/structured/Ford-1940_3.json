@@ -1,0 +1,82 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1940,
+  "income_statement": {
+    "revenue": 809.088,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 111.223,
+    "net_income": 625.944
+  },
+  "balance_sheet": {
+    "total_assets": 12.343271,
+    "current_assets": null,
+    "fixed_assets": 2.378768,
+    "total_liabilities": 2.081016,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2.577891
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "FORD",
+      "first_name": "EDSEL",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "PERRY",
+      "first_name": null,
+      "initials": null,
+      "position": "RT. HON. LORD PERRY OF STOCK HARVARD, K. B. E., LL. D."
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÉN",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": null,
+      "initials": "Rolf von",
+      "position": null
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "ELIEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBLAD",
+      "first_name": null,
+      "initials": "Gust. R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SILLÉN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

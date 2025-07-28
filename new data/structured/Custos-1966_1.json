@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET CUSTOS",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 29987264.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 17258670.78
+  },
+  "balance_sheet": {
+    "total_assets": 177239394.83,
+    "current_assets": 3548388.33,
+    "fixed_assets": 10901224.28,
+    "total_liabilities": null,
+    "current_liabilities": 2480000.0,
+    "long_term_liabilities": 4000000.0,
+    "shareholders_equity": 16096924.4
+  },
+  "employees": {
+    "n_employees": 10,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R",
+      "position": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AHREN",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "A.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PAHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WIRSTROM",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

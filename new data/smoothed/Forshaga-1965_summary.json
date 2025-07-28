@@ -1,0 +1,80 @@
+{
+  "company_name": "LINOLEUM AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 83580.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 72258.0,
+    "wages_expense": null,
+    "tax_expense": 3200.0,
+    "depreciation": 2019.0,
+    "net_income": 1011.0
+  },
+  "balance_sheet": {
+    "total_assets": 41671.0,
+    "current_assets": 33058.0,
+    "fixed_assets": 5975.0,
+    "total_liabilities": 21254.0,
+    "current_liabilities": 11590.0,
+    "long_term_liabilities": 2827.0,
+    "shareholders_equity": 12729.0
+  },
+  "employees": {
+    "n_employees": 323,
+    "n_blue_collar_workers": 282,
+    "n_white_collar_workers": 323
+  },
+  "board": [
+    {
+      "surname": "Thomsen",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Kaars Sypesteyn",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thornander",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zoelly",
+      "first_name": "Charles",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljungren",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergbrant",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

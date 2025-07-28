@@ -1,0 +1,80 @@
+{
+  "company_name": "Atlas Copco",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 8224989.0
+  },
+  "balance_sheet": {
+    "total_assets": 126414544.0,
+    "current_assets": null,
+    "fixed_assets": 13674969.0,
+    "total_liabilities": null,
+    "current_liabilities": 40031092.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 63845000.0
+  },
+  "employees": {
+    "n_employees": 669,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Steyern",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "K.-A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sällfors",
+      "first_name": "C. Tarras",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

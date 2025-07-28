@@ -1,0 +1,92 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolaget",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 19698669.47,
+    "wages_expense": 134709281.82,
+    "tax_expense": 7800000.0,
+    "depreciation": 16212437.63,
+    "net_income": 10376033.38
+  },
+  "balance_sheet": {
+    "total_assets": 533241753.1,
+    "current_assets": 321840879.89,
+    "fixed_assets": 211400873.21,
+    "total_liabilities": 369642252.33,
+    "current_liabilities": 48020767.19,
+    "long_term_liabilities": 59343517.61,
+    "shareholders_equity": 163599500.77
+  },
+  "employees": {
+    "n_employees": 21448,
+    "n_blue_collar_workers": 14521,
+    "n_white_collar_workers": 6927
+  },
+  "board": [
+    {
+      "surname": "Ericson",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\"\",ke",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Lilliecreutz",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\"\".ke",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ljungdahl",
+      "first_name": "C E",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sillén",
+      "first_name": "O",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

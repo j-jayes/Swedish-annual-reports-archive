@@ -1,0 +1,86 @@
+{
+  "company_name": "Rederiaktiebolaget Svenska Lloyd",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 131.629,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 115.394,
+    "wages_expense": null,
+    "tax_expense": 2.05,
+    "depreciation": 12.162,
+    "net_income": 1.711
+  },
+  "balance_sheet": {
+    "total_assets": 116.804,
+    "current_assets": 15.794,
+    "fixed_assets": 101.01,
+    "total_liabilities": 86.099,
+    "current_liabilities": 26.309,
+    "long_term_liabilities": 59.791,
+    "shareholders_equity": 30.704
+  },
+  "employees": {
+    "n_employees": 1098,
+    "n_blue_collar_workers": 883,
+    "n_white_collar_workers": 184
+  },
+  "board": [
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSÉN",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CHRISTOFFERSEN",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JANSON",
+      "first_name": "Orvar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ROHLIN",
+      "first_name": "Sven-Rune",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HÅKANSSON",
+      "first_name": "Edvin",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

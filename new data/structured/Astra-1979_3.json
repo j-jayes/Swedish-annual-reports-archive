@@ -1,0 +1,110 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 1897.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1678.7,
+    "wages_expense": null,
+    "tax_expense": -37.6,
+    "depreciation": null,
+    "net_income": 66.8
+  },
+  "balance_sheet": {
+    "total_assets": 1670.9,
+    "current_assets": 1001.7,
+    "fixed_assets": 664.4,
+    "total_liabilities": 431.9,
+    "current_liabilities": 386.2,
+    "long_term_liabilities": 429.0,
+    "shareholders_equity": 365.3
+  },
+  "employees": {
+    "n_employees": 6540,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "ALM",
+      "first_name": "BÖRJE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "TONY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "ROLAND",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WERKÖ",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "WIDENGREN",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": "Professor"
+    },
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

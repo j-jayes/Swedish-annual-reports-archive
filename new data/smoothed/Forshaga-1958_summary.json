@@ -1,0 +1,92 @@
+{
+  "company_name": "LINOLEUM AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1958,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 4785535.94,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2409110.87,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1613703.47,
+    "net_income": 703559.41
+  },
+  "balance_sheet": {
+    "total_assets": 16289070.93,
+    "current_assets": 8054507.74,
+    "fixed_assets": 3620137.4166666665,
+    "total_liabilities": 10625429.72,
+    "current_liabilities": 3982885.76,
+    "long_term_liabilities": 716561.4,
+    "shareholders_equity": 5618606.046666667
+  },
+  "employees": {
+    "n_employees": 366,
+    "n_blue_collar_workers": 244,
+    "n_white_collar_workers": 122
+  },
+  "board": [
+    {
+      "surname": "GRÖNBERG",
+      "first_name": "C",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ZOELLY",
+      "first_name": null,
+      "initials": "CH.",
+      "position": null
+    },
+    {
+      "surname": "THORNANDER",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KAARS SYPESTEYN",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "MAGNUSSON",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMSEN",
+      "first_name": null,
+      "initials": "I.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": null,
+      "initials": "E. W.",
+      "auditing_firm": null
+    }
+  ]
+}

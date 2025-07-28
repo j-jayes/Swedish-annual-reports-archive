@@ -1,0 +1,92 @@
+{
+  "company_name": "AKTIEBOLAGET STOCKHOLMS BRYGGERIER",
+  "fiscal_year": 1966,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 176.318,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3.836,
+    "depreciation": 5.033,
+    "net_income": 8.668
+  },
+  "balance_sheet": {
+    "total_assets": 249.84,
+    "current_assets": 71.018,
+    "fixed_assets": 198.911,
+    "total_liabilities": 147.188,
+    "current_liabilities": 40.66266666666667,
+    "long_term_liabilities": 82.38933333333333,
+    "shareholders_equity": 102.652
+  },
+  "employees": {
+    "n_employees": 3571,
+    "n_blue_collar_workers": 2259,
+    "n_white_collar_workers": 1312
+  },
+  "board": [
+    {
+      "surname": "ODELFELT",
+      "first_name": "B",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "J",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDEGREN",
+      "first_name": "E",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "C A",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLGERSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "ELMFELDT",
+      "first_name": "B",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RYDE",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GUSTA",
+      "initials": null,
+      "auditing_firm": "Aukt. revisorer"
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

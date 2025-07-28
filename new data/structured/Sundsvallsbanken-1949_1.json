@@ -1,0 +1,118 @@
+{
+  "company_name": "SUNDSVALLS ENSKILDA BANK",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 9300800.99,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3422890.1,
+    "wages_expense": null,
+    "tax_expense": 2050000.0,
+    "depreciation": 1197718.11,
+    "net_income": 2330192.78
+  },
+  "balance_sheet": {
+    "total_assets": 317211605.36,
+    "current_assets": null,
+    "fixed_assets": 3088761.0,
+    "total_liabilities": 314095618.7,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3115986.44
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Velander",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": "tekn.",
+      "position": "vice ordf"
+    },
+    {
+      "surname": "Bæckman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Francke",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ryttmästare"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Gunnar",
+      "initials": "jur. dr",
+      "position": null
+    },
+    {
+      "surname": "Hjerpstedt",
+      "first_name": "Bror",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Müller",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Rogberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "assuransdirektör"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "A.",
+      "initials": "G.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Winström",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Källqvist",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "bankdirektör, verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergengren",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Holmbäck",
+      "first_name": "Bure",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

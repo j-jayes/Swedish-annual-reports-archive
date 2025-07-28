@@ -1,0 +1,86 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 368.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 176.4,
+    "wages_expense": null,
+    "tax_expense": 57.3,
+    "depreciation": 26.4,
+    "net_income": 50.6
+  },
+  "balance_sheet": {
+    "total_assets": 1614.5,
+    "current_assets": 115.6,
+    "fixed_assets": 1498.9,
+    "total_liabilities": 526.1,
+    "current_liabilities": 200.7,
+    "long_term_liabilities": 526.1,
+    "shareholders_equity": 675.9
+  },
+  "employees": {
+    "n_employees": 112,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Giesecke",
+      "first_name": "Curt-Steffan",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ando",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Erikson & Tjus Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

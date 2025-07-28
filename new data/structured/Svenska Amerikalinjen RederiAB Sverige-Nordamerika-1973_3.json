@@ -1,0 +1,116 @@
+{
+  "company_name": "AB Svenska Amerika Linien",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 137.902,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 13.582,
+    "net_income": 2.799
+  },
+  "balance_sheet": {
+    "total_assets": 345.681,
+    "current_assets": 47.701,
+    "fixed_assets": 241.078,
+    "total_liabilities": null,
+    "current_liabilities": 77.389,
+    "long_term_liabilities": 65.0,
+    "shareholders_equity": 143.934
+  },
+  "employees": {
+    "n_employees": 917,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Janson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Steen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Sydow",
+      "first_name": "Kristian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Åke",
+      "initials": "A.",
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Nilson",
+      "first_name": "B.",
+      "initials": "G.",
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "Nielsen",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sandell",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ahrén",
+      "first_name": "Claes",
+      "initials": "E.",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

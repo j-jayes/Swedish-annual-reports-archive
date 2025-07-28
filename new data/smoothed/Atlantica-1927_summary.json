@@ -1,0 +1,82 @@
+{
+  "company_name": "Försäkringsaktiebolaget Atlantica",
+  "fiscal_year": 1927,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5671273.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5594760.17,
+    "wages_expense": null,
+    "tax_expense": 31349.39,
+    "depreciation": null,
+    "net_income": 233259.54
+  },
+  "balance_sheet": {
+    "total_assets": 10558531.66,
+    "current_assets": null,
+    "fixed_assets": 1500000.0,
+    "total_liabilities": 5010805.81,
+    "current_liabilities": null,
+    "long_term_liabilities": 179492.15,
+    "shareholders_equity": 3029905.81
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "OLBURS",
+      "first_name": "VIDAR",
+      "initials": "VIDAR R.",
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E.",
+      "initials": "E. W.",
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "GUSTAF",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "E.",
+      "initials": "GUSTAF",
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "NILS",
+      "initials": "NILS",
+      "position": "Verkst. Direktör"
+    },
+    {
+      "surname": "METCALFE",
+      "first_name": "H.",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "JONSSON J:OR",
+      "first_name": "AXEL",
+      "initials": "AXEL",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ADAMSON",
+      "first_name": null,
+      "initials": "C. A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "LAGNELL",
+      "first_name": "KNUT",
+      "initials": "KNUT",
+      "auditing_firm": null
+    }
+  ]
+}

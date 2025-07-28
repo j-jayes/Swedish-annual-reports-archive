@@ -1,0 +1,128 @@
+{
+  "company_name": "HOLMEN",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 2074.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1839.785,
+    "wages_expense": null,
+    "tax_expense": 15.134,
+    "depreciation": 96.722,
+    "net_income": 28.022
+  },
+  "balance_sheet": {
+    "total_assets": 2037.733,
+    "current_assets": 801.087,
+    "fixed_assets": 1236.646,
+    "total_liabilities": 990.915,
+    "current_liabilities": 440.527,
+    "long_term_liabilities": 494.604,
+    "shareholders_equity": 295.867
+  },
+  "employees": {
+    "n_employees": 4155,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": "C",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Gripenstedt",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Trolle-Löwen",
+      "first_name": "August",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl",
+      "initials": "Erik",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Staf",
+      "first_name": "Ellert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klinga",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "Wendschlag",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gieryluk",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Weine",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Õiar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pihlström",
+      "first_name": "Herbert",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Halvorsen",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "Aktiebolaget Papyrus",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 4938.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -180.1,
+    "depreciation": 227.3,
+    "net_income": 148.0
+  },
+  "balance_sheet": {
+    "total_assets": 5606.5,
+    "current_assets": 1901.6,
+    "fixed_assets": 3085.6,
+    "total_liabilities": 2704.8,
+    "current_liabilities": 1017.2,
+    "long_term_liabilities": 508.2,
+    "shareholders_equity": 1232.7
+  },
+  "employees": {
+    "n_employees": 4392,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Harrison",
+      "first_name": "Per",
+      "initials": "\nÅke",
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Torkel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\nÅkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Bäckberg",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Theorin",
+      "first_name": "Lars-\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustavsson",
+      "first_name": "\nÅke",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Theorin",
+      "first_name": "Lars-\nÅke",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gustavsson",
+      "first_name": "\nÅke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET AXEL CHRISTIERNSSON",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2871811.81
+  },
+  "balance_sheet": {
+    "total_assets": 17248231.58,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3524554.69,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 13723676.89
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 2000
+  },
+  "board": [
+    {
+      "surname": "PETRÉN",
+      "first_name": null,
+      "initials": "V.",
+      "position": null
+    },
+    {
+      "surname": "MEETHS",
+      "first_name": "HERM.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAVIDSON",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "C. G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JACOBSON",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ARONSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

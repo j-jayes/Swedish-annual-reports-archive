@@ -1,0 +1,64 @@
+{
+  "company_name": "Gunnebo Bruks Nya Aktiebolag",
+  "fiscal_year": 1935,
+  "income_statement": {
+    "revenue": 838302.96,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 490928.91,
+    "wages_expense": null,
+    "tax_expense": 22504.79,
+    "depreciation": 250000.0,
+    "net_income": 107428.88
+  },
+  "balance_sheet": {
+    "total_assets": 6798934.16,
+    "current_assets": null,
+    "fixed_assets": 5031500.0,
+    "total_liabilities": 3222000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4027500.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Gyllenstierna",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellgren",
+      "first_name": "Rich.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunström",
+      "first_name": "Rudolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Juano",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

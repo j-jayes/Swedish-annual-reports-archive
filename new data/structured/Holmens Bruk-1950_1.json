@@ -1,0 +1,68 @@
+{
+  "company_name": "HOLMENS BRUK",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 136.33,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7029522.34,
+    "depreciation": 5963497.56,
+    "net_income": 7781098.58
+  },
+  "balance_sheet": {
+    "total_assets": 109623276.19,
+    "current_assets": 73260447.55,
+    "fixed_assets": 30790828.64,
+    "total_liabilities": 54982036.57,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 34560000.0
+  },
+  "employees": {
+    "n_employees": 3919,
+    "n_blue_collar_workers": 3278,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "E.",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Martin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": "Chr.",
+      "initials": "von",
+      "position": "Verkställande direktov."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

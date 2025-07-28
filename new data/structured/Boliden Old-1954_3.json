@@ -1,0 +1,92 @@
+{
+  "company_name": "BOLIDENS GRUVAKTIEBOLAG",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 50.966,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9.314,
+    "depreciation": 24.508,
+    "net_income": 14.608
+  },
+  "balance_sheet": {
+    "total_assets": 189.254,
+    "current_assets": 63.423,
+    "fixed_assets": 125.83,
+    "total_liabilities": 57.152,
+    "current_liabilities": 31.593,
+    "long_term_liabilities": 21.458,
+    "shareholders_equity": 132.102
+  },
+  "employees": {
+    "n_employees": 4476,
+    "n_blue_collar_workers": 3570,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BELFRAGE",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": null,
+      "initials": "E. C:SON",
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": null,
+      "initials": "K-G.",
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": null,
+      "initials": "S. L.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DAHL",
+      "first_name": "C. O.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

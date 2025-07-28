@@ -1,0 +1,86 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AB",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 195.83091907,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 43.0,
+    "depreciation": 127.30526837,
+    "net_income": 44.98710307
+  },
+  "balance_sheet": {
+    "total_assets": 913.83201135,
+    "current_assets": 315.22510114,
+    "fixed_assets": 598.60691021,
+    "total_liabilities": 361.59662345,
+    "current_liabilities": 111.02088695,
+    "long_term_liabilities": 233.2102,
+    "shareholders_equity": 481.5293879
+  },
+  "employees": {
+    "n_employees": 13215,
+    "n_blue_collar_workers": 11480,
+    "n_white_collar_workers": 1735
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Abenius",
+      "first_name": "H.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Essen",
+      "first_name": "M. von",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderbäck",
+      "first_name": "Fritiof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Öbrink",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

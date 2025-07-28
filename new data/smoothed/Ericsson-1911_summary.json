@@ -1,0 +1,62 @@
+{
+  "company_name": "L. M. ERICSSON & Co.",
+  "fiscal_year": 1911,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 836793.29,
+    "wages_expense": 130605.0,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2419017.51
+  },
+  "balance_sheet": {
+    "total_assets": 18188484.49,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 15256007.22,
+    "current_liabilities": 1693329.52,
+    "long_term_liabilities": 3728531.25,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 1340,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Montelius",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klemming",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hall\nén",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schultz",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

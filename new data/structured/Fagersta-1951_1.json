@@ -1,0 +1,74 @@
+{
+  "company_name": "FAGERSTA BRUKS AKTIEBOLAG",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 170425000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 42042000.0,
+    "tax_expense": null,
+    "depreciation": 12992170.69,
+    "net_income": 7513818.11
+  },
+  "balance_sheet": {
+    "total_assets": 141691300.28,
+    "current_assets": 61679292.98,
+    "fixed_assets": 80012007.3,
+    "total_liabilities": 74538790.16,
+    "current_liabilities": 29765596.5,
+    "long_term_liabilities": 44773193.66,
+    "shareholders_equity": 67152510.12
+  },
+  "employees": {
+    "n_employees": 5616,
+    "n_blue_collar_workers": 4772,
+    "n_white_collar_workers": 844
+  },
+  "board": [
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖBERG",
+      "first_name": "THURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Verkställande direktor"
+    },
+    {
+      "surname": "ÅSELIUS",
+      "first_name": "HJ.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDAHL",
+      "first_name": "SUNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "company_name": "Aktiebolaget Nordiska Armaturfabrikerna",
+  "fiscal_year": 1939,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 298105.7,
+    "depreciation": 493658.7,
+    "net_income": 586890.65
+  },
+  "balance_sheet": {
+    "total_assets": 16007244.86,
+    "current_assets": null,
+    "fixed_assets": 5385854.5,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1097406.47
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enström",
+      "first_name": "Axel",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "Vielmetter",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlander",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åkerblom",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "H.",
+      "initials": "A. E.",
+      "position": null
+    },
+    {
+      "surname": "Dahlquist",
+      "first_name": "Y.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenram",
+      "first_name": "B.",
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sandberg",
+      "first_name": "Gustaf",
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,49 @@
+{
+  "company_name": "Telefonaktiebolaget L M Ericsson",
+  "fiscal_year": 1958,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 590276666.6666666,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 22403333.333333332,
+    "depreciation": null,
+    "net_income": 23279666.666666668
+  },
+  "balance_sheet": {
+    "total_assets": 767003000.0,
+    "current_assets": 508158000.0,
+    "fixed_assets": 118808333.33333333,
+    "total_liabilities": 157960000.0,
+    "current_liabilities": 222757666.66666666,
+    "long_term_liabilities": 140448333.33333334,
+    "shareholders_equity": 333158000.0
+  },
+  "employees": {
+    "n_employees": 18466.666666666668,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dickinson",
+      "first_name": "John",
+      "initials": "C.",
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ]
+}

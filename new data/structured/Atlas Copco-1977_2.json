@@ -1,0 +1,55 @@
+{
+  "company_name": "Atlas Copco AB",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 4157.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 85.2,
+    "net_income": 163.6
+  },
+  "balance_sheet": {
+    "total_assets": 4410.5,
+    "current_assets": 3591.6,
+    "fixed_assets": 800.2,
+    "total_liabilities": 2678.0,
+    "current_liabilities": 1779.3,
+    "long_term_liabilities": 898.7,
+    "shareholders_equity": 1254.4
+  },
+  "employees": {
+    "n_employees": 18032,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Giertz",
+      "first_name": "Karl-G",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

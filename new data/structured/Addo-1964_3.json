@@ -1,0 +1,82 @@
+{
+  "company_name": "AB ADDO",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 6670000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1191000.0,
+    "depreciation": null,
+    "net_income": 1613000.0
+  },
+  "balance_sheet": {
+    "total_assets": 57383000.0,
+    "current_assets": 49548000.0,
+    "fixed_assets": 7835000.0,
+    "total_liabilities": 15458000.0,
+    "current_liabilities": 15458000.0,
+    "long_term_liabilities": 17370000.0,
+    "shareholders_equity": 18710000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Vilén",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Agrell",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Agrell",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Hallberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bruzelius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

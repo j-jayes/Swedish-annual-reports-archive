@@ -1,0 +1,86 @@
+{
+  "company_name": "Rederiaktiebolaget Svenska Lloyd",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 101566000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1535000.0,
+    "depreciation": null,
+    "net_income": 1487000.0
+  },
+  "balance_sheet": {
+    "total_assets": 54170000.0,
+    "current_assets": 12791000.0,
+    "fixed_assets": 41379000.0,
+    "total_liabilities": 25251000.0,
+    "current_liabilities": 14258000.0,
+    "long_term_liabilities": 9331000.0,
+    "shareholders_equity": 28918371.5
+  },
+  "employees": {
+    "n_employees": 1256,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Petterson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Christoffersen",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bökman",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hoogland",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Rohlin",
+      "first_name": "Sven-Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Blidberg",
+      "first_name": "Carl Åke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

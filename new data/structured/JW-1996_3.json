@@ -1,0 +1,80 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1996,
+  "income_statement": {
+    "revenue": 1011.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -942.6,
+    "wages_expense": null,
+    "tax_expense": -1.2,
+    "depreciation": -45.8,
+    "net_income": -1.2
+  },
+  "balance_sheet": {
+    "total_assets": 738.1,
+    "current_assets": 327.1,
+    "fixed_assets": 411.0,
+    "total_liabilities": null,
+    "current_liabilities": 169.4,
+    "long_term_liabilities": 308.8,
+    "shareholders_equity": 258.5
+  },
+  "employees": {
+    "n_employees": 1473,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Levin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Vice styrelseordförande"
+    },
+    {
+      "surname": "Adolfsson",
+      "first_name": "Ola-Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Duse",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Markelius",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johanson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Coopers & Lybrand AB"
+    }
+  ],
+  "additional_notes": null
+}

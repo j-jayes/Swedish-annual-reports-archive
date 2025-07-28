@@ -1,0 +1,80 @@
+{
+  "company_name": "BYGGNADS AB BALKEN",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 3298.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3177.9,
+    "wages_expense": null,
+    "tax_expense": 10.3,
+    "depreciation": null,
+    "net_income": 17.5
+  },
+  "balance_sheet": {
+    "total_assets": 1839.2,
+    "current_assets": 1020.1,
+    "fixed_assets": 444.0,
+    "total_liabilities": 482.2,
+    "current_liabilities": 778.8,
+    "long_term_liabilities": 409.6,
+    "shareholders_equity": 114.7
+  },
+  "employees": {
+    "n_employees": 11002,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Bankdirektör, ordförande"
+    },
+    {
+      "surname": "Malmström",
+      "first_name": "Bure",
+      "initials": null,
+      "position": "Advokat, vice ordförande"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Specialarbetare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

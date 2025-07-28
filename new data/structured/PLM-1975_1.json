@@ -1,0 +1,86 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 1730.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 456.0,
+    "tax_expense": 22.5,
+    "depreciation": 82.5,
+    "net_income": 23.6
+  },
+  "balance_sheet": {
+    "total_assets": 1256.2,
+    "current_assets": 625.4,
+    "fixed_assets": 606.7,
+    "total_liabilities": 413.7,
+    "current_liabilities": 222.8,
+    "long_term_liabilities": 461.7,
+    "shareholders_equity": 206.0
+  },
+  "employees": {
+    "n_employees": 9830,
+    "n_blue_collar_workers": 2064,
+    "n_white_collar_workers": 2794
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Styrelsens vice ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Emblad",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydelius",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

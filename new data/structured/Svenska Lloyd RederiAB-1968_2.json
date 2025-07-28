@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA LLOYD",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 141.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 15.0,
+    "net_income": 2.47
+  },
+  "balance_sheet": {
+    "total_assets": 122.589,
+    "current_assets": 26.654,
+    "fixed_assets": 95.955,
+    "total_liabilities": 91.078,
+    "current_liabilities": 26.828,
+    "long_term_liabilities": 64.25,
+    "shareholders_equity": 31.511
+  },
+  "employees": {
+    "n_employees": 982,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bökman",
+      "first_name": "K.",
+      "initials": "K.R.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rohlin",
+      "first_name": "Sven-Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Orvar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Håkansson",
+      "first_name": "Edvin",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

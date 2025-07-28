@@ -1,0 +1,110 @@
+{
+  "company_name": "SKARABORGS ENSKILDA BANK",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 6619166.84,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 2705270.06,
+    "tax_expense": 932000.0,
+    "depreciation": 469578.72,
+    "net_income": 810347.18
+  },
+  "balance_sheet": {
+    "total_assets": 259302888.57,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2338597.36,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1338597.36
+  },
+  "employees": {
+    "n_employees": 175,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": null,
+      "initials": "G.",
+      "position": "Ivar"
+    },
+    {
+      "surname": "Hofsten",
+      "first_name": null,
+      "initials": "E.",
+      "position": "von"
+    },
+    {
+      "surname": "Pontén",
+      "first_name": null,
+      "initials": "S.",
+      "position": "J:son"
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": null,
+      "initials": "C.",
+      "position": "S:son"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": null,
+      "initials": "G.",
+      "position": "G."
+    },
+    {
+      "surname": "Janson",
+      "first_name": null,
+      "initials": "S.",
+      "position": "Janson"
+    },
+    {
+      "surname": "Waller",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": null,
+      "initials": "A.",
+      "position": "Skoglund"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": null,
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": null,
+      "initials": "\"\".",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenström",
+      "first_name": "Miles",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Karl",
+      "initials": "L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Karlgren",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

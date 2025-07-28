@@ -1,0 +1,64 @@
+{
+  "company_name": "Kramfors Aktiebolag",
+  "fiscal_year": 1919,
+  "additional_notes": "Årets timmerfångst har omfattat 9,057,443 kubikfot sågtimmer, 4,172,117 kubikfot sulfittimmer och 3,335,041 kubikfot sulfattimmer eller tillhopa 16,564,601 kubikfot",
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 409783.21,
+    "depreciation": null,
+    "net_income": 3132551.82
+  },
+  "balance_sheet": {
+    "total_assets": 26015624.48,
+    "current_assets": null,
+    "fixed_assets": 14613743.18,
+    "total_liabilities": 7798264.8,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 21950692.953333333
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Abenius",
+      "first_name": "Gustaf",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "F.",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Fineman",
+      "first_name": "C.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Mannerheim",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Östberg",
+      "first_name": "Johan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schnell",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

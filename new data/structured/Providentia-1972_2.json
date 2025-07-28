@@ -1,0 +1,76 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Providentia",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 27686390.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 21584702.0
+  },
+  "balance_sheet": {
+    "total_assets": 177315330.0,
+    "current_assets": 4750738.0,
+    "fixed_assets": 168449000.0,
+    "total_liabilities": 37325009.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 135740307.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Sven",
+      "initials": "Sven T.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": null,
+      "initials": "G. A.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": "Peter",
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": null,
+      "initials": "Ulf-C.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Markdahl",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "Per H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

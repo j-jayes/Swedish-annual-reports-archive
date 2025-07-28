@@ -1,0 +1,94 @@
+{
+  "company_name": "Aktiebolaget Papyrus",
+  "fiscal_year": 1985,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 4909.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 0.0,
+    "wages_expense": null,
+    "tax_expense": -49.13333333333333,
+    "depreciation": null,
+    "net_income": 181.4
+  },
+  "balance_sheet": {
+    "total_assets": 3578.8333333333335,
+    "current_assets": 2091.9,
+    "fixed_assets": 1861.3666666666668,
+    "total_liabilities": 1840.9666666666667,
+    "current_liabilities": 872.7,
+    "long_term_liabilities": 502.56666666666666,
+    "shareholders_equity": 1217.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Harrison",
+      "first_name": "Per Åke",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Torkel",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Bäckberg",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Pappersarbetare"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Herry",
+      "initials": null,
+      "position": "Ombudsman"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jansson",
+      "first_name": "N.G.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gustavsson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

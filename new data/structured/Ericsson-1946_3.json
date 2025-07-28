@@ -1,0 +1,98 @@
+{
+  "company_name": "LM Ericsson",
+  "fiscal_year": 1946,
+  "income_statement": {
+    "revenue": 21358242.15,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4416036.87,
+    "net_income": 7397093.33
+  },
+  "balance_sheet": {
+    "total_assets": 201803705.2,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 86339457.27
+  },
+  "employees": {
+    "n_employees": 5919,
+    "n_blue_collar_workers": 4175,
+    "n_white_collar_workers": 1744
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Borgquist",
+      "first_name": null,
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montelius",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Woxén",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Wicander",
+      "first_name": "Carl",
+      "initials": "Aug.",
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": null,
+      "initials": "L.T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "AB PRIPPS BRYGGERIER",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 1512831000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 22482000.0,
+    "depreciation": null,
+    "net_income": 14442000.0
+  },
+  "balance_sheet": {
+    "total_assets": 773782000.0,
+    "current_assets": 349635000.0,
+    "fixed_assets": 411440000.0,
+    "total_liabilities": 333307000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 97031000.0
+  },
+  "employees": {
+    "n_employees": 3192,
+    "n_blue_collar_workers": 2062,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindmark",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Christian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Derrick",
+      "initials": null,
+      "position": "arbetstagarledamot"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Valter",
+      "initials": null,
+      "position": "arbetstagarledamot"
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Söderström",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Marcusson",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

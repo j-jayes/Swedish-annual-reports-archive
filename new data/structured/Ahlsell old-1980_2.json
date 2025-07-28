@@ -1,0 +1,92 @@
+{
+  "company_name": "Ahlsell AB",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 2310.7,
+    "cost_of_goods_sold": 2213.2,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 20.3,
+    "net_income": 21.6
+  },
+  "balance_sheet": {
+    "total_assets": 1448.4,
+    "current_assets": 1101.7,
+    "fixed_assets": 317.9,
+    "total_liabilities": 518.9,
+    "current_liabilities": 433.6,
+    "long_term_liabilities": 194.2,
+    "shareholders_equity": 253.3
+  },
+  "employees": {
+    "n_employees": 2654,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sunne",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "vice vd och vice koncernchef"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Carl",
+      "initials": "E",
+      "position": "koncernchef och vd"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "lagerarbetare och de LO- organiserades representant"
+    },
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "vd i AB Industrivärden"
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "tjänsteman och de TCO- organiserades representant"
+    },
+    {
+      "surname": "Rehnberg",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wirsäll",
+      "first_name": "Nils-Erik",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "\nh Östling",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

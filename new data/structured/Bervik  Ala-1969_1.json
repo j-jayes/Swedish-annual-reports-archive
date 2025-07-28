@@ -1,0 +1,86 @@
+{
+  "company_name": "Bergvik och Ala Aktiebolag",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 283.828,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 28.137,
+    "net_income": 7.54
+  },
+  "balance_sheet": {
+    "total_assets": 403.891,
+    "current_assets": 67.663,
+    "fixed_assets": 251.987,
+    "total_liabilities": 203.349,
+    "current_liabilities": 70.894,
+    "long_term_liabilities": 132.476,
+    "shareholders_equity": 99.589
+  },
+  "employees": {
+    "n_employees": 2645,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

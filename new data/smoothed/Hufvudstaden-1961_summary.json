@@ -1,0 +1,74 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET HUFVUDSTADEN",
+  "fiscal_year": 1961,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 11878833.49,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3292946.16,
+    "wages_expense": null,
+    "tax_expense": 2031910.0,
+    "depreciation": 830094.0,
+    "net_income": 2155810.35
+  },
+  "balance_sheet": {
+    "total_assets": 87757244.7,
+    "current_assets": 3274340.77,
+    "fixed_assets": 84482903.93,
+    "total_liabilities": 59376658.86,
+    "current_liabilities": 4007324.43,
+    "long_term_liabilities": 55369334.43,
+    "shareholders_equity": 28380585.84
+  },
+  "employees": {
+    "n_employees": 99,
+    "n_blue_collar_workers": 73,
+    "n_white_collar_workers": 26
+  },
+  "board": [
+    {
+      "surname": "Ahrén",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellstenius",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bohman",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Lindholm",
+      "first_name": null,
+      "initials": "Stig Hj:son",
+      "auditing_firm": null
+    }
+  ]
+}

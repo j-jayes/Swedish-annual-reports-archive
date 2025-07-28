@@ -1,0 +1,64 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET HUFVUDSTADEN",
+  "fiscal_year": 1966,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 17976933.69,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3021296.0,
+    "depreciation": 589197.08,
+    "net_income": 3837229.67
+  },
+  "balance_sheet": {
+    "total_assets": 152305195.75,
+    "current_assets": 5046577.56,
+    "fixed_assets": 147258618.19,
+    "total_liabilities": 91687582.75666666,
+    "current_liabilities": 4614843.9,
+    "long_term_liabilities": 87072734.49,
+    "shareholders_equity": 60617617.36
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "BERGOVIST",
+      "first_name": null,
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "BOHMAN",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHMIDT",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLIESTRÖM-TJUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDHOLM",
+      "first_name": "STIG",
+      "initials": "HJ:SON",
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

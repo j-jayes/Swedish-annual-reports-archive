@@ -1,0 +1,98 @@
+{
+  "company_name": "BILLERUDS AKTIEBOLAG",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 345.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 11.0,
+    "depreciation": 23.3,
+    "net_income": 12.5
+  },
+  "balance_sheet": {
+    "total_assets": 505.743,
+    "current_assets": 169.272,
+    "fixed_assets": 225.838,
+    "total_liabilities": 296.421,
+    "current_liabilities": 51.399,
+    "long_term_liabilities": 179.915,
+    "shareholders_equity": 209.322
+  },
+  "employees": {
+    "n_employees": 6776,
+    "n_blue_collar_workers": 5643,
+    "n_white_collar_workers": 1133
+  },
+  "board": [
+    {
+      "surname": "HAMMARSKJÖLD",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HISING",
+      "first_name": "K.",
+      "initials": "I",
+      "position": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "L.-E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SMITH",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PIHLGREN",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLIESTRÖM-TJUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "WENDT",
+      "first_name": "STELLAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HERTING",
+      "first_name": "N.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

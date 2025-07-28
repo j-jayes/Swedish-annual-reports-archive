@@ -1,0 +1,98 @@
+{
+  "company_name": "MARIEBERG",
+  "fiscal_year": 1996,
+  "income_statement": {
+    "revenue": 9485.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -8533.0,
+    "wages_expense": null,
+    "tax_expense": 9.0,
+    "depreciation": null,
+    "net_income": -36.0
+  },
+  "balance_sheet": {
+    "total_assets": 11015.0,
+    "current_assets": 3794.0,
+    "fixed_assets": 7221.0,
+    "total_liabilities": 7651.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3364.0
+  },
+  "employees": {
+    "n_employees": 8226,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "M\nBERG",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "TOMAS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BRAUN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "AXBERGER",
+      "first_name": "HANS-GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "CARL-JOHAN",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "PONTUS",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "BÄCKSTRÖM",
+      "first_name": "BERNDT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MUNDEBO",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYLANDER",
+      "first_name": "CARRY",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EDLUND",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": "Professor"
+    }
+  ],
+  "additional_notes": null
+}

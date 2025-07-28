@@ -1,0 +1,110 @@
+{
+  "company_name": "Marabou",
+  "fiscal_year": 1982,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1150.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 918.8,
+    "wages_expense": null,
+    "tax_expense": 10.1,
+    "depreciation": 26.1,
+    "net_income": 7.9
+  },
+  "balance_sheet": {
+    "total_assets": 713.3,
+    "current_assets": 347.9,
+    "fixed_assets": 365.4,
+    "total_liabilities": 373.1333333333333,
+    "current_liabilities": 165.4,
+    "long_term_liabilities": 170.0,
+    "shareholders_equity": 136.16666666666666
+  },
+  "employees": {
+    "n_employees": 2452,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Belfrage",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Cappelen",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Osvald",
+      "first_name": "Per",
+      "initials": "H",
+      "position": "Delägare"
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mohler",
+      "first_name": "Harold",
+      "initials": "S",
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Sandström",
+      "first_name": "Svante",
+      "initials": null,
+      "position": "Reparatör"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Barbro",
+      "initials": null,
+      "position": "Fabriksarbetare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Akteus",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Almqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

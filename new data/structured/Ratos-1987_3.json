@@ -1,0 +1,88 @@
+{
+  "company_name": "Förvaltnings AB Ratos",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 886.8
+  },
+  "balance_sheet": {
+    "total_assets": 3241.6,
+    "current_assets": 2749.8,
+    "fixed_assets": 4468.1,
+    "total_liabilities": 1173.1,
+    "current_liabilities": 1123.7,
+    "long_term_liabilities": 4.0,
+    "shareholders_equity": 2068.5
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Damgaard-Nielsen",
+      "first_name": "Ole",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Faulkner",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Norin",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Konsul"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Ekon dr H. C."
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hanson",
+      "first_name": "Torbjörn",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

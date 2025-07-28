@@ -1,0 +1,98 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 675.871,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 385.273,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 31.232,
+    "net_income": 625.441
+  },
+  "balance_sheet": {
+    "total_assets": 4251.139,
+    "current_assets": 870.566,
+    "fixed_assets": 3380.573,
+    "total_liabilities": 1973.475,
+    "current_liabilities": 891.213,
+    "long_term_liabilities": 580.629,
+    "shareholders_equity": 1086.363
+  },
+  "employees": {
+    "n_employees": 120,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HAAK",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "HOLMSTRÖM",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "SENNEBY",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "ULFSPARRE",
+      "first_name": "KARIN",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "ÖBERG",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "ÖHMAN",
+      "first_name": "ANDERS",
+      "initials": "R.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "ANDO",
+      "first_name": "SIGVARD",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "LEKSELL",
+      "first_name": "OVE",
+      "initials": null,
+      "position": "vVD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ericson",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

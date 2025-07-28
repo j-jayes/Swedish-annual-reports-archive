@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1924,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 146653.92,
+    "depreciation": null,
+    "net_income": 4214960.3
+  },
+  "balance_sheet": {
+    "total_assets": 111064008.07,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 63000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "TRYGGER",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JANSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "ERIK",
+      "initials": "AUG.",
+      "position": null
+    },
+    {
+      "surname": "THIEL",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WÄSTFELT",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HIRSCH",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LAMM",
+      "first_name": "CARL",
+      "initials": "ROBERT",
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

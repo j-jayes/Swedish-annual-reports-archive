@@ -1,0 +1,88 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1935,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1456810.95,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 86246.0,
+    "net_income": 694575.73
+  },
+  "balance_sheet": {
+    "total_assets": 8165571.53,
+    "current_assets": null,
+    "fixed_assets": 2208177.0,
+    "total_liabilities": 7411001.8,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 754570.27
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ford",
+      "first_name": "Edsel",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Perry",
+      "first_name": "Percival",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Eliel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stén",
+      "first_name": "Helmer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlberg",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Orleans",
+      "first_name": "Alfonso",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundblad",
+      "first_name": "Gust.",
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Andersson",
+      "first_name": "Theodor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sillén",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

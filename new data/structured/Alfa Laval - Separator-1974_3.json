@@ -1,0 +1,86 @@
+{
+  "company_name": "Alfa-Laval",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 3174.237,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2823.589,
+    "wages_expense": null,
+    "tax_expense": 68.06,
+    "depreciation": null,
+    "net_income": 55.621
+  },
+  "balance_sheet": {
+    "total_assets": 2946.098,
+    "current_assets": 2456.969,
+    "fixed_assets": 456.398,
+    "total_liabilities": 2145.811,
+    "current_liabilities": 1197.576,
+    "long_term_liabilities": 515.06,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 17722,
+    "n_blue_collar_workers": 8675,
+    "n_white_collar_workers": 9047
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engström",
+      "first_name": "\"\"\n\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Berndt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

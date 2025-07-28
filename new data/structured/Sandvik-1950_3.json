@@ -1,0 +1,86 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5211296.63
+  },
+  "balance_sheet": {
+    "total_assets": 136479172.4,
+    "current_assets": 70040207.4,
+    "fixed_assets": 66438965.0,
+    "total_liabilities": 84600477.45,
+    "current_liabilities": 17021335.7,
+    "long_term_liabilities": 56748800.0,
+    "shareholders_equity": 51878695.0
+  },
+  "employees": {
+    "n_employees": 6603,
+    "n_blue_collar_workers": 5139,
+    "n_white_collar_workers": 1464
+  },
+  "board": [
+    {
+      "surname": "Göransson",
+      "first_name": "K",
+      "initials": "KF",
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Erik",
+      "initials": "EW",
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "G",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": "O",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

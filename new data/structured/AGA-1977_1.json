@@ -1,0 +1,128 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 2443.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2149.4,
+    "wages_expense": null,
+    "tax_expense": 84.0,
+    "depreciation": null,
+    "net_income": 71.8
+  },
+  "balance_sheet": {
+    "total_assets": 2813.8,
+    "current_assets": 1555.6,
+    "fixed_assets": 1253.9,
+    "total_liabilities": 938.4,
+    "current_liabilities": 664.1,
+    "long_term_liabilities": 408.7,
+    "shareholders_equity": 741.8
+  },
+  "employees": {
+    "n_employees": 12985,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Aronson",
+      "first_name": "Albert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Jarebo",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Rönn",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Wallin",
+      "first_name": "Per-Gustaf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

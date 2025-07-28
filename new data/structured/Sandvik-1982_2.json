@@ -1,0 +1,104 @@
+{
+  "company_name": "SANDVIK",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 9312.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 357.0,
+    "net_income": 31.0
+  },
+  "balance_sheet": {
+    "total_assets": 12153.0,
+    "current_assets": 8495.0,
+    "fixed_assets": 3674.0,
+    "total_liabilities": 3094.0,
+    "current_liabilities": 3725.0,
+    "long_term_liabilities": 2930.0,
+    "shareholders_equity": 1845.0
+  },
+  "employees": {
+    "n_employees": 27163,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan",
+      "initials": "H",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bahrke",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kvarfordh",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Oll\nén",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schiller",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

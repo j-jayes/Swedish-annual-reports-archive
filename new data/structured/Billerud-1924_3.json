@@ -1,0 +1,76 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1924,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 289236.48,
+    "depreciation": null,
+    "net_income": 1889820.52
+  },
+  "balance_sheet": {
+    "total_assets": 78748493.45,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 34768656.95,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3795720.54
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "JOHANSON",
+      "first_name": "AXEL F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STORJOHANN",
+      "first_name": "CHR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BOVIN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYSTER-AAS",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLAKSTAD",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AQUILON",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BARK",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SMITH",
+      "first_name": "AND.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

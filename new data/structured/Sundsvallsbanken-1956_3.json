@@ -1,0 +1,118 @@
+{
+  "company_name": "Sundsvalls Enskilda Bank",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 13462303.46,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5791898.92,
+    "wages_expense": null,
+    "tax_expense": 3150806.0,
+    "depreciation": 2066365.94,
+    "net_income": 2454038.6
+  },
+  "balance_sheet": {
+    "total_assets": 509580281.54,
+    "current_assets": null,
+    "fixed_assets": 3311232.0,
+    "total_liabilities": 469580281.54,
+    "current_liabilities": 422528207.54,
+    "long_term_liabilities": 25034747.38,
+    "shareholders_equity": 40000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Fabian",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Appeltofft",
+      "first_name": "Olof",
+      "initials": "H.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "H.",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "jur. dr"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Gustav",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Källqvist",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Rogberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "assuransdirektör"
+    },
+    {
+      "surname": "Själander",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "hemmansägare"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "A.",
+      "initials": "G.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Winström",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "disponent"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderquist",
+      "first_name": "Ragnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

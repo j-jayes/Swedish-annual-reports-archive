@@ -1,0 +1,64 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 4588718.45,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 36.31,
+    "depreciation": 300.249,
+    "net_income": 3952763.41
+  },
+  "balance_sheet": {
+    "total_assets": 62358377.75,
+    "current_assets": 1188927.75,
+    "fixed_assets": 54171000.0,
+    "total_liabilities": 3189884.38,
+    "current_liabilities": 197275.44,
+    "long_term_liabilities": null,
+    "shareholders_equity": 48500000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DOUGLAS",
+      "first_name": "G. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von STEYERN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "LILJENROTH",
+      "first_name": "F. G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "RABENIUS",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

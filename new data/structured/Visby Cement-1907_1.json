@@ -1,0 +1,58 @@
+{
+  "company_name": "Visby Cementfabrik",
+  "fiscal_year": 1907,
+  "income_statement": {
+    "revenue": 731057.14,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 116278.54
+  },
+  "balance_sheet": {
+    "total_assets": 2424508.7,
+    "current_assets": null,
+    "fixed_assets": 1254653.37,
+    "total_liabilities": null,
+    "current_liabilities": 441732.55,
+    "long_term_liabilities": null,
+    "shareholders_equity": 650000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Liljedahl",
+      "first_name": "Aug.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöstedt",
+      "first_name": "And.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Abel",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Een.",
+      "first_name": "C.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Melin.",
+      "first_name": "C. M.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

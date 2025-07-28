@@ -1,0 +1,58 @@
+{
+  "company_name": "Bergnings- och Dykeri-Aktiebolaget Neptun",
+  "fiscal_year": 1902,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1172082.72,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 12162.67,
+    "depreciation": 7132.75,
+    "net_income": 112654.15
+  },
+  "balance_sheet": {
+    "total_assets": 2412765.26,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2300111.11,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 117731.9
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Drakenberg",
+      "first_name": "Jean",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hollstén",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedenblad",
+      "first_name": "P. H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berg",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ekwall",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

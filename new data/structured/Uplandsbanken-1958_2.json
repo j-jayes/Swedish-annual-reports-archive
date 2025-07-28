@@ -1,0 +1,116 @@
+{
+  "company_name": "UPLANDS ENSKILDA BANK",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 11775761.37,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5557458.33,
+    "wages_expense": null,
+    "tax_expense": 1500000.0,
+    "depreciation": 152622.91,
+    "net_income": 1284980.89
+  },
+  "balance_sheet": {
+    "total_assets": 338781452.59,
+    "current_assets": 160472227.65,
+    "fixed_assets": 58878046.0,
+    "total_liabilities": 316846560.13,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 15000000.0
+  },
+  "employees": {
+    "n_employees": 193,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sterner",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Hæggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "v. ordf."
+    },
+    {
+      "surname": "af Wisborg",
+      "first_name": "Carl Bernadotte",
+      "initials": null,
+      "position": "greve"
+    },
+    {
+      "surname": "Göth",
+      "first_name": "H. Elis",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Källström",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": null,
+      "initials": "W.",
+      "position": "fil. lic. direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Gottfrid",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "greve"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brundin",
+      "first_name": "Gerdt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Henningson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Lindblad",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Fridolf",
+      "initials": null,
+      "auditing_firm": "direktör"
+    },
+    {
+      "surname": "Åkerstedt",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "kronokamrerare"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,68 @@
+{
+  "company_name": "Fastighetsaktiebolaget Hufvudstaden",
+  "fiscal_year": 1948,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2840150.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 206589.33333333334,
+    "net_income": 1087140.69
+  },
+  "balance_sheet": {
+    "total_assets": 65695323.8,
+    "current_assets": 493123.08,
+    "fixed_assets": 65202200.72,
+    "total_liabilities": 41709736.49,
+    "current_liabilities": 1926046.53,
+    "long_term_liabilities": 39594316.95666667,
+    "shareholders_equity": 23985587.31
+  },
+  "employees": {
+    "n_employees": 30,
+    "n_blue_collar_workers": 98,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Dunker",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wibom",
+      "first_name": "Tor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zethelius",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Hellstenius",
+      "first_name": "G.",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fessé",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

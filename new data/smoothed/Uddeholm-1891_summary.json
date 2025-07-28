@@ -1,0 +1,45 @@
+{
+  "company_name": "Uddeholms Aktiebolags",
+  "fiscal_year": 1891,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 825419.44,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 381780.5,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 193777.28,
+    "net_income": 551112.81
+  },
+  "balance_sheet": {
+    "total_assets": 17221391.38,
+    "current_assets": null,
+    "fixed_assets": 7455789.89,
+    "total_liabilities": 7455789.89,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4262543.986666666
+  },
+  "employees": {},
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Sjögren",
+      "first_name": "Anton",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Edv.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergström",
+      "first_name": null,
+      "initials": "L. W.",
+      "auditing_firm": null
+    }
+  ]
+}

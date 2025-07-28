@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 85658902.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 81380233.0,
+    "wages_expense": null,
+    "tax_expense": 1366200.0,
+    "depreciation": null,
+    "net_income": 10194681.0
+  },
+  "balance_sheet": {
+    "total_assets": 123113514.0,
+    "current_assets": 77175624.0,
+    "fixed_assets": 43349890.0,
+    "total_liabilities": 40893459.0,
+    "current_liabilities": 13037395.0,
+    "long_term_liabilities": 16993550.0,
+    "shareholders_equity": 28715800.0
+  },
+  "employees": {
+    "n_employees": 1350,
+    "n_blue_collar_workers": 854,
+    "n_white_collar_workers": 496
+  },
+  "board": [
+    {
+      "surname": "AMELN",
+      "first_name": "STURE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Viceamiral"
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "AMELN",
+      "first_name": "KARL",
+      "initials": "R",
+      "position": "Civilingenjör, verkst. direktör"
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "ÖRTEGREN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "NELSON",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

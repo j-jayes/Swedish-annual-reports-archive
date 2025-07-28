@@ -1,0 +1,86 @@
+{
+  "company_name": "Bulten-Kanthal AB",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 406.006,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 361.448,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 9.64
+  },
+  "balance_sheet": {
+    "total_assets": 352.506,
+    "current_assets": 201.014,
+    "fixed_assets": 149.665,
+    "total_liabilities": 132.816,
+    "current_liabilities": 60.859,
+    "long_term_liabilities": 71.221,
+    "shareholders_equity": 121.988
+  },
+  "employees": {
+    "n_employees": 4920,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "De Geer",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ehrner",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Berth von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nathorst",
+      "first_name": "Helmer",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Oiar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

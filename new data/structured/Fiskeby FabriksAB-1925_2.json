@@ -1,0 +1,70 @@
+{
+  "company_name": "FISKEBY FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1925,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 67940.14,
+    "depreciation": 329742.55,
+    "net_income": 663338.06
+  },
+  "balance_sheet": {
+    "total_assets": 31476187.56,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 19000000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": 7020500.0,
+    "shareholders_equity": 2255897.11
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Strömberg",
+      "first_name": "O.",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Falkman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gullander",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "O.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Th.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Aurell",
+      "first_name": "Ludv.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Vilén",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

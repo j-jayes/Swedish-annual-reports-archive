@@ -1,0 +1,92 @@
+{
+  "company_name": "BILLERUDS AKTIEBOLAG",
+  "fiscal_year": 1957,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 241.121,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 192.685,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 23.027,
+    "net_income": 11.933
+  },
+  "balance_sheet": {
+    "total_assets": 131.575,
+    "current_assets": 55.3265,
+    "fixed_assets": 112.15533333333333,
+    "total_liabilities": 58.288,
+    "current_liabilities": 28.765666666666668,
+    "long_term_liabilities": 32.581,
+    "shareholders_equity": 80.988
+  },
+  "employees": {
+    "n_employees": 6877,
+    "n_blue_collar_workers": 6134,
+    "n_white_collar_workers": 522
+  },
+  "board": [
+    {
+      "surname": "HAMMARSKJÖLD",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HISING",
+      "first_name": null,
+      "initials": "K. I.",
+      "position": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SMITH",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": null,
+      "initials": "L.-E.",
+      "position": null
+    },
+    {
+      "surname": "PIHLGREN",
+      "first_name": "\nÅKE",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ALMQUIST",
+      "first_name": "HARRY",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "WENDT",
+      "first_name": "STELLAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

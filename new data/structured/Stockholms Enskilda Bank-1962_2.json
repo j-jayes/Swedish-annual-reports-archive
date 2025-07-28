@@ -1,0 +1,134 @@
+{
+  "company_name": "STOCKHOLMS ENSKILDA BANK",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 126191765.44,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 27000000.0,
+    "depreciation": null,
+    "net_income": 16407793.98
+  },
+  "balance_sheet": {
+    "total_assets": 2517489587.09,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2045655505.36,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 676,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DE GEER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STEYERN",
+      "first_name": "NILS VON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BONNIER JR",
+      "first_name": "ALBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHNSON",
+      "first_name": "AXEL AX:SON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SODERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG JR",
+      "first_name": "MARC",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAMILTON",
+      "first_name": "HUGO",
+      "initials": " ",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ANKARCRONA",
+      "first_name": "STEN S:SON",
+      "initials": " ",
+      "auditing_firm": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": " ",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": " ",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": " ",
+      "auditing_firm": "Av Kungl. Bankinspektionen utsedd revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,94 @@
+{
+  "company_name": "SKARABORGS ENSKILDA BANK",
+  "fiscal_year": 1912,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 120029.88,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 114382.59
+  },
+  "balance_sheet": {
+    "total_assets": 59294825.59,
+    "current_assets": null,
+    "fixed_assets": 1647500.0,
+    "total_liabilities": 59294825.59,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hedenstierna",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brodén",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berg",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Tor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomdahl",
+      "first_name": null,
+      "initials": "F.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beckman",
+      "first_name": null,
+      "initials": "CI. H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lilliestierna",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundell",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frölich",
+      "first_name": "Fredrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tomtlund",
+      "first_name": null,
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

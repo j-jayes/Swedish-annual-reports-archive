@@ -1,0 +1,110 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 3869.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3754.4,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 97.9,
+    "net_income": -99.0
+  },
+  "balance_sheet": {
+    "total_assets": 4199.1,
+    "current_assets": 2171.6,
+    "fixed_assets": 2027.3,
+    "total_liabilities": 3119.3,
+    "current_liabilities": 1481.2,
+    "long_term_liabilities": 1550.9,
+    "shareholders_equity": 1079.8
+  },
+  "employees": {
+    "n_employees": 6415,
+    "n_blue_collar_workers": 4004,
+    "n_white_collar_workers": 2411
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-\\\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sohlberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Örjan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnson",
+      "first_name": "Sten K",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martin-Löf",
+      "first_name": "Rutger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyll",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinhold",
+      "initials": null,
+      "auditing_firm": "Per V A Hanner Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "Svenska Aktiebolaget Gasaccumulator",
+  "fiscal_year": 1946,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7019404.21,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1089139.46,
+    "net_income": 4330272.42
+  },
+  "balance_sheet": {
+    "total_assets": 65290018.92,
+    "current_assets": 2565374.73,
+    "fixed_assets": 16927083.1,
+    "total_liabilities": 10268555.31,
+    "current_liabilities": 9462295.996666666,
+    "long_term_liabilities": 5168488.373333334,
+    "shareholders_equity": 39750000.0
+  },
+  "employees": {
+    "n_employees": 790,
+    "n_blue_collar_workers": 1300,
+    "n_white_collar_workers": 790
+  },
+  "board": [
+    {
+      "surname": "HOLM",
+      "first_name": null,
+      "initials": "H. TH.",
+      "position": null
+    },
+    {
+      "surname": "ZETHELIUS",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": "R.",
+      "initials": null,
+      "position": "VON"
+    },
+    {
+      "surname": "HEDIN",
+      "first_name": "JOHN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BEFRITS",
+      "first_name": "R.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "SETH",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

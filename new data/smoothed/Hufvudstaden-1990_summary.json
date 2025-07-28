@@ -1,0 +1,80 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1990,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 863.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 509.2,
+    "wages_expense": null,
+    "tax_expense": 20.0,
+    "depreciation": 78.3,
+    "net_income": 118.4
+  },
+  "balance_sheet": {
+    "total_assets": 4398.1,
+    "current_assets": 413.5,
+    "fixed_assets": 3984.6,
+    "total_liabilities": 1646.6,
+    "current_liabilities": 668.0822,
+    "long_term_liabilities": 1647.7,
+    "shareholders_equity": 1096.7
+  },
+  "employees": {
+    "n_employees": 372,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Oberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Giesecke",
+      "first_name": "Curt-Steffan",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Hall",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Agri",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "SET-Svensson, Erikson & Tjus Revisionsbyrå HB"
+    }
+  ]
+}

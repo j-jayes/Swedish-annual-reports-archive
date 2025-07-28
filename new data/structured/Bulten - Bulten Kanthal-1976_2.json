@@ -1,0 +1,122 @@
+{
+  "company_name": "Bulten-Kanthal",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 661.342,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 636.629,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 33.584,
+    "net_income": 12.439
+  },
+  "balance_sheet": {
+    "total_assets": 771.681,
+    "current_assets": 526.853,
+    "fixed_assets": 234.262,
+    "total_liabilities": 207.668,
+    "current_liabilities": 173.131,
+    "long_term_liabilities": null,
+    "shareholders_equity": 169.918
+  },
+  "employees": {
+    "n_employees": 4685,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ehrner",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "direktör och styrelseledamot"
+    },
+    {
+      "surname": "von Kantzow",
+      "first_name": "Berth",
+      "initials": null,
+      "position": "chef för Ramnäs Bruk-divisionen"
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "styrelseordförande i AB Electrolux"
+    },
+    {
+      "surname": "af Ugglas",
+      "first_name": "Margaretha",
+      "initials": null,
+      "position": "civilekonom, riksdagsledamot"
+    },
+    {
+      "surname": "De Geer",
+      "first_name": "Louis",
+      "initials": null,
+      "position": "verkställande direktör i Shalco AB"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Nils-Georg",
+      "initials": null,
+      "position": "ordförande i Bulten-Kanthals SIF-klubb"
+    },
+    {
+      "surname": "Staflin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "ordförande i SALF-klubben, Rallstaverken, styrelsesuppleant"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ordförande i Metalls Verkstadsklubb, Hallstaverken"
+    },
+    {
+      "surname": "Ahlqvist",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "ordförande i Metalls Verkstadsklubb, Rallstaverken, styrelsesuppleant"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "verkställande direktör i Skandinaviska Enskilda Banken, Malmö"
+    },
+    {
+      "surname": "Wenehed",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "von Kantzow",
+      "first_name": "Jarl",
+      "initials": null,
+      "position": "styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

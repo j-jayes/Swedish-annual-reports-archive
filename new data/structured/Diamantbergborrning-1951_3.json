@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA DIAMANTBERGBORRNINGS AKTIEBOLAGET",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 10535859.44,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1641726.0,
+    "net_income": 3360361.26
+  },
+  "balance_sheet": {
+    "total_assets": 22217424.24,
+    "current_assets": 17654809.97,
+    "fixed_assets": 4562614.27,
+    "total_liabilities": 16908124.92,
+    "current_liabilities": 3612969.23,
+    "long_term_liabilities": 7603184.69,
+    "shareholders_equity": 5309300.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 511,
+    "n_white_collar_workers": 212
+  },
+  "board": [
+    {
+      "surname": "Liljenroth",
+      "first_name": "F",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "H",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lenander",
+      "first_name": "N",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wadsted",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Matton",
+      "first_name": "Carl",
+      "initials": "M",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    }
+  ],
+  "additional_notes": null
+}

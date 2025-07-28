@@ -1,0 +1,110 @@
+{
+  "company_name": "Incentive",
+  "fiscal_year": 1983,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5654.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -5119.4,
+    "wages_expense": null,
+    "tax_expense": 0.0,
+    "depreciation": 144.1,
+    "net_income": 138.4
+  },
+  "balance_sheet": {
+    "total_assets": 4463.2,
+    "current_assets": 3277.9,
+    "fixed_assets": 1168.2,
+    "total_liabilities": 1771.9,
+    "current_liabilities": 1333.9,
+    "long_term_liabilities": 754.25,
+    "shareholders_equity": 769.0
+  },
+  "employees": {
+    "n_employees": 10512,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brundin",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Bertram",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Aukt.revisor"
+    },
+    {
+      "surname": "Gezelius",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "bankdirektör"
+    },
+    {
+      "surname": "Lekman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Rudberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "bankdirektör"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "Investmentaktiebolaget Promotion",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 816.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7.3,
+    "depreciation": null,
+    "net_income": 7.2
+  },
+  "balance_sheet": {
+    "total_assets": 776.2,
+    "current_assets": 453.6,
+    "fixed_assets": 313.1,
+    "total_liabilities": 111.1,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 50.3
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bildt",
+      "first_name": "Carl",
+      "initials": "Robert",
+      "position": null
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bostedt",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": "Lidingö\nauktoriserad revisor"
+    },
+    {
+      "surname": "Witt",
+      "first_name": "CH",
+      "initials": null,
+      "auditing_firm": "Stockholm\nauktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

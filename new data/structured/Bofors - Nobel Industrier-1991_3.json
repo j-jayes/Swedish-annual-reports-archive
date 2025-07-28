@@ -1,0 +1,104 @@
+{
+  "company_name": "Nobel Industrier",
+  "fiscal_year": 1991,
+  "income_statement": {
+    "revenue": 24717.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 21502.0,
+    "wages_expense": null,
+    "tax_expense": -83.0,
+    "depreciation": 1441.0,
+    "net_income": -5047.0
+  },
+  "balance_sheet": {
+    "total_assets": 33431.0,
+    "current_assets": 13885.0,
+    "fixed_assets": 9828.0,
+    "total_liabilities": 12719.0,
+    "current_liabilities": 7975.0,
+    "long_term_liabilities": 4391.0,
+    "shareholders_equity": 6458.0
+  },
+  "employees": {
+    "n_employees": 22922,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Magnusson",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Ahlström",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Forsgren",
+      "first_name": "Jack",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Mattsson",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Wallbom",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Martinsson",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Ledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Tidström",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

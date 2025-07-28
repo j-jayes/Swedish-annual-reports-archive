@@ -1,0 +1,86 @@
+{
+  "company_name": "Investmentaktiebolaget D. Carnegie & Co.",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 358.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 96.471,
+    "wages_expense": null,
+    "tax_expense": 32.575,
+    "depreciation": 3.076,
+    "net_income": 132.19
+  },
+  "balance_sheet": {
+    "total_assets": 5369.501,
+    "current_assets": 111.178,
+    "fixed_assets": 349.581,
+    "total_liabilities": 4151.491,
+    "current_liabilities": 75.561,
+    "long_term_liabilities": 429.435,
+    "shareholders_equity": 127.196
+  },
+  "employees": {
+    "n_employees": 53,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ekman",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Björkegren",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "Civilekonom"
+    },
+    {
+      "surname": "Vigerland",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "Elinder & Lindgren Revisionsbyrå AB"
+    },
+    {
+      "surname": "Finnhammar",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Elinder & Lindgren Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

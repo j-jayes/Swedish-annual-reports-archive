@@ -1,0 +1,92 @@
+{
+  "company_name": "AB BAHCO",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 241.472,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 650.0,
+    "depreciation": null,
+    "net_income": 6.83
+  },
+  "balance_sheet": {
+    "total_assets": 281.494,
+    "current_assets": 211.656,
+    "fixed_assets": 69.838,
+    "total_liabilities": 104.517,
+    "current_liabilities": 93.101,
+    "long_term_liabilities": 11.416,
+    "shareholders_equity": 83.874
+  },
+  "employees": {
+    "n_employees": 3165,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Odelfelt",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "\"\nke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brusewitz",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

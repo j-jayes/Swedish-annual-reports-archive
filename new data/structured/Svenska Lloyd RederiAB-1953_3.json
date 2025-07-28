@@ -1,0 +1,49 @@
+{
+  "company_name": "RE DERIAKTIEBOLAGET SVENSKA LLOYD",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 20149636.06,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1450000.0,
+    "depreciation": 6403499.25,
+    "net_income": 1490703.46
+  },
+  "balance_sheet": {
+    "total_assets": 52446069.88,
+    "current_assets": 16144527.61,
+    "fixed_assets": 36301542.27,
+    "total_liabilities": 21502057.74,
+    "current_liabilities": 14120165.49,
+    "long_term_liabilities": 7381892.25,
+    "shareholders_equity": 26175820.0
+  },
+  "employees": {
+    "n_employees": 1371,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "HYGRELL",
+      "first_name": "ERIC",
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOOGLAND",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

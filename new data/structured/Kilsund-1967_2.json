@@ -1,0 +1,76 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 1141481.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 756991.0
+  },
+  "balance_sheet": {
+    "total_assets": 19189461.0,
+    "current_assets": 1630951.0,
+    "fixed_assets": 17558510.0,
+    "total_liabilities": 89125.0,
+    "current_liabilities": 89125.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 18417088.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "TROLLE",
+      "first_name": "ULF",
+      "initials": "AF",
+      "position": "ordförande"
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "LAGNELL",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "LANGENSKIOLD",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDQUIST",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEHRSSON",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KELLGREN",
+      "first_name": "SUNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "KARL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "Marabou",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 280.812,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 209.482,
+    "wages_expense": null,
+    "tax_expense": 0.3,
+    "depreciation": 8.8,
+    "net_income": 36.65
+  },
+  "balance_sheet": {
+    "total_assets": 194.538,
+    "current_assets": 82.805,
+    "fixed_assets": 115.813,
+    "total_liabilities": 95.09,
+    "current_liabilities": 37.665,
+    "long_term_liabilities": 48.783,
+    "shareholders_equity": 95.09
+  },
+  "employees": {
+    "n_employees": 1669,
+    "n_blue_collar_workers": 1259,
+    "n_white_collar_workers": 410
+  },
+  "board": [
+    {
+      "surname": "BRATT",
+      "first_name": "ULF-C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HJORT",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "H:SON-ERICSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDAHL",
+      "first_name": "MAGNUS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "Verkst\nällande direkt\nör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GENTELE",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BEXELIUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

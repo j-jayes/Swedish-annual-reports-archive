@@ -1,0 +1,106 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Ratos",
+  "fiscal_year": 1975,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 15.703,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 0.26,
+    "depreciation": null,
+    "net_income": 15.143
+  },
+  "balance_sheet": {
+    "total_assets": 186.222,
+    "current_assets": 53.0,
+    "fixed_assets": 185.638,
+    "total_liabilities": 6.8,
+    "current_liabilities": 538.408,
+    "long_term_liabilities": 4.0,
+    "shareholders_equity": 179.50566666666668
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilstein",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordberg",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Koncernchef"
+    },
+    {
+      "surname": "Brandinger",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Regelius",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

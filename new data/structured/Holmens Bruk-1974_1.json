@@ -1,0 +1,128 @@
+{
+  "company_name": "Holmens Bruk",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 1162.854,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7.437,
+    "depreciation": 88.5,
+    "net_income": 18.185
+  },
+  "balance_sheet": {
+    "total_assets": 810.405,
+    "current_assets": 386.294,
+    "fixed_assets": 419.141,
+    "total_liabilities": 241.897,
+    "current_liabilities": 298.704,
+    "long_term_liabilities": 195.83,
+    "shareholders_equity": 185.98
+  },
+  "employees": {
+    "n_employees": 3965,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Gripenstedt",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trolle-Löwen",
+      "first_name": "August",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl Erik",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lantz",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klinga",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "v. verkst. dir."
+    },
+    {
+      "surname": "Wendschlag",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "v. verkst. dir."
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Ellert",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Lundén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Pihlström",
+      "first_name": "Herbert",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Halvorsen",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "Advokat"
+    }
+  ],
+  "additional_notes": null
+}

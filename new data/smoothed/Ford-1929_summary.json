@@ -1,0 +1,76 @@
+{
+  "company_name": "Ford Motor Company",
+  "fiscal_year": 1929,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1355579.11,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9640.3,
+    "net_income": 442946.12
+  },
+  "balance_sheet": {
+    "total_assets": 6080551.38,
+    "current_assets": null,
+    "fixed_assets": 16520.79,
+    "total_liabilities": 538152.72,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5095418.033333333
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "FORD",
+      "first_name": "EDSEL",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "PERRY",
+      "first_name": "PERCIVAL",
+      "initials": null,
+      "position": "Sir"
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "ELIEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÉN",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLBERG",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ROOTH",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Verkställande Direktör (Manager)"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOLMSTRÖM",
+      "first_name": "JAKOB",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

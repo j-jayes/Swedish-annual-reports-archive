@@ -1,0 +1,76 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1944,
+  "income_statement": {
+    "revenue": 290.871,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -250.108
+  },
+  "balance_sheet": {
+    "total_assets": 9.403036,
+    "current_assets": null,
+    "fixed_assets": 2.102454,
+    "total_liabilities": null,
+    "current_liabilities": 868.443,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1.866786
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Heidenstam",
+      "first_name": "Rolf",
+      "initials": "R. v.",
+      "position": null
+    },
+    {
+      "surname": "Hernod",
+      "first_name": "Torsten",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stén",
+      "first_name": "Helmer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bröndum",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Isell",
+      "first_name": "Harry",
+      "initials": "H.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Andersson",
+      "first_name": "Theodor",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    },
+    {
+      "surname": "Sillén",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    }
+  ],
+  "additional_notes": null
+}

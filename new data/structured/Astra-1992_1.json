@@ -1,0 +1,110 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 15568.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 11361.0,
+    "wages_expense": 3587.0,
+    "tax_expense": 1593.0,
+    "depreciation": 771.0,
+    "net_income": 3527.0
+  },
+  "balance_sheet": {
+    "total_assets": 20026.0,
+    "current_assets": 13808.0,
+    "fixed_assets": 6218.0,
+    "total_liabilities": 8377.0,
+    "current_liabilities": 3453.0,
+    "long_term_liabilities": 2824.0,
+    "shareholders_equity": 6465.0
+  },
+  "employees": {
+    "n_employees": 11288,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Björnson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielsson",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Faulkner",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Tony",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ringqvist",
+      "first_name": "Charles",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

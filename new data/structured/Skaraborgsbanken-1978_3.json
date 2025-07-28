@@ -1,0 +1,128 @@
+{
+  "company_name": "SKARABORGSBANKEN",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 108.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 63.4,
+    "wages_expense": null,
+    "tax_expense": 9.5,
+    "depreciation": null,
+    "net_income": 6.5
+  },
+  "balance_sheet": {
+    "total_assets": 2635.8,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2052.9,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 64.3
+  },
+  "employees": {
+    "n_employees": 375,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": null,
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Ulfenborg",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Davidsson",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": null,
+      "initials": "Å.",
+      "position": null
+    },
+    {
+      "surname": "Källberg",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjölander",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Avdelningsdirektör"
+    },
+    {
+      "surname": "Viring",
+      "first_name": "Margareta",
+      "initials": null,
+      "auditing_firm": "Apotekare"
+    },
+    {
+      "surname": "Demitz-Helin",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Landstingsdirektör"
+    }
+  ],
+  "additional_notes": null
+}

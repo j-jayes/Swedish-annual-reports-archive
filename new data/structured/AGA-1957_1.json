@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA AB GASACCUMULATOR",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 16557000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5895000.0
+  },
+  "balance_sheet": {
+    "total_assets": 140037000.0,
+    "current_assets": 77202000.0,
+    "fixed_assets": 59235000.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": 36824000.0,
+    "shareholders_equity": 50600000.0
+  },
+  "employees": {
+    "n_employees": 9658,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Heidenstam",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Ernfrid",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Banck",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Åselius",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Befrits",
+      "first_name": "Ragnar",
+      "initials": "f. d.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "I hela koncernen voro anställda 9.658 personer (9.638) och omsättningen uppgick till totalt 460,7 Mkr (449,1). Koncernens årsvinst uppgick till 18,5 Mkr (20,6)"
+}

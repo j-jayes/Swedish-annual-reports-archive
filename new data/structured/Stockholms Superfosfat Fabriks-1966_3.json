@@ -1,0 +1,130 @@
+{
+  "company_name": "FOSFATBOLAGET AKTIEBOLAG",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 172.24194257,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 140.39316762,
+    "wages_expense": null,
+    "tax_expense": 2000000.0,
+    "depreciation": 32706725.18,
+    "net_income": 10700025.62
+  },
+  "balance_sheet": {
+    "total_assets": 358050171.68,
+    "current_assets": 96864206.11,
+    "fixed_assets": 140300000.0,
+    "total_liabilities": 150144300.0,
+    "current_liabilities": 36738316.46,
+    "long_term_liabilities": 98820563.68,
+    "shareholders_equity": 207145871.68
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ABENIUS",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "GEER",
+      "first_name": "CARL",
+      "initials": "DE",
+      "position": "vice ordf."
+    },
+    {
+      "surname": "DALÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Agronom"
+    },
+    {
+      "surname": "BLEGVAD",
+      "first_name": "JÖRGEN",
+      "initials": "M.",
+      "position": "Disponent"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "LINDER",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "NORDENSON",
+      "first_name": "JONAS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Aukt. Vrevisor"
+    },
+    {
+      "surname": "PONTIN",
+      "first_name": "MAGNUS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WEDELIN",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "Kamrer"
+    },
+    {
+      "surname": "WISÉN",
+      "first_name": "SVEN-OLOF",
+      "initials": null,
+      "position": "Aukt. revisor"
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Aukt. revisor"
+    },
+    {
+      "surname": "ANKARCRONA",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Advokat"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    },
+    {
+      "surname": "PONTIN",
+      "first_name": "M.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WEDELIN",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

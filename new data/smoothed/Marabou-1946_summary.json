@@ -1,0 +1,62 @@
+{
+  "company_name": "Marabou",
+  "fiscal_year": 1946,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 6901503.95,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 965781.31,
+    "net_income": 977687.6
+  },
+  "balance_sheet": {
+    "total_assets": 22100448.16,
+    "current_assets": 13072399.88,
+    "fixed_assets": 9028048.12,
+    "total_liabilities": 6642320.44,
+    "current_liabilities": 5631697.91,
+    "long_term_liabilities": 4534566.64,
+    "shareholders_equity": 9625000.0
+  },
+  "employees": {
+    "n_employees": 1236,
+    "n_blue_collar_workers": 870,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "JUHLIN DANNFELT",
+      "first_name": null,
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "PEDERSEN",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SVENSSON",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GENTELE",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

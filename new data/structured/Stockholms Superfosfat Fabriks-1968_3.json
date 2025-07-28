@@ -1,0 +1,92 @@
+{
+  "company_name": "Fosfatbolaget Aktiebolag",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 204.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.6,
+    "depreciation": null,
+    "net_income": 12.56779931
+  },
+  "balance_sheet": {
+    "total_assets": 375.25346484,
+    "current_assets": 70.35347249,
+    "fixed_assets": 100.60726969,
+    "total_liabilities": null,
+    "current_liabilities": 44.58121528,
+    "long_term_liabilities": 113.68126545,
+    "shareholders_equity": 195.3
+  },
+  "employees": {
+    "n_employees": 1433,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blegvad",
+      "first_name": "Jörgen M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Pontin",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Wedelin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "auditing_firm": "Kamrer"
+    }
+  ],
+  "additional_notes": null
+}

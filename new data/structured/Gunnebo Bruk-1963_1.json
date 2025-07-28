@@ -1,0 +1,74 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 57112153.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1499000.0
+  },
+  "balance_sheet": {
+    "total_assets": 38732000.0,
+    "current_assets": 19948000.0,
+    "fixed_assets": 18784000.0,
+    "total_liabilities": 25650000.0,
+    "current_liabilities": 7991000.0,
+    "long_term_liabilities": 16699000.0,
+    "shareholders_equity": 13082000.0
+  },
+  "employees": {
+    "n_employees": 454,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "TIGERSCHIOLD",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLSTEEN",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WILHELMSON",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖHOLM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "WENNSTROM",
+      "first_name": "INGE",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

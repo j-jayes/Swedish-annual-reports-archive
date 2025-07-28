@@ -1,0 +1,74 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET CEDERGREN",
+  "fiscal_year": 1914,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 212447.87
+  },
+  "balance_sheet": {
+    "total_assets": 12525274.95,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 5769567.53,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6755707.42
+  },
+  "employees": {
+    "n_employees": 795,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 151
+  },
+  "board": [
+    {
+      "surname": "PIGELOW",
+      "first_name": "F.W.H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MONTELIUS",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KLEMMING",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PILTZ",
+      "first_name": "Gottlit",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSZEWSKI",
+      "first_name": "A.L.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JAKOBSON",
+      "first_name": "FRANS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Utöfver de i vinst och förlust kontet gjorda afsättningarna till\namorteringsfonder är ej i 1914 års räkenskaper annan afskrifning gjord\nän att för osäkra befunna fordringar hos abonnenter afskrifvits Ru\nbel 91.687:47"
+}

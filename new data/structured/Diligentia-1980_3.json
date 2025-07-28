@@ -1,0 +1,80 @@
+{
+  "company_name": "DILIGENTIA",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 59.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 11.499,
+    "depreciation": null,
+    "net_income": 7.277
+  },
+  "balance_sheet": {
+    "total_assets": 224.528,
+    "current_assets": 17.624,
+    "fixed_assets": 206.904,
+    "total_liabilities": 109.598,
+    "current_liabilities": 20.114,
+    "long_term_liabilities": 67.693,
+    "shareholders_equity": 45.0
+  },
+  "employees": {
+    "n_employees": 69,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Munck af Rosenschöld",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Sundell",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Edgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Kamrer, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H.",
+      "auditing_firm": "Advokat"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "FÖRSÄKRINGSAKTIEBOLAGET ATLANTICA",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 33.594,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3.16,
+    "wages_expense": null,
+    "tax_expense": 2.284,
+    "depreciation": null,
+    "net_income": 1.53
+  },
+  "balance_sheet": {
+    "total_assets": 50.765,
+    "current_assets": null,
+    "fixed_assets": 2.535,
+    "total_liabilities": 49.122,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1.643
+  },
+  "employees": {
+    "n_employees": 34,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thorburn",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Einar",
+      "initials": "W.",
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lydén",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eneroth",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundqvist",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Friberger",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Kihlbom",
+      "first_name": "Niklas",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Crafoord",
+      "first_name": "Leif",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Jonasson",
+      "first_name": "Evert",
+      "initials": null,
+      "auditing_firm": "Kungl. Försäkringsinspektionen"
+    }
+  ],
+  "additional_notes": null
+}

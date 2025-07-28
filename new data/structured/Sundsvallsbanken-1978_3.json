@@ -1,0 +1,116 @@
+{
+  "company_name": "SUNDSVALLS BANKEN",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 218.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 108.4,
+    "wages_expense": null,
+    "tax_expense": 39.5,
+    "depreciation": null,
+    "net_income": 25.0
+  },
+  "balance_sheet": {
+    "total_assets": 5652.4,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 5507.621,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 144.794656
+  },
+  "employees": {
+    "n_employees": 591,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hellerot",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Järvefelt",
+      "first_name": "Lars",
+      "initials": "E",
+      "position": "disponent"
+    },
+    {
+      "surname": "Lindmark",
+      "first_name": "Samme",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Valentin",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ehn",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Högström",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "riksdagsman"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Södergren",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Advokat"
+    },
+    {
+      "surname": "Martenius",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "F d regeringsråd"
+    }
+  ],
+  "additional_notes": null
+}

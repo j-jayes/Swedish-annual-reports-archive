@@ -1,0 +1,82 @@
+{
+  "company_name": "Förvaltnings AB Providentia",
+  "fiscal_year": 1982,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 86.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1827.826,
+    "wages_expense": null,
+    "tax_expense": 9939.117666666667,
+    "depreciation": null,
+    "net_income": 66238.31333333334
+  },
+  "balance_sheet": {
+    "total_assets": 246199.638,
+    "current_assets": 1741.7336666666667,
+    "fixed_assets": 244457.90433333334,
+    "total_liabilities": 23714.9555,
+    "current_liabilities": 12719.245666666666,
+    "long_term_liabilities": 4400.0,
+    "shareholders_equity": 230396.71333333335
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ]
+}

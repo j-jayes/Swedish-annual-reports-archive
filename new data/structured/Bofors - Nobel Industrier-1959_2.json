@@ -1,0 +1,92 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 390092000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 118676093.0,
+    "tax_expense": 8398000.0,
+    "depreciation": 27956578.0,
+    "net_income": 8903000.0
+  },
+  "balance_sheet": {
+    "total_assets": 502567000.0,
+    "current_assets": 137488000.0,
+    "fixed_assets": 175169000.0,
+    "total_liabilities": 123025000.0,
+    "current_liabilities": 98974000.0,
+    "long_term_liabilities": 64800000.0,
+    "shareholders_equity": 122206000.0
+  },
+  "employees": {
+    "n_employees": 8432,
+    "n_blue_collar_workers": 5621,
+    "n_white_collar_workers": 2811
+  },
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "Evert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre",
+      "initials": "R:son",
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Strömbäck",
+      "first_name": "Helge",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,170 @@
+{
+  "company_name": "STOCKHOLMS ENSKILDA BANK",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 176.231,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 40.0,
+    "depreciation": null,
+    "net_income": 19.913
+  },
+  "balance_sheet": {
+    "total_assets": 4.828613,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3.566925,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 308.315
+  },
+  "employees": {
+    "n_employees": 917,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GEER",
+      "first_name": "Carl",
+      "initials": "de",
+      "position": null
+    },
+    {
+      "surname": "ERICSON",
+      "first_name": "Stig",
+      "initials": "H:son-",
+      "position": null
+    },
+    {
+      "surname": "ROSENSCHÖLD",
+      "first_name": "Hans",
+      "initials": "Munck af",
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "Albert",
+      "initials": "Jr",
+      "position": null
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHNSON",
+      "first_name": "Axel",
+      "initials": "Ax:son",
+      "position": null
+    },
+    {
+      "surname": "NORDMARK",
+      "first_name": "Carl",
+      "initials": "Henrik",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "Marc",
+      "initials": "Jr",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ANKARCRONA",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": "Ordinarie"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Sven-Håkan",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "förordnad av Kungl. Bankinspektionen"
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "Suppleanter"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gustaf",
+      "initials": "C:son",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

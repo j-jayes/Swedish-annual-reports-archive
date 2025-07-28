@@ -1,0 +1,74 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1954,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2747758.74,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1264029.23,
+    "wages_expense": null,
+    "tax_expense": 404388.0,
+    "depreciation": 100000.0,
+    "net_income": 418386.26
+  },
+  "balance_sheet": {
+    "total_assets": 24553991.33,
+    "current_assets": 953430.1,
+    "fixed_assets": 23600561.23,
+    "total_liabilities": 8095590.8966666665,
+    "current_liabilities": 5129092.273333333,
+    "long_term_liabilities": 10317995.645,
+    "shareholders_equity": 6066666.666666667
+  },
+  "employees": {
+    "n_employees": 55,
+    "n_blue_collar_workers": 36,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "TENGBOM",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": "VON",
+      "position": null
+    },
+    {
+      "surname": "OSSBAHR",
+      "first_name": "CARL",
+      "initials": "PATRIC",
+      "position": null
+    },
+    {
+      "surname": "SJÖQVIST",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Flogner",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Theodor",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ]
+}

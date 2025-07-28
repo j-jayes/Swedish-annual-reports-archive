@@ -1,0 +1,74 @@
+{
+  "company_name": "AB Armerad Betong",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 453.955,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -775.0,
+    "depreciation": null,
+    "net_income": 2.008
+  },
+  "balance_sheet": {
+    "total_assets": 262.687,
+    "current_assets": 133.148,
+    "fixed_assets": 87.118,
+    "total_liabilities": 233.747,
+    "current_liabilities": 54.104,
+    "long_term_liabilities": 23.93,
+    "shareholders_equity": 28.94
+  },
+  "employees": {
+    "n_employees": 4248,
+    "n_blue_collar_workers": 3379,
+    "n_white_collar_workers": 869
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindencrona",
+      "first_name": "Alvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Lewenhaupt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "aukt, revisor"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

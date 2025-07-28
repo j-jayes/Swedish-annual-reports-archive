@@ -1,0 +1,128 @@
+{
+  "company_name": "Skandinaviska Enskilda Banken",
+  "fiscal_year": 1997,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -1077.0,
+    "depreciation": null,
+    "net_income": 2437.0
+  },
+  "balance_sheet": {
+    "total_assets": 669086.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 573252.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 27967.0
+  },
+  "employees": {
+    "n_employees": 13190,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "styrelsens ordförande"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Styrelsens vice ordförande"
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Carl",
+      "initials": "Johan",
+      "position": "Docent"
+    },
+    {
+      "surname": "Wiking",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Styrelsens vice ordförande"
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": "Verkställande direktör i Förvaltnings AB Ratos"
+    },
+    {
+      "surname": "Johannesson",
+      "first_name": "Tuve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Ordförande i Finansförbundets koncernklubb"
+    },
+    {
+      "surname": "Ottosson",
+      "first_name": "Tommy",
+      "initials": null,
+      "position": "Ordförande i FTF-föreningen"
+    },
+    {
+      "surname": "Jensen",
+      "first_name": "Ull",
+      "initials": null,
+      "position": "Vice ordförande i Finansforbundet"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Henrik",
+      "initials": null,
+      "position": "Ordförande i Akademikerföreningen vid S-E-Banken"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Blix",
+      "first_name": "Clas",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Ohrlings Coopers & Lybrand"
+    },
+    {
+      "surname": "Bonnevier",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Clemedtson",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Ohrlings Coopers & Lybrand"
+    },
+    {
+      "surname": "Buisman",
+      "first_name": "Ulla",
+      "initials": "Nordin",
+      "auditing_firm": "Price Waterhouse"
+    }
+  ],
+  "additional_notes": null
+}

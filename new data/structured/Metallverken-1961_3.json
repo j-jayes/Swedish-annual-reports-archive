@@ -1,0 +1,104 @@
+{
+  "company_name": "SVENSKA METALLVERKEN",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 554.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.9,
+    "depreciation": 15.7,
+    "net_income": 10.9
+  },
+  "balance_sheet": {
+    "total_assets": 381.8,
+    "current_assets": 192.9,
+    "fixed_assets": 188.9,
+    "total_liabilities": 199.6,
+    "current_liabilities": 71.2,
+    "long_term_liabilities": 124.4,
+    "shareholders_equity": 182.2
+  },
+  "employees": {
+    "n_employees": 5838,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROWALDH",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "CA",
+      "initials": "A",
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "BROR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUND",
+      "first_name": "H",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SERRANDER",
+      "first_name": "STAFFAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "NILS",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WARN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "GORAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HEDBERG",
+      "first_name": "THJELVAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ERIKSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

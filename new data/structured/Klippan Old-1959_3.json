@@ -1,0 +1,92 @@
+{
+  "company_name": "KLIPPANS FINPAPPERSBRUK",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 13.005,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 900.0,
+    "net_income": 3.38
+  },
+  "balance_sheet": {
+    "total_assets": 38.75,
+    "current_assets": 30.533,
+    "fixed_assets": 7.673,
+    "total_liabilities": 15.339,
+    "current_liabilities": 10.148,
+    "long_term_liabilities": 5.0,
+    "shareholders_equity": 21.0
+  },
+  "employees": {
+    "n_employees": 1631,
+    "n_blue_collar_workers": 1426,
+    "n_white_collar_workers": 205
+  },
+  "board": [
+    {
+      "surname": "GUMMESON",
+      "first_name": "P",
+      "initials": "EG",
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": null,
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "SONTAG",
+      "first_name": null,
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SONTAG",
+      "first_name": null,
+      "initials": "K",
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

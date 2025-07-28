@@ -1,0 +1,39 @@
+{
+  "company_name": "KOL OCH KOKS",
+  "fiscal_year": 1935,
+  "income_statement": {
+    "revenue": 965981.27,
+    "cost_of_goods_sold": 470998.91,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 100000.0,
+    "depreciation": 85000.0,
+    "net_income": 424962.54
+  },
+  "balance_sheet": {
+    "total_assets": 7169021.59,
+    "current_assets": 2606261.8,
+    "fixed_assets": 3531700.09,
+    "total_liabilities": 3621462.69,
+    "current_liabilities": 256126.32,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3547558.9
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "CLASON",
+      "first_name": "OTTO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "REGNSTRAND",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

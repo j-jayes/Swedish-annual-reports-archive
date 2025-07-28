@@ -1,0 +1,98 @@
+{
+  "company_name": "Iggesunds-koncernen",
+  "fiscal_year": 1985,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2819.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 694.9,
+    "tax_expense": 4.5,
+    "depreciation": null,
+    "net_income": 35.9
+  },
+  "balance_sheet": {
+    "total_assets": 2521.4601000000002,
+    "current_assets": 1075.6042,
+    "fixed_assets": 1604.8687,
+    "total_liabilities": 836.5,
+    "current_liabilities": 645.6,
+    "long_term_liabilities": 674.1999999999999,
+    "shareholders_equity": 352.15766666666667
+  },
+  "employees": {
+    "n_employees": 3834,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Disponent"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sprängare",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordin",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "Verkst.dir"
+    },
+    {
+      "surname": "Brönnhagen",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Lab.chef"
+    },
+    {
+      "surname": "Frohm",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Elektriker"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ]
+}

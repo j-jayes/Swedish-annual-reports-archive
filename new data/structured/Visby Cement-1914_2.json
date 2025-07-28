@@ -1,0 +1,64 @@
+{
+  "company_name": "Visby Cementfabrik",
+  "fiscal_year": 1914,
+  "income_statement": {
+    "revenue": 530505.76,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 39490.61,
+    "depreciation": 80000.0,
+    "net_income": 342619.01
+  },
+  "balance_sheet": {
+    "total_assets": 3682243.19,
+    "current_assets": null,
+    "fixed_assets": 2686000.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1200000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ossbahr",
+      "first_name": "Richard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "David",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöstedt",
+      "first_name": "And.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Abel",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Een",
+      "first_name": null,
+      "initials": "C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Laurell",
+      "first_name": "Gustaf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

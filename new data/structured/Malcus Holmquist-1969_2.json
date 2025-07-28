@@ -1,0 +1,43 @@
+{
+  "company_name": "MALCUS INDUSTRI AB",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 38.355,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 36.084,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 383.0,
+    "net_income": 501.0
+  },
+  "balance_sheet": {
+    "total_assets": 42.286,
+    "current_assets": 28.595,
+    "fixed_assets": 13.492,
+    "total_liabilities": 21.488,
+    "current_liabilities": 8.122,
+    "long_term_liabilities": 13.366,
+    "shareholders_equity": 12.244
+  },
+  "employees": {
+    "n_employees": 606,
+    "n_blue_collar_workers": 398,
+    "n_white_collar_workers": 208
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

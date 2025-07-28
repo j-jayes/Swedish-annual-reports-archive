@@ -1,0 +1,70 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": 585838.62,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 224760.91,
+    "wages_expense": null,
+    "tax_expense": 85759.62,
+    "depreciation": null,
+    "net_income": 262397.17
+  },
+  "balance_sheet": {
+    "total_assets": 2729761.93,
+    "current_assets": null,
+    "fixed_assets": 716341.2,
+    "total_liabilities": null,
+    "current_liabilities": 337470.57,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1199500.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ameln",
+      "first_name": "C.",
+      "initials": "C. G.",
+      "position": null
+    },
+    {
+      "surname": "Hallin",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagerbielke",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ingeström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Robert",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wijkström",
+      "first_name": "Gustaf",
+      "initials": "L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Forssberg",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

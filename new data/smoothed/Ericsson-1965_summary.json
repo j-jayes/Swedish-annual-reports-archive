@@ -1,0 +1,98 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET LM ERICSSON",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1990984000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 104845000.0,
+    "depreciation": 70878000.0,
+    "net_income": 94739000.0
+  },
+  "balance_sheet": {
+    "total_assets": 2624577000.0,
+    "current_assets": 1848294000.0,
+    "fixed_assets": 489694000.0,
+    "total_liabilities": 1482915000.0,
+    "current_liabilities": 790408000.0,
+    "long_term_liabilities": 202002000.0,
+    "shareholders_equity": 800409000.0
+  },
+  "employees": {
+    "n_employees": 44000,
+    "n_blue_collar_workers": 9123,
+    "n_white_collar_workers": 5824
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "ERNFRID",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN",
+      "initials": "TURE",
+      "position": null
+    },
+    {
+      "surname": "LUNDVALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "James",
+      "first_name": "C.",
+      "initials": "B.",
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ]
+}

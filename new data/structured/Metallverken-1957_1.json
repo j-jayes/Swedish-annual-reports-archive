@@ -1,0 +1,92 @@
+{
+  "company_name": "AB SVENSKA METALLVERKEN",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 442.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5.1
+  },
+  "balance_sheet": {
+    "total_assets": 238.5,
+    "current_assets": 118.0,
+    "fixed_assets": 120.5,
+    "total_liabilities": 152.8,
+    "current_liabilities": 50.8,
+    "long_term_liabilities": 102.1,
+    "shareholders_equity": 85.6
+  },
+  "employees": {
+    "n_employees": 5245,
+    "n_blue_collar_workers": 3632,
+    "n_white_collar_workers": 1613
+  },
+  "board": [
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "Bror",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pernes",
+      "first_name": "Manoel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhle",
+      "first_name": "Nils",
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Carl",
+      "initials": "A",
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Thjelvar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

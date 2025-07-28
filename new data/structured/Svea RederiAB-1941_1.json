@@ -1,0 +1,82 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1941,
+  "income_statement": {
+    "revenue": 50084290.99,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 37529981.37,
+    "wages_expense": null,
+    "tax_expense": 1160000.0,
+    "depreciation": null,
+    "net_income": 1416498.05
+  },
+  "balance_sheet": {
+    "total_assets": 47197899.99,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 45538401.94,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1659420.48
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Gullander",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Appelqvist",
+      "first_name": "F.",
+      "initials": "Ax.",
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thulin",
+      "first_name": "P.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Schollin-Borg",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": "verkst. direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Norrthon",
+      "first_name": "Philip",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Raaschou",
+      "first_name": "Bj.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor."
+    }
+  ],
+  "additional_notes": null
+}

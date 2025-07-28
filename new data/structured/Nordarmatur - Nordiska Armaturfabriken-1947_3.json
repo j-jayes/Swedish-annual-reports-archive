@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET NORDISKA ARMATURFABRIKERNA",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 2162000.02,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 380000.0,
+    "depreciation": null,
+    "net_income": 525118.44
+  },
+  "balance_sheet": {
+    "total_assets": 20712613.79,
+    "current_assets": 11209707.42,
+    "fixed_assets": 9493683.28,
+    "total_liabilities": 9857613.79,
+    "current_liabilities": 7117236.48,
+    "long_term_liabilities": 1881716.0,
+    "shareholders_equity": 8925000.0
+  },
+  "employees": {
+    "n_employees": 1309,
+    "n_blue_collar_workers": 948,
+    "n_white_collar_workers": 361
+  },
+  "board": [
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlander",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "\nÅge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenram",
+      "first_name": null,
+      "initials": "B. R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sandberg",
+      "first_name": "Gustaf",
+      "initials": "H.",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Berlin",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

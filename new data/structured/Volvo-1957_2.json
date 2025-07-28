@@ -1,0 +1,88 @@
+{
+  "company_name": "Aktiebolaget Volvo",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 684.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 14.927,
+    "depreciation": null,
+    "net_income": 12.295
+  },
+  "balance_sheet": {
+    "total_assets": 672.207,
+    "current_assets": 563.184,
+    "fixed_assets": 62.735,
+    "total_liabilities": 568.507,
+    "current_liabilities": 386.889,
+    "long_term_liabilities": 114.953,
+    "shareholders_equity": 103.6
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Assar",
+      "initials": "A.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar H:son",
+      "initials": "H.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Hilding",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "Larson",
+      "first_name": "Gustaf",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Granfors",
+      "first_name": "Karl",
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "Junker",
+      "first_name": "Bengt",
+      "initials": "B.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fryklund",
+      "first_name": "Åke",
+      "initials": "Å.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": "S.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

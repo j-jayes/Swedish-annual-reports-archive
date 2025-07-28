@@ -1,0 +1,118 @@
+{
+  "company_name": "Sundsvalls Enskilda Bank",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 10514985.54,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3757876.39,
+    "wages_expense": 2374158.91,
+    "tax_expense": 2700000.0,
+    "depreciation": 1320000.0,
+    "net_income": 2637109.15
+  },
+  "balance_sheet": {
+    "total_assets": 421404177.09,
+    "current_assets": null,
+    "fixed_assets": 3268759.0,
+    "total_liabilities": 381763676.93,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 40000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Velander",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "rådman, Sundsvall, ordförande"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "tekn. dr, Iggesund, vice ordf."
+    },
+    {
+      "surname": "Bæckman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "direktör, Stockholm"
+    },
+    {
+      "surname": "Francke",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ryttmästare, Stockholm"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "jur. dr, Rådom"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Fabian",
+      "initials": null,
+      "position": "disponent, Strömsbruk"
+    },
+    {
+      "surname": "Müller",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": "disponent, Gävle"
+    },
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "disponent, Sundsvall"
+    },
+    {
+      "surname": "Rogberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "assuransdirektör, Stockholm"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "A. G.",
+      "initials": null,
+      "position": "bankdirektör, Stockholm"
+    },
+    {
+      "surname": "Winström",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "disponent, Östersund"
+    },
+    {
+      "surname": "Källqvist",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "bankdirektör, Sundsvall, verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergengren",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Holmbäck",
+      "first_name": "Bure",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

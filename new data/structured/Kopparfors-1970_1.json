@@ -1,0 +1,88 @@
+{
+  "company_name": "KOPPARFORS",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 258.388043,
+    "cost_of_goods_sold": 195.66034379,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6500000.0,
+    "depreciation": 5963684.78,
+    "net_income": 10196559.52
+  },
+  "balance_sheet": {
+    "total_assets": 334093190.36,
+    "current_assets": 54479913.01,
+    "fixed_assets": 235175120.85,
+    "total_liabilities": 216719505.58,
+    "current_liabilities": 94910373.62,
+    "long_term_liabilities": 94640996.62,
+    "shareholders_equity": 117373684.78
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "MONTGOMERY",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRIPENSTEDT",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG JR",
+      "first_name": "MARC",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLGERSSON",
+      "first_name": null,
+      "initials": "S.",
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

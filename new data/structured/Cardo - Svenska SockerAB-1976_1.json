@@ -1,0 +1,112 @@
+{
+  "company_name": "Cardo",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 29079.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3541.0,
+    "depreciation": null,
+    "net_income": 31725.0
+  },
+  "balance_sheet": {
+    "total_assets": 341844.0,
+    "current_assets": 84.0,
+    "fixed_assets": 341317.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 321238.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Beckman",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Kennedy",
+      "first_name": "Douglas",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Netzén",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst. direktor"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Th.",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Kihlstedt",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Nordenskjöld",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Porat",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "ledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Faxe",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "N.A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "LINOLEUM AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1960,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7463529.45,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1503042.03,
+    "net_income": 808616.3
+  },
+  "balance_sheet": {
+    "total_assets": 19601036.39,
+    "current_assets": 13933098.726666667,
+    "fixed_assets": 2389108.1399999997,
+    "total_liabilities": 16070002.450000001,
+    "current_liabilities": 3408357.33,
+    "long_term_liabilities": 1058577.3,
+    "shareholders_equity": 3531023.62
+  },
+  "employees": {
+    "n_employees": 388,
+    "n_blue_collar_workers": 251,
+    "n_white_collar_workers": 137
+  },
+  "board": [
+    {
+      "surname": "ZOELLY",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORNANDER",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRÖNBERG",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SYPESTEYN",
+      "first_name": "E. KAARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MAGNUSSON",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMSEN",
+      "first_name": "I.",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BERGBRANT",
+      "first_name": "TORE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

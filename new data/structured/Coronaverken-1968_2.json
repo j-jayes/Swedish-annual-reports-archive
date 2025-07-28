@@ -1,0 +1,88 @@
+{
+  "company_name": "CORONAVERKEN AB",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 342352.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4115.0,
+    "depreciation": 8506.0,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 307205.0,
+    "current_assets": 229299.0,
+    "fixed_assets": 71483.0,
+    "total_liabilities": null,
+    "current_liabilities": 113888.0,
+    "long_term_liabilities": 67776.0,
+    "shareholders_equity": 67569.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HILL-LINDQVIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "RISBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "SVANTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF TROLLE",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGCRANTZ",
+      "first_name": "SIGURD",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AHREN",
+      "first_name": "CLAES E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RILBY",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ELVSTAD",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": "suppleant"
+    },
+    {
+      "surname": "EKBOM",
+      "first_name": "CARL ERIK",
+      "initials": null,
+      "auditing_firm": "suppleant"
+    }
+  ],
+  "additional_notes": null
+}

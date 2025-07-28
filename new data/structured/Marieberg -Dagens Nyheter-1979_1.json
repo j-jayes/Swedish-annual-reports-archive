@@ -1,0 +1,122 @@
+{
+  "company_name": "Dagens Nyheters AB",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 1304.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1200.0,
+    "wages_expense": null,
+    "tax_expense": 3.9,
+    "depreciation": null,
+    "net_income": 13.3
+  },
+  "balance_sheet": {
+    "total_assets": 838.2,
+    "current_assets": 293.2,
+    "fixed_assets": 544.8,
+    "total_liabilities": 313.1,
+    "current_liabilities": 216.2,
+    "long_term_liabilities": 59.7,
+    "shareholders_equity": 157.5
+  },
+  "employees": {
+    "n_employees": 3014,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 1823
+  },
+  "board": [
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Nycander",
+      "first_name": "Svante",
+      "initials": null,
+      "position": "chefredaktör"
+    },
+    {
+      "surname": "Petrén",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "regeringsråd"
+    },
+    {
+      "surname": "Strömstedt",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "chefredaktör"
+    },
+    {
+      "surname": "Svenson",
+      "first_name": "Sven",
+      "initials": "G",
+      "position": "filosofie doktor"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Dandemar",
+      "first_name": "Sam",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Carry",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Ramklint",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ordf"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "Professor"
+    }
+  ],
+  "additional_notes": null
+}

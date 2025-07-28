@@ -1,0 +1,122 @@
+{
+  "company_name": "H&M",
+  "fiscal_year": 2002,
+  "income_statement": {
+    "revenue": 53331.7,
+    "cost_of_goods_sold": 20418.8,
+    "operating_expenses": 15821.5,
+    "wages_expense": null,
+    "tax_expense": 2942.1,
+    "depreciation": 1050.6,
+    "net_income": 5686.8
+  },
+  "balance_sheet": {
+    "total_assets": 25198.7,
+    "current_assets": 18661.2,
+    "fixed_assets": 6537.5,
+    "total_liabilities": 5287.2,
+    "current_liabilities": 5287.2,
+    "long_term_liabilities": 86.0,
+    "shareholders_equity": 19087.7
+  },
+  "employees": {
+    "n_employees": 25674,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "CEO, Nicator Group AB"
+    },
+    {
+      "surname": "Brusberg",
+      "first_name": "Birgitta",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Hofer",
+      "first_name": "Werner",
+      "initials": null,
+      "position": "Lawyer, Hamburg"
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Deputy member of the board"
+    },
+    {
+      "surname": "Kvart",
+      "first_name": "Sussi",
+      "initials": null,
+      "position": "Bachelor of Laws, Sussi Kvart AB"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Member of the board"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Managing Director, Pilen AB"
+    },
+    {
+      "surname": "Norin-Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Deputy employee representative"
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Agneta",
+      "initials": null,
+      "position": "Deputy employee representative"
+    },
+    {
+      "surname": "Sch\nörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": "Member of the board"
+    },
+    {
+      "surname": "Eriksen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Chief Executive Officer and Managing Director of H&M"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hed\nén",
+      "first_name": "\nÅke",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

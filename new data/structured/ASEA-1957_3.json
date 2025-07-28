@@ -1,0 +1,86 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGET",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 96912893.34,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 205214221.1,
+    "tax_expense": 24000000.0,
+    "depreciation": 20949845.37,
+    "net_income": 29048997.39
+  },
+  "balance_sheet": {
+    "total_assets": 785205454.02,
+    "current_assets": 374569986.33,
+    "fixed_assets": 410635467.69,
+    "total_liabilities": 385122076.25,
+    "current_liabilities": 136203424.98,
+    "long_term_liabilities": 32382677.21,
+    "shareholders_equity": 385122076.25
+  },
+  "employees": {
+    "n_employees": 31940,
+    "n_blue_collar_workers": 19563,
+    "n_white_collar_workers": 12377
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\"\n\nÅke",
+      "initials": "T",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "Sison",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G",
+      "initials": "A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

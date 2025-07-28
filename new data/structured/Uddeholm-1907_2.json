@@ -1,0 +1,45 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1907,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 963960.15
+  },
+  "balance_sheet": {
+    "total_assets": 26630279.45,
+    "current_assets": null,
+    "fixed_assets": 14960431.6,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 16755046.64
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Bergström",
+      "first_name": null,
+      "initials": "L. W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": null,
+      "initials": "Edv.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijerstam",
+      "first_name": "Carl",
+      "initials": "C.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

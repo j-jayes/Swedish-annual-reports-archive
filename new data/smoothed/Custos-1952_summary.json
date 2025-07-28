@@ -1,0 +1,74 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1952,
+  "additional_notes": "Bolagets sextonde verksamhetsår",
+  "income_statement": {
+    "revenue": 5486651.17,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 134789.35,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4802967.57
+  },
+  "balance_sheet": {
+    "total_assets": 64046168.92,
+    "current_assets": 222122.75666666665,
+    "fixed_assets": 44672903.83,
+    "total_liabilities": 27356304.993333332,
+    "current_liabilities": 77225.16666666667,
+    "long_term_liabilities": 12040504.99,
+    "shareholders_equity": 26642653.143333334
+  },
+  "employees": {
+    "n_employees": 5,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HERSLOW",
+      "first_name": "E.",
+      "initials": "C:SON",
+      "position": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "HAKON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKLUND",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TONDEN",
+      "first_name": "ALBERT",
+      "initials": null,
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

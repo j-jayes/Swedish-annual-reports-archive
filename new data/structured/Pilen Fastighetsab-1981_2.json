@@ -1,0 +1,68 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET PILEN",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 42980.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 17276.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1881.0,
+    "net_income": 2942.0
+  },
+  "balance_sheet": {
+    "total_assets": 211038.0,
+    "current_assets": 26116.0,
+    "fixed_assets": 184922.0,
+    "total_liabilities": 163054.0,
+    "current_liabilities": 32859.0,
+    "long_term_liabilities": 90804.0,
+    "shareholders_equity": 47984.0
+  },
+  "employees": {
+    "n_employees": 7,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Tieder",
+      "first_name": "Carl-Johan",
+      "initials": null,
+      "position": "VD, Styr.led."
+    },
+    {
+      "surname": "Sparr",
+      "first_name": "Jan",
+      "initials": "B",
+      "position": "Styr. led."
+    },
+    {
+      "surname": "Wernstedt",
+      "first_name": "Lago",
+      "initials": "L M",
+      "position": "styr.med."
+    },
+    {
+      "surname": "Zetterström",
+      "first_name": "Seth",
+      "initials": "B",
+      "position": "SINS. Styr. led."
+    },
+    {
+      "surname": "Adelby",
+      "first_name": "Sven",
+      "initials": "\nke",
+      "position": "Suppl."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Strömquist",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

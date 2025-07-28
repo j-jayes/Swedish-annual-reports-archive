@@ -1,0 +1,80 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2040146.87
+  },
+  "balance_sheet": {
+    "total_assets": 38207383.19,
+    "current_assets": null,
+    "fixed_assets": 11924204.0,
+    "total_liabilities": null,
+    "current_liabilities": 8452828.79,
+    "long_term_liabilities": 10327818.0,
+    "shareholders_equity": 16413468.92
+  },
+  "employees": {
+    "n_employees": 2875,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Tor",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "\"\",\n\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heilborn",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tingsten",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "Egnells revisionsbyrå"
+    },
+    {
+      "surname": "von Zweigbergk",
+      "first_name": "\"\n\nÅke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

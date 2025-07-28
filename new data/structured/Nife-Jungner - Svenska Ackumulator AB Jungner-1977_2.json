@@ -1,0 +1,92 @@
+{
+  "company_name": "NIFE JUNGNER AB",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 340.395,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 296.23,
+    "wages_expense": null,
+    "tax_expense": 10.45,
+    "depreciation": null,
+    "net_income": 21.611
+  },
+  "balance_sheet": {
+    "total_assets": 442.604,
+    "current_assets": 308.535,
+    "fixed_assets": 132.815,
+    "total_liabilities": 294.259,
+    "current_liabilities": 95.887,
+    "long_term_liabilities": 182.076,
+    "shareholders_equity": 147.655
+  },
+  "employees": {
+    "n_employees": 2356,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "advokat"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "ingenjör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "avsynare"
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Henry Wallenberg & Co AB"
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Nobelstiftelsen"
+    },
+    {
+      "surname": "Örtegren",
+      "first_name": "Tage",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Karl",
+      "initials": "R.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Theorin",
+      "first_name": "Lars-Åke",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

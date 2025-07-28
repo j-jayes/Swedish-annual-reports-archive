@@ -1,0 +1,88 @@
+{
+  "company_name": "Investor",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 43.837,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1.969,
+    "wages_expense": null,
+    "tax_expense": 56.0,
+    "depreciation": null,
+    "net_income": 95.759
+  },
+  "balance_sheet": {
+    "total_assets": 404.39,
+    "current_assets": 89.946,
+    "fixed_assets": 314.444,
+    "total_liabilities": 28.809,
+    "current_liabilities": 1.649,
+    "long_term_liabilities": 632.0,
+    "shareholders_equity": 375.581
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": null,
+      "initials": "Ulf-C.",
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Trung",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

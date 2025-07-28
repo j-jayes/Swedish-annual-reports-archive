@@ -1,0 +1,68 @@
+{
+  "company_name": "Aktiebolaget Garphytte Bruk",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 2922.584,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 702.953,
+    "net_income": 1762.033
+  },
+  "balance_sheet": {
+    "total_assets": 12235.299,
+    "current_assets": null,
+    "fixed_assets": 5426.791,
+    "total_liabilities": 3622.907,
+    "current_liabilities": null,
+    "long_term_liabilities": 1837.901,
+    "shareholders_equity": 3037.178
+  },
+  "employees": {
+    "n_employees": 550,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "C.-R.",
+      "position": null
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": null,
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Helmer",
+      "first_name": "Govert",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nauclér",
+      "first_name": null,
+      "initials": "C. A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

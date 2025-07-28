@@ -1,0 +1,86 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGET",
+  "fiscal_year": 1953,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 654.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 203831767.06,
+    "tax_expense": 28666681.0,
+    "depreciation": 15417480.19,
+    "net_income": 21537531.673333332
+  },
+  "balance_sheet": {
+    "total_assets": 707227359.73,
+    "current_assets": 422107713.32,
+    "fixed_assets": 285119646.41,
+    "total_liabilities": 405538749.24666667,
+    "current_liabilities": 118301779.2,
+    "long_term_liabilities": 137375125.96333334,
+    "shareholders_equity": 268838610.0
+  },
+  "employees": {
+    "n_employees": 15564,
+    "n_blue_collar_workers": 14567.666666666666,
+    "n_white_collar_workers": 8251.333333333334
+  },
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke T",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Millington",
+      "first_name": null,
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Tottie",
+      "first_name": "Theodor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Amnéus",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": "O",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G A",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten Sison",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

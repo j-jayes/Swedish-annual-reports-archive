@@ -1,0 +1,224 @@
+{
+  "company_name": "LM ERICSSON",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 3159525.0,
+    "cost_of_goods_sold": 1663595.0,
+    "operating_expenses": 919572.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 109380.0,
+    "net_income": 175081.0
+  },
+  "balance_sheet": {
+    "total_assets": 5039140.0,
+    "current_assets": 3340870.0,
+    "fixed_assets": 783611.0,
+    "total_liabilities": 3185347.0,
+    "current_liabilities": 1504881.0,
+    "long_term_liabilities": 760380.0,
+    "shareholders_equity": 1383793.0
+  },
+  "employees": {
+    "n_employees": 61900,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN TURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDVALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ZETTERBERG",
+      "first_name": "LARS-HENNING",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG JR",
+      "first_name": "MARC",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDVALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "JACOBÆUS",
+      "first_name": "CHRISTIAN",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    },
+    {
+      "surname": "MOHLIN",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    },
+    {
+      "surname": "STEIN",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    },
+    {
+      "surname": "SUNDKVIST",
+      "first_name": "FRED",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    },
+    {
+      "surname": "SVALLING",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    },
+    {
+      "surname": "LUNELL",
+      "first_name": "KARL-AXEL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "ÅKESSON",
+      "first_name": "YNGVE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "AHLSTRÖM",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ALSTRÖM",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGSTRÖM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAGERLIND",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEDIN",
+      "first_name": "ERIC",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MATTSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUND",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEHRSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TENGBERG",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "James",
+      "first_name": "C. B.",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "de Vylder",
+      "first_name": "Klas",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": "Orderingången uppgick till 3 753 Mkr.\nOrderbeståndet uppgick vid årets slut till 3 611 Mkr."
+}

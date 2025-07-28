@@ -1,0 +1,914 @@
+---
+title: "Technocrats to Tycoons"
+subtitle: The Shift in Swedish Corporate Leadership and Its Economic Consequences in the 20th century
+code-repo: "Access the code, data, and analysis at <https://github.com/j-jayes/who-is-who-etl> and <https://github.com/j-jayes/Swedish-annual-reports-archive>"
+author:
+  - name: Jonathan Jayes
+    email: jonathan.jayes@ekh.lu.se
+    orcid: 0000-0003-4967-4869
+    affiliations: 
+      - id: lu
+        name: Lund University Economic History Department
+# abstract: |  
+
+date: today
+
+format:
+  hikmah-pdf: default
+  hikmah-manuscript-pdf: default
+
+execute: 
+  echo: false
+  warning: false
+  message: false
+bibliography: bib.bib
+---
+
+## I. Introduction
+
+The composition of corporate leadership is widely believed to influence firm strategy and performance, yet identifying the causal impact of specific managerial characteristics remains a challenge, particularly over the long run. This paper investigates how the backgrounds of corporate directors shaped firm outcomes during a critical period of industrial transformation in 20th-century Sweden. While engineers, particularly those returning with experience from the United States, were pivotal in Sweden's early industrial ascent, the profile of corporate boards evolved over time, incorporating individuals with different expertise, notably in business and finance. Did these distinct types of directors—specifically, engineers with US work experience versus those trained primarily in business or finance—lead to different trajectories in firm productivity and employment?   
+
+Recent work by Acemoglu, He, and Le Maire (AHLM) (2023) finds that the appointment of managers with business degrees in the contemporary US and Denmark leads to significant declines in employee wages and the labor share, potentially driven by management practices emphasizing shareholder value maximization over rent-sharing. However, the dominance of the shareholder value paradigm, often associated with the post-1970s "Friedman doctrine," may not have characterized corporate objectives throughout much of Sweden's 20th-century industrial history, a period potentially marked by different governance models and a stronger emphasis on engineering expertise.   
+
+Therefore, we hypothesize that the effects observed by AHLM may be specific to a later type of business education and corporate environment. Specifically, we test whether the appointment of directors with business or finance backgrounds in Sweden, particularly prior to the widespread adoption of the shareholder value consensus, led to similar reductions in labor's share of firm output (proxied here by the ratio of the wage bill to revenue). If the negative wage effects are tied to a specific, later ideology often imparted through business schools, we might expect different, or null, effects from appointing business-trained directors in this earlier historical context.
+
+To test this hypothesis, we adapt the event-study methodology used by AHLM (2023) to the historical Swedish context. Using a newly compiled dataset combining firm-level financial reports and detailed director biographies spanning from the late 1800s to 1980, our core empirical strategy exploits the timing of the first appointment of directors with specific, identifiable characteristics—engineers with US work experience, and directors with business or finance backgrounds—to a firm's board. This allows us to estimate the impact of these appointments on key firm outcomes, notably revenue per employee and the wage bill relative to revenue, while controlling for firm-specific heterogeneity and aggregate time trends.   
+
+Our preliminary event-study analysis suggests that the arrival of directors with US work experience may correlate with subsequent changes in revenue per worker. By focusing on these specific transitions in leadership, we aim to disentangle the effects of shifting board compositions, test whether the impact of business-trained directors differs in this historical setting compared to contemporary findings, and contribute novel insights into the role of managerial expertise and international influence on Swedish corporate performance and labor utilization.   
+
+The paper proceeds as follows: Section II reviews relevant literature on managerial expertise, corporate governance, and firm outcomes. Section III describes the novel dataset and digitization process. Section IV details the event-study methodology and identification strategy. Section V presents the main results from the event-study analysis testing our hypotheses. Section VI concludes.
+
+## II. Literature Review
+
+### Engineers and Technological Change in Swedish Industry
+
+Engineers played a pivotal role in Sweden’s rapid industrialization and the management of its early 20th-century firms. As Sweden’s industries expanded in technical complexity (steel, electrification, machinery), professional engineers increasingly assumed top managerial roles​ [@hogfeldt2005HistoryPoliticsCorporate]. Many large firms by the 1920s were run by engineer-CEOs with significant autonomy, reflecting the technocratic character of Swedish industry, as argued by @hogfeldt2005HistoryPoliticsCorporate. Business historians note that engineers dominated executive positions in Sweden’s biggest firms, especially in industrial sectors – highlighting the historical importance of technical training in corporate leadership [@henrekson2021SocialBackgroundElite]. This contrasts with some other countries where legal or financial elites held sway; in Sweden the engineering profession emerged as a powerful elite driving industrial growth​, according to @henrekson2021SocialBackgroundElite.
+
+A distinctive feature of Swedish industrialization was the influence of engineers who trained or worked abroad, particularly in the United States. Studies of return migration find that a “brain gain” occurred: a majority of Swedish engineers who went to the U.S. (or Germany) for experience later returned home, bringing valuable knowledge​ [@gronberg2003LearningReturningReturn]. Per-Olof Grönberg’s thesis (2003) shows these returnee engineers diffused advanced technologies and organizational innovations into Swedish firms during the country’s “second industrial breakthrough”​, as coined by Lars Magnusson [-@magnusson2014SverigesEkonomiskaHistoria]. They not only introduced new technical expertise but also modern management practices – notably Taylorist efficient workflows and corporate welfare programs learned in America​, according to @gronberg2003LearningReturningReturn. For example, at electrical firm ASEA and steelmaker and later engineering services firm Sandvik, foreign-trained engineers filled many key positions, injecting know-how that rationalized production and improved productivity​. @gronberg2003LearningReturningReturn focuses on four important companies in Sweden, due to the availability of detailed records at the time.
+​
+By the early 1900s Swedish industry actively encouraged this knowledge transfer: contemporary observers remarked that American and German experience became a form of “symbolic capital” that boosted engineers’ influence in firms​ [@gronberg2003LearningReturningReturn]. Case studies confirm that returning engineers were catalysts for technology diffusion – from mining equipment to electrotechnical systems – adapting foreign innovations to domestic needs​.  Engineer-entrepreneurs and internationally trained technologists were central to Sweden’s technological adoption and industrial leadership in the first three-quarters of the 20th century.
+
+@gronberg2003LearningReturningReturn documented specific instances of how engineers spurred technological change. For example, Hugo Hammar (an engineer-CEO of shipbuilder Götaverken) used political and donor networks to fund naval technology experiments, illustrating how engineering know-how combined with savvy management advanced key industries​. Swedish engineers abroad often studied cutting-edge methods and upon return to Sweden implemented them – such as advanced steel processes or automotive designs – in the firms in which they ended up​. This “reverse technology transfer” was a key mechanism for Sweden’s industrial upgrading, as engineers brought back not just blueprints but also new organizational structures and quality control systems​. Grönberg notes that engineers coming back from U.S. firms frequently brought home a welfare capitalist ethos (company housing, worker benefits) along with efficiency methods. The impact of these returning engineers on firm performance and workforce dynamics, however, remains underexplored.
+
+### Board Composition and Corporate Governance
+
+Historically, Sweden’s corporate governance has been characterized by concentrated ownership and technocratic management, which influenced board composition and firm performance. In the early 20th century, many industrial companies were founded by inventors or families but eventually came under bank or holding-company control​. Banks like Stockholms Enskilda became dominant shareholders and placed representatives on boards, maintaining close control of the firm [@hogfeldt2005HistoryPoliticsCorporate]. This led to boards that mixed financiers (owners or bankers) with career engineers in top executive roles. As @hogfeldt2005HistoryPoliticsCorporate notes, given the technically advanced nature of Swedish manufacturing firms, industrialist Marcus Wallenberg sr argeud that the firms “lacked the competence to run the firms themselves,” so they installed engineer-managers and oversaw as active owners​. In effect, Swedish boards functioned with a balance between the technical expertise of managers and the financial oversight of owners, a structure somewhat distinct from the purely managerial or family-dominated models elsewhere.
+
+Research on board composition generally finds it can significantly affect firm outcomes, and this has both historical and modern dimensions. For instance, a recent study of Swedish companies in the 21st century noted that larger board size correlates with weaker financial performance (possibly due to coordination difficulties)​ [@jonsson2015CorporateBoardsPerformance]. This suggests that even historically, leaner governance structures might have benefited firms in Sweden’s relatively concentrated ownership environment. Board expertise and background also matter: in Sweden, many directors and CEOs throughout the mid-20th century had engineering or science educations, whereas later decades saw more with business or finance degrees, as noted by @henrekson2021SocialBackgroundElite, who study the chief executives of the 30 largest firms in Sweden in the 20th century. They find in their analysis of top Swedish CEOs over 1945–2005, a large share held engineering degrees, although by the late 20th century it became common to couple technical training with business education​. This mix of backgrounds on boards can influence corporate strategy – technically trained directors may prioritize R&D and long-term product development, while finance-trained directors might emphasize cost control, acquisitions, or shareholder returns. Comparative studies in more recent business history support this notion: for example, @adams2010RoleBoardsDirectors survey the literature on board composition and actions taken, and find that boards with more engineers or scientists tend to invest more in R&D and innovation, while those with more financiers focus on cost-cutting or M&A​. 
+
+In terms of governance models, @hogfeldt2005HistoryPoliticsCorporate argues that Sweden has been seen as a coordinated market economy with stakeholder-oriented governance, in contrast to the Anglo-American shareholder model. Throughout the 20th century, Swedish boards were typically insider-dominated, featuring controlling shareholders or their proxies (e.g. the Wallenberg family members) alongside key executives. This is akin to continental European practices (e.g. German universal banks and interlocking directorates)​. By the late 1900s, however, some convergence occurred. @sluyterman2022ChangingRoleCEOs, studying the changing role of CEOs in the second half of the 20th century note a general shift in many countries from “managerial capitalism” – where industrial experts and managers had primacy – to “investor capitalism” focused on shareholders​. In Sweden, the 1980s and 1990s brought reforms (e.g. a Corporate Governance Code) emphasizing board independence and accountability, more similar to U.S./UK practices​, according to @sabelfeld2023SwedishCorporateGovernance. Still, differences remain: Swedish boards to this day often include employee representatives and maintain high ownership concentration via dual-class shares and family foundations​ [@hogfeldt2005HistoryPoliticsCorporate].
+
+Historically, an engineering-trained director in Sweden wielded influence through deep firm-specific knowledge, whereas a finance-trained director might exert influence through external networks and capital access. The interplay of these skills on boards has been crucial. For instance, Marcus Wallenberg Sr. in 1905 highlighted that Sweden had “able engineers and good workers but lacked entrepreneurs,” proposing to educate more businesspeople and let banks invest in industry​ [@hogfeldt2005HistoryPoliticsCorporate]. This led to a governance system that deliberately blended technical and financial leadership. Overall, the literature suggests that a balanced board – combining technical expertise with financial oversight – was key to robust firm performance in Sweden’s high-growth era, and governance structures evolved to institutionalize that balance.
+
+### Firm Performance and Technical Change
+
+The composition of a firm’s leadership and board can significantly influence its performance, especially during periods of technological change. A growing body of evidence links board composition (skills, size, and diversity of directors) to financial outcomes like productivity and profitability. For example, firms that appoint directors with relevant industry or technical expertise tend to see positive market reactions and long-run results. @vonmeyerinck2016DirectorIndustryExperience, who conducted a study of S&P 500 companies found that adding a new director with industry experience led to significantly higher stock price gains around the announcement. This suggests that specialized knowledge – such as engineering know-how in a tech-driven company – is valued by investors and likely helps firm performance. Likewise, research indicates that executives’ educational backgrounds can shape firm strategy. CEOs with science/engineering training are often more innovation-oriented, correlating with greater R&D investment and patenting activity [@ghardallou2020CEOCharacteristicsFirm]. In fact, Hambrick & Mason’s theory of managerial characteristics influencing outcomes is supported by findings that “firm R&D spending is positively related to the science and engineering education of its CEO”​ [@ghardallou2020CEOCharacteristicsFirm]. While a finding from more recent business hsitory, this implies that when technical experts lead firms, they tend to allocate more resources to innovation, potentially driving productivity growth. Conversely, leaders with primarily financial backgrounds might focus on efficiency metrics and short-term returns, affecting measures like revenue per employee or labor costs in different ways.
+
+Historical analyses of Swedish companies provide empirical insight into how technical leadership affected performance and employment. During Sweden’s era of industrial ascendancy, many firms achieved world-class productivity levels. By 1950, Sweden had caught up with some of the richest nations in GDP per capita – a feat usually credited to its manufacturing industries’ success in adopting and advancing frontier technology​, as summarized by @prado2022ModernSwedishEconomic. Within manufacturing, engineer-led firms introduced process improvements and new products that boosted output per worker. Indeed, from 1950 to 1970 Swedish manufacturing output grew about 4.8% annually, contributing more than half of national GDP growth in that “golden age”, as noted by @taalbiInnovationsEconomicGrowth​. Firms like ASEA (electrical equipment) or Volvo (automotive) saw rapid productivity gains as they implemented technical innovations and modern management, often under the guidance of technically trained executives. Revenue per employee and related metrics rose as these companies scaled up and optimized production. However, the link between technical change and employment is complex. In the early and mid-20th century, industrial employment expanded alongside productivity – manufacturing employment kept rising up to the 1960s as firms grew​ [@taalbiInnovationsEconomicGrowth]. High productivity and output often went hand in hand with more jobs during this expansion phase.
+
+After the 1970s, a shift occurred in performance dynamics, illustrating the impact of technological transformation on employment. As Sweden and other advanced economies faced the ICT revolution and globalization, manufacturing employment peaked and then “deindustrialization” set in​. Automation and technical efficiencies meant output could keep growing with fewer workers. For Sweden, the period 1970–1990 saw manufacturing value-added growth drop to about 1.5% per year (from ~4.8% earlier), and the sector’s share of total growth fell markedly [@taalbiInnovationsEconomicGrowth]. Yet manufacturing’s productivity continued to improve – output did not collapse, it simply required far less labor input. As Ljungberg and Taalbi note, after 1970 the output of manufacturing kept rising despite workforce cuts, implying that capital deepening and technical change drove up labor productivity​. The consequence was a decline in the labor share and industrial employment, even as firms became more efficient. Corporate governance may have played a role in this transition: starting in the 1980s, more financially driven management (sometimes replacing engineer-leaders) pursued restructuring, outsourcing, and cost reduction to please shareholders, which often entailed layoffs or wage restraint. Here, historical data illustrate that technical leadership and board expertise can yield higher innovation and productivity (raising performance indicators like revenue per employee or profit margins), but the distribution of those gains between capital and labor can shift. Early on, technology-driven growth supported broad employment, whereas later, rapid technical change improved output while trimming workforces. Understanding this evolution is crucial, and it highlights why examining the backgrounds of board members (engineers vs. businessmen) is key to interpreting firm strategies on growth, innovation, and employment.
+
+### Network Analysis and Firm Governance
+
+In recent years, historians and economists have applied bipartite network analysis to study corporate governance in a historical context. A bipartite network (two-mode network) is a representation that links two types of nodes – for example, companies and their board members – without direct connections among nodes of the same type [@liew2023MethodologyFrameworkBipartite]. @pavlopoulos2018BipartiteGraphsSystems notes that by projecting such a network, one can derive the inter-firm director network (directors are connected if they sit on a common board) or the interlocking firm network (firms are connected if they share a director). This approach has opened new avenues to quantify how board interlocks and elite networks influence firm decision-making and performance​. By digitizing century-long board membership records of Swedish companies​, one can identify which individuals sat on multiple boards and measure their network centrality (influence). Such quantitative network measures (degree, centrality, etc.) can then be used as variables in regression models to assess impact on firm outcomes [@hsieh2022CollaborationBipartiteNetworks]. This method allows us to test, for instance, whether firms that are more centrally connected in the director network had better financial performance.
+
+Studies of corporate networks in Sweden reveal a tightly interlocked business community, historically dominated by a few key “nodes.” Perhaps the most famous example is the Wallenberg sphere – a cluster of firms linked by the Wallenberg family through ownership and board positions. By mid-20th century, the Wallenbergs’ investment company Investor AB and affiliated bank (SEB) held significant stakes in numerous industrial giants (ASEA, Ericsson, SKF, etc.), and Wallenberg representatives occupied board seats across these companies [@hogfeldt2005HistoryPoliticsCorporate]. This created a dense network of interlocking directorates where a handful of individuals oversaw multiple firms. @ottosson1997InterlockingDirectoratesSwedish conducts a network analysis that confirms Swedish big business was highly connected: an analysis of early 1900s interlocks showed that the rise of modern banking went hand in hand with interlinked boards in industry. @ottosson1997InterlockingDirectoratesSwedish 's analysis covers five benchmark years; 1903, 1912, 1918, 1924 and 1939, and finds that that Swedish banks became more central actors in corporate networks over time, especially after financial crises, as they stepped in to restructure and stabilize industry. By the 1960s, the three largest banks each had direct or indirect board links to myriad companies, effectively coordinating corporate strategy in what one commentator called a “consultation economy”​, according to @hogfeldt2005HistoryPoliticsCorporate. Further, @hogfeldt2005HistoryPoliticsCorporate argues that these inter-firm networks sometimes facilitated resource sharing, risk management, and technology transfer among companies. For example, a director sitting on boards of both a steel company and an engineering firm could help channel investments or collaborative R&D between them. Such positive effects of interlocks – spreading best practices or providing stable long-term capital – have been noted in historical accounts of Swedish conglomerates​.
+
+On the other hand, network concentration also meant a small elite could exert outsized influence. @dejong2021ExceptionalBigLinkers mapped Dutch interlocking directorates and found a high degree of centrality among a few “big linkers” (individuals with many board seats) who could shape multiple firms’ decisions. Using modern network analysis tools on historical data, researchers can evaluate how these interlocks correlated with firm outcomes. The evidence provided by @ottosson1997InterlockingDirectoratesSwedish in the first half of the 20th century suggests that firms at the core of interlock networks often had more consistent performance (thanks to coordinated support during downturns), but overly dense networks might also stifle competition or innovation if the same directors resisted change later in the period.
+
+By using a bipartite network analysis based on digitized annual reports and shareholder registers, I can create a longitudinal panel and yearly network of board interconnections and then test hypotheses about governance and performance​. Through regression-based network analysis, it becomes possible to isolate effects: e.g. did firms with more connected engineers on their boards achieve higher revenue growth compared to others? Did a change in board network centrality precede changes in employment or labor share? Was the international experience of these engineers important? That is what I aim to explore in this paper.
+
+
+## III. Data and Source Criticism
+
+### Data sources
+
+This study draws on two interrelated data sources to examine the link between U.S.-experienced engineers on Swedish corporate boards and firm-level outcomes; firm-level financials, board composition, and biographical details of directors. The first two come from company reports, while the third is extracted from two sets of biographical dictionaries that detail the lives of prominent Swedes in the 20th century.
+
+I access the annual reports for companies listed on the Stockholm Stock Exchange, collected from the online archives of the Swedish House of Finance at the Stockholm School of Economics (SSE). These reports span 1873–2006, and are provided in PDF form. For the present project, the focus is on data from 1873 to 1980. I extract from these reports income statement information including revenue, cost of goods sold, operating expenses, wages, taxes, depreciation, net income, as well as balance sheet line items; total assets, current assets, fixed assets, total liabilities, current liabilities, long-term liabilities, and shareholder equity. I also extract the number of workers (sometimes disaggregated into white-collar vs. blue-collar).
+
+I limit the sample to firms with at least 30 years of data betwen 1873 and 1980, resulting in 71 firms included. For these 71 firms, the annual reports list the names and positions of their board members (alongside auditors) near the balance sheet. @fig-crot displays the coverage by firm and year.
+
+![Annual Report Coverage](images/company_reports_over_time.png){#fig-crot}
+
+To know about each director’s educational background, international experience, and broader career trajectory, information was gathered from Swedish biographical dictionaries *Vem är Vem?* and *Vem är Det?*. These references document education (e.g., engineering vs. business), overseas postings or study, and other notable career milestones. I detail the digitization of this data in the third paper of my thesis, and include a summary below.
+
+### Data Collection and Digitization
+
+The digitization process involved scraping the scanned archival annual reports from the Stockholm School of Economics Library - which along with drawing on their own archive, collected some reports from the Royal Library and Centrum för Näringslivshistoria to fill coverage gaps. This scraping script is available in the code repository linked above.
+
+A novel digitization process was needed to manage changes in financial reporting and layout over eight decades. Conventional Optical Character Recognition (OCR) methods proved insufficient due to inconsistent table structures, especially when reports extended over multiple pages to detail subsidiaries and international branches. Instead, the project used Large Language Models from Google’s “Gemini” family, combined with a custom pydantic data schema, to extract structured information from images. This approach sidestepped the need for traditional OCR by relying on multimodal image-processing capabilities, which improved accuracy and consistency. Nonetheless, certain complexities remain. Reporting language gradually shifted from Swedish to English for some companies, and the scope of financial disclosure expanded, with some early reports totaling only two pages and later ones exceeding one hundred. Although the main income statement and balance sheet items remained comparable, firm-level coverage of current assets, current liabilities, and subsidiary performance varied from year to year. The data is made accessible in the code repository linked above, as well as in an [interactive dashboard for exploration](https://swedish-annual-reports-archive-explorer.streamlit.app/), detailed in @fig-data-portal.
+
+Despite these technical advances, certain challenges remained. Variations in balance sheet reporting posed difficulties, as some firms presented multi-page breakdowns of assets or liabilities across subsidiaries or international branches, making it difficult to aggregate consistently. Additionally, language changes over time added complexity; reporting language shifted from Swedish to English in the mid-20th century for some companies. This issue was partially addressed by prompting the extraction models to recognize both Swedish and English terms, as evidenced in the reproduced PyDantic data schema in the appendix.
+
+{{< pagebreak >}}
+
+
+::: {#fig-reportsone layout-ncol=2}
+
+![1925](images/report-1.png){#fig-cri-1925}
+
+![1950](images/report-2.png){#fig-cri-1950}
+
+![1975](images/report-3.png){#fig-cri-1975}
+
+Profit and Loss Statements and Balalnce Sheets for Electrolux AB from 1925, 1950, and 1975. Souce: Swedish House of Finance at the Stockholm School of Economics Library Archives.
+
+:::
+
+{{< pagebreak >}}
+
+
+Board composition data were generally easier to extract, given that names and positions typically appeared in a standard location beneath the balance sheet. Individual directors’ surnames, initials, full names, and any listed title (e.g., Verkställande Direktör or Ordförande) were recorded.
+
+To supplement these board lists with directors’ backgrounds, a fuzzy string-matching algorithm was employed to match board members against the *Vem är Vem?* and *Vem är Det?* biographical dictionaries. Approximately 72% of board members were successfully matched using surname and initials; improving upon this match rate — potentially by incorporating mentions of employers or corporate affiliations into the matching routine — remains an area for future work. In the later periods towards 1980, the match rate drops slightly as we are drawing mainly on the *Vem är Det?* biographical dictionaries, which are published later and have less coverage than the *Vem är Vem?* volumes. It would be possible to improve the match rate by expanding the search to other biographical dictionaries such as the SBL, or company archives, but this is beyond the scope of the paper at present.
+
+An example of the biographical data is shown in @fig-vav-1, and the distribution of biographies across volumes and time period is shown in @fig-vav-2.
+
+### Source Criticism
+
+Although these biographical dictionaries offer a valuable repository of career information, they have certain limitations. Inclusion was partly self-selective, in that individuals could pay a nominal fee to appear, and the depth of information varies from one entry to another. A comparison with the Swedish Biographical Lexicon (SBL), which selects figures on broader historical grounds, revealed that fewer than one-fifth of the sampled individuals from Vem är Vem? also appear in the SBL. This discrepancy implies that Vem är Vem? may overrepresent socially prominent individuals, but that limitation is less consequential for studying board members of listed firms, who tend to hold influential positions by definition. Nonetheless, caution is warranted when interpreting patterns of foreign training or professional networking, since those who invested in a biographical listing may differ systematically from peers who did not.
+
+::: {#fig-vemarvem layout-ncol=2}
+
+![An example of a biogaphy from Karl Gustav Lund](images/vem_page-1.png){#fig-vav-1}
+
+![Number of biographies in each volume of 'Vem är Vem?'](images/who-is-who-volumes-2.png){#fig-vav-2}
+
+Example of a biographical entry from *Vem är Vem?* and the number of biographies in each volume. Source: Projekt Runeberg scans of *Vem är Vem?* volumes and author's own analysis.
+
+:::
+
+
+Another key limitation involves the composition of the 71 firms under study. The sample primarily includes the largest listed companies, many of which are finance and investment entities or engineering and industrial firms. According to internal categorization, finance and investment comprises 30.43 percent of the sample and engineering and industrial another 20.29 percent, with the remainder distributed across consumer goods, mining and metals, telecommunications, technology, automotive, and machinery. These proportions mean that the findings will not necessarily generalize to smaller, non-listed firms in other sectors. See @tbl-industry-distribution for a breakdown of the sample by broad industry classification.
+
+
+| Broad Industry               | Percentage (%) |
+|------------------------------|---------------|
+| Finance & Investment         | 30.43%        |
+| Engineering & Industrial     | 20.29%        |
+| Other                        | 18.84%        |
+| Consumer Goods               | 15.94%        |
+| Mining & Metals              | 7.25%         |
+| Telecommunications & Technology | 4.35%     |
+| Automotive & Machinery       | 2.90%         |
+
+: Distribution of firms in sample by broad industry classification. {#tbl-industry-distribution}
+
+### Constructing Variables
+
+Firm coverage being such as it is, I then construct several key variables to test whether boards with engineers that have experience in the United States performed differently. The first variable is the presence of a board member who has documented work experience in the United States. This information is extracted from the biographical dictionaries, which often note foreign postings or study abroad. I differentiate between individuals who travel to foreign counties, another commonly listed attribute in the biographical dictionaries, and individuals who work overseas by requiring the name of a firm that an individual worked at abroad to be present.
+
+Regarding board composition, this is coded both in binary form - indicating that at least one such individual exists - or by a share with the number of U.S.-trained engineers on the board. I use both specifications in the analysis. 
+
+Additional categorization sorts directors by educational background (e.g., engineering versus business), based on their educational degree and institute, if available. These classifications, drawn from dictionary entries, can show the relative importance of foreign exposure in shaping corporate practices. 
+
+The outcome measures center on firm performance, particularly revenue per employee and net revenue. Revenue per employee is especially useful for analyzing potential productivity gains or labor-saving measures. 
+
+Regarding networks, a bipartite network of firms and directors is created in order to provide variables to the time series analysis. A bipartite network has two kinds of nodes. On the one side, there are board members who can serve on different boards, and on the other, are firms which are connected by common board members. Such a network allows me to measure whether strongly interconnected firms exhibit similar policy decisions, employment trends, or performance trajectories. Standard measures of centrality - degree, betweenness, or eigenvector - are used to test whether firms situated in well-connected networks share similar characteristics or outcomes.
+
+Overall, the dataset assembled here—covering both extensive financial records and board composition details—enables an investigation of how U.S.-experienced engineers affected firm productivity and employment strategies in twentieth-century Sweden. While the archival approach and the reliance on biographical dictionaries introduce certain biases, the consistency of key income statement and balance sheet items, combined with the strength of the board-level matching, provides a valuable foundation for analyzing historical corporate governance.
+
+## IV. Empirical Method
+
+The empirical analysis begins with a longitudinal design that exploits firm-level data assembled from 1873 to 1980. Each firm enters the panel in years where sufficient financial information and board composition records exist, forming an unbalanced panel that covers varying intervals for different companies, where coverage is shown in @fig-crot. This approach allows for the exploration of how changes within each firm — such as the arrival of a U.S.-experienced engineer on the board - correlate with shifts in its performance indicators. 
+
+The preferred measure of firm performance is revenue per employee, computed by dividing total revenue by employee headcount. This indicator approximates labor productivity and highlights whether board-level expertise - particularly engineering plus American experience - translates into efficiency gains. To allow for the possibility that new appointments effects employment policies, a second model regresses overall employment on same explanatory terms. Comparing the two outcomes helps distinguish whether foreign-trained engineers primarily spur labor productivity improvements or also drive workforce expansion.
+
+The key explanatory variables focus on the presence and proportion of directors with specialized backgrounds. One specification includes a binary indicator that equals one if any board member meets two criteria: holding an engineering education and having worked in the United States. A complementary specification substitutes this binary measure with a continuous one, reflecting the share of board members who fit the same criteria. To address the sub-question about contrasting the effects of business- or finance-trained directors, further terms partition board composition into two dimensions: first, whether a director has an engineering or business/finance background, and second, whether that individual has foreign experience in the United States. In practice, this is done by interacting the director’s training (engineer vs. business/finance) with the U.S.-experience indicator, allowing the regression coefficients to capture how these backgrounds combine in shaping performance.
+
+By including firm fixed effects, the regression specifications control for any unobserved, time-invariant characteristics of individual companies, such as historical reputations, founding conditions, or long-standing ownership structures. Time dummies, capturing broad economic cycles and periods of expansion or downturn, help further isolate the relationship between board composition and performance from macroeconomic influences. The model incorporates basic controls—such as firm size (log of total assets), firm age (determined by the first annual report), and sector dummies tied to the classification in @tbl-industry-distribution.
+
+Changes in board composition might not yield immediate effects on productivity. Accordingly, the main specification is adjusted include lagged board-composition variables to capture the delayed impact of new directors on performance. In addition, as noted above, I make use of time fixed effects to account for potential reverse causality; that better-performing firms might attract sought-after U.S.-experienced engineers.
+
+The panel regression specification is:
+
+$$
+\text{Let } i \text{ index firms and } t \text{ index years.}
+$$
+
+The preferred empirical specification for the panel analysis of revenue per employee can be written as:
+
+$$
+\text{RevenuePerEmployee}_{i,t} = \alpha + \beta_1 (\text{ShareUSExpEngineers})_{i,t} + \beta_2 (\text{Controls})_{i,t} + \gamma_i + \delta_t + \varepsilon_{i,t}
+$$
+
+\
+\
+
+In this specification, $\text{RevenuePerEmployee}_{i,t}$ is the primary outcome variable, measuring the firm’s total sales divided by its number of employees. The explanatory term $(\text{ShareUSExpEngineers})_{i,t}$ is the proportion of board members in firm $i$ and year $t$ who combine an engineering background with documented work experience in the United States. This variable may capture how technology-focused expertise, supplemented by exposure to American industrial or managerial practices, shapes productivity outcomes.
+
+The vector $(\text{Controls})_{i,t}$ includes relevant firm-level characteristics, such as logarithm of total assets, firm age, and sector indicators drawn from @tbl-industry-distribution. Including these controls accounts for the possibility that older or larger firms, or certain industrial classifications, systematically differ in how effectively they convert workforce inputs into revenue. In addition, macroeconomic or temporal shifts are addressed by $\delta_t$, a year fixed effect that nets out time-specific shocks such as recessions or wartime disruptions. Meanwhile, $\gamma_i$ is a firm fixed effect that absorbs all time-invariant attributes of each company, such as founding conditions, enduring ownership patterns, or longstanding reputations.
+
+Finally, $\varepsilon_{i,t}$ is the idiosyncratic error term. Standard errors in such models are typically clustered by firm to allow for heteroskedasticity and serial correlation within each company’s observations. This framework is designed to disentangle how board composition—particularly the presence and share of U.S.-experienced engineers—relates to productivity measures like revenue per employee, while holding constant all other observable and unobservable differences among firms across the historical period under study.
+
+In terms of robustness, four approaches are used. First, lagged board composition is tested to determine whether productivity effects emerge with a delay. Second, alternative outcomes are considered by substituting total employment or employment growth for revenue per employee. Third, sub-period analyses are conducted by splitting the sample into historical intervals, such as before and after 1930 or post-1945, to check the stability of results. Finally, interactions with network measures are examined, where relevant, by adding metrics of network centrality or board interlocks to see if well-connected directors influence productivity more strongly.
+
+The network analysis uses a bipartite representation of directors and firms. Directors can occupy board seats on multiple companies, creating the potential for inter-firm ties when the same individual sits on more than one board. Visualizing these ties in a two-mode network highlights the connections that might facilitate the diffusion of business practices, managerial styles, and technological knowledge, particularly if directors bring specialized engineering skills or international experience. Because certain directors hold multiple seats, they serve as potential conduits for transferring ideas between firms, while boards that share members may coordinate or emulate each other’s strategies. To capture the structure, the study calculates degree centrality at the director level (indicating how many boards a person joins), along with firm-level connectivity measures (counting the number of directors shared with other firms). It also examines clusters of boards that appear “engineer heavy,” hypothesizing that these companies may form cohesive groups—sometimes anchored by powerful industrial families like the Wallenbergs - where common network linkages enhance trust and learning.
+
+In the regression analysis, these network metrics are introduced as additional explanatory variables. Specifically, each firm-year observation includes (a) an aggregate measure of the board’s centrality, such as the average centrality score of its directors or the fraction of directors in the top percentile of director-level degree, and (b) a firm connectivity index, capturing how many other companies are directly linked by shared board members. The models also allow interactions between these network variables and the presence of U.S.-experienced engineers; for example, to test whether central, foreign-trained engineers foster greater productivity gains than foreign-trained engineers on more isolated boards. By adding these terms—while still retaining firm fixed effects, time dummies, and core controls—the analysis can distinguish whether simply having U.S.-experienced engineers matters more or less than having them embedded in a highly connected board network.
+
+{{< pagebreak >}}
+
+## V. Analysis
+
+
+### Company Performance Data
+
+Firm-level financial data form a critical component of this study, providing measurable outcomes against which changes in board composition can be assessed. For each firm-year observation, the following variables have been extracted and compiled from historical annual reports:
+
+- Revenue: Total annual sales revenue generated by the company.
+- Net Income (Profit): Reported profit after accounting for all operating expenses, taxes, and depreciation.
+- Employment: Number of employees, which in some cases is further broken down into categories of blue-collar and white-collar workers.
+- Balance Sheet Information: Including total assets, total liabilities, and shareholder equity. From these balance sheet figures, I derive additional key financial indicators:
+    - Return on Assets (ROA): Calculated as net income divided by total assets, reflecting overall firm profitability relative to asset base.
+    - Leverage Ratio: Computed as total liabilities divided by total assets, indicating the extent to which the firm is financed by debt versus equity.
+
+Coverage across these financial dimensions varies slightly due to changes in reporting standards over time and firm-specific practices, with revenue and net income consistently reported across the entire study period. Employment and its composition into blue- and white-collar categories, while valuable, are available for only a subset of firms and years. Similarly, detailed asset and liability breakdowns vary, especially in the early decades of the sample, but stabilize towards the mid-20th century.
+
+These financial data provide robust measures of firm performance and financial health, enabling comprehensive analyses of how shifts in board composition influence economic outcomes at the company level.
+
+
+To know about each director’s educational background, international experience, and broader career trajectory, information was gathered from Swedish biographical dictionaries *Vem är Vem?* and *Vem är Det?*. These references document education (e.g., engineering vs. business), overseas postings or study, and other notable career milestones. I detail the digitization of this data in the third paper of my thesis, and include a summary below.
+
+
+### Data Collection and Digitization
+
+The digitization process involved scraping the scanned archival annual reports from the Stockholm School of Economics Library - which along with drawing on their own archive, collected some reports from the Royal Library and Centrum för Näringslivshistoria to fill coverage gaps. This scraping script is available in the code repository linked above.
+
+A novel digitization process was needed to manage changes in financial reporting and layout over eight decades. Conventional Optical Character Recognition (OCR) methods proved insufficient due to inconsistent table structures, especially when reports extended over multiple pages to detail subsidiaries and international branches. Instead, the project used Large Language Models from Google’s “Gemini” family, combined with a custom pydantic data schema, to extract structured information from images. This approach sidestepped the need for traditional OCR by relying on multimodal image-processing capabilities, which improved accuracy and consistency. Nonetheless, certain complexities remain. Reporting language gradually shifted from Swedish to English for some companies, and the scope of financial disclosure expanded, with some early reports totaling only two pages and later ones exceeding one hundred. Although the main income statement and balance sheet items remained comparable, firm-level coverage of current assets, current liabilities, and subsidiary performance varied from year to year. The data is made accessible in the code repository linked above, as well as in an [interactive dashboard for exploration](https://swedish-annual-reports-archive-explorer.streamlit.app/), detailed in @fig-data-portal.
+
+Despite these technical advances, certain challenges remained. Variations in balance sheet reporting posed difficulties, as some firms presented multi-page breakdowns of assets or liabilities across subsidiaries or international branches, making it difficult to aggregate consistently. Additionally, language changes over time added complexity; reporting language shifted from Swedish to English in the mid-20th century for some companies. This issue was partially addressed by prompting the extraction models to recognize both Swedish and English terms, as evidenced in the reproduced PyDantic data schema in the appendix.
+
+{{< pagebreak >}}
+
+
+::: {#fig-reportsone layout-ncol=2}
+
+![1925](images/report-1.png){#fig-cri-1925}
+
+![1950](images/report-2.png){#fig-cri-1950}
+
+![1975](images/report-3.png){#fig-cri-1975}
+
+Profit and Loss Statements and Balalnce Sheets for Electrolux AB from 1925, 1950, and 1975. Souce: Swedish House of Finance at the Stockholm School of Economics Library Archives.
+
+:::
+
+{{< pagebreak >}}
+
+
+Board composition data were generally easier to extract, given that names and positions typically appeared in a standard location beneath the balance sheet. Individual directors’ surnames, initials, full names, and any listed title (e.g., Verkställande Direktör or Ordförande) were recorded.
+
+To supplement these board lists with directors’ backgrounds, a fuzzy string-matching algorithm was employed to match board members against the *Vem är Vem?* and *Vem är Det?* biographical dictionaries. Approximately 72% of board members were successfully matched using surname and initials; improving upon this match rate — potentially by incorporating mentions of employers or corporate affiliations into the matching routine — remains an area for future work. In the later periods towards 1980, the match rate drops slightly as we are drawing mainly on the *Vem är Det?* biographical dictionaries, which are published later and have less coverage than the *Vem är Vem?* volumes. It would be possible to improve the match rate by expanding the search to other biographical dictionaries such as the SBL, or company archives, but this is beyond the scope of the paper at present.
+
+An example of the biographical data is shown in @fig-vav-1, and the distribution of biographies across volumes and time period is shown in @fig-vav-2.
+
+
+
+### *Vem är Vem?* and *Vem är Det?*
+
+```{r}
+library(tibble)
+library(tidyverse)
+library(gt)
+
+biographical_volumes <- tribble(
+    ~book_id, ~count,
+    "1918", 3257,
+    "1925", 3992,
+    "1933", 4365,
+    "1939", 5007,
+    "1943", 4357,
+    "1945", 6441,
+    "1953", 7955,
+    "1955", 5501,
+    "1957", 7207,
+    "1963", 6312,
+    "1967", 9911,
+    "1969", 9681,
+    "1977", 9094,
+    "1981", 9987,
+    "1985", 9097,
+    "1993", 7566,
+    "1995", 8865,
+    "1997", 8734,
+    "2001", 7932,
+    "gota48", 6877,
+    "gota65", 9122,
+    "norr68", 3654,
+    "skane48", 4296,
+    "skane66", 2767,
+    "sthlm45", 6634,
+    "sthlm62", 10094,
+    "svea64", 6792,
+    "vemindu", 5087
+) %>%
+    mutate(book_edition = case_when(
+        str_detect(
+            # when detecting 4 digits, make it "Vem är det"
+            book_id, "^[0-9]{4}$"
+        ) ~ "Vem är det?",
+        str_detect(book_id, "gota") ~ "Vem är vem i Götaland",
+        str_detect(book_id, "norr") ~ "Vem är vem i Norrland",
+        str_detect(book_id, "skane") ~ "Vem är vem i Skåne",
+        str_detect(book_id, "sthlm") ~ "Vem är vem i Stockholm",
+        str_detect(book_id, "svea") ~ "Vem är vem i Svealand",
+        str_detect(book_id, "vemindu") ~ "Vem är vem inom handel och industri?",
+        TRUE ~ book_id
+    )) %>%
+    mutate(year = case_when(
+        str_detect(book_id, "^[0-9]{4}$") ~ as.numeric(book_id),
+        str_detect(book_id, "gota") ~ as.numeric(str_extract(book_id, "[0-9]{2}")),
+        str_detect(book_id, "norr") ~ as.numeric(str_extract(book_id, "[0-9]{2}")),
+        str_detect(book_id, "skane") ~ as.numeric(str_extract(book_id, "[0-9]{2}")),
+        str_detect(book_id, "sthlm") ~ as.numeric(str_extract(book_id, "[0-9]{2}")),
+        str_detect(book_id, "svea") ~ as.numeric(str_extract(book_id, "[0-9]{2}")),
+        str_detect(book_id, "vemindu") ~ 1945,
+        TRUE ~ NA_real_
+    )) %>%
+    mutate(year = case_when(
+        year < 1900 ~ year + 1900,
+        TRUE ~ year
+    ))
+
+biographical_volumes %>%
+    arrange(year) %>%
+    select(book_edition, year, count) %>%
+    gt() %>%
+    tab_header(
+        title = "Biographical Dictionaries",
+        subtitle = "Vem är Vem? and Vem är Det?"
+    ) %>%
+    cols_label(
+        book_edition = "Book Edition",
+        year = "Year",
+        count = "Number of Biographies"
+    ) %>%
+    fmt_number(
+        columns = vars(count),
+        decimals = 0,
+        use_seps = TRUE
+    ) %>%
+    cols_align(
+        align = "left",
+        columns = vars(book_edition)
+    ) %>%
+    cols_align(
+        align = "center",
+        columns = vars(year)
+    ) %>%
+    cols_align(
+        align = "right",
+        columns = vars(count)
+    )
+```
+
+
+### Descriptive Statistics on Biographies
+
+After digitizing, there are 161,634 different biographies in the *Vem är Vem?* and *Vem är Det?* dictionaries. Some of these entries are for the same individuals in different years, and different editions. As such, after deduplicating based on unique name and birth date combinationss, I am left with 65,773 biographies. 
+
+
+```{r}
+library(tibble)
+
+occupation_data <- tribble(
+    ~Occupation, ~Count, ~Share, ~HISCO_Code, ~HISCO_Description,
+    "Skådespelerska", 740, 6.27, 17320.0, "Actor",
+    "Författarinna", 603, 5.11, 15120.0, "Author",
+    "författare", 392, 3.32, 15120.0, "Author",
+    "Journalist", 373, 3.16, 15915.0, "Journalist",
+    "Tandläkare", 363, 3.07, 6310.0, "Dentist, General",
+    "operasångerska", 333, 2.82, 17145.0, "Singer",
+    "Professor", 316, 2.68, 13100.0, "University and Higher Education Teacher, Subject Unknown",
+    "konstnär", 281, 2.38, 16000.0, "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+    "skådespelare", 273, 2.31, 17320.0, "Actor",
+    "rektor", 197, 1.67, 13940.0, "Head Teacher"
+)
+
+# Create combined tibble with added gender column
+occupation_combined <- bind_rows(
+    # Women's data
+    occupation_data %>% mutate(Gender = "Women"),
+
+    # Men's data
+    tribble(
+        ~Occupation, ~Count, ~Share, ~HISCO_Code, ~HISCO_Description, ~Gender,
+        "Direktör", 17592, 10.90, 21110.0, "General Manager", "Men",
+        "Professor", 10498, 6.50, 13100.0, "University and Higher Education Teacher, Subject Unknown", "Men",
+        "Civilingenjör", 5088, 3.15, 2210.0, "Civil Engineer, General", "Men",
+        "professor emeritus", 3684, 2.28, 13100.0, "University and Higher Education Teacher, Subject Unknown", "Men",
+        "Advokat", 2954, 1.83, 12110.0, "Lawyer", "Men",
+        "konstnär", 2743, 1.70, 16000.0, "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown", "Men",
+        "redaktör", 2708, 1.68, 15920.0, "Editor, Newspapers and Periodicals", "Men",
+        "författare", 2472, 1.53, 15120.0, "Author", "Men",
+        "Överste", 2420, 1.50, 58320.0, "Officer", "Men",
+        "Tandläkare", 2283, 1.41, 6310.0, "Dentist, General", "Men"
+    )
+) %>%
+    mutate(Occupation = str_to_title(Occupation))
+
+# Create GT table
+occupation_combined %>%
+    gt(groupname_col = "Gender") %>%
+    tab_header(
+        title = "Top Occupations in Biographical Dictionaries by Gender",
+        subtitle = "Top 10 most common occupations for women and men"
+    ) %>%
+    cols_label(
+        Occupation = "Occupation (sv)",
+        Count = "Count",
+        Share = "Share (%)",
+        HISCO_Code = "HISCO Code",
+        HISCO_Description = "HISCO Description"
+    ) %>%
+    fmt_number(
+        columns = vars(Count),
+        decimals = 0,
+        use_seps = TRUE
+    ) %>%
+    fmt_number(
+        columns = vars(Share),
+        decimals = 2
+    ) %>%
+    cols_align(
+        align = "left",
+        columns = vars(Occupation, HISCO_Description)
+    ) %>%
+    cols_align(
+        align = "center",
+        columns = vars(HISCO_Code)
+    ) %>%
+    cols_align(
+        align = "right",
+        columns = vars(Count, Share)
+    ) %>%
+    tab_style(
+        style = cell_text(weight = "bold"),
+        locations = cells_row_groups()
+    ) %>%
+    tab_options(
+        row_group.background.color = "#f7f7f7"
+    )
+
+```
+
+
+## Board Composition Matched to Biographies
+
+I collect board members from the company reports for each year that they are reported. This includes surname, name or initials, and position on the board if it is available.
+
+For the 71 firms I have in the sample, I collect the names of 3,256 individual board members, who serve at least two years on the board.
+
+Next I match the board members to the biographies in the *Vem är Vem?* and *Vem är Det?* dictionaries. This is done using a fuzzy string matching algorithm, which matches on the first name and surname, and the birth date.
+
+I get a match for 2,047 of the board members, or 62.9% of the total, using a threshold of 95 percent confidence. This is a decent match rate, and I am happy with this. TODO: compare to other match rates in e.g. Nick Ford's work.
+
+## Business managers
+
+Following Acemoglu, He and le Maire (2023), I define business managers those who have attended a business school. They use a simple string matching definition^[Business schools are schools with “Business School”, “School of Business”, “College of Business”, or “School of Management” in the school name (with a few exceptions such as Wharton and INSEAD). Business degrees include bachelors, masters and executive programs of business schools.], and I follow a similar process here, looking for the following keywords among the education entries in the biographies.
+
+Similarly, I define technical managers as those who have attended a technical school. I use the following keywords to identify these individuals.
+
+```{r}
+#| echo: true
+#| eval: false
+
+TECHNICAL_KEYWORDS = [
+    'tekniska', 'chalmers', 'kth', 'tekn', 'ingenjör', 'teknisk', 
+    'teknolog', 'polytekn', 'engineering', 'technical'
+]
+
+BUSINESS_KEYWORDS = [
+    'handels', 'ekonom', 'handelshögskola', 'business', 'commerce', 
+    'ekonomisk', 'handelsinstitut', 'handelsgymnasium'
+]
+
+```
+
+### Do we see a shift in education over time among the biographies?
+
+First we look at the share of all individuals in the biographies who have a technical or business education. 
+
+Among the 65,773 unique biographies, I plot the year of the individuals birth on the x-axis against the share of individuals with either a technical or business education on the y-axis. We see that in the entire sample, the share of individuals with education from a business school is higher, and that the share of individuals with a technical education is increasing over time.
+
+```{r}
+library(tidyverse)
+library(readxl)
+
+df_exper <- readxl::read_excel("data/all_education_data_deduplicated.xlsx")
+
+df_exper_plot <- df_exper %>%
+    # extract 4 digits from the birth_date column
+    mutate(
+        birth_year = str_extract(birth_date, "\\d{4}"),
+        birth_year = parse_number(birth_year)
+    ) %>%
+    mutate(
+        # create variable to smooth out the data, where birthyear is grouped by 5 years
+        birth_year_5 = floor(birth_year / 3) * 3,
+    ) %>%
+    group_by(birth_year_5) %>%
+    summarise(
+        mean_technical = mean(has_technical_education, na.rm = T),
+        mean_business = mean(has_business_education, na.rm = T),
+    ) %>%
+    filter(between(birth_year_5, 1860, 1950))
+
+
+
+df_exper_plot %>%
+    ggplot(aes(x = birth_year_5)) +
+    geom_line(aes(y = mean_technical, colour = "Technical"), lty = 1) +
+    geom_line(aes(y = mean_business, colour = "Business"), lty = 2) +
+    theme(legend.position = "bottom") +
+    labs(
+        colour = "Type of education for all biographies",
+        x = "Year of individual's birth",
+        y = "Share of individual's with specific education",
+        caption = "Smoothing by 3 year rolling mean"
+    ) +
+    scale_y_continuous(labels = scales::percent_format(scale = 100)) +
+    scale_colour_manual(values = c("blue", "red"), labels = c("Technical", "Business")) 
+
+```
+
+
+Next I limit the sample to the 15,301 biographies of individuals with an occupation classified as a director (HISCO code 21000 to 21999). 
+
+Here we see that the relative share of individuals with technical education is higher than the share of individuals with business education, at least for individuals born from 1880 to 1935.
+
+```{r}
+df_directors <- readxl::read_excel("data/directors_education_data_deduplicated.xlsx")
+
+df_directors %>%
+    # extract 4 digits from the birth_date column
+    mutate(
+        birth_year = str_extract(birth_date, "\\d{4}"),
+        birth_year = parse_number(birth_year)
+    ) %>%
+    mutate(
+        # create variable to smooth out the data, where birthyear is grouped by 5 years
+        birth_year_5 = floor(birth_year / 3) * 3,
+    ) %>%
+    group_by(birth_year_5) %>%
+    summarise(
+        mean_technical = mean(has_technical_education, na.rm = T),
+        mean_business = mean(has_business_education, na.rm = T),
+    ) %>%
+    filter(between(birth_year_5, 1860, 1950)) %>%
+    ggplot(aes(x = birth_year_5)) +
+    geom_line(aes(y = mean_technical, colour = "Technical"), lty = 1) +
+    geom_line(aes(y = mean_business, colour = "Business"), lty = 2) +
+    theme(legend.position = "bottom") +
+    labs(
+        colour = "Type of education of board members",
+        x = "Year of director's birth",
+        y = "Share of director's with specific education",
+        caption = "Smoothing by 3 year rolling mean"
+    ) +
+    scale_y_continuous(labels = scales::percent_format(scale = 100)) +
+    scale_colour_manual(values = c("blue", "red"), labels = c("Technical", "Business")) 
+
+```
+
+Finally, looking at it from the perspective of the boards of the 71 firms in the sample, I show the average share of board members with technical or business education over time, where each board is weighted equally.
+
+Here we see that at the beginning of the period, boards have a higher share of individuals with business education, and that this clbimes from 1925 to 1960. 
+
+Similarly, the share of boards with members who have technical education rises almost monotonically from 1905 to 1975, and then declines slightly into the 1980s before recovering again. 
+
+```{r}
+df <- readxl::read_excel(here::here("data/director_education_summaries_all/all_education_shares.xlsx"))
+
+df %>%
+    filter(between(year, 1900, 1990)) %>%
+    group_by(year) %>%
+    summarise(
+        share_technical = mean(share_technical),
+        share_business = mean(share_business)
+    ) %>%
+    ggplot(aes(x = year)) +
+    geom_line(aes(y = share_technical, colour = "Technical")) +
+    geom_line(aes(y = share_business, colour = "Business"), lty = 2) +
+    theme(legend.position = "bottom") +
+    labs(
+        colour = "Type of education of board members",
+        y = "Share of entire board with technical or business managers"
+    ) +
+    scale_y_continuous(labels = scales::percent_format(scale = 100)) +
+    scale_colour_manual(values = c("blue", "red"), labels = c("Technical", "Business"))
+
+```
+
+
+## Empirical Strategy
+
+To examine how changes in the educational composition and international experience of corporate boards influenced Swedish firm-level outcomes, I employ an event-study methodology similar to Acemoglu, He, and le Maire (2023). Specifically, I leverage instances where Swedish companies first appoint board members with distinct educational backgrounds—particularly business education—and international experience, defined here as experience in the United States.
+
+### Variable definition
+
+I have three outcome variables that I explore. First, I have net income, which is the profit of the firm. Second, I create a variable for net return on assets which is calculated as net income divided by total assets. Finally, I have a variable for the number of employees at the firm. These are sourced from the company reports.
+
+My variables of interest are directors education, and work experience in the USA. For education, I find the first year in which a member of the firm's board has either technical education or business education, as identified in the biographies which are matched to the board members in each year that I have information on the board composition from the company reports. For work experience in the USA, I use the first board member in whose biography a workplace in the USA is named. I geocode each location for the workplaces in each biography, and use this information to classify USA workplaces. I plot these in the figure below, highlighting in red dots the workplaces in the USA.
+
+![Map of international experience](data/assets/directors_international_experience_map.png)
+
+### Identification and Event Definition
+
+Events are defined as the first instance in which a director with a business education or U.S. experience joins a company's board. These two distinct events allow me to separate the effects of professional education from those stemming from exposure to U.S. corporate practices. For each firm-event pair, I construct a time variable relative to the event year (denoted as $t=0$), considering an event window ranging from five years before to five years after the event. Firms that never experience these board appointments during the sample period constitute the control group, facilitating the estimation of counterfactual outcomes.
+
+### Regression Specification
+
+To formally estimate the effects of board composition changes on firm outcomes, I employ the following event-study regression specification:
+
+
+
+$$Y_{it} = \sum_{\tau=-5}^{5} \gamma_{\tau}D_{i,\tau} + \lambda_i + \delta_t + \epsilon_{it}$$
+
+where:
+
+- $Y_{it}$ is the firm-level outcome for company $i$ in year $t$, which includes key measures such as revenue, net income (profit), employment (total, and disaggregated into blue-collar and white-collar if available), return on assets (net income divided by total assets), and financial leverage (total liabilities divided by total assets).
+- $D_{i,\tau}$ are event-time indicator variables equal to one if year $t$ corresponds to $\tau$ years relative to the first appointment of a board member with either business education or U.S. experience. The year immediately preceding the event $\tau=-1$ serves as the omitted category, normalizing the coefficient estimates relative to pre-event trends.
+- $\lambda_i$ represents firm fixed effects, absorbing unobserved, time-invariant firm characteristics.
+- $\delta_t$ denotes year fixed effects, controlling for common macroeconomic shocks and aggregate industry trends affecting all firms similarly in a given year.
+- $\epsilon_{it}$ is the error term, clustered at the firm level to allow for serial correlation within firms.
+
+### Interpretation of Coefficients
+
+The coefficients $\gamma_{\tau}$ capture the dynamic impact of appointing directors with business education or U.S. experience on firm outcomes. Coefficients for periods $\tau < 0$ test for pre-event trends and help validate the identifying assumption of parallel trends. Significant coefficients for periods $\tau \geq 0$ indicate the causal effect of these board changes on firm performance. Visualizing these estimates across event-time provides intuitive evidence for both the timing and magnitude of the observed effects.
+
+I hope to disentangle the effects of shifting board compositions, contributing novel insights into the historical role of managerial expertise and international influence on Swedish corporate performance in the 20th century.
+
+### Baseline regression results
+
+#### Net income
+
+First, I present the event study plots for the effect of the different variables on net income:
+
+For business education, work experience in the USA and technical education, there is no serious difference between the pre period and the post period.
+
+![](data/assets/01-baseline-business-on-ni.png)
+
+![](data/assets/02-baseline-usa-on-ni.png)
+
+![](data/assets/03-baseline-technical-on-ni.png)
+
+#### Return on Assets
+
+Second, I show the event study plots for the effect of the different variables on the return on assets:
+
+Again, for business education, work experience in the USA and technical education, there is no real difference between the pre period and the post period.
+
+![](data/assets/04-baseline-business-on-roa.png)
+
+![](data/assets/05-baseline-usa-on-roa.png)
+
+![](data/assets/06-baseline-technical-on-roa.png)
+
+#### Number of workers
+
+Third, I look at the effect of the different variables on the number of employees at each firm. 
+
+Here, one could argue that there is a slight effect for a board member joining with technical education on the number of employees, but this is not entirely convincing.
+
+![](data/assets/07-business-on-n-employees.png)
+
+![](data/assets/08-usa-on-n-employees.png)
+
+![](data/assets/09-technical-education-on-n-employees.png)
+
+#### Revenue per worker
+
+Finally, when we look at revenue per worker, we see a small effect of a board member with work experience in the USA joining the board on the revenue per worker.
+
+![](data/assets/highlight-usa-on-revenue-per-worker.png)
+
+
+{{< pagebreak >}}
+
+## Appendix
+
+#### List of Companies in the Dataset
+
+| Company Name         | Classification/Industry                          |
+|----------------------|--------------------------------------------------|
+| AGA                  | Industrial gases & chemical technology           |
+| ASEA                 | Electrical engineering & industrial technology   |
+| Addo                 | Office machines & calculators                    |
+| AlfortCronholm       | Wholesale trade (hardware and tools)             |
+| Arvikaverken         | Heavy machinery / industrial engineering         |
+| Astra                | Pharmaceuticals & healthcare                     |
+| Atlantica            | Insurance services                               |
+| Bahco                | Hand tools & metalworking equipment              |
+| Baltic               | Shipping / maritime services                     |
+| Beckers              | Paints & coatings                                |
+| Beijerinvest         | Investment & holding company                     |
+| Billerud             | Pulp, paper & packaging                          |
+| Billman              | Engineering components (industrial valves)       |
+| Boxholm              | Steel production & metal fabrication             |
+| Coronaverken         | Iron & steel works                               |
+| Custos               | Investment & holding company                     |
+| Diamantbergborrning  | Mining & drilling (mining services)              |
+| Diligentia           | Real estate & property management                |
+| Drott                | Real estate & property management                |
+| Electrolux           | Home appliances & consumer electronics           |
+| Emissionsinstitutet  | Environmental research & consultancy             |
+| Ericsson             | Telecommunications & networking equipment        |
+| Esselte              | Office products & stationery                     |
+| Exportinvest         | Investment & export finance                      |
+| Fagersta             | Steel & metallurgical engineering                |
+| Fannyudde            | Engineering & manufacturing (marine equipment)   |
+| Ford                 | Automotive manufacturing (Swedish operations)    |
+| Forshaga             | Chemical industry (plastics and resins)          |
+| Heimdall             | Security services                                |
+| Hennes               | Fashion retail (origin of H&M)                   |
+| Hufvudstaden         | Real estate & property management                |
+| Iggesund             | Iron & steel, later pulp and paper               |
+| Incentive            | Investment & holding company                     |
+| Investor             | Investment & holding company                     |
+| Invik                | Investment & finance                             |
+| JW                   | Engineering & manufacturing (industrial equipment)|
+| Kilsund              | Maritime engineering & metal works               |
+| Kinnevik             | Investment & holding company                     |
+| Kopparfors           | Forestry & paper industry                        |
+| Kreditbanken         | Banking & finance                                |
+| Lux                  | Consumer goods (lighting/appliances)             |
+| Marabou              | Confectionery & food production                  |
+| Metallverken         | Metalworking & industrial manufacturing          |
+| Neptun               | Maritime services (tugboats and salvage)         |
+| Nessim               | Investment & finance                             |
+| Nordbanken           | Banking & finance                                |
+| Norrlandsbanken      | Banking & finance                                |
+| Optimus              | Portable stoves & heating equipment              |
+| PLM                  | Packaging & containers                           |
+| Papyrus              | Stationery & paper products                      |
+| Pripps               | Brewery & beverage production                    |
+| Providentia          | Investment & holding company                     |
+| Pumpseparator        | Industrial equipment (fluid handling)            |
+| Ratos                | Investment & holding company                     |
+| SEBanken             | Banking & finance                                |
+| Sandvik              | Engineering (materials technology & mining tools)|
+| Skandia              | Insurance & financial services                   |
+| Skaraborgsbanken     | Banking & finance                                |
+| Sonesson             | Consumer goods (food production)                 |
+| Stockholmsbryggerier | Brewery & beverage production                    |
+| Sulitelma            | Mining (zinc and copper)                         |
+| Sundsvallsbanken     | Banking & finance                                |
+| Tarkett              | Flooring & building materials                    |
+| Tjenstemannabanken   | Banking & finance (service bank)                 |
+| Trelleborg           | Industrial engineering (polymer-based products)  |
+| Uddeholm             | Tool steels & metallurgical production           |
+| Uplandsbanken        | Banking & finance                                |
+| Volta                | Electrical appliances (vacuum cleaners)          |
+| Volvo                | Automotive & heavy machinery manufacturing       |
+
+
+#### Summary of companies
+
+| Broad Industry               | Percentage (%) |
+|------------------------------|---------------|
+| Finance & Investment         | 30.43%        |
+| Engineering & Industrial     | 20.29%        |
+| Other                        | 18.84%        |
+| Consumer Goods               | 15.94%        |
+| Mining & Metals              | 7.25%         |
+| Telecommunications & Technology | 4.35%     |
+| Automotive & Machinery       | 2.90%         |
+
+{{< pagebreak >}}
+
+```{python}
+#| eval: false
+#| echo: true
+
+
+# --- Pydantic Models ---
+
+class IncomeStatement(BaseModel):
+    """
+    Standard representation of an Income Statement.
+    Note: In many older reports, board member names are listed below this statement.
+    """
+    revenue: Optional[float] = Field(
+        None, description="Total revenues or sales. (Swedish: Intäkter)"
+    )
+    cost_of_goods_sold: Optional[float] = Field(
+        None, description="Cost of goods sold. (Swedish: Kostnad såld vara)"
+    )
+    operating_expenses: Optional[float] = Field(
+        None, description="Total operating expenses. (Swedish: Rörelsekostnader)"
+    )
+    wages_expense: Optional[float] = Field(
+        None, description="Total wages and salaries expense. (Swedish: Lönekostnader)"
+    )
+    tax_expense: Optional[float] = Field(None, description="Tax expense. (Swedish: Skatt)")
+    depreciation: Optional[float] = Field(None, description="Depreciation (Swedish: Avskrivningar)")
+    net_income: Optional[float] = Field(
+        None, description="Net income (profit or loss) for the period. (Swedish: Årets resultat)"
+    )
+
+
+class BalanceSheet(BaseModel):
+    """
+    Standard representation of a Balance Sheet.
+    """
+    total_assets: Optional[float] = Field(
+        None, description="Total assets at period end. (Swedish: Tillgångar)"
+    )
+    current_assets: Optional[float] = Field(
+        None, description="Current assets. (Swedish: Omsättningstillgångar)"
+    )
+    fixed_assets: Optional[float] = Field(
+        None, description="Long-term or fixed assets. (Swedish: Anläggningstillgångar)"
+    )
+    total_liabilities: Optional[float] = Field(
+        None, description="Total liabilities. (Swedish: Skulder)"
+    )
+    current_liabilities: Optional[float] = Field(
+        None, description="Current liabilities. (Swedish: Kortfristiga skulder)"
+    )
+    long_term_liabilities: Optional[float] = Field(
+        None, description="Long-term liabilities. (Swedish: Långfristiga skulder)"
+    )
+    shareholders_equity: Optional[float] = Field(
+        None, description="Total shareholders' or owners' equity. (Swedish: Eget kapital)"
+    )
+
+
+class BoardMember(BaseModel):
+    """
+    Representation of a single board member.
+    Typically listed below the Income Statement in older reports.
+    """
+    surname: str = Field(..., description="The surname of the board member.")
+    first_name: Optional[str] = Field(None, description="The first name of the board member.")
+    initials: Optional[str] = Field(None, description="Initials of the board member.")
+    position: Optional[str] = Field(None, description="The board position held by the member.")
+
+
+class Auditor(BaseModel):
+    """
+    Representation of a single auditor.
+    Typically listed after the board members.
+    """
+    surname: str = Field(..., description="The surname of the auditor.")
+    first_name: Optional[str] = Field(None, description="The first name of the auditor.")
+    initials: Optional[str] = Field(None, description="Initials of the auditor.")
+    auditing_firm: Optional[str] = Field(None, description="The auditing firm, if specified.")
+
+
+class Employees(BaseModel):
+    """
+    Representation of the number of employees in a company.
+    """
+    n_employees: Optional[int] = Field(None, description="Total number of employees. (Swedish: Antal anställda)")
+    n_blue_collar_workers: Optional[int] = Field(None, description="Total number of blue collar workers. (Swedish: Antal arbetare)")
+    n_white_collar_workers: Optional[int] = Field(None, description="Total number of white collar workers. (Swedish: Antal tjänstemän)")
+
+
+class FinancialReport(BaseModel):
+    """
+    Comprehensive financial report model, including:
+    - Income Statement (with Swedish term references)
+    - Balance Sheet (with Swedish term references)
+    - Employees (with Swedish term references)
+    - Board members (often listed under the P&L statement)
+    - Auditors (often follow after the board list)
+    """
+    company_name: str = Field(..., description="The name of the company.")
+    fiscal_year: int = Field(..., description="Fiscal year of the report.")
+    income_statement: IncomeStatement = Field(..., description="Income statement details.")
+    balance_sheet: BalanceSheet = Field(..., description="Balance sheet details.")
+    employees: Optional[Employees] = Field(None, description="Employee details.")
+    board: Optional[List[BoardMember]] = Field(None, description="List of board members with details.")
+    auditors: Optional[List[Auditor]] = Field(None, description="List of auditors with details.")
+    additional_notes: Optional[str] = Field(None, description="Any extra commentary or notes from the report.")
+
+
+```
+
+{{< pagebreak >}}
+
+## Data portal to examine company report data
+
+I have created a Streamlit app to explore the company report data. The app allows users to select a set of companies, and view the extracted financial data. The second tab of the app allows users to calculate ratios of interest, such as revenue per employee, and view the development of these ratios across the selected companies and across time.
+
+The app is available at the following link: [https://swedish-annual-reports-archive-explorer.streamlit.app/](https://swedish-annual-reports-archive-explorer.streamlit.app/).
+
+::: {#fig-data-portal layout-ncol=1}
+
+
+![First tab](images/app-01.png){#fig-dp-1}
+
+![Second tab](images/app-02.png){#fig-dp-2}
+
+Screenshots of the Streamlit app interface. Source: Author's own work.
+
+:::
+
+
+{{< pagebreak >}}
+
+## Works Cited

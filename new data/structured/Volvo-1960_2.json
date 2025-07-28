@@ -1,0 +1,128 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 1079.109,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 1291.574,
+    "current_assets": null,
+    "fixed_assets": 90.518,
+    "total_liabilities": 252.655,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 133.2
+  },
+  "employees": {
+    "n_employees": 17366,
+    "n_blue_collar_workers": 11642,
+    "n_white_collar_workers": 5724
+  },
+  "board": [
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "ASSAR",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HALLSTRÖM",
+      "first_name": null,
+      "initials": "H:SON",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "TÖRNEBOHM",
+      "first_name": "HILDING",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRANFORS",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JUNKER",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KHOLM",
+      "first_name": "GÖRE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TROLL",
+      "first_name": null,
+      "initials": "AF",
+      "position": "styrelsesuppleanter"
+    },
+    {
+      "surname": "MAGNUS",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "SVANTE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRYKLUND",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": null,
+      "initials": "E.",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

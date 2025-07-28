@@ -1,0 +1,122 @@
+{
+  "company_name": "ELECTROLUX",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 84919.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3021.0,
+    "net_income": 2579.0
+  },
+  "balance_sheet": {
+    "total_assets": 63298.0,
+    "current_assets": 38121.0,
+    "fixed_assets": 25117.0,
+    "total_liabilities": 26187.0,
+    "current_liabilities": 16262.0,
+    "long_term_liabilities": 13681.0,
+    "shareholders_equity": 17025.0
+  },
+  "employees": {
+    "n_employees": 152913,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WERTHÉN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "BYSTEDT",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": "President, AB Investor"
+    },
+    {
+      "surname": "HOLGERSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Board Member"
+    },
+    {
+      "surname": "MALMENSTAM-SKYTT",
+      "first_name": "BIRGIT",
+      "initials": null,
+      "position": "Secretary General, Swedish Shareholders' Association"
+    },
+    {
+      "surname": "OLVING",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "PALMSTIERNA",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": "Board Chairman"
+    },
+    {
+      "surname": "SCHARP",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "President and CEO"
+    },
+    {
+      "surname": "WIKANDER",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Former President, Fourth National Pension Insurance Fund"
+    },
+    {
+      "surname": "KARLSSON",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "SÖDERQVIST",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "MÖRK",
+      "first_name": "ROLAND",
+      "initials": null,
+      "position": "Deputy employee representative"
+    },
+    {
+      "surname": "SÄLL",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": "Deputy employee representative"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOLMÉN",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    }
+  ],
+  "additional_notes": null
+}

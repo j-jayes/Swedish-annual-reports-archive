@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET KINNEVIK",
+  "fiscal_year": 1947,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 336605.26,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 525.0,
+    "depreciation": 4086.0,
+    "net_income": 310458.28
+  },
+  "balance_sheet": {
+    "total_assets": 9182463.82,
+    "current_assets": 53434.79,
+    "fixed_assets": 105245.65,
+    "total_liabilities": 422781.4,
+    "current_liabilities": 9650.0,
+    "long_term_liabilities": 636927.1333333333,
+    "shareholders_equity": 8384949.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stén",
+      "first_name": "Helmer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Brockman",
+      "first_name": "Clarence T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Klingspor",
+      "first_name": "Gust. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

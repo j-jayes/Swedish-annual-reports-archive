@@ -1,0 +1,74 @@
+{
+  "company_name": "MALCUS HOLMQUIST",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 1973219.87,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1215751.88,
+    "net_income": 628118.68
+  },
+  "balance_sheet": {
+    "total_assets": 18428484.9,
+    "current_assets": 5653165.05,
+    "fixed_assets": 12404347.35,
+    "total_liabilities": 8154016.18,
+    "current_liabilities": 2354626.28,
+    "long_term_liabilities": 5559366.91,
+    "shareholders_equity": 6164498.72
+  },
+  "employees": {
+    "n_employees": 672,
+    "n_blue_collar_workers": 531,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Berger",
+      "first_name": "Edw.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wendt",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hill",
+      "first_name": "Oscar",
+      "initials": "J:son",
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "Carl",
+      "initials": "Magnus",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hessle",
+      "first_name": "Waldemar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

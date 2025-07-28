@@ -1,0 +1,68 @@
+{
+  "company_name": "FASTIGHETS AB PILEN",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 13.096,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4.765,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1.676,
+    "net_income": 3.858
+  },
+  "balance_sheet": {
+    "total_assets": 84.665,
+    "current_assets": 7.846,
+    "fixed_assets": 76.819,
+    "total_liabilities": 53.094,
+    "current_liabilities": 10.029,
+    "long_term_liabilities": 43.065,
+    "shareholders_equity": 31.571
+  },
+  "employees": {
+    "n_employees": 11,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sparr",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans",
+      "initials": "E",
+      "position": null
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

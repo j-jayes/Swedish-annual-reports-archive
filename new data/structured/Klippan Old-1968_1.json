@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET KLIPPANS FINPAPPERSBRUK",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 29.923,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.184,
+    "depreciation": null,
+    "net_income": 2.956
+  },
+  "balance_sheet": {
+    "total_assets": 213.506,
+    "current_assets": 69.273,
+    "fixed_assets": 143.782,
+    "total_liabilities": 122.151,
+    "current_liabilities": 47.082,
+    "long_term_liabilities": 75.068,
+    "shareholders_equity": 63.336
+  },
+  "employees": {
+    "n_employees": 3197,
+    "n_blue_collar_workers": 2775,
+    "n_white_collar_workers": 422
+  },
+  "board": [
+    {
+      "surname": "THOMASSON",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLENNOW",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERSTROM",
+      "first_name": "TH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CRAFOORD",
+      "first_name": "HOLGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSON",
+      "first_name": "RUTGER",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LARSSON",
+      "first_name": "TAGE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ELVEFORS",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

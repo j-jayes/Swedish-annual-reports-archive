@@ -1,0 +1,49 @@
+{
+  "company_name": "Rederiaktiebolaget Svenska Lloyd",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 17472763.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1355320.0,
+    "depreciation": null,
+    "net_income": 1338674.39
+  },
+  "balance_sheet": {
+    "total_assets": 58118179.2,
+    "current_assets": 33677134.58,
+    "fixed_assets": 20607955.85,
+    "total_liabilities": 26709545.69,
+    "current_liabilities": 20953651.18,
+    "long_term_liabilities": 3857714.07,
+    "shareholders_equity": 21400680.0
+  },
+  "employees": {
+    "n_employees": 1042,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "BEYER",
+      "first_name": "ROB.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HYGRELL",
+      "first_name": "ERIC",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

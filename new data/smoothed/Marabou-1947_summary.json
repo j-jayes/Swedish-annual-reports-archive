@@ -1,0 +1,74 @@
+{
+  "company_name": "MARABOU",
+  "fiscal_year": 1947,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 550000.0,
+    "depreciation": 458552.7,
+    "net_income": 839917.81
+  },
+  "balance_sheet": {
+    "total_assets": 28471819.68,
+    "current_assets": 16569680.11,
+    "fixed_assets": 11902139.57,
+    "total_liabilities": 17516270.693333335,
+    "current_liabilities": 5029087.41,
+    "long_term_liabilities": 11361000.0,
+    "shareholders_equity": 10955026.29
+  },
+  "employees": {
+    "n_employees": 1331,
+    "n_blue_collar_workers": 971,
+    "n_white_collar_workers": 354
+  },
+  "board": [
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JUHLIN DANNFELT",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "G\nOTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEDERSEN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERFELT",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SVENSSON",
+      "first_name": "SETH",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GENTELE",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

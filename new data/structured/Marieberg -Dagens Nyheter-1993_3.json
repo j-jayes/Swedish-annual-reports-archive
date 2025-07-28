@@ -1,0 +1,122 @@
+{
+  "company_name": "MARIEBERG",
+  "fiscal_year": 1993,
+  "income_statement": {
+    "revenue": 7740.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6962.0,
+    "wages_expense": null,
+    "tax_expense": 37.0,
+    "depreciation": 321.0,
+    "net_income": 379.0
+  },
+  "balance_sheet": {
+    "total_assets": 9178.0,
+    "current_assets": 3453.0,
+    "fixed_assets": 5717.0,
+    "total_liabilities": 4037.0,
+    "current_liabilities": 2000.0,
+    "long_term_liabilities": 2787.0,
+    "shareholders_equity": 2805.0
+  },
+  "employees": {
+    "n_employees": 7737,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "MÅBERG",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "1:e vice ordförande"
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "TOMAS",
+      "initials": null,
+      "position": "2:e vice ordförande"
+    },
+    {
+      "surname": "BRAUN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "AHRSJÖ",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "direktör i koncernen"
+    },
+    {
+      "surname": "BARNÉUS",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": "bankdirektör i Världsbanken"
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "PONTUS",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "BÄCKSTRÖM",
+      "first_name": "BERNDT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JUTTERSTRÖM",
+      "first_name": "CHRISTINA",
+      "initials": null,
+      "position": "chefredaktör"
+    },
+    {
+      "surname": "MUNDEBO",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": "generaldirektör"
+    },
+    {
+      "surname": "NYLANDER",
+      "first_name": "CARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VINTERHED",
+      "first_name": "KERSTIN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EDLUND",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

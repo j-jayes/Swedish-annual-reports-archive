@@ -1,0 +1,98 @@
+{
+  "company_name": "Garphyttan",
+  "fiscal_year": 1991,
+  "income_statement": {
+    "revenue": 1517.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5.3
+  },
+  "balance_sheet": {
+    "total_assets": 1141.8,
+    "current_assets": 614.9,
+    "fixed_assets": 508.1,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 381.1
+  },
+  "employees": {
+    "n_employees": 2048,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bern",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Warnander",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Edwardsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fernström",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

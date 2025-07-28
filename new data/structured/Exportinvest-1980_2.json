@@ -1,0 +1,94 @@
+{
+  "company_name": "Aktiebolaget Export-Invest",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 15.013,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 690.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 14.994
+  },
+  "balance_sheet": {
+    "total_assets": 152.981,
+    "current_assets": 3.701,
+    "fixed_assets": 149.28,
+    "total_liabilities": 885.0,
+    "current_liabilities": 131.0,
+    "long_term_liabilities": 740.0,
+    "shareholders_equity": 151.998
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Generaldirektör"
+    },
+    {
+      "surname": "Westin",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Fagerlund",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

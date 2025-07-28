@@ -1,0 +1,76 @@
+{
+  "company_name": "PROMOTION",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 621116.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 568711.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 17953.0,
+    "net_income": 7700.0
+  },
+  "balance_sheet": {
+    "total_assets": 113434832.0,
+    "current_assets": 37362403.0,
+    "fixed_assets": 76072429.0,
+    "total_liabilities": 60386640.0,
+    "current_liabilities": 15373691.0,
+    "long_term_liabilities": 5325000.0,
+    "shareholders_equity": 50322200.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Bildt",
+      "first_name": "Carl Robert",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Tekn. dr."
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Audin",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

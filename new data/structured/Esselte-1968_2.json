@@ -1,0 +1,128 @@
+{
+  "company_name": "SLT-KONCERNEN",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 705.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 27.8,
+    "net_income": 9.2
+  },
+  "balance_sheet": {
+    "total_assets": 474.525,
+    "current_assets": 258.946,
+    "fixed_assets": 213.882,
+    "total_liabilities": 321.304,
+    "current_liabilities": 72.325,
+    "long_term_liabilities": 85.185,
+    "shareholders_equity": 153.25
+  },
+  "employees": {
+    "n_employees": 7642,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "FRITIOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLENNOW",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "LASSEN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "MANNERFELT",
+      "first_name": "CARL",
+      "initials": "M:SON",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "JUNKER",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Med. dr"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "NORDENBÄCK",
+      "first_name": "JAN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "SALANDER",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Organisationschef"
+    }
+  ],
+  "additional_notes": null
+}

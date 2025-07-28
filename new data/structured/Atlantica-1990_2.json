@@ -1,0 +1,110 @@
+{
+  "company_name": "Atlantica",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 528.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 110.514,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -636.0
+  },
+  "balance_sheet": {
+    "total_assets": 752.1,
+    "current_assets": 283.859,
+    "fixed_assets": 30.498,
+    "total_liabilities": 57.987,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 57.214
+  },
+  "employees": {
+    "n_employees": 95,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LANDQVIST",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "KVANRBACK",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "vVD"
+    },
+    {
+      "surname": "ODEN",
+      "first_name": "KJELL-AKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SYDOW",
+      "first_name": "KRISTIAN VON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TIGERSCHIÖLD",
+      "first_name": "DAG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WISSEN",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WRANGEL",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOREN",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIKSSON",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEDBERG",
+      "first_name": "THOMAS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅKESSON",
+      "first_name": "INGVAR",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NILAUSEN",
+      "first_name": "Flemming",
+      "initials": null,
+      "auditing_firm": "av Försäkringsinspektionen förordnad revisor"
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

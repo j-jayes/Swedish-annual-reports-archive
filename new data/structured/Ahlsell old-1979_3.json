@@ -1,0 +1,92 @@
+{
+  "company_name": "Ahlsell-koncernen",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 2166.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 13.0
+  },
+  "balance_sheet": {
+    "total_assets": 1389.0,
+    "current_assets": 1027.0,
+    "fixed_assets": 326.0,
+    "total_liabilities": 1139.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 250.0
+  },
+  "employees": {
+    "n_employees": 2592,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sunne",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "vice vd och vice koncernchef i Industri AB Euroc"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Carl",
+      "initials": "Erik",
+      "position": "koncernchef och vd i Ahlsell AB"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "lagerarbetare och de LO-organiserades representant i styrelsen"
+    },
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "vd i AB Industrivärden"
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "tjänsteman och de TCO-organiserades representant i styrelsen"
+    },
+    {
+      "surname": "Rehnberg",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "direktör i Industri AB Euroc"
+    },
+    {
+      "surname": "Wirsäll",
+      "first_name": "Nils-Erik",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Östling",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "koncernchef och vd i Ahlsell AB"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

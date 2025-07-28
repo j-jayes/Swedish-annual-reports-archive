@@ -1,0 +1,98 @@
+{
+  "company_name": "AB Bahco",
+  "fiscal_year": 1985,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2083.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 31.7,
+    "depreciation": null,
+    "net_income": 104.9
+  },
+  "balance_sheet": {
+    "total_assets": 1666.9333333333334,
+    "current_assets": 1269.6,
+    "fixed_assets": 368.9,
+    "total_liabilities": 643.1,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 307.1
+  },
+  "employees": {
+    "n_employees": 5309,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "FEINSILBER",
+      "first_name": "CARL-ERIK",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "BELIN",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLADH",
+      "first_name": "JAN-ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEHTO",
+      "first_name": "SAKARI T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SKOOG",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WENEHED",
+      "first_name": "INGVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\"\"\nÅKERMAN",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDSTRÖM",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HEURLIN",
+      "first_name": "SIGVARD",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "PRAMHÄLL",
+      "first_name": "INGVAR",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

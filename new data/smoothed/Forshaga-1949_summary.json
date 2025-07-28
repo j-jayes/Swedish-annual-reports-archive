@@ -1,0 +1,80 @@
+{
+  "company_name": "LINOLEUM-AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1949,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 4298450.91,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 273328.54,
+    "net_income": 357198.0
+  },
+  "balance_sheet": {
+    "total_assets": 9709804.26,
+    "current_assets": 1887043.4533333334,
+    "fixed_assets": 1421273.23,
+    "total_liabilities": 3975854.06,
+    "current_liabilities": 3108878.96,
+    "long_term_liabilities": 661323.38,
+    "shareholders_equity": 5910539.925
+  },
+  "employees": {
+    "n_employees": 314,
+    "n_blue_collar_workers": 231,
+    "n_white_collar_workers": 83
+  },
+  "board": [
+    {
+      "surname": "GRÖNBERG",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "ZOELLY",
+      "first_name": null,
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "ÖRTEGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "SYPESTEYN",
+      "first_name": "J. C.",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå Aktiebolag"
+    },
+    {
+      "surname": "KAΗΜ",
+      "first_name": "GUST.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

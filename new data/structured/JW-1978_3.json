@@ -1,0 +1,140 @@
+{
+  "company_name": "Jacobson & Widmark",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 164.638,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.31,
+    "net_income": 2.21
+  },
+  "balance_sheet": {
+    "total_assets": 113.084,
+    "current_assets": 75.891,
+    "fixed_assets": 36.858,
+    "total_liabilities": 47.406,
+    "current_liabilities": 20.304,
+    "long_term_liabilities": 15.0,
+    "shareholders_equity": 10.689
+  },
+  "employees": {
+    "n_employees": 917,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wettergren",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Wiklund",
+      "first_name": "John",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Odlund",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ölund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Bengt",
+      "initials": "VD",
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Hans-Göran",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Hansbo",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Zetterberg",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Tekn lic"
+    },
+    {
+      "surname": "Marin",
+      "first_name": "Jean",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Rune",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Ingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": "Godk revisor"
+    },
+    {
+      "surname": "Ryberg",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Lundell",
+      "first_name": "Torsten",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

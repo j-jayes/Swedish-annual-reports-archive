@@ -1,0 +1,110 @@
+{
+  "company_name": "Skaraborgs Enskilda Bank",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 16669535.23,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 6347169.34,
+    "tax_expense": 1468000.0,
+    "depreciation": 430603.0,
+    "net_income": 1984284.95
+  },
+  "balance_sheet": {
+    "total_assets": 389727028.24,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 555453983.04,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 310,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "G.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hofsten",
+      "first_name": "E. von",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "C. S:son",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "A.",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundelöf",
+      "first_name": "K.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wästlund",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Walck",
+      "first_name": "K. J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1955,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7.26006884,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.612336,
+    "depreciation": 904400.0,
+    "net_income": 1.24734188
+  },
+  "balance_sheet": {
+    "total_assets": 24.37178112,
+    "current_assets": 10.195057823333332,
+    "fixed_assets": 8.96512922,
+    "total_liabilities": 3.2899749866666665,
+    "current_liabilities": 1.6053169466666668,
+    "long_term_liabilities": 307093.79,
+    "shareholders_equity": 12.32
+  },
+  "employees": {
+    "n_employees": 1293,
+    "n_blue_collar_workers": 1179,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ericsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rothlind",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiking-Johnsson",
+      "first_name": "Uno",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "von Hofsten",
+      "first_name": "Sixten",
+      "initials": null,
+      "auditing_firm": "Godkänd granskningsman"
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

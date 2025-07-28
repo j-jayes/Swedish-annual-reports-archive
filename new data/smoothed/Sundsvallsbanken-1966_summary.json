@@ -1,0 +1,128 @@
+{
+  "company_name": "SUNDSVALLS BANKEN",
+  "fiscal_year": 1966,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 39.992,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 12.308,
+    "tax_expense": 5.9,
+    "depreciation": 5.976,
+    "net_income": 5.2
+  },
+  "balance_sheet": {
+    "total_assets": 1212.858,
+    "current_assets": 299.067,
+    "fixed_assets": 868.342,
+    "total_liabilities": 1051.8933333333334,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 59.616
+  },
+  "employees": {
+    "n_employees": 470,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Rogberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": null,
+      "initials": "K. G.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Appeltofft",
+      "first_name": null,
+      "initials": "Olof H.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "jur, dr"
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "odont. dr"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": null,
+      "initials": "A. G.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "advokat"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Björfors",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "ALFA-LAVAL",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 356.046,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 10.58,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10.203,
+    "net_income": 31.775
+  },
+  "balance_sheet": {
+    "total_assets": 479.281,
+    "current_assets": 295.824,
+    "fixed_assets": 112.194,
+    "total_liabilities": 238.956,
+    "current_liabilities": 73.234,
+    "long_term_liabilities": 61.947,
+    "shareholders_equity": 238.956
+  },
+  "employees": {
+    "n_employees": 17526,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DE GEER",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSSON",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "AXLER",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BEXELIUS",
+      "first_name": "HERBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PERÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "WANNBERGER",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N. -A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

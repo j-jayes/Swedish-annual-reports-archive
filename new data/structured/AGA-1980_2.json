@@ -1,0 +1,122 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 4507.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3950.2,
+    "wages_expense": null,
+    "tax_expense": 118.3,
+    "depreciation": null,
+    "net_income": 54.3
+  },
+  "balance_sheet": {
+    "total_assets": 4935.7,
+    "current_assets": 2243.8,
+    "fixed_assets": 2688.2,
+    "total_liabilities": 1638.8,
+    "current_liabilities": 781.0,
+    "long_term_liabilities": 551.9,
+    "shareholders_equity": 993.7
+  },
+  "employees": {
+    "n_employees": 14671,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Ordförande i Svenska Varv AB"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Verkställande direktör i AB Wilh. Sonesson"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": "Chaufför"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Tjänsteman"
+    },
+    {
+      "surname": "Agrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkställande direktör i AGA AB"
+    },
+    {
+      "surname": "Jarebo",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "position": "Arbetsledare"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Lars G.",
+      "initials": null,
+      "position": "Lagerarbetare"
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Chef för Gasdivisionen"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Nils Olsson & Engqvist Revisionsbyrå AB"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Sillén & Jacobsson AB"
+    }
+  ],
+  "additional_notes": null
+}

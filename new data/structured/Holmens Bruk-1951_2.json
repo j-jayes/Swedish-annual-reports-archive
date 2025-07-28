@@ -1,0 +1,86 @@
+{
+  "company_name": "HOLMENS BRUK",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 17742063.55,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7781098.58,
+    "depreciation": 2112834.21,
+    "net_income": 7520705.12
+  },
+  "balance_sheet": {
+    "total_assets": 186251033.38,
+    "current_assets": 123114898.68,
+    "fixed_assets": 59407000.0,
+    "total_liabilities": 59407000.0,
+    "current_liabilities": 26844274.02,
+    "long_term_liabilities": 54982036.57,
+    "shareholders_equity": 46080000.0
+  },
+  "employees": {
+    "n_employees": 3347,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "E.",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Martin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahren",
+      "first_name": null,
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": null,
+      "initials": "Chr.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

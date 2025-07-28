@@ -1,0 +1,70 @@
+{
+  "company_name": "AKTIEBOLAGET SCANIA-VABIS",
+  "fiscal_year": 1918,
+  "income_statement": {
+    "revenue": 2041320.67,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1691937.71
+  },
+  "balance_sheet": {
+    "total_assets": 50378288.33,
+    "current_assets": null,
+    "fixed_assets": 2554377.96,
+    "total_liabilities": 23683269.53,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 12500000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "RIBBING",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ZETHELIUS",
+      "first_name": "W.",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "E.",
+      "initials": "E.",
+      "position": "M."
+    },
+    {
+      "surname": "NORDEMAN",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LJUNGLÖV",
+      "first_name": "ROB.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HAMILTON",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "KOCKUMS JERNVERK",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 184.048,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8.865,
+    "net_income": 9.27
+  },
+  "balance_sheet": {
+    "total_assets": 178.192,
+    "current_assets": 98.299,
+    "fixed_assets": 78.078,
+    "total_liabilities": 40.662,
+    "current_liabilities": 20.935,
+    "long_term_liabilities": 40.662,
+    "shareholders_equity": 42.007
+  },
+  "employees": {
+    "n_employees": 1000,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ölson",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Hybinette",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Waldolf",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Thorn",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": "representant för de anställda"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "Motala Verkstads Nya Aktiebolags",
+  "fiscal_year": 1919,
+  "income_statement": {
+    "revenue": 1729198.91,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 836686.5
+  },
+  "balance_sheet": {
+    "total_assets": 17608896.38,
+    "current_assets": null,
+    "fixed_assets": 1367986.1,
+    "total_liabilities": 12011818.08,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2600000.0
+  },
+  "employees": {
+    "n_employees": 911,
+    "n_blue_collar_workers": 911,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Trolle",
+      "first_name": "Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": null,
+      "initials": "H. L. F.",
+      "position": null
+    },
+    {
+      "surname": "Arfwedson",
+      "first_name": "A.",
+      "initials": "Gerh.",
+      "position": null
+    },
+    {
+      "surname": "Cederström",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Hök",
+      "first_name": null,
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Perno",
+      "first_name": "Pehr",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "af Jochnick",
+      "first_name": "Adolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nissvandt",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gust.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Bolaget svarade vid årsskiftet för främmande diskonterade accepter samt övriga förbin- delser till ett sammanlagt belopp av Kr. 662,275: 29."
+}

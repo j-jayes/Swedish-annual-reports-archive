@@ -1,0 +1,110 @@
+{
+  "company_name": "Trelleborg AB",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 2132.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1940.9,
+    "wages_expense": null,
+    "tax_expense": 5.2,
+    "depreciation": null,
+    "net_income": 69.4
+  },
+  "balance_sheet": {
+    "total_assets": 2176.7,
+    "current_assets": 1626.1,
+    "fixed_assets": 550.2,
+    "total_liabilities": 935.4,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 399.0
+  },
+  "employees": {
+    "n_employees": 4584,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Fabrikör"
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Linders",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Tjänsteman"
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Fabriksarbetare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Peters & Co Revisionsbyrå AB"
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

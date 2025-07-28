@@ -1,0 +1,86 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 5838560.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 426687.0,
+    "net_income": 2073133.0
+  },
+  "balance_sheet": {
+    "total_assets": 53891098.0,
+    "current_assets": 39648908.0,
+    "fixed_assets": 8275889.0,
+    "total_liabilities": 28521244.0,
+    "current_liabilities": 25296414.0,
+    "long_term_liabilities": 801000.0,
+    "shareholders_equity": 25369854.0
+  },
+  "employees": {
+    "n_employees": 670,
+    "n_blue_collar_workers": 420,
+    "n_white_collar_workers": 250
+  },
+  "board": [
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": "ROLF",
+      "initials": "R. v.",
+      "position": "Chairman"
+    },
+    {
+      "surname": "FORD",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "HERNOD",
+      "first_name": "TORSTEN",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS",
+      "initials": "N. K.",
+      "position": null
+    },
+    {
+      "surname": "MCKEE",
+      "first_name": "WALTER",
+      "initials": "W. L.",
+      "position": null
+    },
+    {
+      "surname": "WIELAND",
+      "first_name": null,
+      "initials": "A. J.",
+      "position": "Deputy Member of the Board"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLÉN",
+      "first_name": "OSKAR",
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "DICKINSON",
+      "first_name": "JOHN",
+      "initials": "J. C.",
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

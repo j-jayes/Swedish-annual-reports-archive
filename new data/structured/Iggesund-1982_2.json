@@ -1,0 +1,110 @@
+{
+  "company_name": "Iggesunds Bruk",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 2138.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 10.2,
+    "depreciation": 112.2,
+    "net_income": 25.7
+  },
+  "balance_sheet": {
+    "total_assets": 2994.7,
+    "current_assets": 1293.3,
+    "fixed_assets": 1693.4,
+    "total_liabilities": 2481.1,
+    "current_liabilities": 715.6,
+    "long_term_liabilities": 707.1,
+    "shareholders_equity": 481.1
+  },
+  "employees": {
+    "n_employees": 4642,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "ordf. Direktör"
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "v.ordf."
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gustaf",
+      "initials": "C:son",
+      "position": "Civiljägmästare"
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sprängare",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Synnergren",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "General"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Disponent, verkst.dir"
+    },
+    {
+      "surname": "Brönnhagen",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Lab.chef"
+    },
+    {
+      "surname": "Frohm",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Elektriker"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ranby",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

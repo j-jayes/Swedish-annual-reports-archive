@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Astra",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 7457.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5748.3,
+    "wages_expense": 2102.0,
+    "tax_expense": 764.7,
+    "depreciation": 347.7,
+    "net_income": 962.1
+  },
+  "balance_sheet": {
+    "total_assets": 10097.3,
+    "current_assets": 6710.3,
+    "fixed_assets": 2844.1,
+    "total_liabilities": 2227.8,
+    "current_liabilities": 2503.7,
+    "long_term_liabilities": 2142.5,
+    "shareholders_equity": 1752.6
+  },
+  "employees": {
+    "n_employees": 7800,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Tony",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ringqvist",
+      "first_name": "Charles",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tillander",
+      "first_name": "Barbro",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergström",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "Professor"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

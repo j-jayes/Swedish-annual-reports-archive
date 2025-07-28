@@ -1,0 +1,110 @@
+{
+  "company_name": "AB Bofors",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 1495.4,
+    "cost_of_goods_sold": 1264.3,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4.0,
+    "depreciation": 63.9,
+    "net_income": 25.9
+  },
+  "balance_sheet": {
+    "total_assets": 2229.1,
+    "current_assets": 1603.5,
+    "fixed_assets": 626.2,
+    "total_liabilities": 928.7,
+    "current_liabilities": 870.7,
+    "long_term_liabilities": 427.5,
+    "shareholders_equity": 285.7
+  },
+  "employees": {
+    "n_employees": 12645,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Waldenström",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Henning",
+      "first_name": "Bert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderholm",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

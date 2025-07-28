@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET IGGESUNDS BRUK",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 17928627.02,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5125000.0,
+    "depreciation": null,
+    "net_income": 5335230.02
+  },
+  "balance_sheet": {
+    "total_assets": 50916172.24,
+    "current_assets": 27177111.81,
+    "fixed_assets": 17165692.67,
+    "total_liabilities": 33716172.24,
+    "current_liabilities": null,
+    "long_term_liabilities": 5241384.0,
+    "shareholders_equity": 17200000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1409,
+    "n_white_collar_workers": 365
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wessman",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Bolagets försäljningssumma för under år 1962 levererade produkter uppgår till kr 119.814.000. Koncernens totala försäljning till utomstående kunder uppgår till kr 162.762.000."
+}

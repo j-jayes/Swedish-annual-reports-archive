@@ -1,0 +1,110 @@
+{
+  "company_name": "ATLANTICA",
+  "fiscal_year": 1957,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 14780430.36,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 397366.55
+  },
+  "balance_sheet": {
+    "total_assets": 42021535.77,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 32565879.84,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2305384.396666667
+  },
+  "employees": {
+    "n_employees": 41,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HENRIQUES",
+      "first_name": null,
+      "initials": "E. W.",
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROSTROM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": null,
+      "initials": "K. E.",
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "THORBURN",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDEN",
+      "first_name": "DAVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LANGE",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SUNDQVIST",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FALLENIUS",
+      "first_name": null,
+      "initials": "C-A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "KARLGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "company_name": "SEB-gruppen",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 4158.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7937.0,
+    "depreciation": 380.0,
+    "net_income": 331.0
+  },
+  "balance_sheet": {
+    "total_assets": 139563.0,
+    "current_assets": 196274.0,
+    "fixed_assets": null,
+    "total_liabilities": 118114.0,
+    "current_liabilities": 164559.0,
+    "long_term_liabilities": 577522.0,
+    "shareholders_equity": 21441.0
+  },
+  "employees": {
+    "n_employees": 7110,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Cavallius",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Johnson",
+      "first_name": "Bo",
+      "initials": "Ax:son",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": "M:son",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Sven",
+      "initials": "H",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl",
+      "initials": "Erik",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Björck",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Lindquist",
+      "first_name": "Inger",
+      "initials": "G",
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jälmby",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gustaf",
+      "initials": "C:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Falkman",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Amilon",
+      "first_name": "Adam",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jonasson",
+      "first_name": "Evert",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterswärd",
+      "first_name": "E",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

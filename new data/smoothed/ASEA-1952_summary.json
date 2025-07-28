@@ -1,0 +1,86 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolaget",
+  "fiscal_year": 1952,
+  "additional_notes": "The company's 70th year of operation.",
+  "income_statement": {
+    "revenue": 668.5533333333334,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 24.5,
+    "depreciation": 36.60666666666667,
+    "net_income": 20.833333333333336
+  },
+  "balance_sheet": {
+    "total_assets": 664.83,
+    "current_assets": 125.68,
+    "fixed_assets": 139.93,
+    "total_liabilities": 251.7,
+    "current_liabilities": 225.95333333333335,
+    "long_term_liabilities": 61.96,
+    "shareholders_equity": 109.16666666666666
+  },
+  "employees": {
+    "n_employees": 23863,
+    "n_blue_collar_workers": 9369,
+    "n_white_collar_workers": 5266
+  },
+  "board": [
+    {
+      "surname": "Ericson",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke",
+      "initials": "T",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": null,
+      "initials": "O",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G",
+      "initials": "A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "INTECKNINGSBANKEN AKTIEBOLAG",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 14905378.74,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 300000.0,
+    "wages_expense": null,
+    "tax_expense": 1871206.0,
+    "depreciation": null,
+    "net_income": 5580681.53
+  },
+  "balance_sheet": {
+    "total_assets": 260883450.37,
+    "current_assets": 37234874.45,
+    "fixed_assets": 223648575.92,
+    "total_liabilities": 224883450.37,
+    "current_liabilities": 19186640.0,
+    "long_term_liabilities": 188792000.0,
+    "shareholders_equity": 36000000.0
+  },
+  "employees": {
+    "n_employees": 112,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HAGENIUS",
+      "first_name": "H. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERNSELL",
+      "first_name": "OLOV",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÄGERSTEDT",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CAVALLIN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KYHLBERG",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRISELL",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "GEZELIUS",
+      "first_name": "BIRGER",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HAMBRAEUS",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

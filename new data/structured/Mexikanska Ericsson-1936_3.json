@@ -1,0 +1,64 @@
+{
+  "company_name": "MEXIKANSKA TELEFONAKTIEBOLAGET ERICSSON",
+  "fiscal_year": 1936,
+  "income_statement": {
+    "revenue": 8683369.79,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6296428.78,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 163244.89,
+    "net_income": 3298.67
+  },
+  "balance_sheet": {
+    "total_assets": 73947240.87,
+    "current_assets": null,
+    "fixed_assets": 63149949.47,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 23940000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rudberg",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "H.",
+      "initials": "Th.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

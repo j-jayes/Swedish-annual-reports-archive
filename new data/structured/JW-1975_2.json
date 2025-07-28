@@ -1,0 +1,140 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 102953.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 96465.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1149.0,
+    "net_income": 1563.0
+  },
+  "balance_sheet": {
+    "total_assets": 66909.0,
+    "current_assets": 39449.0,
+    "fixed_assets": 14456.0,
+    "total_liabilities": 19858.0,
+    "current_liabilities": 13313.0,
+    "long_term_liabilities": 4384.0,
+    "shareholders_equity": 13750.0
+  },
+  "employees": {
+    "n_employees": 713,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wettergren",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven-Erik",
+      "initials": "LA",
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiklund",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ödlund",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ölund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Rune",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hansbo",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zetterberg",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Hans-Göran",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Curt Björells Revisionsbyrå AB"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Welander",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundell",
+      "first_name": "Torsten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

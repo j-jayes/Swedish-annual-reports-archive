@@ -1,0 +1,88 @@
+{
+  "company_name": "LINOLEUM-AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1937,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 160608.59,
+    "net_income": 361120.01
+  },
+  "balance_sheet": {
+    "total_assets": 10365479.03,
+    "current_assets": 5752546.02,
+    "fixed_assets": 1797944.93,
+    "total_liabilities": 3435208.68,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6823598.54
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BORELL",
+      "first_name": null,
+      "initials": "TH.",
+      "position": null
+    },
+    {
+      "surname": "BONER",
+      "first_name": "FRANZ",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "GRÖNBERG",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SYPESTEYN",
+      "first_name": null,
+      "initials": "JAN",
+      "position": "C. K."
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": null,
+      "initials": "C. G.",
+      "position": null
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": null,
+      "initials": "CARL",
+      "position": "AUG."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KAHM",
+      "first_name": "GUST.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ERLANDSSON",
+      "first_name": null,
+      "initials": "ERL.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": "av Stockholms Handelskammare auktoriserad revisor."
+    },
+    {
+      "surname": "LINDEGRÉN",
+      "first_name": "CLAES",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

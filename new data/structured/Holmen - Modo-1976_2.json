@@ -1,0 +1,122 @@
+{
+  "company_name": "Mo och Domsjö Aktiebolag",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 1804.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 19.0
+  },
+  "balance_sheet": {
+    "total_assets": 3247.9,
+    "current_assets": 1789.4,
+    "fixed_assets": 1414.8,
+    "total_liabilities": 2213.9,
+    "current_liabilities": 801.8,
+    "long_term_liabilities": 1412.1,
+    "shareholders_equity": 581.6
+  },
+  "employees": {
+    "n_employees": 8690,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "SIF-repr"
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "LO-repr"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wegerfelt",
+      "first_name": null,
+      "initials": "K Arne",
+      "position": null
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "suppl"
+    },
+    {
+      "surname": "Andrén",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": "suppl"
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Algot",
+      "initials": null,
+      "position": "suppl, LO-repr"
+    },
+    {
+      "surname": "Kassman",
+      "first_name": "Ivan",
+      "initials": null,
+      "position": "suppl. SIF-repr"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

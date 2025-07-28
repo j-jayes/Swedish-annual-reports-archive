@@ -1,0 +1,104 @@
+{
+  "company_name": "Alfort & Cronholm",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 795.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -10.7,
+    "depreciation": null,
+    "net_income": 9.2
+  },
+  "balance_sheet": {
+    "total_assets": 526.0,
+    "current_assets": 283.0,
+    "fixed_assets": 195.2,
+    "total_liabilities": 184.4,
+    "current_liabilities": 120.1,
+    "long_term_liabilities": 13.8,
+    "shareholders_equity": 69.0
+  },
+  "employees": {
+    "n_employees": 944,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gerentz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": null,
+      "initials": "C. J.",
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Mikael",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Granlund",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Representant för de anställda"
+    },
+    {
+      "surname": "Krokstedt",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werelius",
+      "first_name": "Lars",
+      "initials": "Å",
+      "position": "Representant för de anställda"
+    },
+    {
+      "surname": "Ögren",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordh",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "Aktiebolaget Svenska Amerika Linien",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 117575465.27,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4691795.18
+  },
+  "balance_sheet": {
+    "total_assets": 234087786.19,
+    "current_assets": 43053622.89,
+    "fixed_assets": 191034163.3,
+    "total_liabilities": 123202113.82,
+    "current_liabilities": 32144550.81,
+    "long_term_liabilities": 23060104.19,
+    "shareholders_equity": 53928139.36
+  },
+  "employees": {
+    "n_employees": 1552,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "Tor",
+      "initials": "E J:son",
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hernod",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Simonsson",
+      "first_name": "Y.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Zetterholm",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bredberg",
+      "first_name": "Leo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

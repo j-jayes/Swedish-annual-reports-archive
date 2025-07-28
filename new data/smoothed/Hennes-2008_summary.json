@@ -1,0 +1,110 @@
+{
+  "company_name": "H&M Hennes & Mauritz AB",
+  "fiscal_year": 2008,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 29569.688,
+    "cost_of_goods_sold": -11354.666666666666,
+    "operating_expenses": -11443.333333333334,
+    "wages_expense": null,
+    "tax_expense": -1965.3333333333333,
+    "depreciation": 735.468,
+    "net_income": 5108.196
+  },
+  "balance_sheet": {
+    "total_assets": 17115.162,
+    "current_assets": 11813.914,
+    "fixed_assets": 5301.248,
+    "total_liabilities": 4773.862,
+    "current_liabilities": 3967.586,
+    "long_term_liabilities": 806.276,
+    "shareholders_equity": 12341.3
+  },
+  "employees": {
+    "n_employees": 53430,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Chairman of the Board"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Livfors",
+      "first_name": "Mia Brunell",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Knutson",
+      "first_name": "Lottie",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Kvart",
+      "first_name": "Sussi",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Karl-Johan",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Norin-Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Employee Representative"
+    },
+    {
+      "surname": "Welinder",
+      "first_name": "Margareta",
+      "initials": null,
+      "position": "Board member"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lundvall",
+      "first_name": "\"\nÅsa",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Åström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ]
+}

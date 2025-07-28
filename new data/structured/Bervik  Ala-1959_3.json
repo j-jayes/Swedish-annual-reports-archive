@@ -1,0 +1,68 @@
+{
+  "company_name": "BERGVIK OCH ALA AKTIEBOLAG",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 24742622.88,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4550824.79
+  },
+  "balance_sheet": {
+    "total_assets": 150106963.44,
+    "current_assets": 52548107.35,
+    "fixed_assets": 97512856.09,
+    "total_liabilities": 71724785.62,
+    "current_liabilities": 21200785.62,
+    "long_term_liabilities": 50524000.0,
+    "shareholders_equity": 78285777.82
+  },
+  "employees": {
+    "n_employees": 2169,
+    "n_blue_collar_workers": 1892,
+    "n_white_collar_workers": 277
+  },
+  "board": [
+    {
+      "surname": "Francke",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "Sundfeldt",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhrling",
+      "first_name": "P. O.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "D.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ernsell",
+      "first_name": "Olov",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

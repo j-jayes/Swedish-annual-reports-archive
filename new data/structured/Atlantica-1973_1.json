@@ -1,0 +1,122 @@
+{
+  "company_name": "FÖRSÄKRINGSAKTIEBOLAGET ATLANTICA",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 33181000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4146000.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2541000.0,
+    "net_income": 985000.0
+  },
+  "balance_sheet": {
+    "total_assets": 66715000.0,
+    "current_assets": null,
+    "fixed_assets": 2535000.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 38,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thorburn",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lydén",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eneroth",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hulterström",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kihlbom",
+      "first_name": "Niklas",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Danielsson",
+      "first_name": "Nils-Yngve",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Crafoord",
+      "first_name": "Leif",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Jonasson",
+      "first_name": "Evert",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

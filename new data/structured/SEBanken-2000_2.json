@@ -1,0 +1,134 @@
+{
+  "company_name": "SEB",
+  "fiscal_year": 2000,
+  "income_statement": {
+    "revenue": 32995.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 22332.0,
+    "wages_expense": null,
+    "tax_expense": 2856.0,
+    "depreciation": null,
+    "net_income": 6885.0
+  },
+  "balance_sheet": {
+    "total_assets": 1122810.0,
+    "current_assets": 264096.0,
+    "fixed_assets": 858714.0,
+    "total_liabilities": 1049223.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 41609.0
+  },
+  "employees": {
+    "n_employees": 21450,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Wiking",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Hughes",
+      "first_name": "Penny",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Johannesson",
+      "first_name": "Tuve",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Körber",
+      "first_name": "Hans-Joachim",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Ros",
+      "first_name": "Carl",
+      "initials": "Willelm",
+      "position": "Director"
+    },
+    {
+      "surname": "Thunell",
+      "first_name": "Lars",
+      "initials": "H",
+      "position": "President and Group Chief Executive"
+    },
+    {
+      "surname": "Caneman",
+      "first_name": "Monica",
+      "initials": null,
+      "position": "Deputy Director"
+    },
+    {
+      "surname": "Berg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Jensen",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Sandén",
+      "first_name": "Erland",
+      "initials": null,
+      "position": "Deputy Director"
+    },
+    {
+      "surname": "Smedberg",
+      "first_name": "Inger",
+      "initials": null,
+      "position": "Deputy Chairman"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers"
+    },
+    {
+      "surname": "Clemedtson",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers"
+    },
+    {
+      "surname": "Järlebro",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Deloitte & Touche"
+    }
+  ],
+  "additional_notes": null
+}

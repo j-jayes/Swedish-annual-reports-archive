@@ -1,0 +1,92 @@
+{
+  "company_name": "Ahlsell",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 2422.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 19.6,
+    "depreciation": null,
+    "net_income": 19.6
+  },
+  "balance_sheet": {
+    "total_assets": 1462.7,
+    "current_assets": 1261.3,
+    "fixed_assets": 305.1,
+    "total_liabilities": 450.2,
+    "current_liabilities": 518.9,
+    "long_term_liabilities": 253.6,
+    "shareholders_equity": 255.8
+  },
+  "employees": {
+    "n_employees": 2709,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wirsäll",
+      "first_name": "Nils-Erik",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Carl Erik",
+      "initials": null,
+      "position": "koncernchef och VD"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunne",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Östling",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

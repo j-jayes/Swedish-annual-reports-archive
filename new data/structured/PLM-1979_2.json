@@ -1,0 +1,134 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 2113.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 14.7,
+    "depreciation": null,
+    "net_income": 58.2
+  },
+  "balance_sheet": {
+    "total_assets": 1475.9,
+    "current_assets": 817.6,
+    "fixed_assets": 653.8,
+    "total_liabilities": 1168.5,
+    "current_liabilities": 498.7,
+    "long_term_liabilities": 516.4,
+    "shareholders_equity": 307.4
+  },
+  "employees": {
+    "n_employees": 7874,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "LEDAMÖTER"
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "LEDAMÖTER"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "LEDAMÖTER"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "LEDAMÖTER"
+    },
+    {
+      "surname": "Langebæk",
+      "first_name": "Steen",
+      "initials": null,
+      "position": "LEDAMÖTER"
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "LEDAMÖTER"
+    },
+    {
+      "surname": "Lindeblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "LEDAMÖTER"
+    },
+    {
+      "surname": "Bergenhem",
+      "first_name": "Lars",
+      "initials": "S",
+      "position": "SUPPLEANTER"
+    },
+    {
+      "surname": "Stormby",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "SUPPLEANTER"
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "FACKLIGA STYRELSELEDAMÖTER"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "FACKLIGA STYRELSELEDAMÖTER"
+    },
+    {
+      "surname": "Jensen",
+      "first_name": "Claes-Göran",
+      "initials": null,
+      "position": "FACKLIGA STYRELSELEDAMÖTER"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "FACKLIGA STYRELSELEDAMÖTER"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Schumacher",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

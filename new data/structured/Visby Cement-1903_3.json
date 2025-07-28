@@ -1,0 +1,58 @@
+{
+  "company_name": "VISBY CEMENTFABRIK",
+  "fiscal_year": 1903,
+  "income_statement": {
+    "revenue": 168952.54,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 732.82,
+    "net_income": 62075.97
+  },
+  "balance_sheet": {
+    "total_assets": 1392220.91,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 450000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "LILJEDAHL",
+      "first_name": "AUG.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGMAN",
+      "first_name": "F. A. GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGMAN",
+      "first_name": "ABEL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Een",
+      "first_name": null,
+      "initials": "C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Melin",
+      "first_name": null,
+      "initials": "C. M.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

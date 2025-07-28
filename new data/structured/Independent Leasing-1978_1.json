@@ -1,0 +1,110 @@
+{
+  "company_name": "Independent Leasing AB",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 142.704,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4.102,
+    "depreciation": null,
+    "net_income": 12.747
+  },
+  "balance_sheet": {
+    "total_assets": 411.861,
+    "current_assets": 37.861,
+    "fixed_assets": 337.153,
+    "total_liabilities": 153.556,
+    "current_liabilities": 126.745,
+    "long_term_liabilities": 27.764,
+    "shareholders_equity": 18.0
+  },
+  "employees": {
+    "n_employees": 50,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Karl Adam",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Henry",
+      "first_name": "Sanford",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kjellström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Porat",
+      "first_name": "Stig von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Soper",
+      "first_name": "Derek",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Björkebaum",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Westergren",
+      "first_name": "Ulla",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Carlwig",
+      "first_name": "Staffan",
+      "initials": null,
+      "position": "Verkstallande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Elinder",
+      "first_name": "Rickard",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gustavsson",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

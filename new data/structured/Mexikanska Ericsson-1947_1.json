@@ -1,0 +1,80 @@
+{
+  "company_name": "MEXIKANSKA TELEFONAKTIEBOLAGET ERICSSON",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 25963160.75,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 14488619.33,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2974687.82
+  },
+  "balance_sheet": {
+    "total_assets": 87095683.52,
+    "current_assets": 59682198.52,
+    "fixed_assets": 27413485.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 43938452.29
+  },
+  "employees": {
+    "n_employees": 3612,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ericson",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "J.",
+      "initials": "Alfred",
+      "position": null
+    },
+    {
+      "surname": "Rudberg",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlqvist",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnstrand",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

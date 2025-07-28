@@ -1,0 +1,100 @@
+{
+  "company_name": "BANKAKTIEBOLAGET NORDEN",
+  "fiscal_year": 1920,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 667031.57,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 123463.27,
+    "net_income": 519429.78
+  },
+  "balance_sheet": {
+    "total_assets": 27599649.6,
+    "current_assets": null,
+    "fixed_assets": 1000000.0,
+    "total_liabilities": 27599649.6,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Svensson",
+      "first_name": "H",
+      "initials": "H. F.",
+      "position": null
+    },
+    {
+      "surname": "Källberg",
+      "first_name": "W",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Ingmansson",
+      "first_name": "J",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Adler",
+      "first_name": "Nils",
+      "initials": "Nils",
+      "position": null
+    },
+    {
+      "surname": "Mossberg",
+      "first_name": "Torsten",
+      "initials": "Torsten J.",
+      "position": null
+    },
+    {
+      "surname": "Sparring",
+      "first_name": "A",
+      "initials": "A. P.",
+      "position": null
+    },
+    {
+      "surname": "Fröling",
+      "first_name": "J",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Nordberg",
+      "first_name": "Nils",
+      "initials": "Nils F.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "J",
+      "initials": "J. E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thorberg",
+      "first_name": "Arvid",
+      "initials": "Arvid",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "J",
+      "initials": "J. P.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "G",
+      "initials": "G.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

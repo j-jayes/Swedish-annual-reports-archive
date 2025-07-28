@@ -1,0 +1,104 @@
+{
+  "company_name": "AB PRIPPS BRYGGERIER",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 1995.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 21.5,
+    "depreciation": null,
+    "net_income": 33.7
+  },
+  "balance_sheet": {
+    "total_assets": 1249.7,
+    "current_assets": 498.1,
+    "fixed_assets": 7.5,
+    "total_liabilities": 326.9,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 448.6
+  },
+  "employees": {
+    "n_employees": 3158,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindmark",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "säljarledare, anställdas representant"
+    },
+    {
+      "surname": "Bergquist",
+      "first_name": "Eva",
+      "initials": null,
+      "position": "tjänsteman, anställdas representant"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Elfgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Petri",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sparr",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "J.E. Stenbergs Revisionsbyrå AB"
+    },
+    {
+      "surname": "Marcusson",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

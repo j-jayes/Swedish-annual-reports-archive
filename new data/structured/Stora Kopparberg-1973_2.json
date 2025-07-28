@@ -1,0 +1,110 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AB",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 2605.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2178.211,
+    "wages_expense": null,
+    "tax_expense": 75.88,
+    "depreciation": 184.11,
+    "net_income": 64.95
+  },
+  "balance_sheet": {
+    "total_assets": 2489.48,
+    "current_assets": 717.491,
+    "fixed_assets": 1288.367,
+    "total_liabilities": 1071.237,
+    "current_liabilities": 678.325,
+    "long_term_liabilities": 995.671,
+    "shareholders_equity": 722.343
+  },
+  "employees": {
+    "n_employees": 13084,
+    "n_blue_collar_workers": 10500,
+    "n_white_collar_workers": 2584
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Carl Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Tore H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "von Essen",
+      "first_name": "M.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "S.-H.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Carlehäll",
+      "first_name": "Anders",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,61 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolagets",
+  "fiscal_year": 1901,
+  "income_statement": {
+    "revenue": 524549.38,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 454154.29,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 70395.09
+  },
+  "balance_sheet": {
+    "total_assets": 11134341.73,
+    "current_assets": null,
+    "fixed_assets": 1846472.76,
+    "total_liabilities": 5541686.64,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5592656.29
+  },
+  "employees": {
+    "n_employees": 968,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wijkman",
+      "first_name": "O.",
+      "initials": "Fr.",
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "V.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Granström",
+      "first_name": "G.",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Gyllensvärd",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wenström",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "company_name": "NORDISKA KOMPANIET",
+  "fiscal_year": 1922,
+  "income_statement": {
+    "revenue": 6889725.56,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -176439.04
+  },
+  "balance_sheet": {
+    "total_assets": 65046153.05,
+    "current_assets": 16716491.82,
+    "fixed_assets": 19249800.0,
+    "total_liabilities": 22036152.05,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "PEGELOW",
+      "first_name": "F. W. H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLNER",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THIEL",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WENNBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "MAY",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ALMSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SANDEBERG",
+      "first_name": "F. AF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

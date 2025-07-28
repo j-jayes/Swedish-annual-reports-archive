@@ -1,0 +1,118 @@
+{
+  "company_name": "BILLERUD",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 2928.0,
+    "cost_of_goods_sold": 1683.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 150.0,
+    "net_income": 191.9
+  },
+  "balance_sheet": {
+    "total_assets": 4744.4,
+    "current_assets": 1689.5,
+    "fixed_assets": 3055.0,
+    "total_liabilities": 2990.3,
+    "current_liabilities": 1053.0,
+    "long_term_liabilities": 1879.0,
+    "shareholders_equity": 1154.1
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wessman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Smith",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Ture",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Christoffersson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Unghanse",
+      "first_name": "Carl-Patric",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Engman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Kihlberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Rhenman",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Östlund",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "kokmästare"
+    },
+    {
+      "surname": "Envall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "terminalchef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinhold",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Wendt",
+      "first_name": "Stellan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

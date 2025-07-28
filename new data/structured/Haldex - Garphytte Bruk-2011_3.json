@@ -1,0 +1,86 @@
+{
+  "company_name": "Haldex",
+  "fiscal_year": 2011,
+  "income_statement": {
+    "revenue": 4030.0,
+    "cost_of_goods_sold": -2967.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -75.0,
+    "depreciation": 146.0,
+    "net_income": 142.0
+  },
+  "balance_sheet": {
+    "total_assets": 2858.0,
+    "current_assets": 1582.0,
+    "fixed_assets": 1276.0,
+    "total_liabilities": 1522.0,
+    "current_liabilities": 598.0,
+    "long_term_liabilities": 924.0,
+    "shareholders_equity": 1336.0
+  },
+  "employees": {
+    "n_employees": 2365,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Charette",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Magnus",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Patel",
+      "first_name": "C.S.",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Sundewall",
+      "first_name": "Caroline",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Thelin",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Styrelseledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bengtsson",
+      "first_name": "Michael",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers AB"
+    },
+    {
+      "surname": "Hägglund",
+      "first_name": "Ann-Christine",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers AB"
+    }
+  ],
+  "additional_notes": null
+}

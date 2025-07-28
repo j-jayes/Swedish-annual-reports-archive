@@ -1,0 +1,140 @@
+{
+  "company_name": "AB PRIPPS BRYGGERIER",
+  "fiscal_year": 1980,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2154.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1408.2,
+    "wages_expense": null,
+    "tax_expense": 19.133333333333333,
+    "depreciation": 53.5,
+    "net_income": 10.7
+  },
+  "balance_sheet": {
+    "total_assets": 1342.0,
+    "current_assets": 588.6,
+    "fixed_assets": 733.4,
+    "total_liabilities": 517.3,
+    "current_liabilities": 361.0,
+    "long_term_liabilities": 341.3,
+    "shareholders_equity": 84.0
+  },
+  "employees": {
+    "n_employees": 3630,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindmark",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Elfgron",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "advokat"
+    },
+    {
+      "surname": "Emanusson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Falken",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sparr",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "VVD"
+    },
+    {
+      "surname": "Ryde",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Eliasson",
+      "first_name": "Anna",
+      "initials": null,
+      "position": "riksdagsledamot"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "departementsråd"
+    },
+    {
+      "surname": "Siöland",
+      "first_name": "Sven",
+      "initials": "A",
+      "position": "försäljare, anställdas representant"
+    },
+    {
+      "surname": "Modigh",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "verkmästare, anställdas representant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "J.E. Stenbergs Revisionsbyrå AB"
+    },
+    {
+      "surname": "Marcusson",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Björklund",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "J.E. Stenbergs Revisionsbyrå AB"
+    },
+    {
+      "surname": "Swartz",
+      "first_name": "Kersti",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ]
+}

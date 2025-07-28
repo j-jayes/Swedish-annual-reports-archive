@@ -1,0 +1,106 @@
+{
+  "company_name": "NORDISKA KOMPANIET",
+  "fiscal_year": 1944,
+  "income_statement": {
+    "revenue": 15809795.45,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 12170037.94,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1798971.62
+  },
+  "balance_sheet": {
+    "total_assets": 60259202.55,
+    "current_assets": null,
+    "fixed_assets": 33005129.21,
+    "total_liabilities": null,
+    "current_liabilities": 8590744.54,
+    "long_term_liabilities": null,
+    "shareholders_equity": 23000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ERNMARK",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WARN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FALLENIUS",
+      "first_name": null,
+      "initials": "C. M.",
+      "position": null
+    },
+    {
+      "surname": "BERNADOTTE",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": "AF WISBORG"
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "MAUR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LETTSROM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": "C.",
+      "initials": "ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

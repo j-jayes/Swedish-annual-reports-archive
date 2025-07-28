@@ -1,0 +1,88 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AKTIEBOLAG",
+  "fiscal_year": 1933,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 900000.0,
+    "depreciation": 3678124.08,
+    "net_income": 3635543.43
+  },
+  "balance_sheet": {
+    "total_assets": 119413218.15,
+    "current_assets": 25222038.73,
+    "fixed_assets": 43328513.13,
+    "total_liabilities": 43755771.85,
+    "current_liabilities": 6184174.08,
+    "long_term_liabilities": null,
+    "shareholders_equity": 75657446.3
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARC.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SALWÉN",
+      "first_name": "E. RIK.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WACHTMEISTER",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGLÖF",
+      "first_name": "ROB.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLUND",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDQVIST",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRYXELL",
+      "first_name": "K. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "COLLÉN",
+      "first_name": "A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAHLROTH",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

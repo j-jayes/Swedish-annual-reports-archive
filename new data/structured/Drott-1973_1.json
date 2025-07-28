@@ -1,0 +1,98 @@
+{
+  "company_name": "Fastighetsaktiebolaget Drott",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 11001801.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1819359.0,
+    "depreciation": 160000.0,
+    "net_income": 2112999.0
+  },
+  "balance_sheet": {
+    "total_assets": 69782465.0,
+    "current_assets": 8213165.0,
+    "fixed_assets": 61569300.0,
+    "total_liabilities": 42903305.0,
+    "current_liabilities": 1779410.0,
+    "long_term_liabilities": 41123895.0,
+    "shareholders_equity": 26879160.0
+  },
+  "employees": {
+    "n_employees": 21,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "position": "advokat, Stockholm, ordförande"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Archibald",
+      "initials": null,
+      "position": "direktör, New York"
+    },
+    {
+      "surname": "Nessen",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ingenjör, Stockholm"
+    },
+    {
+      "surname": "Tengbom",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "arkitekt, Drottningholm"
+    },
+    {
+      "surname": "Sundell",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "direktör, Saltsjö-Duvnäs"
+    },
+    {
+      "surname": "Hemstad",
+      "first_name": "Tord",
+      "initials": null,
+      "position": "civilingenjör, Stockholm, verkst. direktör"
+    },
+    {
+      "surname": "Almström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "direktör, Stockholm"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Markdahl",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor, Stockholm"
+    },
+    {
+      "surname": "Flogner",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "bankdirektör, Nacka"
+    },
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor, Täby"
+    },
+    {
+      "surname": "Nauclér",
+      "first_name": "Carl-Axel",
+      "initials": null,
+      "auditing_firm": "direktör, Stockholm"
+    }
+  ],
+  "additional_notes": null
+}

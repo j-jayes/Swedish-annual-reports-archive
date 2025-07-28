@@ -1,0 +1,116 @@
+{
+  "company_name": "H&M",
+  "fiscal_year": 1995,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 14591.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 10799.2,
+    "wages_expense": null,
+    "tax_expense": 348.6,
+    "depreciation": null,
+    "net_income": 973.1
+  },
+  "balance_sheet": {
+    "total_assets": 5725.6,
+    "current_assets": 4379.4,
+    "fixed_assets": 1344.3,
+    "total_liabilities": 1469.4,
+    "current_liabilities": 1032.5,
+    "long_term_liabilities": 436.9,
+    "shareholders_equity": 4256.2
+  },
+  "employees": {
+    "n_employees": 9465,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ordförande H&M"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "VD EF Education Yacht Racing AB"
+    },
+    {
+      "surname": "Bingebo",
+      "first_name": "Britt-Marie",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Brusberg",
+      "first_name": "Birgitta",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Felixon",
+      "first_name": "Max",
+      "initials": null,
+      "position": "Inköpsdirektör H&M"
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Finansdirektör H&M"
+    },
+    {
+      "surname": "Lundius",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Koncernchef och VD Esselte AB"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "VD Pilen AB"
+    },
+    {
+      "surname": "Norin-Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Koncernchef och VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hedén",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

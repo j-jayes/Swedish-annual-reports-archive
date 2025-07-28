@@ -1,0 +1,146 @@
+{
+  "company_name": "SONESSONS",
+  "fiscal_year": 1977,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 433.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 149.4,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 9.066666666666666
+  },
+  "balance_sheet": {
+    "total_assets": 414.5,
+    "current_assets": 305.9,
+    "fixed_assets": 105.9,
+    "total_liabilities": 188.26666666666665,
+    "current_liabilities": 115.8,
+    "long_term_liabilities": 102.4,
+    "shareholders_equity": 93.5
+  },
+  "employees": {
+    "n_employees": 2187,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Hellestam",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "v Verkst direktör"
+    },
+    {
+      "surname": "Kessman",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Kristensson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Malmborg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Ahrland",
+      "first_name": "Karin",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Anderlund",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Brink",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Sonesson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hansson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "aukt revisor, Malmö"
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "aukt revisor, Stockholm"
+    },
+    {
+      "surname": "Fredricson",
+      "first_name": "Mats",
+      "initials": null,
+      "auditing_firm": "aukt revisor, Malmö, suppleant."
+    },
+    {
+      "surname": "Tillman",
+      "first_name": "Torsten",
+      "initials": null,
+      "auditing_firm": "aukt revisor, Stockholm, suppleant."
+    }
+  ]
+}

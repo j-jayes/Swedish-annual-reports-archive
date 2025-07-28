@@ -1,0 +1,92 @@
+{
+  "company_name": "AB SVENSKA METALLVERKEN",
+  "fiscal_year": 1958,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 439.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 69.2,
+    "tax_expense": 5.4,
+    "depreciation": null,
+    "net_income": 4.9
+  },
+  "balance_sheet": {
+    "total_assets": 278.0,
+    "current_assets": 154.9,
+    "fixed_assets": 123.1,
+    "total_liabilities": 150.23333333333332,
+    "current_liabilities": 53.6,
+    "long_term_liabilities": 115.1,
+    "shareholders_equity": 105.3
+  },
+  "employees": {
+    "n_employees": 5411,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "WARN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "B.",
+      "initials": "G.",
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Sousa",
+      "first_name": "Manoel",
+      "initials": "Bon de",
+      "position": "Mr"
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Envoyé"
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "Carl",
+      "initials": "A",
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HEDBERG",
+      "first_name": "THJELVAR",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ERIKSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

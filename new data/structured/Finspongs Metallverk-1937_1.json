@@ -1,0 +1,80 @@
+{
+  "company_name": "FINSPONGS METALLVERKS AKTIEBOLAG",
+  "fiscal_year": 1937,
+  "income_statement": {
+    "revenue": 3114188.07,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 668188.89
+  },
+  "balance_sheet": {
+    "total_assets": 21717763.83,
+    "current_assets": null,
+    "fixed_assets": 10375917.0,
+    "total_liabilities": null,
+    "current_liabilities": 6882200.15,
+    "long_term_liabilities": 2681966.67,
+    "shareholders_equity": 10600000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1183,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "EKMAN",
+      "first_name": "GUST.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HASSELROT",
+      "first_name": "BROR",
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "BENGTSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DILLNER",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENSTRÖM",
+      "first_name": "AXEL",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ÖJERMARK.",
+      "first_name": "ALB.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBECK.",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

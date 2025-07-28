@@ -1,0 +1,118 @@
+{
+  "company_name": "BLEKINGE KUSTBANOR",
+  "fiscal_year": 1912,
+  "income_statement": {
+    "revenue": 1400994.08,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1127293.41,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 273700.67
+  },
+  "balance_sheet": {
+    "total_assets": 6565541.96,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 867647.92,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5697894.04
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wachtmeister",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Swanlund",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "N. P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Aug.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergen",
+      "first_name": "J. A.",
+      "initials": "J. A.",
+      "position": null
+    },
+    {
+      "surname": "Flensburg",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellerström",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "Hildebrand",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Lilienberg",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Borgström",
+      "first_name": "J. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Broberg",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Otto",
+      "initials": null,
+      "auditing_firm": "Ombud å statens vägnar"
+    }
+  ],
+  "additional_notes": null
+}

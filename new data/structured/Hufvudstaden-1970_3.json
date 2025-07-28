@@ -1,0 +1,76 @@
+{
+  "company_name": "Fastighetsaktiebolaget Hufvudstaden",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 105.675,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 83.547,
+    "wages_expense": null,
+    "tax_expense": 7.659,
+    "depreciation": 4.537,
+    "net_income": 11.075
+  },
+  "balance_sheet": {
+    "total_assets": 237.468,
+    "current_assets": 50.665,
+    "fixed_assets": 174.138,
+    "total_liabilities": 148.428,
+    "current_liabilities": 34.109,
+    "long_term_liabilities": 103.893,
+    "shareholders_equity": 89.04
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BOHMAN",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "SCHMIDT",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLIESTRÖM-TJUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDHOLM",
+      "first_name": "STIG",
+      "initials": "HJ:SON",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

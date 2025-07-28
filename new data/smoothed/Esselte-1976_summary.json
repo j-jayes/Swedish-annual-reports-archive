@@ -1,0 +1,104 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1976,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2160.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 41.9,
+    "depreciation": null,
+    "net_income": 31.8
+  },
+  "balance_sheet": {
+    "total_assets": 1957.9,
+    "current_assets": 1329.1,
+    "fixed_assets": 507.9666666666667,
+    "total_liabilities": 619.7,
+    "current_liabilities": 464.1,
+    "long_term_liabilities": 260.3333333333333,
+    "shareholders_equity": 421.7
+  },
+  "employees": {
+    "n_employees": 8813.333333333334,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "I",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Horn",
+      "first_name": "Knut",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmén",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ekeberg",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

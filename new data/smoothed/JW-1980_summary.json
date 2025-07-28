@@ -1,0 +1,104 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1980,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 203563.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1313.0,
+    "net_income": 3286.0
+  },
+  "balance_sheet": {
+    "total_assets": 157378.0,
+    "current_assets": 92212.0,
+    "fixed_assets": 64873.0,
+    "total_liabilities": 97614.0,
+    "current_liabilities": 33478.0,
+    "long_term_liabilities": 50315.333333333336,
+    "shareholders_equity": 15482.0
+  },
+  "employees": {
+    "n_employees": 994,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Algurén",
+      "first_name": "Klas",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "Tekn lic"
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Civilingenjör, VD"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Hans-Göran",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Hansbo",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Victorsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "Advokat, ordf."
+    },
+    {
+      "surname": "Odlund",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": "Godk revisor"
+    }
+  ]
+}

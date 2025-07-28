@@ -1,0 +1,74 @@
+{
+  "company_name": "Hevea",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 788.281,
+    "cost_of_goods_sold": 772.832,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 100.759
+  },
+  "balance_sheet": {
+    "total_assets": 1012.327,
+    "current_assets": 362.019,
+    "fixed_assets": 436.806,
+    "total_liabilities": 640.828,
+    "current_liabilities": 460.771,
+    "long_term_liabilities": 91.275,
+    "shareholders_equity": 369.499
+  },
+  "employees": {
+    "n_employees": 4903,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Hansson",
+      "first_name": "Olle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hanzon",
+      "first_name": "Mats",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "John-Jacob",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Törnqvist",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

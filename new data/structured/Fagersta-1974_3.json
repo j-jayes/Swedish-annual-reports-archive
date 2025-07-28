@@ -1,0 +1,128 @@
+{
+  "company_name": "FAGERSTA",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 1316.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 43.8,
+    "net_income": 42.3
+  },
+  "balance_sheet": {
+    "total_assets": 1153.7,
+    "current_assets": 736.3,
+    "fixed_assets": 417.4,
+    "total_liabilities": 827.0,
+    "current_liabilities": 326.7,
+    "long_term_liabilities": 347.4,
+    "shareholders_equity": 244.7
+  },
+  "employees": {
+    "n_employees": 6665,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kock",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åsberg",
+      "first_name": "Alvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Georgsson",
+      "first_name": "Göthe",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": "Avskrivningar enligt plan understiger det kalkylmässiga avskrivningsbehovet med ca 10 mkr för år 1974."
+}

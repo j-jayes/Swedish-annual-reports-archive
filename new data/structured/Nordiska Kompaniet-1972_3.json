@@ -1,0 +1,69 @@
+{
+  "company_name": "AB Nordiska Kompaniet",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 426.279,
+    "cost_of_goods_sold": 354.315,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.19,
+    "depreciation": 10.516,
+    "net_income": 8.058
+  },
+  "balance_sheet": {
+    "total_assets": 459.312,
+    "current_assets": 92.34,
+    "fixed_assets": 366.972,
+    "total_liabilities": 191.448,
+    "current_liabilities": 70.925,
+    "long_term_liabilities": 44.634,
+    "shareholders_equity": 267.864
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Belfrage",
+      "first_name": "Kurt-Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Franzén",
+      "first_name": "Olle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Rosenschöld",
+      "first_name": "Hans Munck",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sachs",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Turitz",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

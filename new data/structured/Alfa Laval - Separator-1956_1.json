@@ -1,0 +1,49 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 25508724.16,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 10300000.0,
+    "depreciation": null,
+    "net_income": 10940637.16
+  },
+  "balance_sheet": {
+    "total_assets": 217618503.35,
+    "current_assets": 120619042.37,
+    "fixed_assets": 96999460.98,
+    "total_liabilities": 94578419.87,
+    "current_liabilities": 32327388.32,
+    "long_term_liabilities": 123040000.0,
+    "shareholders_equity": 35471623.48
+  },
+  "employees": {
+    "n_employees": 2435,
+    "n_blue_collar_workers": 1390,
+    "n_white_collar_workers": 1045
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDSTRÖM",
+      "first_name": null,
+      "initials": "O. W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "MOBERG",
+      "first_name": "WILHELM",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

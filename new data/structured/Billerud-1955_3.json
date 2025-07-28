@@ -1,0 +1,86 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 213239433.16,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 21000000.0,
+    "depreciation": null,
+    "net_income": 12042731.8
+  },
+  "balance_sheet": {
+    "total_assets": 215054114.96,
+    "current_assets": null,
+    "fixed_assets": 106886331.68,
+    "total_liabilities": null,
+    "current_liabilities": 45721393.91,
+    "long_term_liabilities": null,
+    "shareholders_equity": 127783742.53
+  },
+  "employees": {
+    "n_employees": 6597,
+    "n_blue_collar_workers": 5912,
+    "n_white_collar_workers": 685
+  },
+  "board": [
+    {
+      "surname": "Hammarskjöld",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hising",
+      "first_name": null,
+      "initials": "K. I.",
+      "position": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rynell",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "Vice verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Almquist",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wendt",
+      "first_name": "Stellan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

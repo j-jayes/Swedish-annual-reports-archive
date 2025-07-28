@@ -1,0 +1,116 @@
+{
+  "company_name": "Trelleborg AB",
+  "fiscal_year": 1982,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1620.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1467.3,
+    "wages_expense": null,
+    "tax_expense": 5.9,
+    "depreciation": 50.2,
+    "net_income": 12.4
+  },
+  "balance_sheet": {
+    "total_assets": 990.8,
+    "current_assets": 504.8,
+    "fixed_assets": 422.9,
+    "total_liabilities": 535.8,
+    "current_liabilities": 486.9,
+    "long_term_liabilities": 193.83333333333334,
+    "shareholders_equity": 295.7
+  },
+  "employees": {
+    "n_employees": 5169,
+    "n_blue_collar_workers": 3320,
+    "n_white_collar_workers": 1849
+  },
+  "board": [
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Herrlin",
+      "first_name": "Karl-Magnus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": "P",
+      "position": null
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

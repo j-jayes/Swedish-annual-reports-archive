@@ -1,0 +1,92 @@
+{
+  "company_name": "Sandvik-Koncernen",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 3383.348,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2634.629,
+    "wages_expense": null,
+    "tax_expense": 83.346,
+    "depreciation": 158.309,
+    "net_income": 135.1
+  },
+  "balance_sheet": {
+    "total_assets": 3745.413,
+    "current_assets": 2519.327,
+    "fixed_assets": 1211.701,
+    "total_liabilities": 1024.717,
+    "current_liabilities": 331.438,
+    "long_term_liabilities": 294.063,
+    "shareholders_equity": 714.794
+  },
+  "employees": {
+    "n_employees": 26574,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": "Jr",
+      "position": null
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bahrke",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stake",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Koraen",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

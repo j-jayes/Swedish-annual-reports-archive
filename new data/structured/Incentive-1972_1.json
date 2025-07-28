@@ -1,0 +1,98 @@
+{
+  "company_name": "Incentive AB",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 920.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 13.4,
+    "depreciation": 17.7,
+    "net_income": 13.4
+  },
+  "balance_sheet": {
+    "total_assets": 893.256,
+    "current_assets": 673.226,
+    "fixed_assets": 213.781,
+    "total_liabilities": 315.606,
+    "current_liabilities": 315.606,
+    "long_term_liabilities": 252.822,
+    "shareholders_equity": 150.685
+  },
+  "employees": {
+    "n_employees": 6037,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMSTRÖM",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NICOLIN",
+      "first_name": "CURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSON",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\",",
+      "first_name": "SVEN",
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "REGELIUS",
+      "first_name": "KARL",
+      "initials": "ERIK",
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

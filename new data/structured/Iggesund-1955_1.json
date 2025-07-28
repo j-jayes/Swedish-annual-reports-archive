@@ -1,0 +1,70 @@
+{
+  "company_name": "Aktiebolaget Iggesunds Bruk",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 34807608.14,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9953104.0,
+    "depreciation": 5985230.62,
+    "net_income": 8508518.3
+  },
+  "balance_sheet": {
+    "total_assets": 114089642.03,
+    "current_assets": 39739645.03,
+    "fixed_assets": 36313095.86,
+    "total_liabilities": null,
+    "current_liabilities": 15655995.08,
+    "long_term_liabilities": 2905097.53,
+    "shareholders_equity": 60035549.42
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "S\noderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Verkst. direkt\n"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

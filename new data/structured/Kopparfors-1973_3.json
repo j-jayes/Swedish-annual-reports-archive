@@ -1,0 +1,116 @@
+{
+  "company_name": "KOPPARFORS",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 406.159,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 309.558,
+    "wages_expense": null,
+    "tax_expense": 7.7,
+    "depreciation": 50.194,
+    "net_income": 12.062
+  },
+  "balance_sheet": {
+    "total_assets": 417.395,
+    "current_assets": 161.941,
+    "fixed_assets": 255.014,
+    "total_liabilities": 252.331,
+    "current_liabilities": 79.792,
+    "long_term_liabilities": 120.844,
+    "shareholders_equity": 164.954
+  },
+  "employees": {
+    "n_employees": 1870,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "HOLGERSSON",
+      "first_name": "SIGBJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MONTGOMERY",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRIPENSTEDT",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBLAD",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "BRUNO",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

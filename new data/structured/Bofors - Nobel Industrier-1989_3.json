@@ -1,0 +1,128 @@
+{
+  "company_name": "Nobel Industrier",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 22088.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -19780.0,
+    "wages_expense": null,
+    "tax_expense": -251.0,
+    "depreciation": -705.0,
+    "net_income": 1380.0
+  },
+  "balance_sheet": {
+    "total_assets": 28431.0,
+    "current_assets": 17816.0,
+    "fixed_assets": 8388.0,
+    "total_liabilities": 18614.0,
+    "current_liabilities": 9069.0,
+    "long_term_liabilities": 5718.0,
+    "shareholders_equity": 4838.0
+  },
+  "employees": {
+    "n_employees": 22246,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Eldh",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Åkesson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Aakvaag",
+      "first_name": "Torvild",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Kihlberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Martinsson",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Littorin",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Wallbom",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Göthlin",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Sekreterare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

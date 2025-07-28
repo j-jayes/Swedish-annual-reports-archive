@@ -1,0 +1,92 @@
+{
+  "company_name": "BOLIDEN AKTIEBOLAG",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 867.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 384.726,
+    "wages_expense": null,
+    "tax_expense": 10.619,
+    "depreciation": 50.4,
+    "net_income": 30.0
+  },
+  "balance_sheet": {
+    "total_assets": 789.506,
+    "current_assets": 342.274,
+    "fixed_assets": 447.232,
+    "total_liabilities": 342.274,
+    "current_liabilities": 145.99,
+    "long_term_liabilities": 170.868,
+    "shareholders_equity": 442.547
+  },
+  "employees": {
+    "n_employees": 5740,
+    "n_blue_collar_workers": 4042,
+    "n_white_collar_workers": 1698
+  },
+  "board": [
+    {
+      "surname": "NORÉN",
+      "first_name": null,
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": null,
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "BRYNIELSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELFSTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAMARCHE",
+      "first_name": "ALFRED",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALM",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BERGQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DAHL",
+      "first_name": "CARL",
+      "initials": "Olof",
+      "auditing_firm": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,118 @@
+{
+  "company_name": "Försäkringsaktiebolaget Atlantica",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 37824.636,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 544.937
+  },
+  "balance_sheet": {
+    "total_assets": 63339.462,
+    "current_assets": 12041.18,
+    "fixed_assets": 1435.0,
+    "total_liabilities": 31651.062,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Thorburn",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Einar",
+      "initials": "W.",
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lydén",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sandén",
+      "first_name": "David",
+      "initials": null,
+      "position": "vald av bolagets försäkringstagare"
+    },
+    {
+      "surname": "Sundqvist",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "förordnad av Kungl. Majit"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Friberger",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Kihlbom",
+      "first_name": "Niklas",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eneroth",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Jonasson",
+      "first_name": "Evert",
+      "initials": null,
+      "auditing_firm": "av Kungl. Försäkringsinspektionen förordnad revisor"
+    }
+  ],
+  "additional_notes": null
+}

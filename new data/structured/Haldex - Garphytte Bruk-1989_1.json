@@ -1,0 +1,86 @@
+{
+  "company_name": "Garphyttan",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 1344.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 42.2,
+    "depreciation": null,
+    "net_income": 48.1
+  },
+  "balance_sheet": {
+    "total_assets": 1018.5,
+    "current_assets": 468.6,
+    "fixed_assets": 252.3,
+    "total_liabilities": 786.2,
+    "current_liabilities": 301.5,
+    "long_term_liabilities": 223.8,
+    "shareholders_equity": 232.3
+  },
+  "employees": {
+    "n_employees": 1783,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LINDEROTH",
+      "first_name": "KARL-AXEL",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BERN",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WARNANDER",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EDWARDSSON",
+      "first_name": "BÖRJE",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "PETTERSSON",
+      "first_name": "LENNART M",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WIDHAGEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "JAKOBSON",
+      "first_name": "ALLAN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

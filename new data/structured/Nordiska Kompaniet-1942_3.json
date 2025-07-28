@@ -1,0 +1,39 @@
+{
+  "company_name": "NORDISKA KOMPANIET",
+  "fiscal_year": 1942,
+  "income_statement": {
+    "revenue": 11881386.61,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 9029323.63,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 705074.98,
+    "net_income": 1465497.38
+  },
+  "balance_sheet": {
+    "total_assets": 59522931.1,
+    "current_assets": 24232488.85,
+    "fixed_assets": 32503727.03,
+    "total_liabilities": 36545860.61,
+    "current_liabilities": 6784987.61,
+    "long_term_liabilities": 26060873.0,
+    "shareholders_equity": 23000000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "GRUMME",
+      "first_name": null,
+      "initials": "C. ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": null,
+      "initials": "EINAR",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

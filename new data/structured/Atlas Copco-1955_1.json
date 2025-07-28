@@ -1,0 +1,80 @@
+{
+  "company_name": "Atlas Copco Aktiebolag",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 130471290.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3807749.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1389810.0,
+    "net_income": 7861170.0
+  },
+  "balance_sheet": {
+    "total_assets": 113228204.0,
+    "current_assets": 44033291.0,
+    "fixed_assets": 10861338.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": 9818350.0,
+    "shareholders_equity": 63845000.0
+  },
+  "employees": {
+    "n_employees": 1256,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 620
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Liljenroth",
+      "first_name": "F. G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Steyern",
+      "first_name": "Nils von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sällfors",
+      "first_name": "C. Tarras",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pyk",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": "Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå Aktiebolag"
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "Trelleborgs Gummifabriks Aktiebolag",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 262.86066666666665,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 77.143,
+    "tax_expense": 2.8703333333333334,
+    "depreciation": 7.7755,
+    "net_income": 5.4
+  },
+  "balance_sheet": {
+    "total_assets": 33664674061.257336,
+    "current_assets": 40260766.854666665,
+    "fixed_assets": 24040046.079666667,
+    "total_liabilities": 19114415.231333334,
+    "current_liabilities": 25.826,
+    "long_term_liabilities": 4559563.344,
+    "shareholders_equity": 3366649407.214333
+  },
+  "employees": {
+    "n_employees": 4229,
+    "n_blue_collar_workers": 3011,
+    "n_white_collar_workers": 1218
+  },
+  "board": [
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Nedström",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Ryttmästare"
+    },
+    {
+      "surname": "Ekblom",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "Konsul"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric",
+      "initials": "A.",
+      "auditing_firm": "Advokat"
+    }
+  ]
+}

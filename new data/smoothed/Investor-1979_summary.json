@@ -1,0 +1,82 @@
+{
+  "company_name": "Investor",
+  "fiscal_year": 1979,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 41.582,
+    "wages_expense": null,
+    "tax_expense": 177.0,
+    "depreciation": null,
+    "net_income": 52.059
+  },
+  "balance_sheet": {
+    "total_assets": 392.901,
+    "current_assets": 27.488,
+    "fixed_assets": 365.413,
+    "total_liabilities": 2.947,
+    "current_liabilities": 3.001333333333333,
+    "long_term_liabilities": null,
+    "shareholders_equity": 389.841
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "N.-A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

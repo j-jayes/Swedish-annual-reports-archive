@@ -1,0 +1,92 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 368.287,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.005,
+    "depreciation": 34.03,
+    "net_income": 15.0
+  },
+  "balance_sheet": {
+    "total_assets": 463.955,
+    "current_assets": 223.737,
+    "fixed_assets": 235.618,
+    "total_liabilities": 163.987,
+    "current_liabilities": 45.472,
+    "long_term_liabilities": 106.208,
+    "shareholders_equity": 248.64
+  },
+  "employees": {
+    "n_employees": 12111,
+    "n_blue_collar_workers": 10270,
+    "n_white_collar_workers": 1840
+  },
+  "board": [
+    {
+      "surname": "LINDAHL",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDSTRÖM",
+      "first_name": "AGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": "K-G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FRISELL",
+      "first_name": null,
+      "initials": "G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "GEIJER",
+      "first_name": null,
+      "initials": "REINH.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

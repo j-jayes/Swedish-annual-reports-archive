@@ -1,0 +1,76 @@
+{
+  "company_name": "Försäkringsaktiebolaget Atlantica",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": 2355312.43,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 226177.0
+  },
+  "balance_sheet": {
+    "total_assets": 4769399.85,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 4543222.85,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Boman",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "S. G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Metcalfe",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olburs",
+      "first_name": "Vidar R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Adamson",
+      "first_name": "C. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dag",
+      "first_name": "Knut Hison Natt och",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

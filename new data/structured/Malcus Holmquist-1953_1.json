@@ -1,0 +1,68 @@
+{
+  "company_name": "MALCUS HOLMQUIST",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 1120398.38,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 619281.0,
+    "net_income": 497544.59
+  },
+  "balance_sheet": {
+    "total_assets": 21774778.02,
+    "current_assets": 6093179.29,
+    "fixed_assets": 6657124.37,
+    "total_liabilities": 14324778.13,
+    "current_liabilities": 3117495.84,
+    "long_term_liabilities": 7865709.88,
+    "shareholders_equity": 7450000.0
+  },
+  "employees": {
+    "n_employees": 703,
+    "n_blue_collar_workers": 523,
+    "n_white_collar_workers": 180
+  },
+  "board": [
+    {
+      "surname": "Berger",
+      "first_name": "Edw.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wendt",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "C. M.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Åsbrink",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

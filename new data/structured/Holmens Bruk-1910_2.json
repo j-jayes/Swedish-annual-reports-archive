@@ -1,0 +1,39 @@
+{
+  "company_name": "Holmens Bruks- & Fabriks Aktiebolag",
+  "fiscal_year": 1910,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 333140.61
+  },
+  "balance_sheet": {
+    "total_assets": 7680214.47,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 7341468.15,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3967247.23
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Philipson",
+      "first_name": "Carl",
+      "initials": "Oscar",
+      "position": null
+    },
+    {
+      "surname": "Tamm",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

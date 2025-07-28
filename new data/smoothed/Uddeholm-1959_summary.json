@@ -1,0 +1,80 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1959,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 422.724,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8.003333333333334,
+    "depreciation": 38.397999999999996,
+    "net_income": 15.0
+  },
+  "balance_sheet": {
+    "total_assets": 506.944,
+    "current_assets": 264.56,
+    "fixed_assets": 241.562,
+    "total_liabilities": 256.504,
+    "current_liabilities": 57.975,
+    "long_term_liabilities": 191.313,
+    "shareholders_equity": 250.44
+  },
+  "employees": {
+    "n_employees": 11957,
+    "n_blue_collar_workers": 10081,
+    "n_white_collar_workers": 1876
+  },
+  "board": [
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": null,
+      "initials": "K-G.",
+      "position": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRISELL",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "LINDAHL",
+      "first_name": null,
+      "initials": "ALF/",
+      "position": null
+    },
+    {
+      "surname": "LUNDSTRÖM",
+      "first_name": null,
+      "initials": "AGE/",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "Garphyttan Industrier AB",
+  "fiscal_year": 1996,
+  "income_statement": {
+    "revenue": 2143.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 58.9,
+    "depreciation": null,
+    "net_income": 131.8
+  },
+  "balance_sheet": {
+    "total_assets": 1386.1,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 718.4
+  },
+  "employees": {
+    "n_employees": 1802,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Blomberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmgren",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Warnander",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edwardsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Fernström",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

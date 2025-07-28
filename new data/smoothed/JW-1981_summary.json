@@ -1,0 +1,146 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1981,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 265999.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 248059.0,
+    "wages_expense": null,
+    "tax_expense": 6823.0,
+    "depreciation": 5599.0,
+    "net_income": 7446.0
+  },
+  "balance_sheet": {
+    "total_assets": 206686.0,
+    "current_assets": 115456.0,
+    "fixed_assets": 91162.0,
+    "total_liabilities": 92059.0,
+    "current_liabilities": 36138.0,
+    "long_term_liabilities": 57345.666666666664,
+    "shareholders_equity": 21191.0
+  },
+  "employees": {
+    "n_employees": 1027,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wettergren",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "ordförande, advokat"
+    },
+    {
+      "surname": "Ödlund",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "vice ordförande, vd FinansSkandic AB"
+    },
+    {
+      "surname": "Sandh",
+      "first_name": "Zerny",
+      "initials": null,
+      "position": "vd J&W"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "teknologie licentiat, vvd J&W"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Hans-Göran",
+      "initials": null,
+      "position": "ingenjör, arbetstagarrepresentant"
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Hansbo",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Pauli",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Victorsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ingenjör, arbetstagarrepresentant"
+    },
+    {
+      "surname": "Zetterberg",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Grundberg",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "civilingenjör, arbetstagarrepresentant"
+    },
+    {
+      "surname": "Hulthén",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "ingenjör, arbetstagarrepresentant"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Henry",
+      "initials": null,
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Ölund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "civilingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ryberg",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundell",
+      "first_name": "Torsten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

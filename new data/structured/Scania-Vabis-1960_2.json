@@ -1,0 +1,92 @@
+{
+  "company_name": "AB SCANIA-VABIS",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 508.504,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10.944,
+    "net_income": 11.962
+  },
+  "balance_sheet": {
+    "total_assets": 250.407,
+    "current_assets": 137.436,
+    "fixed_assets": 94.671,
+    "total_liabilities": 158.327,
+    "current_liabilities": 97.041,
+    "long_term_liabilities": 31.286,
+    "shareholders_equity": 92.08
+  },
+  "employees": {
+    "n_employees": 3291,
+    "n_blue_collar_workers": 2138,
+    "n_white_collar_workers": 1153
+  },
+  "board": [
+    {
+      "surname": "Throne-Holst",
+      "first_name": "H.",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westring",
+      "first_name": "Gustaf Adolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahrgren",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Calissendorff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Godin",
+      "first_name": "V.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

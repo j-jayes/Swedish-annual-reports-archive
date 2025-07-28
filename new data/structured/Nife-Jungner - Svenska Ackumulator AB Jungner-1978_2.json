@@ -1,0 +1,86 @@
+{
+  "company_name": "NIFE JUNGNER AB",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 346.783,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 312.764,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 12.837,
+    "net_income": -2.749
+  },
+  "balance_sheet": {
+    "total_assets": 477.909,
+    "current_assets": 316.565,
+    "fixed_assets": 160.368,
+    "total_liabilities": 337.62,
+    "current_liabilities": 115.227,
+    "long_term_liabilities": 183.611,
+    "shareholders_equity": 140.289
+  },
+  "employees": {
+    "n_employees": 2250,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Friberg",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "speditör"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "advokat"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "avsynare"
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Wieslander",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Karl",
+      "initials": "R",
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Theorin",
+      "first_name": "Lars-Åke",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

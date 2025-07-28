@@ -1,0 +1,74 @@
+{
+  "company_name": "FORTIA",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 331.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5.2
+  },
+  "balance_sheet": {
+    "total_assets": 277.8,
+    "current_assets": 141.0,
+    "fixed_assets": 136.2,
+    "total_liabilities": 120.1,
+    "current_liabilities": 42.4,
+    "long_term_liabilities": 75.3,
+    "shareholders_equity": 50.5
+  },
+  "employees": {
+    "n_employees": 2115,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindblad",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Göth",
+      "first_name": "H",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmsten",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hultgren",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "Karlgren",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    }
+  ],
+  "additional_notes": null
+}

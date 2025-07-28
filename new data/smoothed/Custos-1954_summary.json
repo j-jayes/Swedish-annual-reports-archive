@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET CUSTOS",
+  "fiscal_year": 1954,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7982844.45,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 613230.59,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 104999.45,
+    "net_income": 7264614.41
+  },
+  "balance_sheet": {
+    "total_assets": 65656194.03,
+    "current_assets": 35483.03,
+    "fixed_assets": 65620711.0,
+    "total_liabilities": 30656194.03,
+    "current_liabilities": 78810.5,
+    "long_term_liabilities": 7924973.43,
+    "shareholders_equity": 35000000.0
+  },
+  "employees": {
+    "n_employees": 5,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HERSLOW",
+      "first_name": "C:SON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "HAKON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKLUND",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TONDÉN",
+      "first_name": "ALBERT",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

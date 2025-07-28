@@ -1,0 +1,92 @@
+{
+  "company_name": "The Nitro Nobel Group",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 389.374,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 338.563,
+    "wages_expense": 108.7,
+    "tax_expense": 4.544,
+    "depreciation": 18.393,
+    "net_income": 14.87
+  },
+  "balance_sheet": {
+    "total_assets": 387.386,
+    "current_assets": 138.006,
+    "fixed_assets": 133.374,
+    "total_liabilities": 126.905,
+    "current_liabilities": 81.508,
+    "long_term_liabilities": 36.576,
+    "shareholders_equity": 47.708
+  },
+  "employees": {
+    "n_employees": 1325,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Blegvad",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Boman",
+      "first_name": "Jan",
+      "initials": "E",
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bylock",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Davidson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fjällström",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Löwhagen",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "Sison",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

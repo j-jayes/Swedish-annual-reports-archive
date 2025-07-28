@@ -1,0 +1,110 @@
+{
+  "company_name": "ABV Verksamheten",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 9017.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 37.7
+  },
+  "balance_sheet": {
+    "total_assets": 5879.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 328.7
+  },
+  "employees": {
+    "n_employees": 12811,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Giesecke",
+      "first_name": "Curt-Steffan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Malmström",
+      "first_name": "Bure",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Brasar",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Koncernchef och verkställande direktör"
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Stellan",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Gerholm",
+      "first_name": "Tor Ragnar",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Gyll",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl Erik",
+      "initials": null,
+      "position": "Disponent, f.d. verkställande direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "Arbetstagarledamot PTK, ingenjör"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Arbetstagarledamot Svenska Byggnadsarbetarförbundet, byggnadsarbetare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

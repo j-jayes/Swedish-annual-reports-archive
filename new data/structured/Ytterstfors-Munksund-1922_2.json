@@ -1,0 +1,76 @@
+{
+  "company_name": "Aktiebolaget Ytterstfors-Munksunds",
+  "fiscal_year": 1922,
+  "income_statement": {
+    "revenue": 3257457.07,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 523633.87,
+    "depreciation": null,
+    "net_income": -492959.88
+  },
+  "balance_sheet": {
+    "total_assets": 77906190.0,
+    "current_assets": null,
+    "fixed_assets": 28461685.22,
+    "total_liabilities": 45116556.84,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 32500000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "NORMAN",
+      "first_name": "UNO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMSTRÖM",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "RICHARD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BELLANDER",
+      "first_name": "PAUL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNBERG",
+      "first_name": "EMRIC",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": null,
+      "initials": "J. L.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FLYGT",
+      "first_name": "HELMER",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RAASCHOU",
+      "first_name": null,
+      "initials": "TH.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

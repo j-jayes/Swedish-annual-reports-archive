@@ -1,0 +1,98 @@
+{
+  "company_name": "Allmänna Telefonaktiebolaget L. M. Ericsson",
+  "fiscal_year": 1920,
+  "income_statement": {
+    "revenue": 3388036.79,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -3322263.91
+  },
+  "balance_sheet": {
+    "total_assets": 112229717.95,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 83755503.85,
+    "current_liabilities": null,
+    "long_term_liabilities": 7599000.0,
+    "shareholders_equity": 25834294.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1664,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindman",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pegelow",
+      "first_name": "F. W. H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klemming",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hasselberg",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gerdhem",
+      "first_name": "K. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wincrantz",
+      "first_name": "K. F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Piltz",
+      "first_name": "Gottlieb",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Schultz",
+      "first_name": "Eduard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jakobson",
+      "first_name": "Frans",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Flodin",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

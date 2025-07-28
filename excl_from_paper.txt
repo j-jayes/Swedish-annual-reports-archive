@@ -1,0 +1,65 @@
+
+In @fig-network-1 below I show a network of firms based on common board members in 1950. This visualization highlights the dense interconnections among firms, with several clusters of companies sharing multiple directors. The Wallenberg sphere, for instance, is visible as a tight-knit group of firms linked by common board members in the center. I chose to display 1950 because it is a year when many of the firms in my sample have complete data. I need to think carefully how to deal with network centrality measures when firms are missing from the network.
+
+![Network of firms based on common board members in 1950](images/network-1.png){#fig-network-1}
+
+Tentative regression results are shown in @tbl-regression-results.
+
+There are several things I need to do before finalizing the analysis. First, I need to check that the deflators I have used from Rodney Edvinson's website are the ones I should be using, I will check this with Anton Svensson as I know he has used deflators in his project.
+
+Second, I need to check the level changes that exist in the data. I have already done this to some extent, but I need to make sure that the changes are not due to changes in accounting standards or other factors that might affect the data. When I log and take differences in analysis. 
+
+Once I have done this, I need to check that the stationarity / unit root tests still hold, and if not, potentially take the first differences of the series that I use.
+
+Then I need to check the lag effects, and complete the other robustness checks. 
+
+I also need to experiement with the variable for international (non-US) experience, and see if this has an effect on the results.
+
+Finally, I need to write up the results and the conclusion.
+
+
+::: {#tbl-regression-results}
+
+
+```{=latex}
+\begin{table}[htbp]
+\centering
+\caption{Regression Results on Revenue per Employee}
+\label{tab:regression-results-1}
+\begin{tabular}{lccc}
+\toprule
+ & \multicolumn{3}{c}{\textbf{Dependent Variable: Revenue per Employee}} \\
+\cmidrule(lr){2-4}
+ & \textbf{(1)} & \textbf{(2)} & \textbf{(3)} \\
+\midrule
+\textbf{Share of U.S.-Exp. Engineers}           & 0.105**   & 0.112**   & 0.094**  \\
+                                                & (0.048)   & (0.050)   & (0.045)  \\
+\textbf{Engineer $\times$ U.S.-Exp. Directors}  &           & 0.036     & 0.041    \\
+                                                &           & (0.027)   & (0.029)  \\
+\textbf{Board Centrality}                       &           &           & 0.063**  \\
+                                                &           &           & (0.025)  \\
+\textbf{Firm Connectivity}                      &           &           & 0.018    \\
+                                                &           &           & (0.012)  \\
+\textbf{log(Assets)}                            & 0.210***  & 0.195***  & 0.198*** \\
+                                                & (0.059)   & (0.057)   & (0.054)  \\
+\textbf{Firm Age}                               & 0.001*    & 0.001*    & 0.001*   \\
+                                                & (0.0006)  & (0.0005)  & (0.0005) \\
+\midrule
+\textbf{Year FE} & Yes & Yes & Yes \\
+\textbf{Industry FE} & Yes & Yes & Yes \\
+\midrule
+Observations & 49 & 71 & 71 \\
+R-squared    & 0.42  & 0.43  & 0.46  \\
+\bottomrule
+\multicolumn{4}{p{11cm}}{\footnotesize \textit{Notes}: Standard errors in parentheses, clustered at the firm level. *** p$<$0.01, ** p$<$0.05, * p$<$0.1.}\\
+\end{tabular}
+\end{table}
+
+```
+
+:::
+
+## VI. Conclusion
+
+TODO
+

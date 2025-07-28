@@ -1,0 +1,122 @@
+{
+  "company_name": "MoDo",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 18769.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -15362.0,
+    "wages_expense": null,
+    "tax_expense": -175.0,
+    "depreciation": -815.0,
+    "net_income": 1029.0
+  },
+  "balance_sheet": {
+    "total_assets": 26251.0,
+    "current_assets": 7211.0,
+    "fixed_assets": 14981.0,
+    "total_liabilities": 26251.0,
+    "current_liabilities": 5717.0,
+    "long_term_liabilities": 8820.0,
+    "shareholders_equity": 4007.0
+  },
+  "employees": {
+    "n_employees": 13414,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Karhola-Wettergren",
+      "first_name": "Lil",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Löf",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Engman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "VVD"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Carl",
+      "initials": "K",
+      "position": "Direktör MoDo Iggesund Business Development."
+    },
+    {
+      "surname": "Nordin",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "VVD"
+    },
+    {
+      "surname": "Gidlöf",
+      "first_name": "Dick",
+      "initials": null,
+      "position": "Löntagarrepresentant"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Koncernchef"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    },
+    {
+      "surname": "Schumacher",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    }
+  ],
+  "additional_notes": null
+}

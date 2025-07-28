@@ -1,0 +1,98 @@
+{
+  "company_name": "Hexagon AB",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 434.782,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 388.508,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 13.921,
+    "net_income": 6.144
+  },
+  "balance_sheet": {
+    "total_assets": 269.204,
+    "current_assets": 176.262,
+    "fixed_assets": 82.034,
+    "total_liabilities": 51.247,
+    "current_liabilities": 105.256,
+    "long_term_liabilities": 136.801,
+    "shareholders_equity": 49.714
+  },
+  "employees": {
+    "n_employees": 2184,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Haeggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Sjöström",
+      "first_name": "Carl-Eric",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Lövgren",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

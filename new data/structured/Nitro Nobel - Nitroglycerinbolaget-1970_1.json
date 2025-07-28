@@ -1,0 +1,86 @@
+{
+  "company_name": "Nitro Nobel",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 101.266,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.774,
+    "depreciation": null,
+    "net_income": 2.559
+  },
+  "balance_sheet": {
+    "total_assets": 88.629,
+    "current_assets": 32.651,
+    "fixed_assets": 43.845,
+    "total_liabilities": 43.535,
+    "current_liabilities": 9.738,
+    "long_term_liabilities": 31.122,
+    "shareholders_equity": 43.519
+  },
+  "employees": {
+    "n_employees": 899,
+    "n_blue_collar_workers": 621,
+    "n_white_collar_workers": 278
+  },
+  "board": [
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langefors",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Boman",
+      "first_name": "Jan E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "SLT",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 610.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5.2,
+    "depreciation": 10.6,
+    "net_income": 7.6
+  },
+  "balance_sheet": {
+    "total_assets": 270.297,
+    "current_assets": 123.481,
+    "fixed_assets": 144.957,
+    "total_liabilities": 117.014,
+    "current_liabilities": null,
+    "long_term_liabilities": 96.098,
+    "shareholders_equity": 115.64
+  },
+  "employees": {
+    "n_employees": 8236,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": null,
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "BLENNOW",
+      "first_name": null,
+      "initials": "I.",
+      "position": null
+    },
+    {
+      "surname": "HORN",
+      "first_name": null,
+      "initials": "KNUT VON",
+      "position": null
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LASSEN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "SUNDÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MANNERFELT",
+      "first_name": null,
+      "initials": "CARL M:SON",
+      "position": "Verkst, direktör"
+    },
+    {
+      "surname": "Grunditz",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "KLIPPANS FINPAPPERSBRUK",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 6937683.47,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 520390.0,
+    "depreciation": 3766410.41,
+    "net_income": 1854691.16
+  },
+  "balance_sheet": {
+    "total_assets": 50246644.91,
+    "current_assets": 26898477.8,
+    "fixed_assets": 23348167.11,
+    "total_liabilities": 33231670.38,
+    "current_liabilities": 8586984.94,
+    "long_term_liabilities": 13236070.38,
+    "shareholders_equity": 17015000.0
+  },
+  "employees": {
+    "n_employees": 1436,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GUMMESON",
+      "first_name": null,
+      "initials": "P. EG.",
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "SONTAG",
+      "first_name": null,
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SONTAG",
+      "first_name": null,
+      "initials": "K.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

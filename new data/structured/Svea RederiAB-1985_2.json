@@ -1,0 +1,110 @@
+{
+  "company_name": "Rederiaktiebolaget Transatlantic",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 3434.7,
+    "cost_of_goods_sold": 3060.1,
+    "operating_expenses": null,
+    "wages_expense": 133.891,
+    "tax_expense": 1.032,
+    "depreciation": 168.6,
+    "net_income": 9.344
+  },
+  "balance_sheet": {
+    "total_assets": 1818.972,
+    "current_assets": 898.1,
+    "fixed_assets": 606.0,
+    "total_liabilities": 716.0,
+    "current_liabilities": 406.416,
+    "long_term_liabilities": 16.35,
+    "shareholders_equity": 345.337
+  },
+  "employees": {
+    "n_employees": 1566,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Adler",
+      "first_name": "Dag",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Torkel",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Kaber",
+      "first_name": "Jaan",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": "G",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Andreasson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Thorell",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Barbro",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Strandman",
+      "first_name": "Jan-Erik",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ekwall",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

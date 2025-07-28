@@ -1,0 +1,86 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 604.077,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 527.39,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 30.915,
+    "net_income": 17.183
+  },
+  "balance_sheet": {
+    "total_assets": 527.645,
+    "current_assets": 226.539,
+    "fixed_assets": 301.106,
+    "total_liabilities": 359.718,
+    "current_liabilities": 117.949,
+    "long_term_liabilities": 128.999,
+    "shareholders_equity": 168.927
+  },
+  "employees": {
+    "n_employees": 5820,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindskog",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": null,
+      "initials": "CG",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Emblad",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

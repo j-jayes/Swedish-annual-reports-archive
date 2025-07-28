@@ -1,0 +1,76 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1912,
+  "income_statement": {
+    "revenue": 2018353.97,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 331745.01,
+    "net_income": 1309932.13
+  },
+  "balance_sheet": {
+    "total_assets": 35099205.58,
+    "current_assets": 5383860.27,
+    "fixed_assets": 29715345.31,
+    "total_liabilities": 7799402.02,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 16451238.96
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Danielsson",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herlenius",
+      "first_name": "Aug.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": null,
+      "initials": "Reinh.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergström.",
+      "first_name": "L. W.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijerstam",
+      "first_name": "Carl af",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "P. 0.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Mueller",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Förestående afskrifningar under år 1912 äro gjorda å diverse byggnader, arbetare- och förmansbostäder samt undersöknings- och utredningsarbeten ej på-förda tillverkningarna, tillsammans motsvarande c:a 3,7% af bokförda värdet af annan fastighet"
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1960,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 169000000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 394465.0,
+    "net_income": 1966334.0
+  },
+  "balance_sheet": {
+    "total_assets": 55523047.0,
+    "current_assets": 47899941.0,
+    "fixed_assets": 7623106.0,
+    "total_liabilities": 25698485.0,
+    "current_liabilities": 20324010.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 29824562.0
+  },
+  "employees": {
+    "n_employees": 437,
+    "n_blue_collar_workers": 189,
+    "n_white_collar_workers": 248
+  },
+  "board": [
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "FORD II",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": null,
+      "initials": "N. K.",
+      "position": null
+    },
+    {
+      "surname": "BORLIND",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRÖNDUM",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEDERSEN",
+      "first_name": "EISTEIN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONES",
+      "first_name": "HAROLD E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUPPEN",
+      "first_name": "JAMES VAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Nils Olssons Revisionsbyrå"
+    },
+    {
+      "surname": "SUMNER",
+      "first_name": "RONALD F.",
+      "initials": null,
+      "auditing_firm": "Coopers & Lybrand"
+    }
+  ]
+}

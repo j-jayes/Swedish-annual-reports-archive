@@ -1,0 +1,98 @@
+{
+  "company_name": "Pripp & Lyckholm",
+  "fiscal_year": 1957,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 11912780.747,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8218169.698,
+    "depreciation": null,
+    "net_income": 2514480.612
+  },
+  "balance_sheet": {
+    "total_assets": 53930331.0,
+    "current_assets": 11526263.333333334,
+    "fixed_assets": 42404067.666666664,
+    "total_liabilities": 16842466.333333332,
+    "current_liabilities": 5312488.0,
+    "long_term_liabilities": 17937065.0,
+    "shareholders_equity": 37084962.548
+  },
+  "employees": {
+    "n_employees": 1235,
+    "n_blue_collar_workers": 910.3333333333334,
+    "n_white_collar_workers": 386
+  },
+  "board": [
+    {
+      "surname": "Olson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "F",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Loberg",
+      "first_name": "L C",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dickson",
+      "first_name": "James",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ]
+}

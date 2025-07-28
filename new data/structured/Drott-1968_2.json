@@ -1,0 +1,80 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 5970351.87,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1897975.93,
+    "wages_expense": null,
+    "tax_expense": 395642.85,
+    "depreciation": null,
+    "net_income": 1310231.54
+  },
+  "balance_sheet": {
+    "total_assets": 46669547.15,
+    "current_assets": 15323447.15,
+    "fixed_assets": 31346100.0,
+    "total_liabilities": 21169247.96,
+    "current_liabilities": 701947.17,
+    "long_term_liabilities": 20467300.79,
+    "shareholders_equity": 9000000.0
+  },
+  "employees": {
+    "n_employees": 16,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ANKARCRONA",
+      "first_name": "STEN",
+      "initials": "S:SON",
+      "position": null
+    },
+    {
+      "surname": "DOUGLAS",
+      "first_name": "G.",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "TENGBOM",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NESSEN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": "VON",
+      "position": null
+    },
+    {
+      "surname": "HEMSTAD",
+      "first_name": "TORD",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Flogner",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Brehmer",
+      "first_name": "T.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,76 @@
+{
+  "company_name": "Aktiebolaget Export-Invest",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 10847.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 493.0,
+    "wages_expense": null,
+    "tax_expense": 25.0,
+    "depreciation": null,
+    "net_income": 10844.0
+  },
+  "balance_sheet": {
+    "total_assets": 146088.0,
+    "current_assets": 3709.0,
+    "fixed_assets": 142379.0,
+    "total_liabilities": 145204.0,
+    "current_liabilities": 475.0,
+    "long_term_liabilities": 885.0,
+    "shareholders_equity": 142973.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Generaldirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Civilekonom"
+    }
+  ],
+  "additional_notes": null
+}

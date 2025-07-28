@@ -1,0 +1,92 @@
+{
+  "company_name": "Trelleborgs Gummifabriks Aktiebolag",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 262.841,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 77.143,
+    "tax_expense": 2.786,
+    "depreciation": 14.162,
+    "net_income": 5.4
+  },
+  "balance_sheet": {
+    "total_assets": 99999999999.99,
+    "current_assets": 120.782,
+    "fixed_assets": 72.119,
+    "total_liabilities": 33.347,
+    "current_liabilities": 25.826,
+    "long_term_liabilities": 9119119.11,
+    "shareholders_equity": 9999999999.99
+  },
+  "employees": {
+    "n_employees": 4229,
+    "n_blue_collar_workers": 3011,
+    "n_white_collar_workers": 1218
+  },
+  "board": [
+    {
+      "surname": "Hallstr\nm",
+      "first_name": "Hadar",
+      "initials": null,
+      "position": "ordf\nrande"
+    },
+    {
+      "surname": "Nedstr\nöm",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "vice ordf\nrande"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekblom",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "St\nåhlbrandt",
+      "first_name": "\nAke",
+      "initials": null,
+      "position": "Verkst\nallande direkt\nör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,58 @@
+{
+  "company_name": "Stockholms Transport- och Bogserings-Aktiebolag",
+  "fiscal_year": 1902,
+  "income_statement": {
+    "revenue": 676820.47,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10000.0,
+    "net_income": 44926.81
+  },
+  "balance_sheet": {
+    "total_assets": 1797733.72,
+    "current_assets": null,
+    "fixed_assets": 442382.0,
+    "total_liabilities": 1014748.03,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Heijkenskjöld",
+      "first_name": "S.",
+      "initials": "S. L.",
+      "position": null
+    },
+    {
+      "surname": "Söderström",
+      "first_name": "A.",
+      "initials": "A. F.",
+      "position": null
+    },
+    {
+      "surname": "Förselius",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lübeck",
+      "first_name": "Edv.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Theodor",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

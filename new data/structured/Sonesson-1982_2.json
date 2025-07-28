@@ -1,0 +1,134 @@
+{
+  "company_name": "SONESSONS",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 2387.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 89.0,
+    "net_income": 47.2
+  },
+  "balance_sheet": {
+    "total_assets": 2528.9,
+    "current_assets": 1634.9,
+    "fixed_assets": 889.3,
+    "total_liabilities": 986.3,
+    "current_liabilities": 910.0,
+    "long_term_liabilities": 816.0,
+    "shareholders_equity": 542.0
+  },
+  "employees": {
+    "n_employees": 6256,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Brink",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Verkst. direktör Dux Möbel AB."
+    },
+    {
+      "surname": "Raihle",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Dansk konsul"
+    },
+    {
+      "surname": "Renell",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Direktör AB Volvo"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkst. direktör Malmros Rederi AB."
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Direktör AGA AB."
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Verkst. direktör."
+    },
+    {
+      "surname": "Friberg",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Linders",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Advokat."
+    },
+    {
+      "surname": "Meldgaard",
+      "first_name": "Jörn",
+      "initials": null,
+      "position": "Direktör IBM A/S Danmark."
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Vice verkst. direktör,"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Sillén & Jacobsson AB"
+    },
+    {
+      "surname": "Hansson",
+      "first_name": "Åke",
+      "initials": "J.",
+      "auditing_firm": "Åke J. Hanssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

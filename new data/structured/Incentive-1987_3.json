@@ -1,0 +1,110 @@
+{
+  "company_name": "Incentive",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 7077.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 198.0
+  },
+  "balance_sheet": {
+    "total_assets": 5323.0,
+    "current_assets": 3544.0,
+    "fixed_assets": 1676.0,
+    "total_liabilities": 1962.0,
+    "current_liabilities": null,
+    "long_term_liabilities": 959.0,
+    "shareholders_equity": 1475.0
+  },
+  "employees": {
+    "n_employees": 10201,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eckeskog",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "Bengt-Ola",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars V.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Burström",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mauritzson",
+      "first_name": "Inge",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Aukt.revisor"
+    },
+    {
+      "surname": "Gezelius",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "bankdirektör"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1998,
+  "income_statement": {
+    "revenue": 850.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -854.3,
+    "wages_expense": null,
+    "tax_expense": 8.8,
+    "depreciation": -45.0,
+    "net_income": -9.1
+  },
+  "balance_sheet": {
+    "total_assets": 431.2,
+    "current_assets": 324.7,
+    "fixed_assets": 106.6,
+    "total_liabilities": 220.6,
+    "current_liabilities": 167.0,
+    "long_term_liabilities": 32.6,
+    "shareholders_equity": 210.6
+  },
+  "employees": {
+    "n_employees": 1195,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Åkesson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Förberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Karlström",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Levin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Ingeström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Ingvarsson",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Personalrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Roland",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    }
+  ],
+  "additional_notes": null
+}

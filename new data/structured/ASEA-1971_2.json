@@ -1,0 +1,98 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 4001.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 61.6,
+    "depreciation": null,
+    "net_income": 89.2
+  },
+  "balance_sheet": {
+    "total_assets": 5691.631,
+    "current_assets": 3793.637,
+    "fixed_assets": 1860.489,
+    "total_liabilities": 2211.891,
+    "current_liabilities": 1253.893,
+    "long_term_liabilities": 911.822,
+    "shareholders_equity": 1235.801
+  },
+  "employees": {
+    "n_employees": 37911,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke",
+      "initials": "T",
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Alde",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Liander",
+      "first_name": "Halvard",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Agnevall",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "Independent Finans AB",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 1198.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 11.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 24.288
+  },
+  "balance_sheet": {
+    "total_assets": 4874.251,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2329.589
+  },
+  "employees": {
+    "n_employees": 292,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindblad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Andrén",
+      "first_name": "Sven G",
+      "initials": null,
+      "position": "Styrelse Ordförande"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VD och Koncernchef"
+    },
+    {
+      "surname": "Algell",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Brynell",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Cawsey",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Andrén",
+      "first_name": "Siv",
+      "initials": null,
+      "position": "Styrelseledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raspe",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Revisionsberättelse"
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Deloitte, Haskins & Sells AB"
+    },
+    {
+      "surname": "Melin",
+      "first_name": "Anne",
+      "initials": null,
+      "auditing_firm": "Deloitte, Haskins & Sells AB"
+    }
+  ],
+  "additional_notes": null
+}

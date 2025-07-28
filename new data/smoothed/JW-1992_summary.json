@@ -1,0 +1,80 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1992,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1265.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1210.357,
+    "wages_expense": null,
+    "tax_expense": -24.86766666666667,
+    "depreciation": 21.902,
+    "net_income": -27.775
+  },
+  "balance_sheet": {
+    "total_assets": 1091.352,
+    "current_assets": 328.736,
+    "fixed_assets": 670.716,
+    "total_liabilities": 472.25233333333335,
+    "current_liabilities": 354.533,
+    "long_term_liabilities": 267.78133333333335,
+    "shareholders_equity": 321.3326666666667
+  },
+  "employees": {
+    "n_employees": 2155.6666666666665,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Irstad",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Brodahl",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Levin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Petersson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johanson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ]
+}

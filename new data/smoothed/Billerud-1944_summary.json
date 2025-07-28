@@ -1,0 +1,58 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1944,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 43547399.06,
+    "cost_of_goods_sold": 32265938.33,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3600000.0,
+    "depreciation": 4554017.96,
+    "net_income": 2849498.83
+  },
+  "balance_sheet": {
+    "total_assets": 105915319.36,
+    "current_assets": 42830373.18,
+    "fixed_assets": 33722331.31,
+    "total_liabilities": 56295019.00666667,
+    "current_liabilities": 29920898.4,
+    "long_term_liabilities": 37424234.47,
+    "shareholders_equity": 43774717.39666667
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "STORJOHANN",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "RYNELL",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "Ekonomichef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BÖRJESON",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ALMQUIST",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

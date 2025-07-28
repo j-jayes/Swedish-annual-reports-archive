@@ -1,0 +1,39 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 210824908.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 11702576.21,
+    "net_income": 6111000.0
+  },
+  "balance_sheet": {
+    "total_assets": 377509000.0,
+    "current_assets": 234069000.0,
+    "fixed_assets": 143440000.0,
+    "total_liabilities": 234069000.0,
+    "current_liabilities": 59222000.0,
+    "long_term_liabilities": 40212000.0,
+    "shareholders_equity": 53400000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Alfred",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

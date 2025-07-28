@@ -1,0 +1,64 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1891,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 91068.69,
+    "net_income": 165882.86
+  },
+  "balance_sheet": {
+    "total_assets": 3959242.5,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1643360.92,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1500000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Frestadius",
+      "first_name": null,
+      "initials": "A. W.",
+      "position": null
+    },
+    {
+      "surname": "Abramson",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Neijber",
+      "first_name": null,
+      "initials": "M. J.",
+      "position": null
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BERG",
+      "first_name": null,
+      "initials": "A. F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "BURÉN",
+      "first_name": "AXEL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

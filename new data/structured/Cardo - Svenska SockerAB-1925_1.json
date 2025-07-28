@@ -1,0 +1,100 @@
+{
+  "company_name": "SVENSKA SOCKERFABRIKS AKTIEBOLAGET",
+  "fiscal_year": 1926,
+  "income_statement": {
+    "revenue": 90469135.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4086049.5,
+    "depreciation": 5477418.23,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 195048737.16,
+    "current_assets": null,
+    "fixed_assets": 94631364.88,
+    "total_liabilities": 53760898.89,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 141287838.27
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ekman",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gödecke",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Platen",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "von"
+    },
+    {
+      "surname": "Vennersten",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engeström",
+      "first_name": "Max",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broomé",
+      "first_name": "Albert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frisell",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tranchell",
+      "first_name": null,
+      "initials": "C. F.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Joh.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Falkenberg",
+      "first_name": "Melcher",
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Liljewalch",
+      "first_name": null,
+      "initials": "M.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Richter",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

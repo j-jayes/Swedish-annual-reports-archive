@@ -1,0 +1,82 @@
+{
+  "company_name": "ATLANTICA",
+  "fiscal_year": 1929,
+  "income_statement": {
+    "revenue": 5981192.12,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 278753.3
+  },
+  "balance_sheet": {
+    "total_assets": 10768430.72,
+    "current_assets": null,
+    "fixed_assets": 1500000.0,
+    "total_liabilities": 6822147.03,
+    "current_liabilities": null,
+    "long_term_liabilities": 3946283.69,
+    "shareholders_equity": 3946283.69
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "Gustaf",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    },
+    {
+      "surname": "OLBURS",
+      "first_name": "Vidar",
+      "initials": "R",
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E",
+      "initials": "W",
+      "position": null
+    },
+    {
+      "surname": "METCALFE",
+      "first_name": "H",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "Bernh",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KARLGREN",
+      "first_name": "N",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "AKTIEBOLAGET NORDISKA KOMPANIET",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": 8409314.16,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3339198.9
+  },
+  "balance_sheet": {
+    "total_assets": 41293242.24,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 12000000.0
+  },
+  "employees": {
+    "n_employees": 2275,
+    "n_blue_collar_workers": 462,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "PEGELOW",
+      "first_name": "F",
+      "initials": "F. W. H.",
+      "position": null
+    },
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WENNBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLNER",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THIEL",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMMARSKJÖLD",
+      "first_name": "C. G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRÖNWALL",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SANDEBERG",
+      "first_name": "F.",
+      "initials": "F. af",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ALMSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MAY",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

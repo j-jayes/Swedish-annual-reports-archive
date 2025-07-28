@@ -1,0 +1,128 @@
+{
+  "company_name": "Skandinaviska Enskilda Banken",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 13707.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7894.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 556.0,
+    "net_income": -4762.0
+  },
+  "balance_sheet": {
+    "total_assets": 485333.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 468545.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 16788.0
+  },
+  "employees": {
+    "n_employees": 11610,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G.",
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Sahlberg",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blom",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Oskarsson",
+      "first_name": "Ingegard",
+      "initials": "J.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Ordförande"
+    },
+    {
+      "surname": "Blix",
+      "first_name": "Clas",
+      "initials": null,
+      "auditing_firm": "aukt revisor, Stockholm"
+    },
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "aukt revisor, Goteborg"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "Av Finansinspektionen forordnad revisor"
+    }
+  ],
+  "additional_notes": null
+}

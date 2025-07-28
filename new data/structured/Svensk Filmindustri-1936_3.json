@@ -1,0 +1,70 @@
+{
+  "company_name": "Svensk Filmindustri",
+  "fiscal_year": 1937,
+  "income_statement": {
+    "revenue": 1660034.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 940107.16
+  },
+  "balance_sheet": {
+    "total_assets": 10526282.59,
+    "current_assets": 3946417.46,
+    "fixed_assets": 4033839.97,
+    "total_liabilities": 565968.55,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 9960314.04
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BRUNDELL",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HINTZE",
+      "first_name": "Hugo B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIST ANDER",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kastengren",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

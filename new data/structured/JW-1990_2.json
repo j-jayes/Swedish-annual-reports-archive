@@ -1,0 +1,116 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 1614.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 66.0,
+    "net_income": -31.142
+  },
+  "balance_sheet": {
+    "total_assets": 1372406.0,
+    "current_assets": 488744.0,
+    "fixed_assets": 825670.0,
+    "total_liabilities": 446428.0,
+    "current_liabilities": 182557.0,
+    "long_term_liabilities": 295051.0,
+    "shareholders_equity": 140476.0
+  },
+  "employees": {
+    "n_employees": 3877,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ROOS",
+      "first_name": "FREDRIK",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "IRSTAD",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "LEVIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "JARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PAULI",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RYDIN",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDH",
+      "first_name": "ZERNY",
+      "initials": null,
+      "position": "Koncernchef"
+    },
+    {
+      "surname": "WESTRÖM",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLKVIST",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDSTRÖM",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AXELSSON",
+      "first_name": "KURT",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "JOHANSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

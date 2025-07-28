@@ -1,0 +1,122 @@
+{
+  "company_name": "KemaNord AB",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 255.315,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 204.339,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 28.654,
+    "net_income": 13.379
+  },
+  "balance_sheet": {
+    "total_assets": 469.18,
+    "current_assets": 113.829,
+    "fixed_assets": 311.61,
+    "total_liabilities": 199.4,
+    "current_liabilities": 58.074,
+    "long_term_liabilities": 117.474,
+    "shareholders_equity": 23383.0
+  },
+  "employees": {
+    "n_employees": 1494,
+    "n_blue_collar_workers": 971,
+    "n_white_collar_workers": 523
+  },
+  "board": [
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blegvad",
+      "first_name": "Jörgen",
+      "initials": "M.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ödner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Linder",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Pontin",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": "Advokat"
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Ohlsson-Leijon",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Hægerstrand",
+      "first_name": "Ingemar",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

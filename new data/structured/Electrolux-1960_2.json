@@ -1,0 +1,128 @@
+{
+  "company_name": "ΑΚΤΙEBOLAGET ELECTROLUX",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 14.11,
+    "depreciation": 5.156,
+    "net_income": 16.478
+  },
+  "balance_sheet": {
+    "total_assets": 304.47,
+    "current_assets": 180.222,
+    "fixed_assets": 124.248,
+    "total_liabilities": 101.681,
+    "current_liabilities": 32.566,
+    "long_term_liabilities": 24.567,
+    "shareholders_equity": 184.0
+  },
+  "employees": {
+    "n_employees": 19277,
+    "n_blue_collar_workers": 7928,
+    "n_white_collar_workers": 10249
+  },
+  "board": [
+    {
+      "surname": "SAHLIN",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "SALMONSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "TRYGGER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WERNHER",
+      "first_name": "Harold",
+      "initials": "Sir",
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDELL",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "ELON",
+      "initials": "V.",
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Hofving",
+      "first_name": "Arne",
+      "initials": "M.",
+      "position": "Deputies"
+    },
+    {
+      "surname": "Hyllén",
+      "first_name": "Kai",
+      "initials": null,
+      "position": "Deputies"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": "Deputies"
+    },
+    {
+      "surname": "Marmolin",
+      "first_name": "Filip",
+      "initials": null,
+      "position": "Deputies"
+    },
+    {
+      "surname": "Santesson",
+      "first_name": "Rudolf",
+      "initials": null,
+      "position": "Deputies"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ERIKSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Mårtensson",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

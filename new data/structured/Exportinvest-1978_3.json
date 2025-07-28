@@ -1,0 +1,100 @@
+{
+  "company_name": "Aktiebolaget Export-Invest",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 10151000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 601000.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 11070000.0
+  },
+  "balance_sheet": {
+    "total_assets": 142973000.0,
+    "current_assets": 857000.0,
+    "fixed_assets": 142116000.0,
+    "total_liabilities": 41940000.0,
+    "current_liabilities": 984000.0,
+    "long_term_liabilities": 330000.0,
+    "shareholders_equity": 101033000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Generaldirektör"
+    },
+    {
+      "surname": "Westin",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Bankdirektör, verkställande direktör"
+    },
+    {
+      "surname": "Fagerlund",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Civilekonom"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "Bankdirektör"
+    }
+  ],
+  "additional_notes": null
+}

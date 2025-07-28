@@ -1,0 +1,68 @@
+{
+  "company_name": "FASTIGHETS AB PILEN",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 28.308,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 11.712,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4.07,
+    "net_income": 3.857
+  },
+  "balance_sheet": {
+    "total_assets": 144.269,
+    "current_assets": 23.113,
+    "fixed_assets": 121.156,
+    "total_liabilities": 108.316,
+    "current_liabilities": 17.512,
+    "long_term_liabilities": 76.929,
+    "shareholders_equity": 35.953
+  },
+  "employees": {
+    "n_employees": 7,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sparr",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "REVEKO Karlgrens, Nordelöfs, Nils Olsson & Engqvist AB, Göteborg."
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB, Stockholm."
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIK",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 611.681,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 549.889,
+    "wages_expense": null,
+    "tax_expense": 6.0,
+    "depreciation": 63.7,
+    "net_income": 13.216
+  },
+  "balance_sheet": {
+    "total_assets": 412.789,
+    "current_assets": 338.468,
+    "fixed_assets": 216.814,
+    "total_liabilities": 184.193,
+    "current_liabilities": 92.331,
+    "long_term_liabilities": 61.61,
+    "shareholders_equity": 223.869
+  },
+  "employees": {
+    "n_employees": 9441,
+    "n_blue_collar_workers": 6952,
+    "n_white_collar_workers": 2489
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGLUND",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBLOM",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GULDBERG",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

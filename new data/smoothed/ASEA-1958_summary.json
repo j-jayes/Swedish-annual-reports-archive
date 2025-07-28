@@ -1,0 +1,110 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGET",
+  "fiscal_year": 1958,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 37366594.902666666,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 33.566,
+    "wages_expense": 221.518,
+    "tax_expense": 17.0,
+    "depreciation": 7066467.532666666,
+    "net_income": 9462860.942
+  },
+  "balance_sheet": {
+    "total_assets": 266510576.08333334,
+    "current_assets": 118096208.468,
+    "fixed_assets": 148414367.61466667,
+    "total_liabilities": 132283597.9,
+    "current_liabilities": 26953954.872,
+    "long_term_liabilities": 20751729.810000002,
+    "shareholders_equity": 132283535.83333333
+  },
+  "employees": {
+    "n_employees": 27296,
+    "n_blue_collar_workers": 16106.333333333334,
+    "n_white_collar_workers": 11189.666666666666
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke T",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten S:son",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G A",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G",
+      "initials": "A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

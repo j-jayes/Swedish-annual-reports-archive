@@ -1,0 +1,104 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1972,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 788.113,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 630.276,
+    "wages_expense": null,
+    "tax_expense": 13.354,
+    "depreciation": 70.928,
+    "net_income": 17.824333333333332
+  },
+  "balance_sheet": {
+    "total_assets": 934.676,
+    "current_assets": 322.32,
+    "fixed_assets": 612.356,
+    "total_liabilities": 335.56533333333334,
+    "current_liabilities": 171.69233333333332,
+    "long_term_liabilities": 346.7393333333333,
+    "shareholders_equity": 187.19366666666667
+  },
+  "employees": {
+    "n_employees": 6664,
+    "n_blue_collar_workers": 5085,
+    "n_white_collar_workers": 1579
+  },
+  "board": [
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Fd Talman"
+    },
+    {
+      "surname": "Smith",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Ture",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Bruksdisponent, verkställande direktör"
+    },
+    {
+      "surname": "Bergek",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "Direktör, vice verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Wendt",
+      "first_name": "Stellan",
+      "initials": null,
+      "auditing_firm": "Revisionsdirektör"
+    },
+    {
+      "surname": "Herting",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Fd Fögderidirektör"
+    }
+  ]
+}

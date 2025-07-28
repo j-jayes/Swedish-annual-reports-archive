@@ -1,0 +1,110 @@
+{
+  "company_name": "ATLANTICA",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 13874970.25,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 487842.0,
+    "depreciation": null,
+    "net_income": 768351.18
+  },
+  "balance_sheet": {
+    "total_assets": 39340581.23,
+    "current_assets": null,
+    "fixed_assets": 806543.0,
+    "total_liabilities": 30893045.47,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4500000.0
+  },
+  "employees": {
+    "n_employees": 41,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "CARLSSON",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": null,
+      "initials": "E. W.",
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "SANDEN",
+      "first_name": "David",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": null,
+      "initials": "K. E.",
+      "position": null
+    },
+    {
+      "surname": "ANDERSEN",
+      "first_name": null,
+      "initials": "KJELL",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDQVIST",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORBURN",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "LANGE",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FALLENIUS",
+      "first_name": null,
+      "initials": "C-A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOLMQVIST",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Försäkringsinspektionen förordnad revisor"
+    }
+  ],
+  "additional_notes": null
+}

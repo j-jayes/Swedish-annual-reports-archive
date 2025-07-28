@@ -1,0 +1,88 @@
+{
+  "company_name": "HEVEA",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 2989.613,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -398.747,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2759.077
+  },
+  "balance_sheet": {
+    "total_assets": 43310.874,
+    "current_assets": 3874.097,
+    "fixed_assets": 39436.777,
+    "total_liabilities": null,
+    "current_liabilities": 150.531,
+    "long_term_liabilities": null,
+    "shareholders_equity": 43160.343
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ohlsson",
+      "first_name": "Lars Gunnar",
+      "initials": null,
+      "position": "Borgmästare, ordf."
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Tekn. Dr."
+    },
+    {
+      "surname": "Lewenhaupt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto P.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Direktör, verkst. dir."
+    },
+    {
+      "surname": "Rydberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Jägmästare"
+    },
+    {
+      "surname": "Björk",
+      "first_name": "Villiam",
+      "initials": null,
+      "position": "Kommunalrådet suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brane",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Fagergren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "Bankdirektör"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,152 @@
+{
+  "company_name": "Alcro",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 390.527,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5.123,
+    "net_income": 3.713
+  },
+  "balance_sheet": {
+    "total_assets": 212.645,
+    "current_assets": 150.561,
+    "fixed_assets": 57.275,
+    "total_liabilities": 67.35,
+    "current_liabilities": 67.35,
+    "long_term_liabilities": 57.488,
+    "shareholders_equity": 30.704
+  },
+  "employees": {
+    "n_employees": 924,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Klercker",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Krokstedt",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Malmvik",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nelzén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Rynell",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åman",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Beckman",
+      "first_name": "Jochum",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cedving",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Conradson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Franzén",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Sundvisson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tidbeck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Rydholm",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Klingberg",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "aukt. revisor Suppleanter"
+    },
+    {
+      "surname": "Mörck",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

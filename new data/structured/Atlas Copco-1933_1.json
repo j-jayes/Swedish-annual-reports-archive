@@ -1,0 +1,58 @@
+{
+  "company_name": "Aktiebolaget Atlas Diesel",
+  "fiscal_year": 1933,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 138145.4,
+    "net_income": -411820.2
+  },
+  "balance_sheet": {
+    "total_assets": 18290816.72,
+    "current_assets": 1717139.33,
+    "fixed_assets": 5234698.6,
+    "total_liabilities": 10290816.72,
+    "current_liabilities": 1419938.43,
+    "long_term_liabilities": 8870878.29,
+    "shareholders_equity": 8000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg J:r.",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Liljenroth",
+      "first_name": "F.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hårleman",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

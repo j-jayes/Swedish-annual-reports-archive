@@ -1,0 +1,128 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 132493600.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2620341.0,
+    "net_income": 1455734.0
+  },
+  "balance_sheet": {
+    "total_assets": 90018224.0,
+    "current_assets": 43905050.0,
+    "fixed_assets": 46113174.0,
+    "total_liabilities": 52705518.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 37312706.0
+  },
+  "employees": {
+    "n_employees": 1167,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "OLSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "CARLOREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "DEGEFORS",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HÅKANSON",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HJERNE",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WESTLING",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "BROWALL",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "DILLÉN",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Kanslirådet"
+    },
+    {
+      "surname": "HULTÉN",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "LINDQVIST",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "KONCERNCHEF"
+    },
+    {
+      "surname": "HULTÉN",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JELF",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "FEINSTEIN",
+      "first_name": "STEN ERIK",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "TÖNNERVIK",
+      "first_name": "HENRY",
+      "initials": null,
+      "auditing_firm": "Revisor SRS"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,128 @@
+{
+  "company_name": "UPLANDSBANKEN",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 69.404,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 43.817,
+    "wages_expense": null,
+    "tax_expense": 4.1,
+    "depreciation": 2.501,
+    "net_income": 5.214
+  },
+  "balance_sheet": {
+    "total_assets": 2021.342,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1617.233,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 9.92
+  },
+  "employees": {
+    "n_employees": 493,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hæggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "ordf"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Stiernstedt",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alsén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Göth",
+      "first_name": null,
+      "initials": "H. Elis",
+      "position": null
+    },
+    {
+      "surname": "Segerstedt",
+      "first_name": "Torgny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Virding",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Bagge",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Matsson",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Thorbjörn",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Fridolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Uhlén",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

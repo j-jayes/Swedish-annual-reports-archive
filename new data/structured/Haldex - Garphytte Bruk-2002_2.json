@@ -1,0 +1,110 @@
+{
+  "company_name": "Haldex",
+  "fiscal_year": 2002,
+  "income_statement": {
+    "revenue": 6414.0,
+    "cost_of_goods_sold": -4790.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -34.0,
+    "depreciation": null,
+    "net_income": 78.0
+  },
+  "balance_sheet": {
+    "total_assets": 3859.0,
+    "current_assets": 1844.0,
+    "fixed_assets": 2015.0,
+    "total_liabilities": 2296.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1563.0
+  },
+  "employees": {
+    "n_employees": 4022,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Stillström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cederlund",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rogersson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vieweg",
+      "first_name": "Cecilia",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmgren",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Warnander",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Hallberg",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Löwnertz",
+      "first_name": "Cecilia",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Fernström",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    }
+  ],
+  "additional_notes": null
+}

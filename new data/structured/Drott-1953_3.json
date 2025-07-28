@@ -1,0 +1,74 @@
+{
+  "company_name": "FASTIGHETSAKΤΙΕΒΟLAGET DROTT",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 2664121.39,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 576236.86,
+    "depreciation": 100000.0,
+    "net_income": 363307.96
+  },
+  "balance_sheet": {
+    "total_assets": 24380373.19,
+    "current_assets": 543027.68,
+    "fixed_assets": 23837345.51,
+    "total_liabilities": 14380373.19,
+    "current_liabilities": 468971.03,
+    "long_term_liabilities": 13848119.29,
+    "shareholders_equity": 6000000.0
+  },
+  "employees": {
+    "n_employees": 55,
+    "n_blue_collar_workers": 36,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "TENGBOM",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": "VON",
+      "position": null
+    },
+    {
+      "surname": "OSSBAHR",
+      "first_name": "CARL",
+      "initials": "PATRIC",
+      "position": null
+    },
+    {
+      "surname": "SJÖQVIST",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FLOGNER",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

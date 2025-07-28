@@ -1,0 +1,86 @@
+{
+  "company_name": "MALCUS HOLMQUIST",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 38.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 801434.0,
+    "net_income": 1384830.0
+  },
+  "balance_sheet": {
+    "total_assets": 39295174.0,
+    "current_assets": 8158227.0,
+    "fixed_assets": 14048894.0,
+    "total_liabilities": 24397174.0,
+    "current_liabilities": 8095472.0,
+    "long_term_liabilities": 9927607.0,
+    "shareholders_equity": 14898000.0
+  },
+  "employees": {
+    "n_employees": 840,
+    "n_blue_collar_workers": 551,
+    "n_white_collar_workers": 289
+  },
+  "board": [
+    {
+      "surname": "Wahlsteen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "Svante",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bendz",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bäck",
+      "first_name": "Cronje",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rönnberg",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

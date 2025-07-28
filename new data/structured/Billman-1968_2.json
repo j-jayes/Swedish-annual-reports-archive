@@ -1,0 +1,80 @@
+{
+  "company_name": "BILLMAN regulator ab",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 85934000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 78010000.0,
+    "wages_expense": null,
+    "tax_expense": 354000.0,
+    "depreciation": null,
+    "net_income": 796000.0
+  },
+  "balance_sheet": {
+    "total_assets": 90233000.0,
+    "current_assets": 59720000.0,
+    "fixed_assets": 30513000.0,
+    "total_liabilities": 31661000.0,
+    "current_liabilities": 30449000.0,
+    "long_term_liabilities": 15425000.0,
+    "shareholders_equity": 30488000.0
+  },
+  "employees": {
+    "n_employees": 1288,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LIANDER",
+      "first_name": "HALVARD",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "DALÈN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "BENGTSON",
+      "first_name": "WALDEMAR",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "BILLMAN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "BODIN",
+      "first_name": "INGVAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "THUNBERG",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

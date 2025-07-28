@@ -1,0 +1,110 @@
+{
+  "company_name": "FÖRSÄKRINGSAKTIEBOLAGET ATLANTICA",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 13549019.27,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1408666.57,
+    "wages_expense": null,
+    "tax_expense": 634246.3,
+    "depreciation": null,
+    "net_income": 469468.93
+  },
+  "balance_sheet": {
+    "total_assets": 38518094.01,
+    "current_assets": 11014515.0,
+    "fixed_assets": 600000.0,
+    "total_liabilities": 30014050.63,
+    "current_liabilities": 2611084.92,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8504043.38
+  },
+  "employees": {
+    "n_employees": 41,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "CARLSSON",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": "K. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDEN",
+      "first_name": "DAVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K. R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDQVIST",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORBURN",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FALLENIUS",
+      "first_name": "C-A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOLMQVIST",
+      "first_name": "HARRY",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

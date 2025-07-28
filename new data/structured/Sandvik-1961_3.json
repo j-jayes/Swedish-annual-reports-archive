@@ -1,0 +1,128 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 423.409239,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 21.242338,
+    "net_income": 12.432972
+  },
+  "balance_sheet": {
+    "total_assets": 478.557941,
+    "current_assets": 71.030632,
+    "fixed_assets": 102.05807,
+    "total_liabilities": 170.358879,
+    "current_liabilities": 32.381841,
+    "long_term_liabilities": 47.624504,
+    "shareholders_equity": 170.358879
+  },
+  "employees": {
+    "n_employees": 8978,
+    "n_blue_collar_workers": 6897,
+    "n_white_collar_workers": 2081
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HAGLUND",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": "Tandläkare"
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "LINDBLOM",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "ENESTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Intendent"
+    },
+    {
+      "surname": "CLASON",
+      "first_name": "EDWARD",
+      "initials": null,
+      "position": "Kommendör"
+    },
+    {
+      "surname": "LUNDEBERG",
+      "first_name": "GERARD",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": "Konsul"
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "NORDENBÄCK",
+      "first_name": "JAN",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "MÅHLÉN",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "MORLING",
+      "first_name": "P.",
+      "initials": "M.",
+      "auditing_firm": "Aukt. Revisor"
+    }
+  ],
+  "additional_notes": null
+}

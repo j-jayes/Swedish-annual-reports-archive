@@ -1,0 +1,86 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9345000.0,
+    "net_income": 2466071.29
+  },
+  "balance_sheet": {
+    "total_assets": 92659356.26,
+    "current_assets": 30961757.73,
+    "fixed_assets": 61697598.53,
+    "total_liabilities": 37466230.56,
+    "current_liabilities": 27567768.07,
+    "long_term_liabilities": 9898462.49,
+    "shareholders_equity": 23637000.0
+  },
+  "employees": {
+    "n_employees": 1700,
+    "n_blue_collar_workers": 72,
+    "n_white_collar_workers": 220
+  },
+  "board": [
+    {
+      "surname": "Schollin-Borg",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tamm",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thulin",
+      "first_name": "P.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hain",
+      "first_name": "Rich.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Norrthon",
+      "first_name": "Philip",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

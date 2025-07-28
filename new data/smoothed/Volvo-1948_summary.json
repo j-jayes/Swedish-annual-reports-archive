@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1948,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 85328275.27633333,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 17148.004,
+    "tax_expense": 1501500.0,
+    "depreciation": null,
+    "net_income": 2725422.303333333
+  },
+  "balance_sheet": {
+    "total_assets": 133704422.85533334,
+    "current_assets": 112620268.62,
+    "fixed_assets": 21084154.235333335,
+    "total_liabilities": 85835659.62833333,
+    "current_liabilities": null,
+    "long_term_liabilities": 10005000.0,
+    "shareholders_equity": 36439014.382
+  },
+  "employees": {
+    "n_employees": 2607,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hasselrot",
+      "first_name": "Bror",
+      "initials": "C.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wingquist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Magnus",
+      "first_name": "Erik",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Hilding",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar",
+      "initials": "H:son",
+      "position": null
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larson",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ]
+}

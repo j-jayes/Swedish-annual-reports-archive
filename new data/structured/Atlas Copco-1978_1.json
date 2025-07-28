@@ -1,0 +1,128 @@
+{
+  "company_name": "Atlas Copco AB",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 4742.3,
+    "cost_of_goods_sold": 4184.2,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 90.2,
+    "net_income": 208.6
+  },
+  "balance_sheet": {
+    "total_assets": 4545.2,
+    "current_assets": 3729.3,
+    "fixed_assets": 807.4,
+    "total_liabilities": 2745.4,
+    "current_liabilities": 1615.4,
+    "long_term_liabilities": 1130.0,
+    "shareholders_equity": 1380.5
+  },
+  "employees": {
+    "n_employees": 17664,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Kurt-Allan",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Sporborg",
+      "first_name": "Henry N.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\nÖdner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Iveroth",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Dep. Chairman"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Henning",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berthelsen",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "Deputy"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Deputy"
+    },
+    {
+      "surname": "Nyholm",
+      "first_name": "Per-Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil E",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    }
+  ],
+  "additional_notes": null
+}

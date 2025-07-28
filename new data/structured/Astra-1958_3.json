@@ -1,0 +1,86 @@
+{
+  "company_name": "Aktiebolaget Astra, Apotekarnes Kemiska Fabriker",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 16187784.77,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4789296.0,
+    "depreciation": 2201479.7,
+    "net_income": 3704513.43
+  },
+  "balance_sheet": {
+    "total_assets": 62426055.37,
+    "current_assets": 22393641.02,
+    "fixed_assets": 40032414.35,
+    "total_liabilities": 29076502.98,
+    "current_liabilities": 9921328.94,
+    "long_term_liabilities": 14237350.0,
+    "shareholders_equity": 21535000.0
+  },
+  "employees": {
+    "n_employees": 1874,
+    "n_blue_collar_workers": 918,
+    "n_white_collar_workers": 986
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kistner",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Herrman",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wegerfelt",
+      "first_name": "Karl",
+      "initials": "Arne",
+      "position": null
+    },
+    {
+      "surname": "Julin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "suppl."
+    },
+    {
+      "surname": "Kistner",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "suppl."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Otterström",
+      "first_name": null,
+      "initials": "C.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

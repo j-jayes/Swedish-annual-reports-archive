@@ -1,0 +1,68 @@
+{
+  "company_name": "Eskilstuna Jernmanufaktur Aktiebolag",
+  "fiscal_year": 1907,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 102023.19
+  },
+  "balance_sheet": {
+    "total_assets": 3103928.33,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1422079.22,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1422079.22
+  },
+  "employees": {
+    "n_employees": 362,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Fahlstedt",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "V.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Grönberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hirsch",
+      "first_name": "Isaak",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hammarberg",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hjulström",
+      "first_name": "Thure",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

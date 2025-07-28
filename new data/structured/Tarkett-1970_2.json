@@ -1,0 +1,74 @@
+{
+  "company_name": "Tarkett ab",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 171.403,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8.073,
+    "net_income": 3.024
+  },
+  "balance_sheet": {
+    "total_assets": 111.873,
+    "current_assets": 64.797,
+    "fixed_assets": 47.076,
+    "total_liabilities": null,
+    "current_liabilities": 42.644,
+    "long_term_liabilities": 26.703,
+    "shareholders_equity": 33.526
+  },
+  "employees": {
+    "n_employees": 1698,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Deinoff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "styrelsens ordförande"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ovesson",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": "direkör"
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Urban",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bramsved",
+      "first_name": "Hans-Ove",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

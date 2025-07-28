@@ -1,0 +1,88 @@
+{
+  "company_name": "Uddeholms Aktiebolags",
+  "fiscal_year": 1944,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 6391268.93
+  },
+  "balance_sheet": {
+    "total_assets": 170225275.21,
+    "current_assets": null,
+    "fixed_assets": 118402000.0,
+    "total_liabilities": null,
+    "current_liabilities": 89647000.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 76196914.37
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Cervin",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomquist",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielsen",
+      "first_name": null,
+      "initials": "N.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": null,
+      "initials": "H. G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

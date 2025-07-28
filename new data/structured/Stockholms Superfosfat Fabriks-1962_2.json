@@ -1,0 +1,104 @@
+{
+  "company_name": "Stockholms Superfosfat Fabriks Aktiebolag",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2000000.0,
+    "depreciation": 11759655.52,
+    "net_income": 5488751.07
+  },
+  "balance_sheet": {
+    "total_assets": 228458358.51,
+    "current_assets": 46360375.97,
+    "fixed_assets": 132800000.0,
+    "total_liabilities": 145281205.05,
+    "current_liabilities": 13332426.47,
+    "long_term_liabilities": null,
+    "shareholders_equity": 83177153.46
+  },
+  "employees": {
+    "n_employees": 1764,
+    "n_blue_collar_workers": 1294,
+    "n_white_collar_workers": 470
+  },
+  "board": [
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Abenius",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderbäck",
+      "first_name": "Fritiof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pontin",
+      "first_name": "M.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

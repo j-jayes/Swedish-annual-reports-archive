@@ -1,0 +1,104 @@
+{
+  "company_name": "Esselte",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 14404.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 326.1,
+    "depreciation": null,
+    "net_income": 824.4
+  },
+  "balance_sheet": {
+    "total_assets": 11690.6,
+    "current_assets": 7641.3,
+    "fixed_assets": 4028.8,
+    "total_liabilities": 6313.1,
+    "current_liabilities": 3320.6,
+    "long_term_liabilities": 2608.9,
+    "shareholders_equity": 1824.3
+  },
+  "employees": {
+    "n_employees": 20126,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "chairman"
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindholm",
+      "first_name": "Gerhard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Solveig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1995,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 35800.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 22667.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2018.0,
+    "net_income": 8764.0
+  },
+  "balance_sheet": {
+    "total_assets": 43715.0,
+    "current_assets": 22621.0,
+    "fixed_assets": 21094.0,
+    "total_liabilities": 13036.0,
+    "current_liabilities": 8495.0,
+    "long_term_liabilities": 4529.0,
+    "shareholders_equity": 30679.0
+  },
+  "employees": {
+    "n_employees": 16962,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BERGGREN",
+      "first_name": "BO",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "BJÖRNSON",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "ORDINARIE LEDAMÖTER"
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": "ORDINARIE LEDAMÖTER"
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": "ORDINARIE LEDAMÖTER"
+    },
+    {
+      "surname": "FAULKNER",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": "ORDINARIE LEDAMÖTER"
+    },
+    {
+      "surname": "RAMQVIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "ORDINARIE LEDAMÖTER"
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "TONY",
+      "initials": null,
+      "position": "ORDINARIE LEDAMÖTER"
+    },
+    {
+      "surname": "RINGQVIST",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": "ORDINARIE LEDAMÖTER"
+    },
+    {
+      "surname": "MOGREN",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": "Verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "MÖLLER",
+      "first_name": "ERNA",
+      "initials": null,
+      "position": "ORDINARIE LEDAMÖTER"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Vice styrelseordförande"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Deloitte & Touche"
+    },
+    {
+      "surname": "ÖSTMAN",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

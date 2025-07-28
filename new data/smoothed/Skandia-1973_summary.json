@@ -1,0 +1,55 @@
+{
+  "company_name": "Skandia",
+  "fiscal_year": 1973,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2.997,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 32.0,
+    "depreciation": null,
+    "net_income": 57.066
+  },
+  "balance_sheet": {
+    "total_assets": 8198.592432,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2.506598,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 187.202
+  },
+  "employees": {
+    "n_employees": 3633,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 3633
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Leffler",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Björfors",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Av Försäkringsinspektionen förordnad revisor"
+    }
+  ]
+}

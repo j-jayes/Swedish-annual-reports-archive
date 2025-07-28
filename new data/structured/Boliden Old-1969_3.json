@@ -1,0 +1,98 @@
+{
+  "company_name": "BOLIDEN AKTIEBOLAG",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 893.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 302.4,
+    "wages_expense": null,
+    "tax_expense": 52.3,
+    "depreciation": 64.4,
+    "net_income": 50.0
+  },
+  "balance_sheet": {
+    "total_assets": 775.218,
+    "current_assets": 429.11,
+    "fixed_assets": 341.898,
+    "total_liabilities": 433.064,
+    "current_liabilities": 255.201,
+    "long_term_liabilities": 173.176,
+    "shareholders_equity": 342.154
+  },
+  "employees": {
+    "n_employees": 5490,
+    "n_blue_collar_workers": 3944,
+    "n_white_collar_workers": 1546
+  },
+  "board": [
+    {
+      "surname": "NORÉN",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "BRYNIELSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELFSTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAMARCHE",
+      "first_name": "ALFRED",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALM",
+      "first_name": "\nA\nKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": "S. L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\nA\nKERMAN",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DAHL",
+      "first_name": "CARL OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "\nA\nKE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

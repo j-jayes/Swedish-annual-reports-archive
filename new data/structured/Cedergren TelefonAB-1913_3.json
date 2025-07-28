@@ -1,0 +1,43 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET CEDERGREN",
+  "fiscal_year": 1913,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 216385.32
+  },
+  "balance_sheet": {
+    "total_assets": 11939277.46,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 5825643.58,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2325581.41
+  },
+  "employees": {
+    "n_employees": 734,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 140
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JAKOBSON",
+      "first_name": "FRANS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Utöfver de i vinst- och förlustkontot gjorda afsättningar till\namorteringsfonder är ej i 1913 års räkenskaper annan afskrifning"
+}

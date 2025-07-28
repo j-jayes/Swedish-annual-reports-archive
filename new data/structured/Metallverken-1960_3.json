@@ -1,0 +1,104 @@
+{
+  "company_name": "AB SVENSKA METALLVERKEN",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 573.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 14.8,
+    "net_income": 8.2
+  },
+  "balance_sheet": {
+    "total_assets": 331.3,
+    "current_assets": 165.0,
+    "fixed_assets": 134.3,
+    "total_liabilities": 191.0,
+    "current_liabilities": 60.1,
+    "long_term_liabilities": 126.9,
+    "shareholders_equity": 140.3
+  },
+  "employees": {
+    "n_employees": 5815,
+    "n_blue_collar_workers": 4126,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS K.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SERRANDER",
+      "first_name": "STAFFAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ERIKSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HEDBERG",
+      "first_name": "THJELVAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

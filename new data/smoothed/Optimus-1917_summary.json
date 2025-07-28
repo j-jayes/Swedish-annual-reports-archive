@@ -1,0 +1,58 @@
+{
+  "company_name": "AKTIEBOLAGET OPTIMUS",
+  "fiscal_year": 1917,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 927935.67,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 111262.42,
+    "net_income": 592041.81
+  },
+  "balance_sheet": {
+    "total_assets": 5292197.91,
+    "current_assets": 1764908.6,
+    "fixed_assets": 407082.19499999995,
+    "total_liabilities": 1328131.94,
+    "current_liabilities": 335522.85,
+    "long_term_liabilities": 525000.0,
+    "shareholders_equity": 3616666.6666666665
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "BILDT",
+      "first_name": "A.",
+      "initials": "A. R.",
+      "position": null
+    },
+    {
+      "surname": "HULDT",
+      "first_name": "KRISTOFFER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OTTERSTRÖM",
+      "first_name": "GILBERT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RYLANDER",
+      "first_name": "GUSTAF",
+      "initials": "G. E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NEIGLICK",
+      "first_name": "CONRAD",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

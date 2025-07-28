@@ -1,0 +1,88 @@
+{
+  "company_name": "KINNEVIK",
+  "fiscal_year": 1954,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 809021.08
+  },
+  "balance_sheet": {
+    "total_assets": 21726754.95,
+    "current_assets": 465306.1,
+    "fixed_assets": 18575566.536666665,
+    "total_liabilities": 1703746.25,
+    "current_liabilities": 353164.5833333333,
+    "long_term_liabilities": 46406.23,
+    "shareholders_equity": 19926060.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Klingspor",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Erik",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Essen",
+      "first_name": "C.-R.",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Hans",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Horn",
+      "first_name": "Knut",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tallert",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

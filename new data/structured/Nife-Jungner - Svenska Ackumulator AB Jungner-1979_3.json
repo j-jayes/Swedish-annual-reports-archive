@@ -1,0 +1,110 @@
+{
+  "company_name": "NIFE JUNGNER AB",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 367.105,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 335.238,
+    "wages_expense": null,
+    "tax_expense": 1.692,
+    "depreciation": 13.162,
+    "net_income": -23.533
+  },
+  "balance_sheet": {
+    "total_assets": 466.242,
+    "current_assets": 314.382,
+    "fixed_assets": 151.448,
+    "total_liabilities": 358.817,
+    "current_liabilities": 130.456,
+    "long_term_liabilities": 187.963,
+    "shareholders_equity": 107.429
+  },
+  "employees": {
+    "n_employees": 2227,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Friberg",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "speditör"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "advokat"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "avsynare"
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "verkställande direktör i"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Karl Robert",
+      "initials": null,
+      "position": "verkställande direktör i"
+    },
+    {
+      "surname": "Fagerlund",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "fräsare"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "förman"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Arne O.",
+      "initials": null,
+      "position": "vice verkställande direktör i"
+    },
+    {
+      "surname": "Steen",
+      "first_name": "Carl-Olof",
+      "initials": null,
+      "position": "vice verkställande direktör i"
+    },
+    {
+      "surname": "Wieslander",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "verkställande direktör i"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Theorin",
+      "first_name": "Lars-Åke",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

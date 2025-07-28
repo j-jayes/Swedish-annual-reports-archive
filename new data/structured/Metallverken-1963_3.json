@@ -1,0 +1,104 @@
+{
+  "company_name": "SVENSKA METALLVERKEN",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 621.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 13.2,
+    "depreciation": null,
+    "net_income": 11.0
+  },
+  "balance_sheet": {
+    "total_assets": 413.9,
+    "current_assets": 206.2,
+    "fixed_assets": 207.7,
+    "total_liabilities": 227.9,
+    "current_liabilities": 84.0,
+    "long_term_liabilities": 143.4,
+    "shareholders_equity": 186.0
+  },
+  "employees": {
+    "n_employees": 5731,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROWALDH",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "Carl",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": null,
+      "initials": "B. G.",
+      "position": null
+    },
+    {
+      "surname": "LUND",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "SERRANDER",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": null,
+      "initials": "N. K.",
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HEDBERG",
+      "first_name": "Thjelvar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LILLIESTROM-TJUS",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ASTROM",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

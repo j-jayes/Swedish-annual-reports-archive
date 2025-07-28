@@ -1,0 +1,104 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 1050.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3.8,
+    "depreciation": 54.2,
+    "net_income": 11.8
+  },
+  "balance_sheet": {
+    "total_assets": 1456.8,
+    "current_assets": 668.7,
+    "fixed_assets": 335.5,
+    "total_liabilities": 652.5,
+    "current_liabilities": 386.0,
+    "long_term_liabilities": 327.1,
+    "shareholders_equity": 235.2
+  },
+  "employees": {
+    "n_employees": 12381,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Waldenström",
+      "first_name": "E",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Klint",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

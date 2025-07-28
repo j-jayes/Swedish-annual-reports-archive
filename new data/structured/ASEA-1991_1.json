@@ -1,0 +1,92 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1991,
+  "income_statement": {
+    "revenue": 588.3,
+    "cost_of_goods_sold": -603.6,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -1211.5,
+    "depreciation": -9.0,
+    "net_income": 1821.4
+  },
+  "balance_sheet": {
+    "total_assets": 13190.5,
+    "current_assets": 422.9,
+    "fixed_assets": 12767.6,
+    "total_liabilities": null,
+    "current_liabilities": 354.6,
+    "long_term_liabilities": 423.4,
+    "shareholders_equity": 12412.5
+  },
+  "employees": {
+    "n_employees": 955,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Hedersordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högfelt",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Arbetstagarrepresentanter"
+    },
+    {
+      "surname": "Wedin",
+      "first_name": "Thord",
+      "initials": null,
+      "position": "Arbetstagarrepresentanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

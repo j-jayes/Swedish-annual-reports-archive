@@ -1,0 +1,134 @@
+{
+  "company_name": "Garphyttan",
+  "fiscal_year": 1994,
+  "income_statement": {
+    "revenue": 2229.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1926.7,
+    "wages_expense": null,
+    "tax_expense": 71.5,
+    "depreciation": 88.8,
+    "net_income": 89.2
+  },
+  "balance_sheet": {
+    "total_assets": 1321.3,
+    "current_assets": 836.2,
+    "fixed_assets": 485.1,
+    "total_liabilities": 603.9,
+    "current_liabilities": 331.0,
+    "long_term_liabilities": 236.9,
+    "shareholders_equity": 480.5
+  },
+  "employees": {
+    "n_employees": 1848,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lilius",
+      "first_name": "Mikael",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlgren",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Warnander",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edwardsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmgren",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bowers",
+      "first_name": "Arthur",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammargren",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kälvemark",
+      "first_name": "Mats",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Loggert",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pepe",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Fernström",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gutberg",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hernström",
+      "first_name": "Berit",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

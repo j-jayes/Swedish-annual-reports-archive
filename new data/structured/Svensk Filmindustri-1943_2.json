@@ -1,0 +1,88 @@
+{
+  "company_name": "SVENSK FILMINDUSTRI",
+  "fiscal_year": 1944,
+  "income_statement": {
+    "revenue": 2707297.48,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 948240.34
+  },
+  "balance_sheet": {
+    "total_assets": 12556525.6,
+    "current_assets": 8389145.87,
+    "fixed_assets": 4056029.7,
+    "total_liabilities": 2250990.77,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 10305534.83
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROMS",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HINTZE",
+      "first_name": null,
+      "initials": "HUGO B.",
+      "position": null
+    },
+    {
+      "surname": "KRUSENSTJERNA",
+      "first_name": null,
+      "initials": "F. v.",
+      "position": null
+    },
+    {
+      "surname": "LIST ANDER",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "BRUNDELL",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "CARL ANDERS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KASTENGREN",
+      "first_name": "HARRY",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "Aktiebolaget Volvo",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 1004.513,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.5,
+    "depreciation": null,
+    "net_income": 18.843
+  },
+  "balance_sheet": {
+    "total_assets": 717.157,
+    "current_assets": 649.542,
+    "fixed_assets": 75.494,
+    "total_liabilities": 215.112,
+    "current_liabilities": 173.866,
+    "long_term_liabilities": 67.924,
+    "shareholders_equity": 136.851
+  },
+  "employees": {
+    "n_employees": 10429,
+    "n_blue_collar_workers": 5259,
+    "n_white_collar_workers": 2690
+  },
+  "board": [
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": null,
+      "initials": "H:son",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Hilding",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Granfors",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Junker",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fryklund",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

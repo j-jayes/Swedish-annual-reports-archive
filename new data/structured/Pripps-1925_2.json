@@ -1,0 +1,76 @@
+{
+  "company_name": "Aktiebolaget J. A. Pripp & Son.",
+  "fiscal_year": 1926,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 345686.87,
+    "wages_expense": null,
+    "tax_expense": 272441.44,
+    "depreciation": null,
+    "net_income": 1653262.81
+  },
+  "balance_sheet": {
+    "total_assets": 16323511.46,
+    "current_assets": 4150893.98,
+    "fixed_assets": 6459028.68,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SÖDERHIELM",
+      "first_name": "PH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "W:m",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FLEMING",
+      "first_name": "HERMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRATT",
+      "first_name": "ARNOLD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bökman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Brusewitz",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

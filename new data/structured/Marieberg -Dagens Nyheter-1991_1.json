@@ -1,0 +1,118 @@
+{
+  "company_name": "Marieberg",
+  "fiscal_year": 1991,
+  "income_statement": {
+    "revenue": 7651.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6954.5,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 249.8,
+    "net_income": 59.0
+  },
+  "balance_sheet": {
+    "total_assets": 4662.4,
+    "current_assets": 3679.5,
+    "fixed_assets": 82.3,
+    "total_liabilities": 2347.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2315.4
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Måberg",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Svenson",
+      "first_name": "Sven",
+      "initials": "G",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Barnéus",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Pontus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bäckström",
+      "first_name": "Berndt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mundebo",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Carry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Strömstedt",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

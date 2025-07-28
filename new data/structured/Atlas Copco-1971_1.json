@@ -1,0 +1,92 @@
+{
+  "company_name": "Atlas Copco AB",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 106606153.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3500000.0,
+    "depreciation": 3386606.0,
+    "net_income": 36224032.0
+  },
+  "balance_sheet": {
+    "total_assets": 571733742.0,
+    "current_assets": 234350775.0,
+    "fixed_assets": 89717509.0,
+    "total_liabilities": 30404991.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 291575895.0
+  },
+  "employees": {
+    "n_employees": 4430,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Kurt-Allan",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Ekefalk",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sporborg",
+      "first_name": "Henry",
+      "initials": "N.",
+      "position": null
+    },
+    {
+      "surname": "Ödner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Deputy Member, Man. Dir."
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Deputy Member, Deputy Man. Dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,62 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1966,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 25747809.073333334,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1773922.77,
+    "net_income": 703150.58
+  },
+  "balance_sheet": {
+    "total_assets": 50820369.16,
+    "current_assets": 12538749.133333333,
+    "fixed_assets": 19987230.246666666,
+    "total_liabilities": 44387995.65,
+    "current_liabilities": 16459715.57,
+    "long_term_liabilities": 11470795.89,
+    "shareholders_equity": 6432363.51
+  },
+  "employees": {
+    "n_employees": 591.6666666666666,
+    "n_blue_collar_workers": 307,
+    "n_white_collar_workers": 481
+  },
+  "board": [
+    {
+      "surname": "Alfort",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Plomgren",
+      "first_name": "Carl von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Carl-Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

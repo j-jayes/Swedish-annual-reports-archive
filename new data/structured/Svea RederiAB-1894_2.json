@@ -1,0 +1,58 @@
+{
+  "company_name": "Nya Rederiaktiebolaget Sveas",
+  "fiscal_year": 1894,
+  "income_statement": {
+    "revenue": 223188.81,
+    "cost_of_goods_sold": 210767.88,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 12420.93
+  },
+  "balance_sheet": {
+    "total_assets": 858704.25,
+    "current_assets": null,
+    "fixed_assets": 825000.0,
+    "total_liabilities": null,
+    "current_liabilities": 207068.18,
+    "long_term_liabilities": null,
+    "shareholders_equity": 650750.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Malmberg",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Drakenberg",
+      "first_name": "Jean",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ahlborg",
+      "first_name": "K.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Palmstierna",
+      "first_name": null,
+      "initials": "C. F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylén",
+      "first_name": null,
+      "initials": "O. E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Att 1894 års verksamhet lemnat ett så otillfredsställande resultat är att tillskrifva icke allenast de dåliga fraktkonjunkturerna i allmänhet, utan hufvudsakligast den förlust-bringande konkurrens, som egde rum å traden Stockholm-Lübeck. I sammanhang härmed anser Styrelsen sig böra meddela, att genom träffad öfverenskommelse denna konkurrens ej kommer att fortfara under år 1895."
+}

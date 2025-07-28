@@ -1,0 +1,104 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 2324.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 76.2,
+    "depreciation": null,
+    "net_income": 72.8
+  },
+  "balance_sheet": {
+    "total_assets": 2446.636,
+    "current_assets": 1459.713,
+    "fixed_assets": 947.41,
+    "total_liabilities": 633.732,
+    "current_liabilities": 788.437,
+    "long_term_liabilities": null,
+    "shareholders_equity": 880.763
+  },
+  "employees": {
+    "n_employees": 34332,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\"\"\nhke",
+      "initials": "T",
+      "position": "koncernchef"
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Lilliecreutz",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg Jr",
+      "first_name": "Marc",
+      "initials": null,
+      "position": "Bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

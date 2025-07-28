@@ -1,0 +1,88 @@
+{
+  "company_name": "ATLANTICA",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": 5388434.81,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2317189.39,
+    "wages_expense": null,
+    "tax_expense": 74.75973,
+    "depreciation": null,
+    "net_income": 281739.92
+  },
+  "balance_sheet": {
+    "total_assets": 9968975.34,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 5450635.42,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4518340.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "CARLSSON",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K. R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "GUSTAF",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "RÖHSS",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "EBERNH.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KARLGREN",
+      "first_name": "N.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

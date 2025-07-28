@@ -1,0 +1,122 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1992,
+  "additional_notes": "Resultatet efter finansiella poster förväntas bli bättre 1993.",
+  "income_statement": {
+    "revenue": 11870.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 9820.0,
+    "wages_expense": null,
+    "tax_expense": 366.0,
+    "depreciation": null,
+    "net_income": 1007.0
+  },
+  "balance_sheet": {
+    "total_assets": 20552.0,
+    "current_assets": 6452.0,
+    "fixed_assets": 14100.0,
+    "total_liabilities": 12974.0,
+    "current_liabilities": 5812.0,
+    "long_term_liabilities": 6880.0,
+    "shareholders_equity": 7578.0
+  },
+  "employees": {
+    "n_employees": 14166,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Agrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Feinsilber",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundholm",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martin-Löf",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pålsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Murray",
+      "first_name": "Urban",
+      "initials": null,
+      "position": "sekreterare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Elväng",
+      "first_name": "Katja",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ]
+}

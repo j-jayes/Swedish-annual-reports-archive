@@ -1,0 +1,70 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1946,
+  "income_statement": {
+    "revenue": 1538452.05,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 99999.0,
+    "net_income": 432022.14
+  },
+  "balance_sheet": {
+    "total_assets": 8677355.08,
+    "current_assets": 4257603.0,
+    "fixed_assets": 4419752.08,
+    "total_liabilities": 1433362.96,
+    "current_liabilities": 5479476.58,
+    "long_term_liabilities": 743086.58,
+    "shareholders_equity": 507111.08
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hellgren",
+      "first_name": "Rich.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenstierna",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wilhelmson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunström",
+      "first_name": "Rudolf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jaede",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

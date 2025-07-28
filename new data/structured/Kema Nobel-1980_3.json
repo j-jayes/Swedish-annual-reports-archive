@@ -1,0 +1,98 @@
+{
+  "company_name": "KemaNobel",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 3373.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3168.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 134.0,
+    "net_income": 59.7
+  },
+  "balance_sheet": {
+    "total_assets": 2586.4,
+    "current_assets": 1492.2,
+    "fixed_assets": 1076.0,
+    "total_liabilities": 711.6,
+    "current_liabilities": 742.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 687.7
+  },
+  "employees": {
+    "n_employees": 7237,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Trolle-Wachtmeister",
+      "first_name": "H-G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ingrid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallbom",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Backéus",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": "REVEKO"
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "REVEKO"
+    }
+  ],
+  "additional_notes": null
+}

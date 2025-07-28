@@ -1,0 +1,94 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 33000.0,
+    "depreciation": null,
+    "net_income": 32420000.0
+  },
+  "balance_sheet": {
+    "total_assets": 285203000.0,
+    "current_assets": 14407000.0,
+    "fixed_assets": 270796000.0,
+    "total_liabilities": 54877000.0,
+    "current_liabilities": 3000000.0,
+    "long_term_liabilities": 27942000.0,
+    "shareholders_equity": 137515000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R",
+      "position": "Bruksdisponent, ordf."
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "GYLLENHAMMAR",
+      "first_name": "PEHR",
+      "initials": "G",
+      "position": "Direktör"
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "ÖHMAN",
+      "first_name": "ANDERS",
+      "initials": "R",
+      "position": "Advokat"
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Direktör, suppleant"
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "Direktör, verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PAHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor, Stockholm"
+    },
+    {
+      "surname": "SÖRENSEN",
+      "first_name": "CHRISTIAN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor, Stockholm"
+    }
+  ],
+  "additional_notes": null
+}

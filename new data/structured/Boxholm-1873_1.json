@@ -1,0 +1,39 @@
+{
+  "company_name": "Boxholms Aktie-Bolag",
+  "fiscal_year": 1873,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 208752.33
+  },
+  "balance_sheet": {
+    "total_assets": 2677050.7,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 904013.87,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1500000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Murray",
+      "first_name": "Otto",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Heijkenskjöld",
+      "first_name": "Th",
+      "initials": "W.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

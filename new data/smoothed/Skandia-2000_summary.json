@@ -1,0 +1,104 @@
+{
+  "company_name": "Skandia",
+  "fiscal_year": 2000,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 197.784,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -1090.0,
+    "wages_expense": null,
+    "tax_expense": -1118.0,
+    "depreciation": null,
+    "net_income": 4560.333333333333
+  },
+  "balance_sheet": {
+    "total_assets": 589.1926666666667,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 481.749,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20.749
+  },
+  "employees": {
+    "n_employees": 7161,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Heliövaara",
+      "first_name": "Eero",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Petersson",
+      "first_name": "Lars-Eric",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Ramqvist",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Flodgren",
+      "first_name": "Boel",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Odfjell",
+      "first_name": "Johan",
+      "initials": "Fr.",
+      "position": "Director"
+    },
+    {
+      "surname": "Gavatin",
+      "first_name": "Jac",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Mesdag",
+      "first_name": "Willem",
+      "initials": null,
+      "position": "Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Birgerson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    },
+    {
+      "surname": "Mårtensson",
+      "first_name": "Tommy",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen"
+    }
+  ]
+}

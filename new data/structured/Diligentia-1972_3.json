@@ -1,0 +1,74 @@
+{
+  "company_name": "DILIGENTIA",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 9.291,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2.59,
+    "wages_expense": null,
+    "tax_expense": 2.08,
+    "depreciation": 541.0,
+    "net_income": 3.11
+  },
+  "balance_sheet": {
+    "total_assets": 111.783,
+    "current_assets": 23.575,
+    "fixed_assets": 88.208,
+    "total_liabilities": 56.966,
+    "current_liabilities": 13.798,
+    "long_term_liabilities": 43.184,
+    "shareholders_equity": 35.481
+  },
+  "employees": {
+    "n_employees": 31,
+    "n_blue_collar_workers": 6,
+    "n_white_collar_workers": 25
+  },
+  "board": [
+    {
+      "surname": "Bendz",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Munck af Rosenschöld",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "af Ugglas",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "Kammarherre"
+    },
+    {
+      "surname": "Sundell",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,64 @@
+{
+  "company_name": "Aktiebolaget Stockholmstelefons",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": 5150800.89,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3069773.13,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1685493.13
+  },
+  "balance_sheet": {
+    "total_assets": 40081641.52,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 21950917.42
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "PEGELOW",
+      "first_name": null,
+      "initials": "F. W. H.",
+      "position": null
+    },
+    {
+      "surname": "HASSELBERG",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "KLEMMING",
+      "first_name": "VIKTOR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WINCRANTZ",
+      "first_name": null,
+      "initials": "K. F.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Frans",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Carlander",
+      "first_name": "Jos.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

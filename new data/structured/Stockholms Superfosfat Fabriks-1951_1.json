@@ -1,0 +1,110 @@
+{
+  "company_name": "STOCKHOLMS SUPERFOSFAT FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 11875172.36,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3500000.0,
+    "depreciation": null,
+    "net_income": 3201472.76
+  },
+  "balance_sheet": {
+    "total_assets": 78457138.04,
+    "current_assets": null,
+    "fixed_assets": 24600000.0,
+    "total_liabilities": null,
+    "current_liabilities": 6285056.7,
+    "long_term_liabilities": null,
+    "shareholders_equity": 35384504.07
+  },
+  "employees": {
+    "n_employees": 1737,
+    "n_blue_collar_workers": 1323,
+    "n_white_collar_workers": 414
+  },
+  "board": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Joh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heidenstam",
+      "first_name": null,
+      "initials": "R. von",
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderbäck",
+      "first_name": "Fritiof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Söderbäck",
+      "first_name": "Fritiof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

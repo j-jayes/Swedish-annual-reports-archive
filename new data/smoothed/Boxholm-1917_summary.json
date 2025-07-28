@@ -1,0 +1,76 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1917,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2082244.47,
+    "wages_expense": null,
+    "tax_expense": 1200000.0,
+    "depreciation": null,
+    "net_income": 2061261.33
+  },
+  "balance_sheet": {
+    "total_assets": 14755036.51,
+    "current_assets": null,
+    "fixed_assets": 6712799.02,
+    "total_liabilities": 4477090.8,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6000000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wettergren",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bahr",
+      "first_name": "Johan",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "Rundquist",
+      "first_name": "Vilh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kinander",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Elis",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rundquist",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Aurell",
+      "first_name": "Ludv.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frestadius",
+      "first_name": "Arthur",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

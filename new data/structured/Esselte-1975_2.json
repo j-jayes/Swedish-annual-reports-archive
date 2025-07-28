@@ -1,0 +1,92 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 1528.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 25.4,
+    "depreciation": 46.5,
+    "net_income": 13.7
+  },
+  "balance_sheet": {
+    "total_assets": 1555.9,
+    "current_assets": 1085.3,
+    "fixed_assets": 460.7,
+    "total_liabilities": 1140.8,
+    "current_liabilities": 395.7,
+    "long_term_liabilities": 330.0,
+    "shareholders_equity": 415.1
+  },
+  "employees": {
+    "n_employees": 8340,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "I",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Horn",
+      "first_name": "Knut von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ekeberg",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

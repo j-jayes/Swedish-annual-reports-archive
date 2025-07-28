@@ -1,0 +1,80 @@
+{
+  "company_name": "Atlas Diesel",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 17187302.54,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3471629.6,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1228552.0,
+    "net_income": 5020000.29
+  },
+  "balance_sheet": {
+    "total_assets": 91645284.66,
+    "current_assets": 23731490.4,
+    "fixed_assets": 10543851.0,
+    "total_liabilities": 44593700.19,
+    "current_liabilities": 36632332.19,
+    "long_term_liabilities": 7961367.0,
+    "shareholders_equity": 47051585.47
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1307,
+    "n_white_collar_workers": 592
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Liljenroth",
+      "first_name": "F. G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Steyern",
+      "first_name": "Nils von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sällfors",
+      "first_name": "C. Tarras",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pyk",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

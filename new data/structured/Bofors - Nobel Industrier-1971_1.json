@@ -1,0 +1,104 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 1117.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.3,
+    "depreciation": 59.2,
+    "net_income": 12.2
+  },
+  "balance_sheet": {
+    "total_assets": 1179.0,
+    "current_assets": 793.9,
+    "fixed_assets": 385.0,
+    "total_liabilities": 632.8,
+    "current_liabilities": 324.4,
+    "long_term_liabilities": 239.8,
+    "shareholders_equity": 30.8
+  },
+  "employees": {
+    "n_employees": 12842,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R:SON",
+      "position": "ordförande"
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WALDENSTRÖM",
+      "first_name": "ERLAND",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "LARS-ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLM",
+      "first_name": "TRYGGVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HINDEMARK",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ODELBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af KLINT",
+      "first_name": "BORJE",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "WINBERG",
+      "first_name": "CLAES-ULRIK",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

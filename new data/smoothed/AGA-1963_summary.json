@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSKA AB GASACCUMULATOR",
+  "fiscal_year": 1963,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 157.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 0.494,
+    "depreciation": 6.811,
+    "net_income": 7.351
+  },
+  "balance_sheet": {
+    "total_assets": 247.818,
+    "current_assets": 116.75066666666667,
+    "fixed_assets": 136.81,
+    "total_liabilities": 97.38633333333333,
+    "current_liabilities": 69.413,
+    "long_term_liabilities": 58.122,
+    "shareholders_equity": 92.255
+  },
+  "employees": {
+    "n_employees": 3652,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "HEDIN",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DALÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSON",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SILFVERSTOLPE",
+      "first_name": "GUDM.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅSELIUS",
+      "first_name": null,
+      "initials": "HJ.",
+      "position": null
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HANNER",
+      "first_name": "PER",
+      "initials": "V. A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGLUND",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1960,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 25357.0,
+    "depreciation": null,
+    "net_income": 8067357.84
+  },
+  "balance_sheet": {
+    "total_assets": 118720245.08,
+    "current_assets": 51045.08,
+    "fixed_assets": 59102033.333333336,
+    "total_liabilities": 14050455.906666666,
+    "current_liabilities": 13000.0,
+    "long_term_liabilities": 16113620.94,
+    "shareholders_equity": 13014323.39
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "HAKON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKLUND",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJOGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "A.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STERNER",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

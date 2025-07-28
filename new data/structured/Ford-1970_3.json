@@ -1,0 +1,92 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 278917076.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 616515.0,
+    "net_income": 1000.0
+  },
+  "balance_sheet": {
+    "total_assets": 131007507.0,
+    "current_assets": 77783709.0,
+    "fixed_assets": 13577212.0,
+    "total_liabilities": 97000507.0,
+    "current_liabilities": 85292843.0,
+    "long_term_liabilities": 435000.0,
+    "shareholders_equity": 33572000.0
+  },
+  "employees": {
+    "n_employees": 420,
+    "n_blue_collar_workers": 166,
+    "n_white_collar_workers": 254
+  },
+  "board": [
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Ordförande-Chairman"
+    },
+    {
+      "surname": "BECKETT",
+      "first_name": "TERRY",
+      "initials": "N",
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINTON",
+      "first_name": "STELLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ÖHRLING",
+      "first_name": "PO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WITT",
+      "first_name": "CARL",
+      "initials": "H",
+      "auditing_firm": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EDLUND",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

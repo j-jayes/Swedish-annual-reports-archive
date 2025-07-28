@@ -1,0 +1,116 @@
+{
+  "company_name": "ABV",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 6850.5,
+    "cost_of_goods_sold": 5157.8,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 14.6,
+    "depreciation": 176.2,
+    "net_income": 8.0
+  },
+  "balance_sheet": {
+    "total_assets": 4548.8,
+    "current_assets": 2779.0,
+    "fixed_assets": 906.3,
+    "total_liabilities": 2353.6,
+    "current_liabilities": 2071.1,
+    "long_term_liabilities": 762.7,
+    "shareholders_equity": 217.2
+  },
+  "employees": {
+    "n_employees": 14069,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ohlsson",
+      "first_name": "Carl-Olof",
+      "initials": null,
+      "position": "Ordförande, direktör"
+    },
+    {
+      "surname": "Malmström",
+      "first_name": "Bure",
+      "initials": null,
+      "position": "Vice ordförande, advokat"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Verkställande direktör i AB Företagsfinans"
+    },
+    {
+      "surname": "Gerholm",
+      "first_name": "Tor Ragnar",
+      "initials": null,
+      "position": "Professor i fysik vid Stockholms Universitet"
+    },
+    {
+      "surname": "Lewenhaupt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Direktör i ABV, division Karlstad"
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Verkställande direktör i Trelleborg AB, förste vice verkställande direktör i ABV from 1983-06-01"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "Arbetstagarledamot PTK, ingenjör"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Arbetstagarledamot Svenska Byggnadsarbetareförbundet, byggnadsarbetare"
+    },
+    {
+      "surname": "Brasar",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Koncernchef och verkställande direktör i ABV"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Torén",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Möller",
+      "first_name": "Willard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

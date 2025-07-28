@@ -1,0 +1,80 @@
+{
+  "company_name": "ALFORT & CRONHOLM",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 1045.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.7,
+    "depreciation": 16.0,
+    "net_income": 33.3
+  },
+  "balance_sheet": {
+    "total_assets": 617.2,
+    "current_assets": 269.2,
+    "fixed_assets": 323.4,
+    "total_liabilities": 433.9,
+    "current_liabilities": 118.4,
+    "long_term_liabilities": 287.0,
+    "shareholders_equity": 76.6
+  },
+  "employees": {
+    "n_employees": 522,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gerentz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Michael",
+      "initials": "C.J.",
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Mikael",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werelius",
+      "first_name": "Lars Åke",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordh",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

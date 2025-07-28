@@ -1,0 +1,134 @@
+{
+  "company_name": "Aktiebolaget Papyrus",
+  "fiscal_year": 1978,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1829.27,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 110.882,
+    "net_income": 33.221333333333334
+  },
+  "balance_sheet": {
+    "total_assets": 2067.109,
+    "current_assets": 770.114,
+    "fixed_assets": 909.9093333333334,
+    "total_liabilities": 769.3773333333334,
+    "current_liabilities": 414.8913333333333,
+    "long_term_liabilities": 407.92366666666663,
+    "shareholders_equity": 456.225
+  },
+  "employees": {
+    "n_employees": 4350,
+    "n_blue_collar_workers": 3558,
+    "n_white_collar_workers": 763
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Herr",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Generalkonsul"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Rudengren",
+      "first_name": "Sigge",
+      "initials": null,
+      "position": "Disponent, verkst. direktör"
+    },
+    {
+      "surname": "Hansson",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "Pappersarbetare"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gilbert",
+      "initials": null,
+      "position": "Elektriker"
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "Winston",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "Gert",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Wijkström",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "Direktör, vice verkst. direktör"
+    },
+    {
+      "surname": "Hallgren",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Lagerarbetare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jansson",
+      "first_name": "Nils Gösta",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Kjellman",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nauclér",
+      "first_name": "Carl-Axel",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ]
+}

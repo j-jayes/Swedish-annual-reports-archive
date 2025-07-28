@@ -1,0 +1,98 @@
+{
+  "company_name": "Mo och Domsjö Aktiebolag",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 3808000000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -3227700000.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": -160300000.0,
+    "net_income": 33300000.0
+  },
+  "balance_sheet": {
+    "total_assets": 4301100000.0,
+    "current_assets": 1846600000.0,
+    "fixed_assets": 2454400000.0,
+    "total_liabilities": 3418600000.0,
+    "current_liabilities": 1133300000.0,
+    "long_term_liabilities": 1288200000.0,
+    "shareholders_equity": 882500000.0
+  },
+  "employees": {
+    "n_employees": 7585,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wegerfelt",
+      "first_name": "K",
+      "initials": "K",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": "A",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Lars",
+      "initials": "L",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": "S",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": "L G",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": "T",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": "J",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Westerlund",
+      "first_name": "Sune",
+      "initials": "S",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": "M",
+      "position": "Verkst. dir"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": "J",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": "M",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "Atlas Copco",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 10507713.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7456605.0,
+    "wages_expense": null,
+    "tax_expense": 9200000.0,
+    "depreciation": 3892893.0,
+    "net_income": 10507713.0
+  },
+  "balance_sheet": {
+    "total_assets": 227340605.0,
+    "current_assets": 79126040.0,
+    "fixed_assets": 25846118.0,
+    "total_liabilities": 57558407.0,
+    "current_liabilities": 57558407.0,
+    "long_term_liabilities": 31063338.0,
+    "shareholders_equity": 135575723.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "von Steyern",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "K-A.",
+      "initials": null,
+      "position": "Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

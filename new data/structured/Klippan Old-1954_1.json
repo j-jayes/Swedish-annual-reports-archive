@@ -1,0 +1,74 @@
+{
+  "company_name": "KLIPPANS FINPAPPERSBRUK",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 4745412.03,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 364981.0,
+    "depreciation": 3782718.86,
+    "net_income": 1523653.98
+  },
+  "balance_sheet": {
+    "total_assets": 50794745.07,
+    "current_assets": 26883430.76,
+    "fixed_assets": 23911314.31,
+    "total_liabilities": 33574745.07,
+    "current_liabilities": 8564910.48,
+    "long_term_liabilities": 18364490.05,
+    "shareholders_equity": 17220000.0
+  },
+  "employees": {
+    "n_employees": 1676,
+    "n_blue_collar_workers": 1462,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GUMMESON",
+      "first_name": "P.",
+      "initials": "EG.",
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SONTAG",
+      "first_name": "K.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Period covered is 1/1 - 31/8 1954."
+}

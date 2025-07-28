@@ -1,0 +1,68 @@
+{
+  "company_name": "AKTIEBOLAGET MALCUS HOLMQUIST",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 2387712.32,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 588958.99,
+    "net_income": 517539.82
+  },
+  "balance_sheet": {
+    "total_assets": 23091691.53,
+    "current_assets": null,
+    "fixed_assets": 17959409.36,
+    "total_liabilities": null,
+    "current_liabilities": 7565208.36,
+    "long_term_liabilities": null,
+    "shareholders_equity": 10470000.0
+  },
+  "employees": {
+    "n_employees": 744,
+    "n_blue_collar_workers": 549,
+    "n_white_collar_workers": 195
+  },
+  "board": [
+    {
+      "surname": "Berger",
+      "first_name": "Edw.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wendt",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "C. M.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Åsbrink",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

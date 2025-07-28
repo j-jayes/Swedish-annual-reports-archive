@@ -1,0 +1,110 @@
+{
+  "company_name": "INVESTMENTAKTIEBOLAGET PROMOTION",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 5691661.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5997.0,
+    "depreciation": null,
+    "net_income": 5561348.0
+  },
+  "balance_sheet": {
+    "total_assets": 106071699.0,
+    "current_assets": 38363916.0,
+    "fixed_assets": 67707783.0,
+    "total_liabilities": 9710000.0,
+    "current_liabilities": 5547070.0,
+    "long_term_liabilities": 9710000.0,
+    "shareholders_equity": 60386640.0
+  },
+  "employees": {
+    "n_employees": 9,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Ödmark",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Bildt",
+      "first_name": "Carl",
+      "initials": "R",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Edholm",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Widemar",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Audin",
+      "first_name": null,
+      "initials": "J",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schéele",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Witt",
+      "first_name": "Carl-Henric",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

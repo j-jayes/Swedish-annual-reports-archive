@@ -1,0 +1,92 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1995,
+  "income_statement": {
+    "revenue": 1254.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1104.8,
+    "wages_expense": null,
+    "tax_expense": 27.9,
+    "depreciation": null,
+    "net_income": 1.0
+  },
+  "balance_sheet": {
+    "total_assets": 874.0,
+    "current_assets": 347.5,
+    "fixed_assets": 448.5,
+    "total_liabilities": 584.0,
+    "current_liabilities": 266.9,
+    "long_term_liabilities": 311.0,
+    "shareholders_equity": 290.0
+  },
+  "employees": {
+    "n_employees": 1921,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Duse",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Levin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Markelius",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Adolfsson",
+      "first_name": "Ola-Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ingeström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlkvist",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johanson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Coopers & Lybrand AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "BERGVIK OCH ALA AKTIEBOLAG",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 34631749.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6350314.0,
+    "depreciation": 12909091.0,
+    "net_income": 5630745.0
+  },
+  "balance_sheet": {
+    "total_assets": 234260652.0,
+    "current_assets": 71059505.0,
+    "fixed_assets": 163201147.0,
+    "total_liabilities": 153436581.0,
+    "current_liabilities": 29163099.0,
+    "long_term_liabilities": 120773482.0,
+    "shareholders_equity": 80824071.0
+  },
+  "employees": {
+    "n_employees": 1919,
+    "n_blue_collar_workers": 1657,
+    "n_white_collar_workers": 262
+  },
+  "board": [
+    {
+      "surname": "ÖDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRANCKE",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "MELIN",
+      "first_name": "HILDING",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDFELDT",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Verkställande Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhrling",
+      "first_name": null,
+      "initials": "P. O.",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ernsell",
+      "first_name": "Olov",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

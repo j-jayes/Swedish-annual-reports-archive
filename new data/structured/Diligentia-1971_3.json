@@ -1,0 +1,74 @@
+{
+  "company_name": "DILIGENTIA",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 10.33373082,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5.724626,
+    "depreciation": 267722.94,
+    "net_income": 11016.14
+  },
+  "balance_sheet": {
+    "total_assets": 35.78041243,
+    "current_assets": 23.46235761,
+    "fixed_assets": 33954113.81,
+    "total_liabilities": 13.83996296,
+    "current_liabilities": 6279117.59,
+    "long_term_liabilities": 28755709.77,
+    "shareholders_equity": 41640000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 13,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bendz",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Munck af Rosenschöld",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "af Ugglas",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "Kammarherre"
+    },
+    {
+      "surname": "Sundell",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 50.67,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 0.518,
+    "net_income": 0.745
+  },
+  "balance_sheet": {
+    "total_assets": 30.986,
+    "current_assets": 8.563,
+    "fixed_assets": 22.431,
+    "total_liabilities": 22.047,
+    "current_liabilities": 21.082,
+    "long_term_liabilities": 5.411,
+    "shareholders_equity": 4.443
+  },
+  "employees": {
+    "n_employees": 669,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wettergren",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "vd."
+    },
+    {
+      "surname": "Widmark",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lönnborg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "v. vd."
+    },
+    {
+      "surname": "Hansbo",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmer",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lorentsen",
+      "first_name": "Mogens",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mattsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zetterberg",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ölund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": "Revisor SRS"
+    }
+  ],
+  "additional_notes": null
+}

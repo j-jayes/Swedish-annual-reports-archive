@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Garphytte Bruk",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 202.746,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 188.341,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 14.562,
+    "net_income": 5.187
+  },
+  "balance_sheet": {
+    "total_assets": 161.118,
+    "current_assets": 61.507,
+    "fixed_assets": 56.511,
+    "total_liabilities": 69.322,
+    "current_liabilities": 32.644,
+    "long_term_liabilities": 13.811,
+    "shareholders_equity": 14.699
+  },
+  "employees": {
+    "n_employees": 628,
+    "n_blue_collar_workers": 497,
+    "n_white_collar_workers": 131
+  },
+  "board": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Alde",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Thell",
+      "first_name": "Ronny",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Halvars",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Benny",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Bäcker",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

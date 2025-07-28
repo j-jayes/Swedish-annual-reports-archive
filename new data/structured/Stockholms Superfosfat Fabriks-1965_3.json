@@ -1,0 +1,140 @@
+{
+  "company_name": "Stockholms Superfosfat Fabriks Aktiebolag",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 158.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 27.018,
+    "net_income": 9.097
+  },
+  "balance_sheet": {
+    "total_assets": 339.905,
+    "current_assets": 99.133,
+    "fixed_assets": 144.3,
+    "total_liabilities": 108.737,
+    "current_liabilities": 39.384,
+    "long_term_liabilities": 25.829,
+    "shareholders_equity": 23.029
+  },
+  "employees": {
+    "n_employees": 1562,
+    "n_blue_collar_workers": 1129,
+    "n_white_collar_workers": 433
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "ABENIUS",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "DE GEER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "DALÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Agronom"
+    },
+    {
+      "surname": "BLEGVAD",
+      "first_name": "JÖRGEN",
+      "initials": "M.",
+      "position": "Disponent"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "LINDER",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "NORDENSON",
+      "first_name": "JONAS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Aukt. revisor"
+    },
+    {
+      "surname": "PONTIN",
+      "first_name": "MAGNUS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WEDELIN",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "Kamrer"
+    },
+    {
+      "surname": "WISÉN",
+      "first_name": "SVEN-OLOF",
+      "initials": null,
+      "position": "Aukt. revisor"
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Aukt. revisor"
+    },
+    {
+      "surname": "ANKARCRONA",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Advokat"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "PONTIN",
+      "first_name": "M.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WEDELIN",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

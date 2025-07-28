@@ -1,0 +1,116 @@
+{
+  "company_name": "Marabou",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 559.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3.4,
+    "depreciation": null,
+    "net_income": 5.4
+  },
+  "balance_sheet": {
+    "total_assets": 423.0,
+    "current_assets": 190.0,
+    "fixed_assets": 231.5,
+    "total_liabilities": 341.7,
+    "current_liabilities": 71.9,
+    "long_term_liabilities": 92.5,
+    "shareholders_equity": 81.3
+  },
+  "employees": {
+    "n_employees": 1746,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Belfrage",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Ambassadör"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Christner",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Høyesterettsadvokat"
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Mohler",
+      "first_name": "Harold S.",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linder",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sandström",
+      "first_name": "Svante",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Almqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

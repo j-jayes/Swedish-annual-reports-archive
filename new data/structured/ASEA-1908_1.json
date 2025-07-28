@@ -1,0 +1,80 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGETS",
+  "fiscal_year": 1908,
+  "income_statement": {
+    "revenue": 12052000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 513433.8
+  },
+  "balance_sheet": {
+    "total_assets": 12356950.28,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 6603226.31,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 590198.09
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wijkman",
+      "first_name": "O",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wenström",
+      "first_name": "G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berg",
+      "first_name": "P",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "O",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edström",
+      "first_name": "J",
+      "initials": "S.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Vougt",
+      "first_name": "C",
+      "initials": "F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cleophas",
+      "first_name": "Er.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Julin",
+      "first_name": "Rich",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

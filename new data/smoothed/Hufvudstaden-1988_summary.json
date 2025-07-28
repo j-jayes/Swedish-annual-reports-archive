@@ -1,0 +1,86 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1988,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 710.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 117.5,
+    "depreciation": 66.3,
+    "net_income": 137.5
+  },
+  "balance_sheet": {
+    "total_assets": 3376.1,
+    "current_assets": 418.6666666666667,
+    "fixed_assets": 2954.1,
+    "total_liabilities": 1126.1,
+    "current_liabilities": 1222.0,
+    "long_term_liabilities": 1149.2,
+    "shareholders_equity": 781.1
+  },
+  "employees": {
+    "n_employees": 397,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ÖBERG",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "GIESECKE",
+      "first_name": "CURT-STEFFAN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "CURT",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "RYDÉ",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AGRI",
+      "first_name": "OLOV",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": null,
+      "initials": "SET",
+      "auditing_firm": "Erikson & Tjus Revisionsbyrå HB"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

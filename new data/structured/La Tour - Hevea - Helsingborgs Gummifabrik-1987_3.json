@@ -1,0 +1,110 @@
+{
+  "company_name": "Investment AB Latour",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2365000.0,
+    "depreciation": 7646000.0,
+    "net_income": 5434000.0
+  },
+  "balance_sheet": {
+    "total_assets": 1231471000.0,
+    "current_assets": 501879000.0,
+    "fixed_assets": 727892000.0,
+    "total_liabilities": 930926000.0,
+    "current_liabilities": 747488000.0,
+    "long_term_liabilities": 177186000.0,
+    "shareholders_equity": 300445000.0
+  },
+  "employees": {
+    "n_employees": 4885,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Flory",
+      "first_name": "Ingrid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekdahl",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hanzon",
+      "first_name": "Mats",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "John-Jacob",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Elisabeth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Mats",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Törnqvist",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Tidström",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Edvardson",
+      "first_name": "Kåre",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

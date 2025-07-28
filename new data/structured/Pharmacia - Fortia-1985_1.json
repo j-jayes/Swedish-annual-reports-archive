@@ -1,0 +1,98 @@
+{
+  "company_name": "Pharmacia",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 3398.0,
+    "cost_of_goods_sold": -977.2,
+    "operating_expenses": -1545.3,
+    "wages_expense": null,
+    "tax_expense": -141.0,
+    "depreciation": -148.3,
+    "net_income": 599.6
+  },
+  "balance_sheet": {
+    "total_assets": 4532.3,
+    "current_assets": 2523.8,
+    "fixed_assets": 1960.5,
+    "total_liabilities": 2862.7,
+    "current_liabilities": 733.3,
+    "long_term_liabilities": 361.4,
+    "shareholders_equity": 1326.7
+  },
+  "employees": {
+    "n_employees": 5566,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Frisinger",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linderen",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Danielsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Lanneberg",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöberg",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmdahl",
+      "first_name": "Martin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbom",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Anställdas representant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "COOPERS & LYBRAND AB"
+    },
+    {
+      "surname": "Barnden",
+      "first_name": "Robert",
+      "initials": null,
+      "auditing_firm": "COOPERS & LYBRAND AB"
+    }
+  ],
+  "additional_notes": null
+}

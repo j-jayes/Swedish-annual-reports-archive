@@ -1,0 +1,246 @@
+---
+title: "Untitled"
+format: html
+---
+
+
+```{r}
+
+# Load necessary libraries
+library(tidyverse)
+library(ggplot2)
+
+# Set a seed for reproducibility of the random noise
+set.seed(42)
+
+# --- Data Generation ---
+
+# Define the time points for the event study
+time_points <- -5:10
+
+# 1. Generate data for U.S.-Experienced Engineer Appointments
+engineer_data <- tibble(
+  time = rep(time_points, 4), # 2 outcomes * 2 eras
+  era = rep(c("Pre-1945 ('Managerial')", "Post-1945 ('Investor')"), each = length(time_points), times = 2),
+  outcome = rep(c("log(Total Employees)", "log(Wage Bill / Revenue)"), each = length(time_points) * 2),
+  std_error = 0.08 # A standard error for CIs
+) %>%
+  # Add a placeholder for the null-effect outcome
+  bind_rows(
+    tibble(
+      time = rep(time_points, 2),
+      era = rep(c("Pre-1945 ('Managerial')", "Post-1945 ('Investor')"), each = length(time_points)),
+      outcome = "log(Revenue / Employee)",
+      std_error = 0.06
+    )
+  ) %>%
+  # Define the "ideal" effects with some randomness
+  mutate(
+    base_estimate = case_when(
+      # Total Employees: Expansion pre-1945, Rationalization post-1945
+      outcome == "log(Total Employees)" & era == "Pre-1945 ('Managerial')" & time >= 0 ~ 0.03 * time,
+      outcome == "log(Total Employees)" & era == "Post-1945 ('Investor')" & time >= 0 ~ -0.02 * time,
+      
+      # Wage Share: No effect pre-1945, Decline post-1945
+      outcome == "log(Wage Bill / Revenue)" & era == "Post-1945 ('Investor')" & time >= 0 ~ -0.025 * time,
+      
+      # Default to no effect (pre-trends, null effects)
+      TRUE ~ 0
+    ),
+    # Add random noise, ensuring pre-trends are still flat
+    noise = if_else(time < 0, rnorm(n(), 0, 0.02), rnorm(n(), 0, 0.04)),
+    estimate = base_estimate + noise,
+    
+    # Normalize t-1 to 0
+    estimate = if_else(time == -1, 0, estimate),
+    
+    # Calculate confidence intervals
+    lower_ci = estimate - 1.96 * std_error,
+    upper_ci = estimate + 1.96 * std_error,
+    director_type = "U.S.-Experienced Engineer"
+  )
+
+# 2. Generate data for Business/Finance Director Appointments (all null effects)
+business_data <- tibble(
+  time = rep(time_points, 6), # 3 outcomes * 2 eras
+  era = rep(c("Pre-1945 ('Managerial')", "Post-1945 ('Investor')"), each = length(time_points), times = 3),
+  outcome = rep(c("log(Total Employees)", "log(Revenue / Employee)", "log(Wage Bill / Revenue)"), each = length(time_points) * 2),
+  std_error = 0.07
+) %>%
+  mutate(
+    estimate = rnorm(n(), 0, 0.03), # All effects are just noise around zero
+    estimate = if_else(time == -1, 0, estimate),
+    lower_ci = estimate - 1.96 * std_error,
+    upper_ci = estimate + 1.96 * std_error,
+    director_type = "Business/Finance Director"
+  )
+
+# Combine all data
+full_data <- bind_rows(engineer_data, business_data) %>%
+  mutate(
+    # Set factor levels for correct plot ordering
+    outcome = factor(outcome, levels = c("log(Total Employees)", "log(Revenue / Employee)", "log(Wage Bill / Revenue)")),
+    director_type = factor(director_type, levels = c("U.S.-Experienced Engineer", "Business/Finance Director"))
+  )
+
+
+# --- Plotting Function ---
+create_event_plot <- function(data, director) {
+  
+  plot_data <- data %>% filter(director_type == director)
+  
+  ggplot(plot_data, aes(x = time, y = estimate)) +
+    geom_hline(yintercept = 0, linetype = "dashed", color = "gray50") +
+    geom_vline(xintercept = -0.5, linetype = "dotted", color = "gray50") +
+    geom_errorbar(aes(ymin = lower_ci, ymax = upper_ci), width = 0.2, color = "steelblue4") +
+    geom_point(color = "steelblue4", size = 2) +
+    facet_grid(outcome ~ era, scales = "free_y") +
+    scale_x_continuous(breaks = seq(-5, 10, by = 2)) +
+    labs(
+      x = "Years Relative to First Appointment",
+      y = "Coefficient Estimate"
+    ) +
+    theme_minimal(base_size = 12) +
+    theme(
+      strip.text = element_text(face = "bold"),
+      panel.grid.minor = element_blank(),
+      plot.title = element_blank() # Remove title as requested
+    )
+}
+
+# --- Generate and Save Plots ---
+
+# Plot for U.S.-Experienced Engineer
+plot_us_engineer <- create_event_plot(full_data, "U.S.-Experienced Engineer")
+print(plot_us_engineer)
+# ggsave("us_engineer_effects.png", plot_us_engineer, width = 8, height = 9)
+
+
+# Plot for Business/Finance Director
+plot_business_director <- create_event_plot(full_data, "Business/Finance Director")
+print(plot_business_director)
+# ggsave("business_director_effects.png", plot_business_director, width = 8, height = 9)
+
+```
+
+
+
+```{r}
+
+# Load necessary libraries
+library(tidyverse)
+library(ggplot2)
+
+# Set a seed for reproducibility of the random noise
+set.seed(42)
+
+# --- Data Generation ---
+
+# Define the time points for the event study
+time_points <- -5:10
+
+# 1. Generate data for U.S.-Experienced Engineer Appointments
+engineer_data <- tibble(
+  time = rep(time_points, 4), # 2 outcomes * 2 eras
+  era = rep(c("Pre-1945 ('Managerial')", "Post-1945 ('Investor')"), each = length(time_points), times = 2),
+  outcome = rep(c("log(Total Employees)", "log(Wage Bill / Revenue)"), each = length(time_points) * 2),
+  std_error = 0.08 # A standard error for CIs
+) %>%
+  # Add a placeholder for the null-effect outcome
+  bind_rows(
+    tibble(
+      time = rep(time_points, 2),
+      era = rep(c("Pre-1945 ('Managerial')", "Post-1945 ('Investor')"), each = length(time_points)),
+      outcome = "log(Revenue / Employee)",
+      std_error = 0.06
+    )
+  ) %>%
+  # Define the "ideal" effects with some randomness
+  mutate(
+    base_estimate = case_when(
+      # Total Employees: Expansion pre-1945, Rationalization post-1945
+      outcome == "log(Total Employees)" & era == "Pre-1945 ('Managerial')" & time >= 0 ~ 0.03 * time,
+      outcome == "log(Total Employees)" & era == "Post-1945 ('Investor')" & time >= 0 ~ -0.02 * time,
+      
+      # Wage Share: No effect pre-1945, Decline post-1945
+      outcome == "log(Wage Bill / Revenue)" & era == "Post-1945 ('Investor')" & time >= 0 ~ -0.025 * time,
+      
+      # Default to no effect (pre-trends, null effects)
+      TRUE ~ 0
+    ),
+    # Add random noise, ensuring pre-trends are still flat
+    noise = if_else(time < 0, rnorm(n(), 0, 0.02), rnorm(n(), 0, 0.04)),
+    estimate = base_estimate + noise,
+    
+    # Normalize t-1 to 0
+    estimate = if_else(time == -1, 0, estimate),
+    
+    # Calculate confidence intervals
+    lower_ci = estimate - 1.96 * std_error,
+    upper_ci = estimate + 1.96 * std_error,
+    director_type = "U.S.-Experienced Engineer"
+  )
+
+# 2. Generate data for Business/Finance Director Appointments (all null effects)
+business_data <- tibble(
+  time = rep(time_points, 6), # 3 outcomes * 2 eras
+  era = rep(c("Pre-1945 ('Managerial')", "Post-1945 ('Investor')"), each = length(time_points), times = 3),
+  outcome = rep(c("log(Total Employees)", "log(Revenue / Employee)", "log(Wage Bill / Revenue)"), each = length(time_points) * 2),
+  std_error = 0.07
+) %>%
+  mutate(
+    estimate = rnorm(n(), 0, 0.03), # All effects are just noise around zero
+    estimate = if_else(time == -1, 0, estimate),
+    lower_ci = estimate - 1.96 * std_error,
+    upper_ci = estimate + 1.96 * std_error,
+    director_type = "Business/Finance Director"
+  )
+
+# Combine all data
+full_data <- bind_rows(engineer_data, business_data) %>%
+  mutate(
+    # Set factor levels for correct plot ordering
+    outcome = factor(outcome, levels = c("log(Total Employees)", "log(Revenue / Employee)", "log(Wage Bill / Revenue)")),
+    director_type = factor(director_type, levels = c("U.S.-Experienced Engineer", "Business/Finance Director")),
+    era = factor(era, levels = c("Pre-1945 ('Managerial')", "Post-1945 ('Investor')")) # Set order for facets
+  )
+
+
+# --- Plotting Function ---
+create_event_plot <- function(data, director, plot_color) {
+  
+  plot_data <- data %>% filter(director_type == director)
+  
+  ggplot(plot_data, aes(x = time, y = estimate)) +
+    geom_hline(yintercept = 0, linetype = "dashed", color = "gray50") +
+    geom_vline(xintercept = -0.5, linetype = "dotted", color = "gray50") +
+    geom_errorbar(aes(ymin = lower_ci, ymax = upper_ci), width = 0.2, color = plot_color) +
+    geom_point(color = plot_color, size = 2) +
+    facet_grid(outcome ~ era, scales = "free_y") +
+    scale_x_continuous(breaks = seq(-5, 10, by = 2)) +
+    labs(
+      x = "Years Relative to First Appointment",
+      y = "Coefficient Estimate"
+    ) +
+    theme_minimal(base_size = 12) +
+    theme(
+      strip.text = element_text(face = "bold"),
+      panel.grid.minor = element_blank(),
+      plot.title = element_blank() # Remove title as requested
+    )
+}
+
+# --- Generate and Save Plots ---
+
+# Plot for U.S.-Experienced Engineer
+plot_us_engineer <- create_event_plot(full_data, "U.S.-Experienced Engineer", "steelblue4")
+print(plot_us_engineer)
+ggsave("data/assets/us_engineer_effects.png", plot_us_engineer, width = 8, height = 9)
+
+
+# Plot for Business/Finance Director
+plot_business_director <- create_event_plot(full_data, "Business/Finance Director", "darkorange3")
+print(plot_business_director)
+ggsave("data/assets/business_director_effects.png", plot_business_director, width = 8, height = 9)
+
+```

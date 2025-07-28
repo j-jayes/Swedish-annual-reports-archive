@@ -1,0 +1,116 @@
+{
+  "company_name": "SLT KONCERNEN",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 527.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10.038,
+    "net_income": 2136839.236666667
+  },
+  "balance_sheet": {
+    "total_assets": 81127112.15122867,
+    "current_assets": 39835329.060011,
+    "fixed_assets": 42458804.916132,
+    "total_liabilities": 160.3655995,
+    "current_liabilities": 14040813.683849666,
+    "long_term_liabilities": 8581699.355327,
+    "shareholders_equity": 38546993.69882867
+  },
+  "employees": {
+    "n_employees": 8028,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "ORDF."
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "FRITHIOF",
+      "initials": null,
+      "position": "f. d. BANKDIREKTÖR"
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "CIVILINGENJÖR"
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": "ÖVERINTENDENT"
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "f. d. HOVRÄTTSRÅDET"
+    },
+    {
+      "surname": "SUNDÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "BLENNOW",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": "DISPONENT"
+    },
+    {
+      "surname": "LASSEN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "f. d. HOVRÄTTSRÅDET"
+    },
+    {
+      "surname": "MANNERFELT",
+      "first_name": "CARL",
+      "initials": "M:SON",
+      "position": "FIL. DR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "AUKT. REVISOR"
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "auditing_firm": "DIREKTÖR"
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": "AUKT. REVISOR"
+    },
+    {
+      "surname": "NORDENBÄCK",
+      "first_name": "JAN",
+      "initials": null,
+      "auditing_firm": "AUKT. REVISOR"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "AKTIEBOLAGET PAPYRUS",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 2526.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -2247.1,
+    "wages_expense": null,
+    "tax_expense": -36.0,
+    "depreciation": null,
+    "net_income": 309.0
+  },
+  "balance_sheet": {
+    "total_assets": 2698.1,
+    "current_assets": 1294.6,
+    "fixed_assets": 2276.7,
+    "total_liabilities": 793.6,
+    "current_liabilities": 595.1,
+    "long_term_liabilities": 116.2,
+    "shareholders_equity": 626.3
+  },
+  "employees": {
+    "n_employees": 5316,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Rudengren",
+      "first_name": "S",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trolle-Wachtmeister",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Lindquist",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Reparatör"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Herry",
+      "initials": null,
+      "position": "Ombudsman"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kjellman",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": null,
+      "initials": "N. G.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

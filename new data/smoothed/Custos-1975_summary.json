@@ -1,0 +1,112 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1975,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 36.161,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.863,
+    "depreciation": null,
+    "net_income": 81.784
+  },
+  "balance_sheet": {
+    "total_assets": 415.011,
+    "current_assets": 9.417,
+    "fixed_assets": 405.594,
+    "total_liabilities": null,
+    "current_liabilities": 19.26,
+    "long_term_liabilities": null,
+    "shareholders_equity": 392.391
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "BERGQVIST",
+      "first_name": "\"\nAKE",
+      "initials": "A",
+      "position": "Direktör"
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": "G",
+      "position": "Direktör"
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": "S",
+      "position": "Direktör"
+    },
+    {
+      "surname": "GYLLENHAMMAR",
+      "first_name": "PEHR",
+      "initials": "G",
+      "position": "Direktör"
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": "E",
+      "position": "Direktör"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": "O",
+      "position": "Direktör"
+    },
+    {
+      "surname": "VON SYDOW",
+      "first_name": "KRISTIAN",
+      "initials": "K",
+      "position": "Direktör"
+    },
+    {
+      "surname": "ÖHMAN",
+      "first_name": "ANDERS",
+      "initials": "R",
+      "position": "Advokat"
+    },
+    {
+      "surname": "ANDO",
+      "first_name": "SIGVARD",
+      "initials": "S",
+      "position": "Direktör, verkst. direktör"
+    },
+    {
+      "surname": "LEKSELL",
+      "first_name": "OVE",
+      "initials": "O",
+      "position": "Direktör, vice verkst. direktör, suppleant"
+    },
+    {
+      "surname": "GREBÄCK",
+      "first_name": "ERIK",
+      "initials": "E",
+      "position": "Agronom"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "TYRA",
+      "initials": null,
+      "position": "Riksdagsledamot, Uddevalla suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PÅHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "SÖRENSEN",
+      "first_name": "CHRISTIAN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

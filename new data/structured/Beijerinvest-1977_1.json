@@ -1,0 +1,104 @@
+{
+  "company_name": "BEIJERINVEST",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 7155.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 28.6,
+    "depreciation": 78.0,
+    "net_income": 50.8
+  },
+  "balance_sheet": {
+    "total_assets": 3270.681,
+    "current_assets": 1909.194,
+    "fixed_assets": 1319.86,
+    "total_liabilities": 2699.791,
+    "current_liabilities": 1257.263,
+    "long_term_liabilities": 1014.464,
+    "shareholders_equity": 570.397
+  },
+  "employees": {
+    "n_employees": 10113,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "G Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Qvin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Säve",
+      "first_name": "Carl T",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Walter",
+      "first_name": "James W",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Agrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

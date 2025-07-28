@@ -1,0 +1,122 @@
+{
+  "company_name": "Garphyttan",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 118.824,
+    "cost_of_goods_sold": 107.713,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8.027,
+    "net_income": 1.593
+  },
+  "balance_sheet": {
+    "total_assets": 167.178,
+    "current_assets": 69.363,
+    "fixed_assets": 67.741,
+    "total_liabilities": 132.214,
+    "current_liabilities": 38.024,
+    "long_term_liabilities": 50.464,
+    "shareholders_equity": 34.964
+  },
+  "employees": {
+    "n_employees": 823,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-Christian",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Ignell",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Werme",
+      "first_name": "Henrik",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Hagberg",
+      "first_name": "Ake",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Ström",
+      "first_name": "Henry",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bäcker",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

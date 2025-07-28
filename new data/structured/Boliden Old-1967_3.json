@@ -1,0 +1,104 @@
+{
+  "company_name": "BOLIDEN",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 680.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 26.5,
+    "depreciation": null,
+    "net_income": 35.0
+  },
+  "balance_sheet": {
+    "total_assets": 564.107,
+    "current_assets": 282.094,
+    "fixed_assets": 280.693,
+    "total_liabilities": 251.795,
+    "current_liabilities": 94.111,
+    "long_term_liabilities": 130.03,
+    "shareholders_equity": 312.288
+  },
+  "employees": {
+    "n_employees": 5434,
+    "n_blue_collar_workers": 3838,
+    "n_white_collar_workers": 1596
+  },
+  "board": [
+    {
+      "surname": "Brynielsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schwartz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fessé",
+      "first_name": null,
+      "initials": "F",
+      "position": null
+    },
+    {
+      "surname": "Elfström",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Laloux",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": null,
+      "initials": "S.L.",
+      "position": null
+    },
+    {
+      "surname": "Ljungdahl",
+      "first_name": null,
+      "initials": "K-G.",
+      "position": null
+    },
+    {
+      "surname": "Nor\nBertil",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Jarre",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dahl",
+      "first_name": null,
+      "initials": "C.O.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

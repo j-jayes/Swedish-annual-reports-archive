@@ -1,0 +1,82 @@
+{
+  "company_name": "STOCKHOLMS FÖRVALTNINGS AB SVEA",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 100.534,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 34.395,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6.342,
+    "net_income": 9.911
+  },
+  "balance_sheet": {
+    "total_assets": 573.938,
+    "current_assets": 9.198,
+    "fixed_assets": 564.74,
+    "total_liabilities": 378.911,
+    "current_liabilities": 84.163,
+    "long_term_liabilities": 294.748,
+    "shareholders_equity": 191.845
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H",
+      "position": "advokat, ordförande"
+    },
+    {
+      "surname": "Hallåker",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "verkställande direktör i Nordstjernan AB, vice ordförande"
+    },
+    {
+      "surname": "Kaber",
+      "first_name": "Jaan",
+      "initials": null,
+      "position": "verkställande direktör i Investment AB Asken"
+    },
+    {
+      "surname": "Carlberg",
+      "first_name": "Anders",
+      "initials": "G",
+      "position": "verkställande direktör i J S Saba AB"
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör i Fastighets AB Hufvudstaden"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "ekon lic, Investment AB D Carnegie & Co, suppleant"
+    },
+    {
+      "surname": "Holmberg",
+      "first_name": "Klas",
+      "initials": null,
+      "position": "verkställande direktör, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lundvall",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Stockholm"
+    },
+    {
+      "surname": "Melin",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "Sollentuna"
+    }
+  ],
+  "additional_notes": null
+}

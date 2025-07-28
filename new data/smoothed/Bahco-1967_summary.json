@@ -1,0 +1,92 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1967,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 233918000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 220464546.0,
+    "wages_expense": null,
+    "tax_expense": 583000.0,
+    "depreciation": null,
+    "net_income": 1525305.0
+  },
+  "balance_sheet": {
+    "total_assets": 276626073.0,
+    "current_assets": 200617461.0,
+    "fixed_assets": 76008612.0,
+    "total_liabilities": 194704963.0,
+    "current_liabilities": 90907023.0,
+    "long_term_liabilities": 103498327.0,
+    "shareholders_equity": 81921110.0
+  },
+  "employees": {
+    "n_employees": 3083,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Odelfelt",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "\"\nke",
+      "initials": "\"\nke",
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brusewitz",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": "A.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Karlsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

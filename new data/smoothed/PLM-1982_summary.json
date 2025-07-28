@@ -1,0 +1,122 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1982,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2875.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 670.4,
+    "tax_expense": null,
+    "depreciation": 123.1,
+    "net_income": 34.9
+  },
+  "balance_sheet": {
+    "total_assets": 2129.7333333333336,
+    "current_assets": 1136.3,
+    "fixed_assets": 989.2,
+    "total_liabilities": 1263.1666666666665,
+    "current_liabilities": 693.4,
+    "long_term_liabilities": 789.3,
+    "shareholders_equity": 220.2
+  },
+  "employees": {
+    "n_employees": 7043,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langebæk",
+      "first_name": "Steen",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindeblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frisinger",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergenhem",
+      "first_name": "Lars",
+      "initials": "S",
+      "position": "suppleant"
+    },
+    {
+      "surname": "Stormby",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Sam",
+      "initials": null,
+      "position": "facklig"
+    },
+    {
+      "surname": "Jensen",
+      "first_name": "Claes-Göran",
+      "initials": null,
+      "position": "facklig"
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "facklig, suppleant"
+    },
+    {
+      "surname": "Mårtensson",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": "facklig, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

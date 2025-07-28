@@ -1,0 +1,92 @@
+{
+  "company_name": "TRELLEBORG",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 263.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3.0,
+    "depreciation": null,
+    "net_income": 5.5
+  },
+  "balance_sheet": {
+    "total_assets": 203.453,
+    "current_assets": 117.687,
+    "fixed_assets": 82.742,
+    "total_liabilities": 99.948,
+    "current_liabilities": 66.235,
+    "long_term_liabilities": 28.676,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 3987,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nedström",
+      "first_name": "T.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ekblom",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric",
+      "initials": "A.",
+      "auditing_firm": "Advokat"
+    }
+  ],
+  "additional_notes": null
+}

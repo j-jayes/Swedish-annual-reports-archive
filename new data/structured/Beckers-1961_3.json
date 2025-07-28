@@ -1,0 +1,86 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 6655762.81,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 313425.0,
+    "depreciation": 1030307.01,
+    "net_income": 1528817.69
+  },
+  "balance_sheet": {
+    "total_assets": 40652525.09,
+    "current_assets": 22592999.51,
+    "fixed_assets": 18059525.58,
+    "total_liabilities": 23771852.17,
+    "current_liabilities": 7663049.77,
+    "long_term_liabilities": 9315349.05,
+    "shareholders_equity": 16880672.92
+  },
+  "employees": {
+    "n_employees": 1011,
+    "n_blue_collar_workers": 336,
+    "n_white_collar_workers": 675
+  },
+  "board": [
+    {
+      "surname": "OLSON",
+      "first_name": "GOSTA",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "ELIASSON",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "ERICSON",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HÅKANSON",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KÄLL",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "NORDLUND",
+      "first_name": "JOHN",
+      "initials": null,
+      "position": "Överingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JELF",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HJERNE",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "direktör"
+    }
+  ],
+  "additional_notes": null
+}

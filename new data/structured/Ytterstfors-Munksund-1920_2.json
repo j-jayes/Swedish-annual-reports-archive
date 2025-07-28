@@ -1,0 +1,82 @@
+{
+  "company_name": "YTTERSTFORS-MUNKSUNDS",
+  "fiscal_year": 1920,
+  "income_statement": {
+    "revenue": 10415269.69,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 743399.91,
+    "wages_expense": null,
+    "tax_expense": 2154967.1,
+    "depreciation": 622353.58,
+    "net_income": 3576797.87
+  },
+  "balance_sheet": {
+    "total_assets": 70395746.46,
+    "current_assets": null,
+    "fixed_assets": 33592701.56,
+    "total_liabilities": 35000000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": 22953500.0,
+    "shareholders_equity": 36000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Malmström",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norman",
+      "first_name": "Uno",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunberg",
+      "first_name": "Emric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dymling",
+      "first_name": "Richard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enell",
+      "first_name": "O.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bellander",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "J. L.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Flygt",
+      "first_name": "Helmer",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Raaschou",
+      "first_name": "Th.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

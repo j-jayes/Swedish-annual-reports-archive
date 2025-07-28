@@ -1,0 +1,98 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 6258365.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2360875.0,
+    "net_income": 1693297.0
+  },
+  "balance_sheet": {
+    "total_assets": 112331171.0,
+    "current_assets": 76099794.0,
+    "fixed_assets": 32731377.0,
+    "total_liabilities": 38308011.0,
+    "current_liabilities": 18109234.0,
+    "long_term_liabilities": 15925535.0,
+    "shareholders_equity": 38054290.0
+  },
+  "employees": {
+    "n_employees": 1589,
+    "n_blue_collar_workers": 974,
+    "n_white_collar_workers": 548
+  },
+  "board": [
+    {
+      "surname": "AMELN",
+      "first_name": "STURE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Viceamiral"
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "AMELN",
+      "first_name": "KARL ROBERT",
+      "initials": null,
+      "position": "Civilingenjör, verkst. direktör"
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "ORTENGREN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "Intendent"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "NELSON",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "BERLIN",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "DOUGLAS",
+      "first_name": "ARCHIBALD",
+      "initials": null,
+      "auditing_firm": "Greve"
+    }
+  ],
+  "additional_notes": null
+}

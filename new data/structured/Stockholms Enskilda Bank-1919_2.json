@@ -1,0 +1,51 @@
+{
+  "company_name": "Stockholms Enskilda Bank",
+  "fiscal_year": 1919,
+  "income_statement": {
+    "revenue": 19228393.32,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6450015.99,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1557573.29,
+    "net_income": 9363003.38
+  },
+  "balance_sheet": {
+    "total_assets": 498407091.45,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 498407091.45,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Linder",
+      "first_name": "Vilhelm",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kinnander",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fryxell",
+      "first_name": "K. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bodman",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

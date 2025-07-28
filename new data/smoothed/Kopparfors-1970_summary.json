@@ -1,0 +1,88 @@
+{
+  "company_name": "KOPPARFORS",
+  "fiscal_year": 1971,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 258.38801433333333,
+    "cost_of_goods_sold": 195.66011459666666,
+    "operating_expenses": 2.625,
+    "wages_expense": null,
+    "tax_expense": 3250003.25,
+    "depreciation": 5963684.78,
+    "net_income": 3398859.9706666665
+  },
+  "balance_sheet": {
+    "total_assets": 111364619.46366668,
+    "current_assets": 18160007.346666668,
+    "fixed_assets": 78391868.91233332,
+    "total_liabilities": 72239905.906,
+    "current_liabilities": 31636838.292000003,
+    "long_term_liabilities": 31547037.798333336,
+    "shareholders_equity": 39124671.95933333
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "MONTGOMERY",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRIPENSTEDT",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG JR",
+      "first_name": "MARC",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLGERSSON",
+      "first_name": null,
+      "initials": "S.",
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

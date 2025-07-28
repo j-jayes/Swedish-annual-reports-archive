@@ -1,0 +1,118 @@
+{
+  "company_name": "Boliden",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 5394.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.2,
+    "depreciation": null,
+    "net_income": 131.2
+  },
+  "balance_sheet": {
+    "total_assets": 5097.2,
+    "current_assets": 2462.1,
+    "fixed_assets": 2590.5,
+    "total_liabilities": 1406.9,
+    "current_liabilities": 1379.5,
+    "long_term_liabilities": 1202.3,
+    "shareholders_equity": 808.5
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Åkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Brynielsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Ugglas",
+      "first_name": "Margaretha",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "gruvarbetare vid Boliden Mineral"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "speditör vid Boliden Metall"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Per-Erik",
+      "initials": null,
+      "position": "processkötare vid Boliden Kemi"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "löneadministratör vid Boliden Kemi"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Glenngård",
+      "first_name": "L",
+      "initials": null,
+      "auditing_firm": "Hagströms Revisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Hagströms Revisionsbyrå AB"
+    },
+    {
+      "surname": "Näslund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Hagströms Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

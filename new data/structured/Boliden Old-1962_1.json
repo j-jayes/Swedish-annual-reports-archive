@@ -1,0 +1,92 @@
+{
+  "company_name": "BOLIDENS GRUVAKTIEBOLAG",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 10.4,
+    "depreciation": 24.0,
+    "net_income": 15.3
+  },
+  "balance_sheet": {
+    "total_assets": 299.0,
+    "current_assets": 151.9,
+    "fixed_assets": 147.1,
+    "total_liabilities": 119.2,
+    "current_liabilities": 47.7,
+    "long_term_liabilities": 71.6,
+    "shareholders_equity": 173.2
+  },
+  "employees": {
+    "n_employees": 4347,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BRYNIELSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": null,
+      "initials": "K-G",
+      "position": null
+    },
+    {
+      "surname": "SODERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLSTROM",
+      "first_name": null,
+      "initials": "S. L.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BEXELIUS",
+      "first_name": "HERBERT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JARRE",
+      "first_name": "FRITZ",
+      "initials": "J.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "WENDLER",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

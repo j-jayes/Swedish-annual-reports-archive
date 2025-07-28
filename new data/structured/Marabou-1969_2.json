@@ -1,0 +1,86 @@
+{
+  "company_name": "MARABOU",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 221.978,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 141.178,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6.48,
+    "net_income": 3.343
+  },
+  "balance_sheet": {
+    "total_assets": 140.492,
+    "current_assets": 67.035,
+    "fixed_assets": 70.927,
+    "total_liabilities": 60.768,
+    "current_liabilities": 44.46,
+    "long_term_liabilities": 27.171,
+    "shareholders_equity": 60.425
+  },
+  "employees": {
+    "n_employees": 1290,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDAHL",
+      "first_name": "MAGNUS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "H:SON-ERICSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERFELT",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GENTELE",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BEXELIUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

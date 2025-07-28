@@ -1,0 +1,76 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 33705852.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 625632.69,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 14964277.16,
+    "net_income": 18095943.05
+  },
+  "balance_sheet": {
+    "total_assets": 117958098.78,
+    "current_assets": 4348248.78,
+    "fixed_assets": 113609850.0,
+    "total_liabilities": 80501484.45,
+    "current_liabilities": 500442.45,
+    "long_term_liabilities": 30160671.28,
+    "shareholders_equity": 37456614.33
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STEYERN",
+      "first_name": "NILS",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CALISSENDORFF",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "PIHL",
+      "first_name": "GUST.",
+      "initials": "OVE",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,64 @@
+{
+  "company_name": "EXPORT-INVEST",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 7756253.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 7548658.0
+  },
+  "balance_sheet": {
+    "total_assets": 121153239.0,
+    "current_assets": 5865239.0,
+    "fixed_assets": 115288000.0,
+    "total_liabilities": 396664.0,
+    "current_liabilities": 396664.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 92556575.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

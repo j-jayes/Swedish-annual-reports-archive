@@ -1,0 +1,80 @@
+{
+  "company_name": "MARABOU",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 20.714,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3.6,
+    "depreciation": null,
+    "net_income": 3.631
+  },
+  "balance_sheet": {
+    "total_assets": 127.692,
+    "current_assets": 65.586,
+    "fixed_assets": 61.38,
+    "total_liabilities": 56.27,
+    "current_liabilities": 39.331,
+    "long_term_liabilities": 12.267,
+    "shareholders_equity": 71.422
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1013,
+    "n_white_collar_workers": 370
+  },
+  "board": [
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "HARALD",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "H:SON-ERICSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERFELT",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GENTELE",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BEXELIUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

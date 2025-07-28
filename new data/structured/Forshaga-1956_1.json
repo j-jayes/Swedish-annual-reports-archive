@@ -1,0 +1,86 @@
+{
+  "company_name": "LINOLEUM AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 4529656.63,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 644247.02
+  },
+  "balance_sheet": {
+    "total_assets": 15489541.78,
+    "current_assets": 2063457.76,
+    "fixed_assets": 4566578.08,
+    "total_liabilities": 5397059.69,
+    "current_liabilities": null,
+    "long_term_liabilities": 662078.3,
+    "shareholders_equity": 4000000.0
+  },
+  "employees": {
+    "n_employees": 364,
+    "n_blue_collar_workers": 251,
+    "n_white_collar_workers": 113
+  },
+  "board": [
+    {
+      "surname": "GRÖNBERG",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ZOELLY",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SYPESTEYN",
+      "first_name": "E.",
+      "initials": "KAARS",
+      "position": null
+    },
+    {
+      "surname": "THORNANDER",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMSEN",
+      "first_name": "I.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "E.",
+      "initials": "W.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,140 @@
+{
+  "company_name": "Skaraborgsbanken",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 363.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 195.6,
+    "wages_expense": null,
+    "tax_expense": 44.6,
+    "depreciation": null,
+    "net_income": 17.172
+  },
+  "balance_sheet": {
+    "total_assets": 7327.723,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 6694.661,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 183.971
+  },
+  "employees": {
+    "n_employees": 516,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ÖBERG",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "NYSTRÖM",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "KARLSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JANSSON",
+      "first_name": "PAUL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RAPP",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAVIDSSON",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RAMBERG",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "VIRGIN",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PÅLSSON",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHL",
+      "first_name": "RIGMOR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WÄHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "BÖRJE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SKOGLUND",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Waller",
+      "first_name": "Edward",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Demitz-Helin",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

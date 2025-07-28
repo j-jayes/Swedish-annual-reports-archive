@@ -1,0 +1,225 @@
+{
+  "company_name": "JW",
+  "years_covered": "1970-2000",
+  "total_years": 31,
+  "total_members": 81,
+  "avg_board_size": 5.935483870967742,
+  "avg_tenure": 4.197530864197531,
+  "median_tenure": 3.0,
+  "avg_turnover_rate": 0.6851034573728072,
+  "board_size_by_year": {
+    "1970": 3,
+    "1971": 3,
+    "1972": 3,
+    "1973": 3,
+    "1974": 3,
+    "1975": 2,
+    "1976": 14,
+    "1977": 2,
+    "1978": 2,
+    "1979": 9,
+    "1980": 10,
+    "1981": 15,
+    "1982": 11,
+    "1983": 3,
+    "1984": 15,
+    "1985": 2,
+    "1986": 4,
+    "1987": 7,
+    "1988": 9,
+    "1989": 9,
+    "1990": 8,
+    "1991": 3,
+    "1992": 2,
+    "1993": 3,
+    "1994": 2,
+    "1995": 2,
+    "1996": 2,
+    "1997": 3,
+    "1998": 8,
+    "1999": 10,
+    "2000": 12
+  },
+  "turnover_by_period": {
+    "1970-1971": {
+      "joined": 2,
+      "left": 2,
+      "stayed": 10,
+      "turnover_rate": 0.6666666666666666
+    },
+    "1971-1972": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 12,
+      "turnover_rate": 0.0
+    },
+    "1972-1973": {
+      "joined": 3,
+      "left": 3,
+      "stayed": 9,
+      "turnover_rate": 1.0
+    },
+    "1973-1974": {
+      "joined": 3,
+      "left": 3,
+      "stayed": 9,
+      "turnover_rate": 1.0
+    },
+    "1974-1975": {
+      "joined": 8,
+      "left": 6,
+      "stayed": 6,
+      "turnover_rate": 2.8
+    },
+    "1975-1976": {
+      "joined": 2,
+      "left": 2,
+      "stayed": 12,
+      "turnover_rate": 0.25
+    },
+    "1976-1977": {
+      "joined": 1,
+      "left": 7,
+      "stayed": 7,
+      "turnover_rate": 0.5
+    },
+    "1977-1978": {
+      "joined": 3,
+      "left": 0,
+      "stayed": 8,
+      "turnover_rate": 0.75
+    },
+    "1978-1979": {
+      "joined": 6,
+      "left": 8,
+      "stayed": 3,
+      "turnover_rate": 1.2727272727272727
+    },
+    "1979-1980": {
+      "joined": 1,
+      "left": 0,
+      "stayed": 9,
+      "turnover_rate": 0.05263157894736842
+    },
+    "1980-1981": {
+      "joined": 9,
+      "left": 4,
+      "stayed": 6,
+      "turnover_rate": 0.52
+    },
+    "1981-1982": {
+      "joined": 1,
+      "left": 5,
+      "stayed": 10,
+      "turnover_rate": 0.23076923076923078
+    },
+    "1982-1983": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 11,
+      "turnover_rate": 0.0
+    },
+    "1983-1984": {
+      "joined": 7,
+      "left": 3,
+      "stayed": 8,
+      "turnover_rate": 0.5555555555555556
+    },
+    "1984-1985": {
+      "joined": 5,
+      "left": 10,
+      "stayed": 5,
+      "turnover_rate": 0.8823529411764706
+    },
+    "1985-1986": {
+      "joined": 5,
+      "left": 3,
+      "stayed": 7,
+      "turnover_rate": 1.3333333333333333
+    },
+    "1986-1987": {
+      "joined": 4,
+      "left": 2,
+      "stayed": 10,
+      "turnover_rate": 0.5454545454545454
+    },
+    "1987-1988": {
+      "joined": 6,
+      "left": 6,
+      "stayed": 8,
+      "turnover_rate": 0.75
+    },
+    "1988-1989": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 14,
+      "turnover_rate": 0.0
+    },
+    "1989-1990": {
+      "joined": 1,
+      "left": 4,
+      "stayed": 10,
+      "turnover_rate": 0.29411764705882354
+    },
+    "1990-1991": {
+      "joined": 2,
+      "left": 5,
+      "stayed": 6,
+      "turnover_rate": 0.6363636363636364
+    },
+    "1991-1992": {
+      "joined": 2,
+      "left": 3,
+      "stayed": 5,
+      "turnover_rate": 1.0
+    },
+    "1992-1993": {
+      "joined": 1,
+      "left": 2,
+      "stayed": 5,
+      "turnover_rate": 0.6
+    },
+    "1993-1994": {
+      "joined": 6,
+      "left": 3,
+      "stayed": 3,
+      "turnover_rate": 1.8
+    },
+    "1994-1995": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 8,
+      "turnover_rate": 0.5
+    },
+    "1995-1996": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 8,
+      "turnover_rate": 0.5
+    },
+    "1996-1997": {
+      "joined": 2,
+      "left": 2,
+      "stayed": 7,
+      "turnover_rate": 0.8
+    },
+    "1997-1998": {
+      "joined": 4,
+      "left": 5,
+      "stayed": 4,
+      "turnover_rate": 0.8181818181818182
+    },
+    "1998-1999": {
+      "joined": 3,
+      "left": 1,
+      "stayed": 7,
+      "turnover_rate": 0.2222222222222222
+    },
+    "1999-2000": {
+      "joined": 4,
+      "left": 2,
+      "stayed": 8,
+      "turnover_rate": 0.2727272727272727
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1943,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3200000.0,
+    "depreciation": 253591.12,
+    "net_income": 3749720.32
+  },
+  "balance_sheet": {
+    "total_assets": 131281085.72,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 131281085.72,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "TRYGGER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "ERIK",
+      "initials": "AUG.",
+      "position": null
+    },
+    {
+      "surname": "INGESTRÖM",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WÄSTFELT",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Av Stockholms Handelskammare"
+    },
+    {
+      "surname": "FALKMAN",
+      "first_name": "LUDVIG",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

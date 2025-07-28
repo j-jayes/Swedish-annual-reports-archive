@@ -1,0 +1,110 @@
+{
+  "company_name": "KOCKUMS JERNVERK",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 179.256,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5.701,
+    "net_income": 1.676
+  },
+  "balance_sheet": {
+    "total_assets": 145.657,
+    "current_assets": 43.163,
+    "fixed_assets": 62.795,
+    "total_liabilities": null,
+    "current_liabilities": 18.685,
+    "long_term_liabilities": 29.488,
+    "shareholders_equity": 30.517
+  },
+  "employees": {
+    "n_employees": 1038,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Kockum",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Kockum",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fredholm",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rosén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Waldolf",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Thorn",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Bergengren",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "von Seth",
+      "first_name": "Eduard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Föreslagen utdelning 1974."
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1983,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3258.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2881.6,
+    "wages_expense": null,
+    "tax_expense": 30.066666666666666,
+    "depreciation": 135.8,
+    "net_income": 71.46666666666667
+  },
+  "balance_sheet": {
+    "total_assets": 2300.5,
+    "current_assets": 1377.6,
+    "fixed_assets": 920.9,
+    "total_liabilities": 1061.2666666666667,
+    "current_liabilities": 669.4,
+    "long_term_liabilities": 404.53333333333336,
+    "shareholders_equity": 385.33333333333337
+  },
+  "employees": {
+    "n_employees": 6475,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Verkställande Direktör"
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Langebaek",
+      "first_name": "Steen",
+      "initials": null,
+      "position": "Landsretssagförer"
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Verkställande Direktör"
+    },
+    {
+      "surname": "Lindeblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Vice VD"
+    },
+    {
+      "surname": "Frisinger",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Verkställande Direktör"
+    },
+    {
+      "surname": "Bergenhem",
+      "first_name": "Lars",
+      "initials": "S",
+      "position": "Vice Ordförande"
+    },
+    {
+      "surname": "Stormby",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Klinikchef"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Sam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mårtensson",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 487115518.51,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 48928628.0,
+    "net_income": 32535746.47
+  },
+  "balance_sheet": {
+    "total_assets": 382045752.65,
+    "current_assets": null,
+    "fixed_assets": 236608707.06,
+    "total_liabilities": null,
+    "current_liabilities": 52883005.58,
+    "long_term_liabilities": 52000000.0,
+    "shareholders_equity": 243981555.11
+  },
+  "employees": {
+    "n_employees": 11732,
+    "n_blue_collar_workers": 10389,
+    "n_white_collar_workers": 1343
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLUND",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RODLING",
+      "first_name": "EJNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ABENIUS",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "ESSEN",
+      "first_name": null,
+      "initials": "M.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "SÖDERBÄCK",
+      "first_name": "FRITIOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ÖBRINK",
+      "first_name": "ARNOLD",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "SANDVIK AKTIEBOLAG",
+  "fiscal_year": 1994,
+  "income_statement": {
+    "revenue": 25285.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1256.0,
+    "depreciation": null,
+    "net_income": 2436.0
+  },
+  "balance_sheet": {
+    "total_assets": 28368.0,
+    "current_assets": 19373.0,
+    "fixed_assets": 8995.0,
+    "total_liabilities": 12355.0,
+    "current_liabilities": 7539.0,
+    "long_term_liabilities": 3974.0,
+    "shareholders_equity": 16013.0
+  },
+  "employees": {
+    "n_employees": 29450,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "\nÅgrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Håkansson",
+      "first_name": "Lars-Ove",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Lindstedt",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "\nHedström",
+      "first_name": "Clas Åke",
+      "initials": null,
+      "position": "President"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhrn",
+      "first_name": "Bernhard",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "Svantemark",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "company_name": "Sulitelma",
+  "years_covered": "1915-1918",
+  "total_years": 4,
+  "total_members": 20,
+  "avg_board_size": 2.75,
+  "avg_tenure": 1.7,
+  "median_tenure": 1.0,
+  "avg_turnover_rate": 0.8181818181818182,
+  "board_size_by_year": {
+    "1915": 0,
+    "1916": 0,
+    "1917": 11,
+    "1918": 0
+  },
+  "turnover_by_period": {
+    "1915-1916": {
+      "joined": 4,
+      "left": 5,
+      "stayed": 3,
+      "turnover_rate": 0
+    },
+    "1916-1917": {
+      "joined": 9,
+      "left": 5,
+      "stayed": 2,
+      "turnover_rate": 1.2727272727272727
+    },
+    "1917-1918": {
+      "joined": 5,
+      "left": 8,
+      "stayed": 3,
+      "turnover_rate": 1.1818181818181819
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "company_name": "Svenska Granitindustri Aktiebolaget",
+  "fiscal_year": 1921,
+  "income_statement": {
+    "revenue": 289672.44,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 302031.6,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -12359.16
+  },
+  "balance_sheet": {
+    "total_assets": 3601513.78,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3601513.78,
+    "current_liabilities": null,
+    "long_term_liabilities": 474000.0,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Fernström",
+      "first_name": "Emma",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Guntsch",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fieber",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sterner",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Hugo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

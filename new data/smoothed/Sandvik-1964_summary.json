@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1964,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 529.24,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 49.82666666666667,
+    "net_income": 13.06
+  },
+  "balance_sheet": {
+    "total_assets": 592.0192403333333,
+    "current_assets": 270.4295833333333,
+    "fixed_assets": 321.589657,
+    "total_liabilities": 416.0589846666667,
+    "current_liabilities": 132.73420166666665,
+    "long_term_liabilities": 171.70382133333334,
+    "shareholders_equity": 175.960239
+  },
+  "employees": {
+    "n_employees": 9022,
+    "n_blue_collar_workers": 6677,
+    "n_white_collar_workers": 2345
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "Bankdirektör, ordförande"
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "Advokat, vice ordförande"
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HAGLUND",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "Bruksdisponent, verkst. dir."
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "LINDBLOM",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "GULDBERG",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": "President"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": "Konsul"
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "company_name": "UDDEHOLMS AKTIEBOLAGS",
+  "fiscal_year": 1902,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 794054.15
+  },
+  "balance_sheet": {
+    "total_assets": 18926226.71,
+    "current_assets": null,
+    "fixed_assets": 8006000.0,
+    "total_liabilities": null,
+    "current_liabilities": 1234310.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7872939.08
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Alexandersson",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergström",
+      "first_name": null,
+      "initials": "L. W.",
+      "position": null
+    },
+    {
+      "surname": "Geijerstam",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Alexandersson",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergström",
+      "first_name": null,
+      "initials": "L. W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijerstam",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "Investmentaktiebolaget Promotion",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 767.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 40.4
+  },
+  "balance_sheet": {
+    "total_assets": 1295.0,
+    "current_assets": 564.0,
+    "fixed_assets": 731.0,
+    "total_liabilities": 915.0,
+    "current_liabilities": 428.5,
+    "long_term_liabilities": 397.8,
+    "shareholders_equity": 362.3
+  },
+  "employees": {
+    "n_employees": 2003,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bostedt",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edholm",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Feinsilber",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tärntoft",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

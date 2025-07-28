@@ -1,0 +1,104 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 5093657.72,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 117903.48,
+    "depreciation": 1274741.87,
+    "net_income": 1147241.84
+  },
+  "balance_sheet": {
+    "total_assets": 26133443.41,
+    "current_assets": 14794694.41,
+    "fixed_assets": 11338749.0,
+    "total_liabilities": 12647313.36,
+    "current_liabilities": 6899239.5,
+    "long_term_liabilities": null,
+    "shareholders_equity": 13486130.05
+  },
+  "employees": {
+    "n_employees": 2523,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Tor",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljungquist",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heilborn",
+      "first_name": "Helge",
+      "initials": null,
+      "position": "Verkst. direktören"
+    },
+    {
+      "surname": "Tingsten",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": "J:r",
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Byråchef Åke von Zweigbergk"
+    },
+    {
+      "surname": "Norhammar",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Arkitekt Sven Wallander"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,68 @@
+{
+  "company_name": "BILLMAN regulator ab",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 82702000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 72990000.0,
+    "wages_expense": null,
+    "tax_expense": 1957000.0,
+    "depreciation": null,
+    "net_income": 547000.0
+  },
+  "balance_sheet": {
+    "total_assets": 90687000.0,
+    "current_assets": 57719000.0,
+    "fixed_assets": 32340000.0,
+    "total_liabilities": 26661000.0,
+    "current_liabilities": 13600000.0,
+    "long_term_liabilities": 6574000.0,
+    "shareholders_equity": 32372000.0
+  },
+  "employees": {
+    "n_employees": 1514,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "DALEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "ABERG",
+      "first_name": "SVEN",
+      "initials": "T",
+      "position": "direktör"
+    },
+    {
+      "surname": "OLSON",
+      "first_name": null,
+      "initials": "G",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "BILLMAN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "THUNBERG",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

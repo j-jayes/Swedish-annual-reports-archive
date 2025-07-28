@@ -1,0 +1,106 @@
+{
+  "company_name": "Skaraborgs Enskilda Bank Aktiebolag",
+  "fiscal_year": 1946,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 1549752.7,
+    "tax_expense": null,
+    "depreciation": 467005.69,
+    "net_income": 701535.73
+  },
+  "balance_sheet": {
+    "total_assets": 177472586.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 177472586.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Pontén",
+      "first_name": "Sigurd",
+      "initials": "J",
+      "position": null
+    },
+    {
+      "surname": "Henström",
+      "first_name": "N",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vallquist",
+      "first_name": "S",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "G",
+      "initials": "Ivar",
+      "position": null
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Carl",
+      "initials": "S",
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "C",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Hofsten",
+      "first_name": "Erland",
+      "initials": "v",
+      "position": null
+    },
+    {
+      "surname": "Waller",
+      "first_name": "Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Å",
+      "initials": "T",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenström",
+      "first_name": "Miles",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bredberg",
+      "first_name": "Leo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Karl",
+      "initials": "L",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Bank- och Fondinspektionen förordnad revisor."
+    }
+  ],
+  "additional_notes": null
+}

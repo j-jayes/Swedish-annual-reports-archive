@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET BAHCO",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 5151876.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 622792.0
+  },
+  "balance_sheet": {
+    "total_assets": 67989566.0,
+    "current_assets": 49771644.0,
+    "fixed_assets": 18217922.0,
+    "total_liabilities": 21871055.0,
+    "current_liabilities": 14034112.0,
+    "long_term_liabilities": 6019443.0,
+    "shareholders_equity": 21871055.0
+  },
+  "employees": {
+    "n_employees": 1892,
+    "n_blue_collar_workers": 1092,
+    "n_white_collar_workers": 756
+  },
+  "board": [
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Assarsson",
+      "first_name": "Vilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundeqvist",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjorth",
+      "first_name": "Arnold",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

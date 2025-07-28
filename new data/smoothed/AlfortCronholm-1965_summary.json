@@ -1,0 +1,62 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 20934705.65,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 20692819.02,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1148337.64,
+    "net_income": 241886.66
+  },
+  "balance_sheet": {
+    "total_assets": 49932848.85,
+    "current_assets": 10633483.28,
+    "fixed_assets": 18684115.0,
+    "total_liabilities": 49565703.885000005,
+    "current_liabilities": 15026087.953333333,
+    "long_term_liabilities": 9037942.893333333,
+    "shareholders_equity": 388657.73333333334
+  },
+  "employees": {
+    "n_employees": 880.6666666666666,
+    "n_blue_collar_workers": 341,
+    "n_white_collar_workers": 488
+  },
+  "board": [
+    {
+      "surname": "Alfort",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Plomgren",
+      "first_name": "Carl",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare auktoriserade revisorer."
+    },
+    {
+      "surname": "Rydholm",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare auktoriserade revisorer."
+    }
+  ]
+}

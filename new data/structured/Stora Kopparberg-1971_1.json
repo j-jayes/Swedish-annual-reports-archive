@@ -1,0 +1,98 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AB",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 1887.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1653.1,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 147.7,
+    "net_income": 32.0
+  },
+  "balance_sheet": {
+    "total_assets": 2380.5,
+    "current_assets": 513.3,
+    "fixed_assets": 1316.4,
+    "total_liabilities": 960.5,
+    "current_liabilities": 662.6,
+    "long_term_liabilities": 960.5,
+    "shareholders_equity": 682.7
+  },
+  "employees": {
+    "n_employees": 13113,
+    "n_blue_collar_workers": 10448,
+    "n_white_collar_workers": 2665
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": "Ståthållare"
+    },
+    {
+      "surname": "Malmfors",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Generaldirektör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Bruksdisponent, verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "M.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Sven-Håkan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Carl Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

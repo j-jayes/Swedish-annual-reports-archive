@@ -1,0 +1,86 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1961,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5101206.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 417339.0,
+    "depreciation": 2148469.0,
+    "net_income": 2358963.396666667
+  },
+  "balance_sheet": {
+    "total_assets": 27993731.0,
+    "current_assets": 15749744.333333334,
+    "fixed_assets": 10067482.0,
+    "total_liabilities": 16360081.333333334,
+    "current_liabilities": 5594765.333333333,
+    "long_term_liabilities": 7489332.0,
+    "shareholders_equity": 10580000.0
+  },
+  "employees": {
+    "n_employees": 716,
+    "n_blue_collar_workers": 568,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "PFANNENSTILL",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "ÖDMARK",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "HALLIN",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HÖSTEREY",
+      "first_name": "Wolfram",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "LAGNELL",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "LINDQUIST",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KARLGREN",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "KRONBERG",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

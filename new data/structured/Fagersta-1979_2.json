@@ -1,0 +1,98 @@
+{
+  "company_name": "FAGERSTA",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 1891.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8.8,
+    "depreciation": null,
+    "net_income": 31.4
+  },
+  "balance_sheet": {
+    "total_assets": 2156.4,
+    "current_assets": 1299.7,
+    "fixed_assets": 851.2,
+    "total_liabilities": 1476.7,
+    "current_liabilities": 580.3,
+    "long_term_liabilities": 769.1,
+    "shareholders_equity": 679.7
+  },
+  "employees": {
+    "n_employees": 6201,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Tony",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kock",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "A",
+      "initials": "Erik",
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan",
+      "initials": "H",
+      "position": null
+    },
+    {
+      "surname": "Åsberg",
+      "first_name": "Alvar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

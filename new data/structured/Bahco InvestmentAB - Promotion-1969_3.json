@@ -1,0 +1,76 @@
+{
+  "company_name": "Investmentaktiebolaget Promotion",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 729927.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6446.0,
+    "depreciation": 24211.0,
+    "net_income": 7553.0
+  },
+  "balance_sheet": {
+    "total_assets": 729982.0,
+    "current_assets": 449162.0,
+    "fixed_assets": 277923.0,
+    "total_liabilities": 290942.0,
+    "current_liabilities": 74870.0,
+    "long_term_liabilities": 217749.0,
+    "shareholders_equity": 108209.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Bildt",
+      "first_name": "Carl",
+      "initials": "Robert",
+      "position": null
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Tekn. dr."
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bostedt",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

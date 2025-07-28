@@ -1,0 +1,58 @@
+{
+  "company_name": "STOCKHOLMS NYA TRANSPORT- OCH BOGSERINGS-AKTIEBOLAG",
+  "fiscal_year": 1925,
+  "income_statement": {
+    "revenue": 3149730.07,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2245676.95,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 197550.27,
+    "net_income": 1633.55
+  },
+  "balance_sheet": {
+    "total_assets": 2965491.16,
+    "current_assets": null,
+    "fixed_assets": 2663183.62,
+    "total_liabilities": null,
+    "current_liabilities": 29765.97,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1500000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Magnusson",
+      "first_name": "Adolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bruzelius",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Appelqvist",
+      "first_name": "J. Ax.",
+      "initials": null,
+      "position": "Verkst, direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Spilhammar",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ljungberg",
+      "first_name": "C.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

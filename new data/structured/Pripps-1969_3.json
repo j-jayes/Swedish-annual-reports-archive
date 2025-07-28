@@ -1,0 +1,140 @@
+{
+  "company_name": "Pripp-Bryggerierna Aktiebolag",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 831106.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 118929.0,
+    "tax_expense": 5986.0,
+    "depreciation": 48130.0,
+    "net_income": 40564.0
+  },
+  "balance_sheet": {
+    "total_assets": 773067.0,
+    "current_assets": 322100.0,
+    "fixed_assets": 416491.0,
+    "total_liabilities": 326747.0,
+    "current_liabilities": 111636.0,
+    "long_term_liabilities": 195155.0,
+    "shareholders_equity": 326747.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Malmquist",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sverdrup",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Christian",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rohlin",
+      "first_name": "Sven-Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

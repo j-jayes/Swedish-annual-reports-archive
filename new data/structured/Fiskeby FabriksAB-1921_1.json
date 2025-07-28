@@ -1,0 +1,76 @@
+{
+  "company_name": "FISKEBY FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1921,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 19623.42,
+    "net_income": -5048999.88
+  },
+  "balance_sheet": {
+    "total_assets": 36252262.17,
+    "current_assets": null,
+    "fixed_assets": 23115828.02,
+    "total_liabilities": null,
+    "current_liabilities": 9815577.61,
+    "long_term_liabilities": null,
+    "shareholders_equity": 21051934.82
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Falkman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cedercrantz",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Th.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "O.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Quitslund",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svenson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Aurell",
+      "first_name": "Ludv.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Vilén",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

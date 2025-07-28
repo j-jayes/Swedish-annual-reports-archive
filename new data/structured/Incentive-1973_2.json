@@ -1,0 +1,88 @@
+{
+  "company_name": "INCENTIVE",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 1091.442,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 17.413,
+    "depreciation": null,
+    "net_income": 16.03
+  },
+  "balance_sheet": {
+    "total_assets": 1091.584,
+    "current_assets": 828.112,
+    "fixed_assets": 256.818,
+    "total_liabilities": 436.877,
+    "current_liabilities": 302.225,
+    "long_term_liabilities": 163.659,
+    "shareholders_equity": 140.419
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMSTRÖM",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NICOLIN",
+      "first_name": "CURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSON",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "REGELIUS",
+      "first_name": "KARL",
+      "initials": "E",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "WIDHAGEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

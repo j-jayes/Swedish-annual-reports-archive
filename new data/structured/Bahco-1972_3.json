@@ -1,0 +1,110 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 440.34,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 404.693,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9.317,
+    "net_income": 5.182
+  },
+  "balance_sheet": {
+    "total_assets": 314.199,
+    "current_assets": 245.066,
+    "fixed_assets": 69.075,
+    "total_liabilities": 90.951,
+    "current_liabilities": 93.717,
+    "long_term_liabilities": 81.648,
+    "shareholders_equity": 92.977
+  },
+  "employees": {
+    "n_employees": 4047,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Blomgren",
+      "first_name": "Boris",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åfors",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Hybinette",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Suppleanter"
+    },
+    {
+      "surname": "Billing",
+      "first_name": "Ragne",
+      "initials": null,
+      "auditing_firm": "Suppleanter"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "Gamlestadens Fabrikers Aktiebolag",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 50019743.0,
+    "cost_of_goods_sold": 46238466.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 7745130.0
+  },
+  "balance_sheet": {
+    "total_assets": 66319153.0,
+    "current_assets": 29734205.0,
+    "fixed_assets": 36584948.0,
+    "total_liabilities": 26124046.0,
+    "current_liabilities": 8601835.0,
+    "long_term_liabilities": 4903586.0,
+    "shareholders_equity": 40195107.0
+  },
+  "employees": {
+    "n_employees": 1034,
+    "n_blue_collar_workers": 868,
+    "n_white_collar_workers": 166
+  },
+  "board": [
+    {
+      "surname": "Carlander",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blum",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bökman",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Elon",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kellgren",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "Motala Verkstads Nya Aktiebolags",
+  "fiscal_year": 1902,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 118752.3
+  },
+  "balance_sheet": {
+    "total_assets": 4733195.09,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2382647.42,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2350547.67
+  },
+  "employees": {
+    "n_employees": 1238,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BOSTRÖM",
+      "first_name": "F",
+      "initials": "F. A.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "THAM",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅNGSTRÖM",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SWENSSON",
+      "first_name": "GUST.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NORRMAN",
+      "first_name": "V.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SÖDERBAUM",
+      "first_name": "B.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Bolaget har under det gångna året sysselsatt en arbetsstyrka, som som lägst utgjort 1,148 och högst 1,238 man."
+}

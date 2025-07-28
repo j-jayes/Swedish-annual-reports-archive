@@ -1,0 +1,64 @@
+{
+  "company_name": "KRAMFORS AKTIEBOLAG",
+  "fiscal_year": 1914,
+  "income_statement": {
+    "revenue": 1678968.21,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 120673.01,
+    "depreciation": null,
+    "net_income": 900550.64
+  },
+  "balance_sheet": {
+    "total_assets": 27286848.4,
+    "current_assets": 5128554.18,
+    "fixed_assets": 18023840.44,
+    "total_liabilities": 9418391.02,
+    "current_liabilities": 3315630.75,
+    "long_term_liabilities": 6102760.27,
+    "shareholders_equity": 9418391.02
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Mannerheim",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mannerheim",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Abenius",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "F.",
+      "initials": "M.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Schnell",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Östberg",
+      "first_name": "Johan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

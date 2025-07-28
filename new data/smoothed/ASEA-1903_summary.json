@@ -1,0 +1,80 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGETS",
+  "fiscal_year": 1903,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -178739.73
+  },
+  "balance_sheet": {
+    "total_assets": 9855351.48,
+    "current_assets": null,
+    "fixed_assets": 2979582.1233333335,
+    "total_liabilities": null,
+    "current_liabilities": 1526162.35,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5226342.26
+  },
+  "employees": {
+    "n_employees": 1186,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WIJKMAN",
+      "first_name": null,
+      "initials": "O",
+      "position": "FR."
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": null,
+      "initials": "V.",
+      "position": null
+    },
+    {
+      "surname": "WENSTRÖM",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "HEILBORN",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EDSTRÖM",
+      "first_name": "J.",
+      "initials": "J.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "VOUGT",
+      "first_name": null,
+      "initials": "C. F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CLEOPHAS",
+      "first_name": null,
+      "initials": "ER.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSELLI",
+      "first_name": null,
+      "initials": "J. H.",
+      "auditing_firm": null
+    }
+  ]
+}

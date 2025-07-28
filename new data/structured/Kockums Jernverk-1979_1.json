@@ -1,0 +1,86 @@
+{
+  "company_name": "KOCKUMS JERNVERK",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 220.652,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 217.114,
+    "wages_expense": null,
+    "tax_expense": 676.0,
+    "depreciation": 9.671,
+    "net_income": 1.59
+  },
+  "balance_sheet": {
+    "total_assets": 190.373,
+    "current_assets": 116.923,
+    "fixed_assets": 69.19,
+    "total_liabilities": 43.998,
+    "current_liabilities": 17.561,
+    "long_term_liabilities": 23.019,
+    "shareholders_equity": 40.775
+  },
+  "employees": {
+    "n_employees": 949,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hybinette",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jörgensen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "representant för de anställda"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

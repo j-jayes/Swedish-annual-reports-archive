@@ -1,0 +1,67 @@
+{
+  "company_name": "AB SVENSKA METALLVERKEN",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 509.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.9,
+    "depreciation": null,
+    "net_income": 6.2
+  },
+  "balance_sheet": {
+    "total_assets": 296.3,
+    "current_assets": 165.0,
+    "fixed_assets": 131.3,
+    "total_liabilities": 189.0,
+    "current_liabilities": 67.3,
+    "long_term_liabilities": 113.7,
+    "shareholders_equity": 107.3
+  },
+  "employees": {
+    "n_employees": 5414,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "WARN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "B. G.",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "SOUSA PERNES",
+      "first_name": "MANOEL BON de",
+      "initials": null,
+      "position": "Mr"
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

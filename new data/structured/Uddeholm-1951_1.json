@@ -1,0 +1,82 @@
+{
+  "company_name": "UDDEHOLMSKONCERNEN",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 101.777,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 27.856,
+    "net_income": 22.0
+  },
+  "balance_sheet": {
+    "total_assets": 353.489,
+    "current_assets": 227.934,
+    "fixed_assets": 114.179,
+    "total_liabilities": 145.773,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Schwartz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindahl",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "Age",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Biesèr",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielsen",
+      "first_name": "N.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": "N.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Gösta",
+      "initials": "G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frisell",
+      "first_name": null,
+      "initials": "G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": "S.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

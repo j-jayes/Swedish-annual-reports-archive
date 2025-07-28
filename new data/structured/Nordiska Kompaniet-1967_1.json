@@ -1,0 +1,110 @@
+{
+  "company_name": "AB Nordiska Kompaniet",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 287.581,
+    "cost_of_goods_sold": 253.223,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 354.0,
+    "depreciation": 5.255,
+    "net_income": 5.927
+  },
+  "balance_sheet": {
+    "total_assets": 265.951,
+    "current_assets": 126.604,
+    "fixed_assets": 119.185,
+    "total_liabilities": 147.869,
+    "current_liabilities": 41.133,
+    "long_term_liabilities": 102.755,
+    "shareholders_equity": 118.091
+  },
+  "employees": {
+    "n_employees": 2726,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Brusewitz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "de"
+    },
+    {
+      "surname": "Rydman",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sachs",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sachs",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Ordförande/Chairman"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkställande direktör/Managing Director"
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leijonhufvud",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Oiar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor/Chartered Accountant"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor/Chartered Accountant"
+    },
+    {
+      "surname": "Setterwall",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergström",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor/Chartered Accountant"
+    }
+  ],
+  "additional_notes": null
+}

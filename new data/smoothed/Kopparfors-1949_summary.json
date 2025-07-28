@@ -1,0 +1,74 @@
+{
+  "company_name": "KOPPARFORS AKTIEBOLAG",
+  "fiscal_year": 1949,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5850695.263333333,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3141366.8666666667,
+    "depreciation": 827759.79,
+    "net_income": 1805294.6
+  },
+  "balance_sheet": {
+    "total_assets": 48360938.983333334,
+    "current_assets": 11274242.346666668,
+    "fixed_assets": 28301545.996666666,
+    "total_liabilities": 10312199.036666667,
+    "current_liabilities": 6919505.13,
+    "long_term_liabilities": 3368417.16,
+    "shareholders_equity": 38048739.946666665
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2593,
+    "n_white_collar_workers": 214
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Ax.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Lars H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgersson",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JULIN",
+      "first_name": null,
+      "initials": "RICH.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    }
+  ]
+}

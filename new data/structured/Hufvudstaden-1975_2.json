@@ -1,0 +1,88 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 97.713,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 66.26,
+    "wages_expense": null,
+    "tax_expense": 8.294,
+    "depreciation": null,
+    "net_income": 13.243
+  },
+  "balance_sheet": {
+    "total_assets": 317.371,
+    "current_assets": 49.197,
+    "fixed_assets": 267.993,
+    "total_liabilities": 152.737,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 152.737
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BERGQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BOHMAN",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RYDÉ",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHMIDT",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLIESTRÖM-TJUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "AUKTORISERADE REVISORN"
+    },
+    {
+      "surname": "LINDHOLM",
+      "first_name": null,
+      "initials": "STIG HJ:SON",
+      "auditing_firm": "DIREKTÖR"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "JAN",
+      "initials": null,
+      "auditing_firm": "AUKTORISERADE REVISORN"
+    },
+    {
+      "surname": "LARSON",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": "KAMRER"
+    }
+  ],
+  "additional_notes": null
+}

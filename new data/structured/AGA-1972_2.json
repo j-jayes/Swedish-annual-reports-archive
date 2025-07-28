@@ -1,0 +1,86 @@
+{
+  "company_name": "AGA Aktiebolag",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 1180.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 39.1,
+    "depreciation": null,
+    "net_income": 24.8
+  },
+  "balance_sheet": {
+    "total_assets": 1358.7,
+    "current_assets": 769.9,
+    "fixed_assets": 584.6,
+    "total_liabilities": 914.6,
+    "current_liabilities": 384.7,
+    "long_term_liabilities": 470.5,
+    "shareholders_equity": 444.1
+  },
+  "employees": {
+    "n_employees": 12864,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

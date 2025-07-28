@@ -1,0 +1,146 @@
+{
+  "company_name": "ERICSSON",
+  "fiscal_year": 2000,
+  "income_statement": {
+    "revenue": 273.6,
+    "cost_of_goods_sold": 180.392,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7.998,
+    "depreciation": 10.936,
+    "net_income": 21.018
+  },
+  "balance_sheet": {
+    "total_assets": 250.314,
+    "current_assets": 199.808,
+    "fixed_assets": 50.506,
+    "total_liabilities": null,
+    "current_liabilities": 105.92,
+    "long_term_liabilities": 22.294,
+    "shareholders_equity": 91.686
+  },
+  "employees": {
+    "n_employees": 105129,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ramqvist",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Deputy chairman"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Deputy chairman"
+    },
+    {
+      "surname": "Hellström",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "President and CEO"
+    },
+    {
+      "surname": "FitzGerald",
+      "first_name": "Niall",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engström",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Lindahl",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Martin-Löf",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pfeiffer",
+      "first_name": "Eckhard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Clas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sutherland",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergström",
+      "first_name": "Monica",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Binning",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Svenmarck",
+      "first_name": "\"\".\"",
+      "initials": "Åke",
+      "position": "Employee representative"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "Carl-Eric",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers"
+    },
+    {
+      "surname": "Herolf",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers"
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

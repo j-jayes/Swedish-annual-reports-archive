@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 354631036.0,
+    "cost_of_goods_sold": 268961076.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6127246.0,
+    "depreciation": 15093300.0,
+    "net_income": 9120527.0
+  },
+  "balance_sheet": {
+    "total_assets": 403014952.0,
+    "current_assets": 66267573.0,
+    "fixed_assets": 132617108.0,
+    "total_liabilities": 179848045.0,
+    "current_liabilities": 61492145.0,
+    "long_term_liabilities": 101904880.0,
+    "shareholders_equity": 123165907.0
+  },
+  "employees": {
+    "n_employees": 7906,
+    "n_blue_collar_workers": 6114,
+    "n_white_collar_workers": 1792
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HAGLUND",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": "Tandläkare"
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "LINDBLOM",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": "Konsul"
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

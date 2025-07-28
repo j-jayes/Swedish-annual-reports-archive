@@ -1,0 +1,82 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1932,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1540506.6,
+    "net_income": 805141.6
+  },
+  "balance_sheet": {
+    "total_assets": 138844947.5,
+    "current_assets": null,
+    "fixed_assets": 96850441.52,
+    "total_liabilities": 81156149.69,
+    "current_liabilities": null,
+    "long_term_liabilities": 54494000.0,
+    "shareholders_equity": 57688797.81
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Mannheimer",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cervin",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustin",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Troili",
+      "first_name": "E. U.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "H. G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lennartson",
+      "first_name": "C. E. L.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Natt och Dag",
+      "first_name": "Knut H:son",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

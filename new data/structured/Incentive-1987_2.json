@@ -1,0 +1,98 @@
+{
+  "company_name": "Incentive",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 7077.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6321.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 208.0,
+    "net_income": 198.0
+  },
+  "balance_sheet": {
+    "total_assets": 5323.0,
+    "current_assets": 3544.0,
+    "fixed_assets": 1676.0,
+    "total_liabilities": 1962.0,
+    "current_liabilities": 1962.0,
+    "long_term_liabilities": 415.0,
+    "shareholders_equity": 1475.0
+  },
+  "employees": {
+    "n_employees": 10201,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "Bengt-Ola",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "Eckeskog",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Aukt.revisor"
+    },
+    {
+      "surname": "Gezelius",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "bankdirektör"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 225.081,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 77.477,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 14.9,
+    "net_income": 2.482
+  },
+  "balance_sheet": {
+    "total_assets": 266.738,
+    "current_assets": 69.775,
+    "fixed_assets": 59.325,
+    "total_liabilities": 158.71,
+    "current_liabilities": 72.109,
+    "long_term_liabilities": 81.264,
+    "shareholders_equity": 29.525
+  },
+  "employees": {
+    "n_employees": 1867,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Högberg",
+      "first_name": "Emanuel",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "Gester",
+      "first_name": "Eskil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wettermark",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W.",
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    }
+  ],
+  "additional_notes": null
+}

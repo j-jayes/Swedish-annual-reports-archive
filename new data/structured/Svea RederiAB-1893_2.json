@@ -1,0 +1,52 @@
+{
+  "company_name": "Rederiaktiebolaget Svea's",
+  "fiscal_year": 1893,
+  "income_statement": {
+    "revenue": 719853.95,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 576645.01,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 42674.73,
+    "net_income": 3073.05
+  },
+  "balance_sheet": {
+    "total_assets": 1453301.12,
+    "current_assets": 10934.81,
+    "fixed_assets": 1429984.0,
+    "total_liabilities": 453301.12,
+    "current_liabilities": 29799.16,
+    "long_term_liabilities": 26692.12,
+    "shareholders_equity": 1000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Arosenius",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "K. Ahlborg",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Palmstierna",
+      "first_name": "C.",
+      "initials": "C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bildt",
+      "first_name": "K.",
+      "initials": "K.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

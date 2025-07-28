@@ -1,0 +1,86 @@
+{
+  "company_name": "AB SCANIA-VABIS",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 1246.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1023.5,
+    "wages_expense": null,
+    "tax_expense": 45.4,
+    "depreciation": 23.7,
+    "net_income": 38.6
+  },
+  "balance_sheet": {
+    "total_assets": 786.2,
+    "current_assets": 482.2,
+    "fixed_assets": 275.7,
+    "total_liabilities": 343.4,
+    "current_liabilities": 288.7,
+    "long_term_liabilities": 85.2,
+    "shareholders_equity": 299.8
+  },
+  "employees": {
+    "n_employees": 8561,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "N.-F.",
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahrgren",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    },
+    {
+      "surname": "Calissendorff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Godin",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

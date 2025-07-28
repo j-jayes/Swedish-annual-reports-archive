@@ -1,0 +1,79 @@
+{
+  "company_name": "Incentive",
+  "fiscal_year": 1979,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2905.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 23.9
+  },
+  "balance_sheet": {
+    "total_assets": 2735.9,
+    "current_assets": 1833.9,
+    "fixed_assets": 886.9,
+    "total_liabilities": 471.4,
+    "current_liabilities": 582.2,
+    "long_term_liabilities": 275.1,
+    "shareholders_equity": 368.6
+  },
+  "employees": {
+    "n_employees": 10528,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Regnér",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "hedersordf."
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Abel",
+      "first_name": "Enno",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Welinder",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Caspar",
+      "first_name": "H.",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Per-Olow",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": []
+}

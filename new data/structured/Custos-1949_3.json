@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET CUSTOS",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 4.34399581,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3.646872
+  },
+  "balance_sheet": {
+    "total_assets": 61923391.57,
+    "current_assets": 260372.34,
+    "fixed_assets": 61663049.29,
+    "total_liabilities": 14332837.32,
+    "current_liabilities": 51635.5,
+    "long_term_liabilities": 14281201.82,
+    "shareholders_equity": 47590554.25
+  },
+  "employees": {
+    "n_employees": 5,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HERSLOW",
+      "first_name": "E",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "HÅKON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKLUND",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TONDEN",
+      "first_name": "ALBERT",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GULLBERG",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,68 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 2470961.48,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 462762.0,
+    "depreciation": 1113598.4,
+    "net_income": 1601081.2
+  },
+  "balance_sheet": {
+    "total_assets": 12318725.57,
+    "current_assets": 5717749.57,
+    "fixed_assets": 5383603.0,
+    "total_liabilities": 4661015.34,
+    "current_liabilities": 1191810.5,
+    "long_term_liabilities": 3469204.84,
+    "shareholders_equity": 7657710.23
+  },
+  "employees": {
+    "n_employees": 663,
+    "n_blue_collar_workers": 570,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunström",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Setterwall",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wilhelmsona",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jern",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Bolagets totala omsättning under året, omfattande fabrikerna i Gunnebobruk, Varberg och Sundsvall, har uppgått till kronor 21,427,807: —."
+}

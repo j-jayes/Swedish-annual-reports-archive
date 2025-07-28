@@ -1,0 +1,76 @@
+{
+  "company_name": "HOLMENS BRUK",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 24496049.77,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1321522.44,
+    "depreciation": 4894215.51,
+    "net_income": 5274616.37
+  },
+  "balance_sheet": {
+    "total_assets": 146416517.54,
+    "current_assets": 80945825.93,
+    "fixed_assets": 46416517.54,
+    "total_liabilities": 90463909.67,
+    "current_liabilities": null,
+    "long_term_liabilities": 39188840.32,
+    "shareholders_equity": 9456756.06
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Martin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahren",
+      "first_name": null,
+      "initials": "W.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnell",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

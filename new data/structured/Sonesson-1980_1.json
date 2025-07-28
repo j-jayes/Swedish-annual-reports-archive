@@ -1,0 +1,140 @@
+{
+  "company_name": "SONESSONS",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 1099.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 11.9
+  },
+  "balance_sheet": {
+    "total_assets": 945.5,
+    "current_assets": 648.9,
+    "fixed_assets": 318.1,
+    "total_liabilities": null,
+    "current_liabilities": 314.9,
+    "long_term_liabilities": 284.6,
+    "shareholders_equity": 182.5
+  },
+  "employees": {
+    "n_employees": 3251,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Brink",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Kessman",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Ordinarie ledamot, Vice ordförande"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Raihle",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Ordinarie ledamot, Ordförande"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Ahrland",
+      "first_name": "Karin",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Linders",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Meldgaard",
+      "first_name": "Jörn",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hansson",
+      "first_name": "Åke",
+      "initials": "J",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordelöf",
+      "first_name": "Christer",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

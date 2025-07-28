@@ -1,0 +1,92 @@
+{
+  "company_name": "Marabou",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 304.663,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 234.456,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10.0,
+    "net_income": 6.9
+  },
+  "balance_sheet": {
+    "total_assets": 220.414,
+    "current_assets": 68.712,
+    "fixed_assets": 129.404,
+    "total_liabilities": 98.39,
+    "current_liabilities": 47.137,
+    "long_term_liabilities": 30.094,
+    "shareholders_equity": 98.39
+  },
+  "employees": {
+    "n_employees": 1720,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Henning",
+      "initials": null,
+      "position": "Ordförande, Direktör"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "H:son-Ericson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Riksmarskalk"
+    },
+    {
+      "surname": "Lindahl",
+      "first_name": "Magnus",
+      "initials": null,
+      "position": "Høyesterettsadvokat"
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Herr"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Gentele",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

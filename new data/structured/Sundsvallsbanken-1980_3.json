@@ -1,0 +1,112 @@
+{
+  "company_name": "SUNDSVALLS BANKEN",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 250.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 133.9,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 14.5
+  },
+  "balance_sheet": {
+    "total_assets": 7000.6,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 155.624376
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Aggeryd",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellerot",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Järvefelt",
+      "first_name": "Lars",
+      "initials": "E",
+      "position": null
+    },
+    {
+      "surname": "Lindmark",
+      "first_name": "Samme",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Versteegh",
+      "first_name": "Arend",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högström",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åkerberg",
+      "first_name": "Sigge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ehn",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Flink",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Advokat"
+    }
+  ],
+  "additional_notes": null
+}

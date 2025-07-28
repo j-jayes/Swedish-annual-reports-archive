@@ -1,0 +1,98 @@
+{
+  "company_name": "LM ERICSSON",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 3159.525,
+    "cost_of_goods_sold": 1663.595,
+    "operating_expenses": 919.572,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 109.38,
+    "net_income": 175.081
+  },
+  "balance_sheet": {
+    "total_assets": 5039.14,
+    "current_assets": 3340.87,
+    "fixed_assets": 783.611,
+    "total_liabilities": 3655.347,
+    "current_liabilities": 1504.881,
+    "long_term_liabilities": 760.38,
+    "shareholders_equity": 1383.793
+  },
+  "employees": {
+    "n_employees": 61900,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN TURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDVALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "James",
+      "first_name": "C. B.",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "de Vylder",
+      "first_name": "Klas",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

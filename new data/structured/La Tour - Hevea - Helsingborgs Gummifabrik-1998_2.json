@@ -1,0 +1,98 @@
+{
+  "company_name": "LATOUR",
+  "fiscal_year": 1998,
+  "income_statement": {
+    "revenue": 3622.0,
+    "cost_of_goods_sold": 2793.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -35.0,
+    "depreciation": 98.0,
+    "net_income": 406.0
+  },
+  "balance_sheet": {
+    "total_assets": 3713.0,
+    "current_assets": 1345.0,
+    "fixed_assets": 1752.0,
+    "total_liabilities": 957.0,
+    "current_liabilities": 920.0,
+    "long_term_liabilities": 131.0,
+    "shareholders_equity": 2122.0
+  },
+  "employees": {
+    "n_employees": 2689,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Elisabeth",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Flory",
+      "first_name": "Ingrid",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Wirenstam",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Throbäck",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Ledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Öhrlings Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Öhrlings Coopers & Lybrand AB"
+    }
+  ],
+  "additional_notes": null
+}

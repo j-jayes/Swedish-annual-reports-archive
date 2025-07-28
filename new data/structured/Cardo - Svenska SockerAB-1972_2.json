@@ -1,0 +1,88 @@
+{
+  "company_name": "AB CARDO",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 95.643,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 61.716
+  },
+  "balance_sheet": {
+    "total_assets": 277.139,
+    "current_assets": 40.442,
+    "fixed_assets": 236.697,
+    "total_liabilities": 90.673,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 186.466
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hammarskiöld",
+      "first_name": null,
+      "initials": "S.",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Konsul"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "H.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Th.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Kennedy",
+      "first_name": "Douglas",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Nordenskjöld",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Faxe",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "N. A.",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    }
+  ],
+  "additional_notes": null
+}

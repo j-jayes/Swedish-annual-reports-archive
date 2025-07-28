@@ -1,0 +1,70 @@
+{
+  "company_name": "AKTIEBOLAGET OPTIMUS",
+  "fiscal_year": 1914,
+  "income_statement": {
+    "revenue": 349399.84,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 130363.62,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 45731.74,
+    "net_income": 136540.94
+  },
+  "balance_sheet": {
+    "total_assets": 2845890.37,
+    "current_assets": 686793.89,
+    "fixed_assets": 184593.46,
+    "total_liabilities": 1615824.2,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1582000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Östberg",
+      "first_name": "Petter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bildt",
+      "first_name": "A.",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Otterström",
+      "first_name": "Gilbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enell",
+      "first_name": "H.",
+      "initials": "G. O.",
+      "position": null
+    },
+    {
+      "surname": "Ljungdahl",
+      "first_name": "C.",
+      "initials": "E.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Boberg",
+      "first_name": "Edv.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Neiglick",
+      "first_name": "Conrad",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

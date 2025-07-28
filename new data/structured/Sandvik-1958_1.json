@@ -1,0 +1,104 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 57040013.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 14441508.0,
+    "depreciation": 11937326.0,
+    "net_income": 5633212.0
+  },
+  "balance_sheet": {
+    "total_assets": 162690687.0,
+    "current_assets": 41613001.0,
+    "fixed_assets": 119038253.0,
+    "total_liabilities": 45527319.0,
+    "current_liabilities": 7782433.0,
+    "long_term_liabilities": 18131000.0,
+    "shareholders_equity": 117553330.0
+  },
+  "employees": {
+    "n_employees": 6203,
+    "n_blue_collar_workers": 4543,
+    "n_white_collar_workers": 1660
+  },
+  "board": [
+    {
+      "surname": "GÖRANSSON",
+      "first_name": "KARL FREDRIK",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "HAGLUND",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "ERIK W",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ENESTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Intendent"
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "GEORG",
+      "initials": null,
+      "auditing_firm": "Tandläkare"
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": "Bruksdisponent"
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": "Konsul"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "ALGOT JOHANSSON AB",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 190.394,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 192.415,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 581.0
+  },
+  "balance_sheet": {
+    "total_assets": 98.558,
+    "current_assets": 83.769,
+    "fixed_assets": 11.811,
+    "total_liabilities": 69.389,
+    "current_liabilities": 12.733,
+    "long_term_liabilities": 4.812,
+    "shareholders_equity": 29.169
+  },
+  "employees": {
+    "n_employees": 1108,
+    "n_blue_collar_workers": 932,
+    "n_white_collar_workers": 176
+  },
+  "board": [
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Aasa",
+      "first_name": "Johannes",
+      "initials": null,
+      "position": "anställdas representant"
+    },
+    {
+      "surname": "Boode",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": null,
+      "initials": "G.D.",
+      "position": "t.f. verkställande direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rahmn",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Strömberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiking",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "anställdas representant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

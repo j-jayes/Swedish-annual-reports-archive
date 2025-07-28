@@ -1,0 +1,86 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 2000,
+  "income_statement": {
+    "revenue": 124.493,
+    "cost_of_goods_sold": -93.549,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -2.121,
+    "depreciation": 3.81,
+    "net_income": 4.457
+  },
+  "balance_sheet": {
+    "total_assets": 87.289,
+    "current_assets": 57.609,
+    "fixed_assets": 29.68,
+    "total_liabilities": 24.33,
+    "current_liabilities": null,
+    "long_term_liabilities": 25.148,
+    "shareholders_equity": 26.324
+  },
+  "employees": {
+    "n_employees": 87128,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Bruzelius",
+      "first_name": "Peggy",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Halvorsen",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hughes",
+      "first_name": "Louis",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "Michael",
+      "initials": null,
+      "position": "President and CEO"
+    },
+    {
+      "surname": "Vuursteen",
+      "first_name": "Karel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Deputy Chairman"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmström",
+      "first_name": "Stefan",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    }
+  ],
+  "additional_notes": null
+}

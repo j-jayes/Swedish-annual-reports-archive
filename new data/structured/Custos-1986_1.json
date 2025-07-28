@@ -1,0 +1,64 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 239.348,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 73.111,
+    "depreciation": 176.0,
+    "net_income": 494.569
+  },
+  "balance_sheet": {
+    "total_assets": 2597.808,
+    "current_assets": 41.182,
+    "fixed_assets": 2556.626,
+    "total_liabilities": 310.294,
+    "current_liabilities": 224.144,
+    "long_term_liabilities": 86.15,
+    "shareholders_equity": 2287.514
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Senneby",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Anders",
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ericson",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

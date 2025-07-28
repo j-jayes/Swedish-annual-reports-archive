@@ -1,0 +1,98 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 881911641.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 912293672.0,
+    "wages_expense": null,
+    "tax_expense": 743091.0,
+    "depreciation": 4604430.0,
+    "net_income": -3430362.0
+  },
+  "balance_sheet": {
+    "total_assets": 492897958.0,
+    "current_assets": 406285064.0,
+    "fixed_assets": 86612894.0,
+    "total_liabilities": null,
+    "current_liabilities": 333404142.0,
+    "long_term_liabilities": 19002006.0,
+    "shareholders_equity": 26783000.0
+  },
+  "employees": {
+    "n_employees": 552,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "RAMEL",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Ordförande-Chairman"
+    },
+    {
+      "surname": "BECKETT",
+      "first_name": "TERENCE",
+      "initials": "N.",
+      "position": null
+    },
+    {
+      "surname": "FEHRM",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "IPSEN",
+      "first_name": "SVEN",
+      "initials": "O.",
+      "position": null
+    },
+    {
+      "surname": "KRUEGER",
+      "first_name": "ALAN",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDAHL",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLQUIST",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDÉN",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WITT",
+      "first_name": "CARD",
+      "initials": "HENRIK",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NILSSON",
+      "first_name": "LARS",
+      "initials": "GORAN",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 59.543,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 15.0,
+    "net_income": 46.166
+  },
+  "balance_sheet": {
+    "total_assets": 558.14,
+    "current_assets": 86.263,
+    "fixed_assets": 471.877,
+    "total_liabilities": 283.013,
+    "current_liabilities": 38.621,
+    "long_term_liabilities": 84.982,
+    "shareholders_equity": 275.192
+  },
+  "employees": {
+    "n_employees": 6,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "von Sydow",
+      "first_name": "Kristian",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Ulfsparre",
+      "first_name": "Karin",
+      "initials": null,
+      "position": "Civilekonom"
+    },
+    {
+      "surname": "Öhman",
+      "first_name": "Anders R.",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Ando",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "Direktör, verkst direktör"
+    },
+    {
+      "surname": "Leksell",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Direktör, vice verkst direktör, suppleant"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Tyra",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "Riksdagsledamot, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ericson",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Thorén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

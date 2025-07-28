@@ -1,0 +1,116 @@
+{
+  "company_name": "ABV",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 9703.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 63.7
+  },
+  "balance_sheet": {
+    "total_assets": 6331.0,
+    "current_assets": 2877.7,
+    "fixed_assets": 798.5,
+    "total_liabilities": 2306.2,
+    "current_liabilities": 2306.2,
+    "long_term_liabilities": 1584.1,
+    "shareholders_equity": 318.2
+  },
+  "employees": {
+    "n_employees": 12114,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "LINDEROTH",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "GYLL",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "ÖNNESJÖ",
+      "first_name": "Karl Erik",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "DALBORG",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "DAUN",
+      "first_name": "Stellan",
+      "initials": null,
+      "position": "Fd VD"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "Sven-Åke",
+      "initials": null,
+      "position": "Koncernchef och verkställande direktör"
+    },
+    {
+      "surname": "HAMMARQVIST",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "PERSSON",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "PETTERSSON",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 902.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 50.1,
+    "depreciation": 69.5,
+    "net_income": 178.2
+  },
+  "balance_sheet": {
+    "total_assets": 4704.3,
+    "current_assets": 877.7,
+    "fixed_assets": 3817.0,
+    "total_liabilities": 2576.3,
+    "current_liabilities": 758.2,
+    "long_term_liabilities": 2218.4,
+    "shareholders_equity": 1250.3
+  },
+  "employees": {
+    "n_employees": 308,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Kårfalk",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Hall",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "ledamot"
+    },
+    {
+      "surname": "Agri",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "SET Svensson, Erikson & Tjus Revisionsbyrå HB"
+    }
+  ],
+  "additional_notes": null
+}

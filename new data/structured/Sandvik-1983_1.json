@@ -1,0 +1,98 @@
+{
+  "company_name": "Sandvik",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 10119.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -264.0,
+    "depreciation": 386.0,
+    "net_income": -264.0
+  },
+  "balance_sheet": {
+    "total_assets": 11797.0,
+    "current_assets": 3996.0,
+    "fixed_assets": 3875.0,
+    "total_liabilities": 288.0,
+    "current_liabilities": 3292.0,
+    "long_term_liabilities": 3504.0,
+    "shareholders_equity": 1490.0
+  },
+  "employees": {
+    "n_employees": 24211,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Löwhagen",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmros",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Kvarfordh",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schiller",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

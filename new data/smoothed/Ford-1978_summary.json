@@ -1,0 +1,98 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1978,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 855908153.0,
+    "cost_of_goods_sold": 835883512.0,
+    "operating_expenses": 912293672.0,
+    "wages_expense": null,
+    "tax_expense": 743091.0,
+    "depreciation": 3262603.0,
+    "net_income": -1228241.3333333333
+  },
+  "balance_sheet": {
+    "total_assets": 434168768.3333333,
+    "current_assets": 362264688.6666667,
+    "fixed_assets": 71904079.66666667,
+    "total_liabilities": null,
+    "current_liabilities": 267715478.33333334,
+    "long_term_liabilities": 19002006.0,
+    "shareholders_equity": 26331939.666666668
+  },
+  "employees": {
+    "n_employees": 552,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "RAMEL",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Ordförande-Chairman"
+    },
+    {
+      "surname": "BECKETT",
+      "first_name": "TERENCE",
+      "initials": "N.",
+      "position": null
+    },
+    {
+      "surname": "FEHRM",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "IPSEN",
+      "first_name": "SVEN",
+      "initials": "O.",
+      "position": null
+    },
+    {
+      "surname": "KRUEGER",
+      "first_name": "ALAN",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDAHL",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLQUIST",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDÉN",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WITT",
+      "first_name": "HENRIK",
+      "initials": "C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NILSSON",
+      "first_name": "GÖRAN",
+      "initials": "L.",
+      "auditing_firm": null
+    }
+  ]
+}

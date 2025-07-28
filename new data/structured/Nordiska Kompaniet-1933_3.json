@@ -1,0 +1,92 @@
+{
+  "company_name": "NORDISKA KOMPANIET",
+  "fiscal_year": 1933,
+  "income_statement": {
+    "revenue": 7935694.63,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6013596.48,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 834044.32
+  },
+  "balance_sheet": {
+    "total_assets": 56714979.19,
+    "current_assets": 19805735.63,
+    "fixed_assets": 34032787.53,
+    "total_liabilities": 24183014.92,
+    "current_liabilities": 2804865.7,
+    "long_term_liabilities": 10234806.02,
+    "shareholders_equity": 27500000.0
+  },
+  "employees": {
+    "n_employees": 2294,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLNER",
+      "first_name": "JOH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LETTSTROM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "MAUR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERNMARK",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": "C.",
+      "initials": "ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

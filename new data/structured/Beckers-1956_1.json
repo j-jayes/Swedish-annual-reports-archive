@@ -1,0 +1,76 @@
+{
+  "company_name": "Beckers",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1337255.0,
+    "depreciation": null,
+    "net_income": 1256111.43
+  },
+  "balance_sheet": {
+    "total_assets": 29245146.13,
+    "current_assets": 14832259.13,
+    "fixed_assets": 14412887.0,
+    "total_liabilities": 15083171.67,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 14161974.46
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ABENIUS",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÅLBRAND",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TESCH",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RYDIN",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JELF",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

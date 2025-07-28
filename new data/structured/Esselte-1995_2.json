@@ -1,0 +1,110 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1995,
+  "income_statement": {
+    "revenue": 12.154,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 218.0,
+    "depreciation": null,
+    "net_income": 376.0
+  },
+  "balance_sheet": {
+    "total_assets": 7.36,
+    "current_assets": 4.243,
+    "fixed_assets": 2.282,
+    "total_liabilities": 4.707,
+    "current_liabilities": 2.017,
+    "long_term_liabilities": 1.83,
+    "shareholders_equity": 2.635
+  },
+  "employees": {
+    "n_employees": 9480,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bennet",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kvarnström",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Laurén",
+      "first_name": "Wille",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundén",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rohrbeck",
+      "first_name": "Gerhard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sandberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Markborn",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen AB"
+    }
+  ],
+  "additional_notes": null
+}

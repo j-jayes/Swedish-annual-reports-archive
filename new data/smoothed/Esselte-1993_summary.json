@@ -1,0 +1,86 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1993,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 11843.0,
+    "cost_of_goods_sold": 7983.0,
+    "operating_expenses": 3407.0,
+    "wages_expense": null,
+    "tax_expense": 154.0,
+    "depreciation": null,
+    "net_income": -61.333333333333336
+  },
+  "balance_sheet": {
+    "total_assets": 8117.0,
+    "current_assets": 4575.0,
+    "fixed_assets": 2296.0,
+    "total_liabilities": 3373.0,
+    "current_liabilities": 2386.0,
+    "long_term_liabilities": 1265.0,
+    "shareholders_equity": 2225.0
+  },
+  "employees": {
+    "n_employees": 11250.666666666666,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bennet",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöberg",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunell",
+      "first_name": "Lars H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen & Co."
+    }
+  ]
+}

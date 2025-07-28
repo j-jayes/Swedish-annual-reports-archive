@@ -1,0 +1,110 @@
+{
+  "company_name": "LINOLEUM AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 76426.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 69870.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2217.0,
+    "net_income": 948.0
+  },
+  "balance_sheet": {
+    "total_assets": 41634.0,
+    "current_assets": 29872.0,
+    "fixed_assets": 9762.0,
+    "total_liabilities": 19000.0,
+    "current_liabilities": 9508.0,
+    "long_term_liabilities": 3488.0,
+    "shareholders_equity": 22638.0
+  },
+  "employees": {
+    "n_employees": 275,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thomsen",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Sypesteyn",
+      "first_name": "Ernst",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Rösselet",
+      "first_name": "Arnold",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Rönnmark",
+      "first_name": "Lennart",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Jakobsson",
+      "first_name": "Bengt",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Ljungren",
+      "first_name": "Sverker",
+      "initials": "S. E.",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Seligmann-Heilner",
+      "first_name": "Erich",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergbrant",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderman",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lilljegren",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

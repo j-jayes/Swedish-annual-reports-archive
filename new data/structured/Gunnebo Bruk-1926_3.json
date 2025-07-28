@@ -1,0 +1,58 @@
+{
+  "company_name": "GUNNEBO BRUKS NYA AKTIEBOLAG",
+  "fiscal_year": 1926,
+  "income_statement": {
+    "revenue": 880392.56,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 274359.39
+  },
+  "balance_sheet": {
+    "total_assets": 7414614.53,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3922000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 296658.54
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hansen",
+      "first_name": "Hans",
+      "initials": "Fr.",
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lethelius",
+      "first_name": "Otto",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olivecrona",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

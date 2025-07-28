@@ -1,0 +1,122 @@
+{
+  "company_name": "ALFA-LAVAL",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 11321.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 605.0
+  },
+  "balance_sheet": {
+    "total_assets": 12996.9,
+    "current_assets": 9954.3,
+    "fixed_assets": 2950.3,
+    "total_liabilities": 3999.1,
+    "current_liabilities": 6284.4,
+    "long_term_liabilities": 1703.4,
+    "shareholders_equity": 2953.9
+  },
+  "employees": {
+    "n_employees": 16051,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "ELIÆSON",
+      "first_name": "PER-JONAS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAULKNER",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": "FREDRIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOGREN",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PÅLSSON",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RAMEL",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLMBERG",
+      "first_name": "SIV",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KARLSSON",
+      "first_name": "JORMA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINANDER",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRISK",
+      "first_name": "NILS-AXEL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LUNDVALL",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå"
+    }
+  ],
+  "additional_notes": null
+}

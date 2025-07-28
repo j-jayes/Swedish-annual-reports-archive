@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA OLJESLAGERIAKTIEBOLAGET",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 1818878.94,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 156657.0,
+    "depreciation": null,
+    "net_income": 253953.37
+  },
+  "balance_sheet": {
+    "total_assets": 26341074.67,
+    "current_assets": 23720142.91,
+    "fixed_assets": 2620931.76,
+    "total_liabilities": 21397060.43,
+    "current_liabilities": 21397060.43,
+    "long_term_liabilities": 226447.43,
+    "shareholders_equity": 4717566.81
+  },
+  "employees": {
+    "n_employees": 404,
+    "n_blue_collar_workers": 217,
+    "n_white_collar_workers": 187
+  },
+  "board": [
+    {
+      "surname": "Persson",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engblom",
+      "first_name": null,
+      "initials": "C. P.",
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sörensen",
+      "first_name": null,
+      "initials": "S. H.",
+      "position": null
+    },
+    {
+      "surname": "Engberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmerson",
+      "first_name": null,
+      "initials": "H. E.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thufvesson",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

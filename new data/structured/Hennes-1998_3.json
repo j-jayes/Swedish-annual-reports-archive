@@ -1,0 +1,122 @@
+{
+  "company_name": "H&M Hennes & Mauritz AB",
+  "fiscal_year": 1998,
+  "income_statement": {
+    "revenue": 26649.8,
+    "cost_of_goods_sold": 11057.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1181.3,
+    "depreciation": null,
+    "net_income": 2286.9
+  },
+  "balance_sheet": {
+    "total_assets": 11452.9,
+    "current_assets": 8965.2,
+    "fixed_assets": 2411.0,
+    "total_liabilities": 3046.9,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8405.9
+  },
+  "employees": {
+    "n_employees": 14101,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Brusberg",
+      "first_name": "Birgitta",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Hofer",
+      "first_name": "Werner",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Kvart",
+      "first_name": "Sussi",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Norin-Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Arbetstagarsuppleant"
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Agneta",
+      "initials": null,
+      "position": "Arbetstagarsuppleant"
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Fabian",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ebers",
+      "first_name": "Berger",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

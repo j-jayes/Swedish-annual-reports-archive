@@ -1,0 +1,92 @@
+{
+  "company_name": "LINOLEUM AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 78.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1.004
+  },
+  "balance_sheet": {
+    "total_assets": 35.954,
+    "current_assets": 11.577,
+    "fixed_assets": 29.048,
+    "total_liabilities": null,
+    "current_liabilities": 10.463,
+    "long_term_liabilities": 2.035,
+    "shareholders_equity": 9.331
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 271,
+    "n_white_collar_workers": 174
+  },
+  "board": [
+    {
+      "surname": "Grönberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Sypesteyn",
+      "first_name": "Ernst",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Thornander",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljungren",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zoelly",
+      "first_name": "Charles",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thomsen",
+      "first_name": "I.",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergbrant",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

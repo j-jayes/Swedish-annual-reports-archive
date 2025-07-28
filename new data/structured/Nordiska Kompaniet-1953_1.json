@@ -1,0 +1,104 @@
+{
+  "company_name": "AB NORDISKA KOMPANIET",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 5784870.68,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 500076.24,
+    "net_income": 2396295.92
+  },
+  "balance_sheet": {
+    "total_assets": 90585586.63,
+    "current_assets": 48647165.69,
+    "fixed_assets": 41938420.94,
+    "total_liabilities": 37238949.55,
+    "current_liabilities": 9953753.31,
+    "long_term_liabilities": 27285196.24,
+    "shareholders_equity": 43392883.77
+  },
+  "employees": {
+    "n_employees": 2824,
+    "n_blue_collar_workers": 855,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "BRUSEWITZ",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "FRIIS",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": null,
+      "initials": "TAGE",
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": null,
+      "initials": "STIG",
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHROFF",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "KALDERÉN",
+      "first_name": null,
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": null,
+      "initials": "R.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": null,
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": null,
+      "initials": "C. ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": "Varuhusets totala försäljning uppgick år 1953 till Kronor 102.039.250:46"
+}

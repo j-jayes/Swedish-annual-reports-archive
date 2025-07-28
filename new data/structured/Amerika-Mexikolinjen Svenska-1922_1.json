@@ -1,0 +1,70 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSKA AMERIKA MEXIKO LINIEN",
+  "fiscal_year": 1922,
+  "income_statement": {
+    "revenue": 2724600.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 328030.75,
+    "depreciation": null,
+    "net_income": 1550379.27
+  },
+  "balance_sheet": {
+    "total_assets": 20148051.59,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 11748051.59,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8400000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLER",
+      "first_name": "JUSTUS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLANDER",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ALPEN",
+      "first_name": "TH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLBURS",
+      "first_name": "VIDAR",
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PETERSEN",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LÖWENADLER",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

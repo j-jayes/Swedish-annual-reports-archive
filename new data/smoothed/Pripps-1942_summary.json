@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET PRIPP & LYCKHOLM",
+  "fiscal_year": 1943,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 8652364.04,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4200735.22,
+    "depreciation": null,
+    "net_income": 2004766.81
+  },
+  "balance_sheet": {
+    "total_assets": 30147893.42,
+    "current_assets": 11417685.22,
+    "fixed_assets": 9411050.605,
+    "total_liabilities": 22904359.48666667,
+    "current_liabilities": 4417291.62,
+    "long_term_liabilities": 4000000.0,
+    "shareholders_equity": 20200000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "MANSSON",
+      "first_name": "VILHELM",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "DIEDEN",
+      "first_name": "GOTTH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SALANDER",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BERGLIN",
+      "first_name": "YNGVE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WIKLAND",
+      "first_name": "HJALMAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

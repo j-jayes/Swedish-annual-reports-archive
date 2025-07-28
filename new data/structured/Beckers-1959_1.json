@@ -1,0 +1,82 @@
+{
+  "company_name": "AB WILH. BECKER",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1301861.95
+  },
+  "balance_sheet": {
+    "total_assets": 34752242.13,
+    "current_assets": 20029279.38,
+    "fixed_assets": 14722962.75,
+    "total_liabilities": 19001554.5,
+    "current_liabilities": 6187557.2,
+    "long_term_liabilities": 5474466.95,
+    "shareholders_equity": 15750687.63
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "STÅLBRAND",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BROWALL",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "ERICSON",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KÄLL",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JELF",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HJERNE",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "direktör"
+    }
+  ],
+  "additional_notes": null
+}

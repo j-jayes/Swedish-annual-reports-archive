@@ -1,0 +1,98 @@
+{
+  "company_name": "nitro nobel ab",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 157.53,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 142.648,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9.94,
+    "net_income": 11.847
+  },
+  "balance_sheet": {
+    "total_assets": 149.378,
+    "current_assets": 76.264,
+    "fixed_assets": 72.348,
+    "total_liabilities": 63.002,
+    "current_liabilities": 29.777,
+    "long_term_liabilities": 33.225,
+    "shareholders_equity": 66.34
+  },
+  "employees": {
+    "n_employees": 1276,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Boman",
+      "first_name": "Jan E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Davidson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fjällström",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langefors",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

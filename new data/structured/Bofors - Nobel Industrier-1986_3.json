@@ -1,0 +1,122 @@
+{
+  "company_name": "Nobel Industrier",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 11.535,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -10.41,
+    "wages_expense": null,
+    "tax_expense": 9.0,
+    "depreciation": -423.2,
+    "net_income": 424.0
+  },
+  "balance_sheet": {
+    "total_assets": 13.941,
+    "current_assets": 9.026,
+    "fixed_assets": 3.61,
+    "total_liabilities": 2.798,
+    "current_liabilities": 3.566,
+    "long_term_liabilities": 1.904,
+    "shareholders_equity": 441.0
+  },
+  "employees": {
+    "n_employees": 16256,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rudholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Aakvaag",
+      "first_name": "Torvild",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Agrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eldh",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlberg",
+      "first_name": "Anders",
+      "initials": "G",
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Kihlberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Wallbom",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Åkesson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

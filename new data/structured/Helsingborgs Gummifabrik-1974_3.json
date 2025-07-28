@@ -1,0 +1,88 @@
+{
+  "company_name": "AKTIEBOLAGET HEVEA",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 3508412.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3013639.0
+  },
+  "balance_sheet": {
+    "total_assets": 38694436.0,
+    "current_assets": 2472233.0,
+    "fixed_assets": 36222203.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 27003800.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ohlsson",
+      "first_name": "Lars Gunnar",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Tekn. Dr."
+    },
+    {
+      "surname": "Lewenhaupt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": "P.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Rydberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Kommunalrådet"
+    },
+    {
+      "surname": "Björk",
+      "first_name": "Villiam",
+      "initials": null,
+      "position": "Kommunalrådet, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brane",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bankdirektör"
+    }
+  ],
+  "additional_notes": null
+}

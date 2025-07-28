@@ -1,0 +1,110 @@
+{
+  "company_name": "LATOUR",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 3311.414,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 22.14,
+    "depreciation": 140.454,
+    "net_income": 223.751
+  },
+  "balance_sheet": {
+    "total_assets": 3590.414,
+    "current_assets": 1629.837,
+    "fixed_assets": 1955.938,
+    "total_liabilities": 2864.307,
+    "current_liabilities": 2343.38,
+    "long_term_liabilities": 255.115,
+    "shareholders_equity": 726.107
+  },
+  "employees": {
+    "n_employees": 12781,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Elisabeth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekdahl",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Flory",
+      "first_name": "Ingrid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hanzon",
+      "first_name": "Mats",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Törnqvist",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Edvardson",
+      "first_name": "Kåre",
+      "initials": null,
+      "auditing_firm": "Reveko AB"
+    },
+    {
+      "surname": "Flory",
+      "first_name": "Ingrid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tidström",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

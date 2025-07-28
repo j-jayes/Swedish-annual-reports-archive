@@ -1,0 +1,110 @@
+{
+  "company_name": "Maraboukoncernen",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 1564.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 17.9,
+    "depreciation": 34.7,
+    "net_income": 11.7
+  },
+  "balance_sheet": {
+    "total_assets": 880.8,
+    "current_assets": 453.2,
+    "fixed_assets": 425.7,
+    "total_liabilities": 334.3,
+    "current_liabilities": 211.2,
+    "long_term_liabilities": 212.9,
+    "shareholders_equity": 25.8
+  },
+  "employees": {
+    "n_employees": 2764,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Osvald",
+      "first_name": "Per Håkan",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Sandström",
+      "first_name": "Svante",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Barbro",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Pulli",
+      "first_name": "Yrjö",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Mohler",
+      "first_name": "Harold",
+      "initials": "S",
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Akteus",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Almqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

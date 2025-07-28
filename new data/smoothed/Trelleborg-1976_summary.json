@@ -1,0 +1,122 @@
+{
+  "company_name": "Trelleborgs Gummifabriks AB",
+  "fiscal_year": 1976,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 951.9333333333333,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 874.5,
+    "wages_expense": 159.6,
+    "tax_expense": 4.9,
+    "depreciation": null,
+    "net_income": -9.6
+  },
+  "balance_sheet": {
+    "total_assets": 956.3,
+    "current_assets": 547.3,
+    "fixed_assets": 377.2,
+    "total_liabilities": 541.7,
+    "current_liabilities": 299.73333333333335,
+    "long_term_liabilities": 183.66666666666669,
+    "shareholders_equity": 203.8
+  },
+  "employees": {
+    "n_employees": 6491,
+    "n_blue_collar_workers": 4338,
+    "n_white_collar_workers": 2153
+  },
+  "board": [
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Herrlin",
+      "first_name": "K-M",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": "P",
+      "position": null
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mörck",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Rydsbo",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Einarsson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Oscar Harvidsson",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "S",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

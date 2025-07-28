@@ -1,0 +1,130 @@
+{
+  "company_name": "Sundsvalls Enskilda Bank",
+  "fiscal_year": 1902,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1001977.82
+  },
+  "balance_sheet": {
+    "total_assets": 52719345.93,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 42044859.01,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 10674485.92
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": null,
+      "initials": "Ax. G.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Dymling",
+      "first_name": "John",
+      "initials": "Fr.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Gihl",
+      "first_name": null,
+      "initials": "H.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Kihlman",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Salén",
+      "first_name": null,
+      "initials": "H.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Hammarström",
+      "first_name": "Alexis",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": null,
+      "initials": "J. A.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Knaust",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Ljungberg",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Sebardt",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Thuresson",
+      "first_name": null,
+      "initials": "Th. R.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Enhörning",
+      "first_name": null,
+      "initials": "E. A.",
+      "position": null
+    },
+    {
+      "surname": "Engelstedt",
+      "first_name": "E.",
+      "initials": "F.",
+      "position": "Af Konungens Befallningshafvande förordnad revisor"
+    },
+    {
+      "surname": "Bern",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Enhörning",
+      "first_name": "E.",
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Engelstedt",
+      "first_name": "E.",
+      "initials": "F.",
+      "auditing_firm": "Af Konungens Befallningshafvande förordnad revisor"
+    },
+    {
+      "surname": "Bern",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

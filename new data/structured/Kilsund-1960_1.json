@@ -1,0 +1,86 @@
+{
+  "company_name": "Kilsunds Aktiebolag",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 3555.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1083.0,
+    "net_income": 686.0
+  },
+  "balance_sheet": {
+    "total_assets": 17171.0,
+    "current_assets": 8877.0,
+    "fixed_assets": 8294.0,
+    "total_liabilities": 6754.0,
+    "current_liabilities": 4492.0,
+    "long_term_liabilities": 2028.0,
+    "shareholders_equity": 10500.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 460,
+    "n_white_collar_workers": 10
+  },
+  "board": [
+    {
+      "surname": "PFANNENSTILL",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HALLIN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "CHR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖSTEREY",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDQUIST",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIGNEL",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KARLGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KRONBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1977,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 595442496.462,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 32376.555,
+    "tax_expense": 2006667.67,
+    "depreciation": 2924966.129,
+    "net_income": 3373879.02
+  },
+  "balance_sheet": {
+    "total_assets": 347644299.338,
+    "current_assets": 284009586.736,
+    "fixed_assets": 63634626.68433333,
+    "total_liabilities": 227944779.972,
+    "current_liabilities": 188443781.81133333,
+    "long_term_liabilities": 5465072.125666667,
+    "shareholders_equity": 22673465.336666666
+  },
+  "employees": {
+    "n_employees": 488,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "RAMEL",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Ordförande-Chairman"
+    },
+    {
+      "surname": "BECKETT",
+      "first_name": "TERRY",
+      "initials": "N.",
+      "position": null
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FEHRM",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRUEGER",
+      "first_name": "A.",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDAHL",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLQUIST",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDÉN",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ASP",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "CRATON",
+      "first_name": "R.",
+      "initials": "P.",
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": "Styrelsesuppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WITT",
+      "first_name": "CARL",
+      "initials": "HENRIK",
+      "auditing_firm": null
+    },
+    {
+      "surname": "NILSSON",
+      "first_name": "LARS",
+      "initials": "GÖRAN",
+      "auditing_firm": null
+    }
+  ]
+}

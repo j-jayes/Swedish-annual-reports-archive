@@ -1,0 +1,80 @@
+{
+  "company_name": "D. Carnegie & Co.",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 53451.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 23005.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 20636.0
+  },
+  "balance_sheet": {
+    "total_assets": 1124244.0,
+    "current_assets": 968825.0,
+    "fixed_assets": 153773.0,
+    "total_liabilities": 1056024.0,
+    "current_liabilities": 872325.0,
+    "long_term_liabilities": 182177.0,
+    "shareholders_equity": 68220.0
+  },
+  "employees": {
+    "n_employees": 42,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ekman",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Björkegren",
+      "first_name": "Carl-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hulterström",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Finnhammar",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

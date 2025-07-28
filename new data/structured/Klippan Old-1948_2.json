@@ -1,0 +1,80 @@
+{
+  "company_name": "KLIPPANS FINPAPPERSBRUK",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1453794.0
+  },
+  "balance_sheet": {
+    "total_assets": 33908910.96,
+    "current_assets": 16228443.8,
+    "fixed_assets": 17680467.16,
+    "total_liabilities": 19608910.96,
+    "current_liabilities": 4109231.95,
+    "long_term_liabilities": 11618224.93,
+    "shareholders_equity": 14300000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1530,
+    "n_white_collar_workers": 171
+  },
+  "board": [
+    {
+      "surname": "LAURITZEN",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUMMESON",
+      "first_name": "P. EG.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DICKSON",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SONTAG",
+      "first_name": "K.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

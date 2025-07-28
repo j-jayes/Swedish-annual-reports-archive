@@ -1,0 +1,76 @@
+{
+  "company_name": "D. Carnegie & Co.",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 2327.195,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 14.648,
+    "depreciation": null,
+    "net_income": 1253.61
+  },
+  "balance_sheet": {
+    "total_assets": 24288.318,
+    "current_assets": 879.925,
+    "fixed_assets": 23408.393,
+    "total_liabilities": 3594.211,
+    "current_liabilities": 494.067,
+    "long_term_liabilities": 3100.144,
+    "shareholders_equity": 20694.107
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Langenskiöld",
+      "first_name": "C. G.",
+      "initials": null,
+      "position": "Friherre ordförande"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Generalkonsul"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Melin",
+      "first_name": "Hilding",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Söderman",
+      "first_name": "H. W.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

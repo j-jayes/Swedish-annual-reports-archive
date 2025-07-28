@@ -1,0 +1,74 @@
+{
+  "company_name": "STOCKHOLMS TRANSPORT- OCH BOGSERINGS-AKTIEBOLAG",
+  "fiscal_year": 1913,
+  "income_statement": {
+    "revenue": 1826312.37,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1225639.93,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 600672.44
+  },
+  "balance_sheet": {
+    "total_assets": 5141181.55,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1922000.0
+  },
+  "employees": {
+    "n_employees": 333,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Åkerström",
+      "first_name": null,
+      "initials": "B. A.",
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edlind",
+      "first_name": null,
+      "initials": "W. R.",
+      "position": null
+    },
+    {
+      "surname": "Koppang",
+      "first_name": null,
+      "initials": "Th. A.",
+      "position": "Verkställande Direktör"
+    },
+    {
+      "surname": "Appelquist",
+      "first_name": null,
+      "initials": "J. Ax.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Dufva",
+      "first_name": null,
+      "initials": "J. H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rosenius",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

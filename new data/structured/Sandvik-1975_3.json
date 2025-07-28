@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIK",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 3667.296,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2846.325,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 190.497,
+    "net_income": 81.702
+  },
+  "balance_sheet": {
+    "total_assets": 4638.542,
+    "current_assets": 3209.784,
+    "fixed_assets": 1378.029,
+    "total_liabilities": 3784.697,
+    "current_liabilities": 687.835,
+    "long_term_liabilities": 1211.188,
+    "shareholders_equity": 853.845
+  },
+  "employees": {
+    "n_employees": 26931,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "LANDQVIST",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAKE",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BAHRKE",
+      "first_name": "SIGVARD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KLINGSPOR",
+      "first_name": "CARL-GUSTAF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "KORAEN",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

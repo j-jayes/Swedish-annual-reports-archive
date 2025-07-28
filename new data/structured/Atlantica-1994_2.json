@@ -1,0 +1,98 @@
+{
+  "company_name": "Försäkrings AB Atlantica",
+  "fiscal_year": 1994,
+  "income_statement": {
+    "revenue": 559.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 120.6,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 0.3
+  },
+  "balance_sheet": {
+    "total_assets": 679.4,
+    "current_assets": null,
+    "fixed_assets": 23.4,
+    "total_liabilities": 421.6,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 60.4
+  },
+  "employees": {
+    "n_employees": 88,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wissén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Holmberg",
+      "first_name": "Mikael",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ragnar",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan",
+      "initials": "H",
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Dag",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wingren",
+      "first_name": "Pål",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nilausen",
+      "first_name": "Flemming",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

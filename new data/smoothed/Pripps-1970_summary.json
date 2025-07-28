@@ -1,0 +1,110 @@
+{
+  "company_name": "Pripp-Bryggerierna Aktiebolag",
+  "fiscal_year": 1970,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 700.089,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 629.137,
+    "wages_expense": null,
+    "tax_expense": 5.811,
+    "depreciation": 47.628,
+    "net_income": 28.177
+  },
+  "balance_sheet": {
+    "total_assets": 806.156,
+    "current_assets": 315.12,
+    "fixed_assets": 445.268,
+    "total_liabilities": 208.10966666666667,
+    "current_liabilities": 150.639,
+    "long_term_liabilities": 87.08,
+    "shareholders_equity": 336.049
+  },
+  "employees": {
+    "n_employees": 4223,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Christian",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rohlin",
+      "first_name": "Sven-Rune",
+      "initials": null,
+      "auditing_firm": "suppleant"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "suppleant"
+    }
+  ]
+}

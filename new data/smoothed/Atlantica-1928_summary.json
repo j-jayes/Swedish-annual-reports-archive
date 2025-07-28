@@ -1,0 +1,82 @@
+{
+  "company_name": "ATLANTICA",
+  "fiscal_year": 1928,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5490853.07,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 42036.02,
+    "depreciation": null,
+    "net_income": 279003.66
+  },
+  "balance_sheet": {
+    "total_assets": 10779377.8,
+    "current_assets": null,
+    "fixed_assets": 1580845.84,
+    "total_liabilities": 5032842.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3346158.6666666665
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "OLBURS",
+      "first_name": "VIDAR",
+      "initials": "R",
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E",
+      "initials": "W",
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "GUSTAF",
+      "initials": "E",
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    },
+    {
+      "surname": "METCALFE",
+      "first_name": "H",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONSSON J:OR",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "BERNH",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

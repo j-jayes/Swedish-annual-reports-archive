@@ -1,0 +1,74 @@
+{
+  "company_name": "SCANIA-VABIS",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 12796727.81,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3671922.8
+  },
+  "balance_sheet": {
+    "total_assets": 56155139.85,
+    "current_assets": 33215786.47,
+    "fixed_assets": 22939353.38,
+    "total_liabilities": 56155139.85,
+    "current_liabilities": 26462474.68,
+    "long_term_liabilities": 20000.0,
+    "shareholders_equity": 13985000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1619,
+    "n_white_collar_workers": 650
+  },
+  "board": [
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "August",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Westin",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Bolagets omsättning uppgick under år 1951 till kr. 142.972.000:-."
+}

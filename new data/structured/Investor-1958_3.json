@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET INVESTOR",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 11995580.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 773831.07,
+    "wages_expense": null,
+    "tax_expense": 31752.0,
+    "depreciation": null,
+    "net_income": 10842727.93
+  },
+  "balance_sheet": {
+    "total_assets": 90440290.18,
+    "current_assets": 738690.18,
+    "fixed_assets": 89701600.0,
+    "total_liabilities": null,
+    "current_liabilities": 346170.05,
+    "long_term_liabilities": null,
+    "shareholders_equity": 73100000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "von STEYERN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CALISSENDORFF",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Verkst, dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOFLUND",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "BERLIN",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Härtill kommer bolagets åtagande att utbetala pensioner, uppgående till Kr. 26.100:- per år. Tillgångar med ett bokfört värde av Kronor 8.687.005:"
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "Iggesundskoncernen",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 2356.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 287.8
+  },
+  "balance_sheet": {
+    "total_assets": 4036.3,
+    "current_assets": 1418.5,
+    "fixed_assets": 2219.7,
+    "total_liabilities": 1376.4,
+    "current_liabilities": 874.9,
+    "long_term_liabilities": 508.6,
+    "shareholders_equity": 1276.4
+  },
+  "employees": {
+    "n_employees": 2813,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "CARLGREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": "Direktör, Styrelsens ordförande"
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": "Docent"
+    },
+    {
+      "surname": "DAHLSTRÖM",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SUNDBLAD",
+      "first_name": "LARS G",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "KEMPE",
+      "first_name": "CARE",
+      "initials": null,
+      "position": "Ekon dr hc"
+    },
+    {
+      "surname": "LÖF",
+      "first_name": "BERNT",
+      "initials": null,
+      "position": "Direktör, Koncernchef och VD"
+    },
+    {
+      "surname": "NORDIN",
+      "first_name": "JÖRGEN",
+      "initials": null,
+      "position": "Direktör, Koncernchef och VD"
+    },
+    {
+      "surname": "BRÖNNHAGEN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Laboratoriechef"
+    },
+    {
+      "surname": "FROHM",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": "Elektriker"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "ÖHRLINGS REVISIONSBYRÅ AB"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": "ÖHRLINGS REVISIONSBYRÅ AB"
+    }
+  ],
+  "additional_notes": null
+}

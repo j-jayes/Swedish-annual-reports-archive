@@ -1,0 +1,104 @@
+{
+  "company_name": "Esselte AB",
+  "fiscal_year": 1997,
+  "income_statement": {
+    "revenue": 13001.0,
+    "cost_of_goods_sold": -8986.0,
+    "operating_expenses": -3561.0,
+    "wages_expense": null,
+    "tax_expense": -191.0,
+    "depreciation": null,
+    "net_income": 222.0
+  },
+  "balance_sheet": {
+    "total_assets": 7287.0,
+    "current_assets": 6911.0,
+    "fixed_assets": 810.0,
+    "total_liabilities": 4337.0,
+    "current_liabilities": null,
+    "long_term_liabilities": 1608.0,
+    "shareholders_equity": 2950.0
+  },
+  "employees": {
+    "n_employees": 9042,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ohlsson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rohrbeck",
+      "first_name": "Gerhard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Luthman",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wågström",
+      "first_name": "Birgit",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Markborn",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen AB"
+    }
+  ],
+  "additional_notes": null
+}

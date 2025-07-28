@@ -1,0 +1,68 @@
+{
+  "company_name": "Fastighets AB Pilen",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 10375860.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3875994.88,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1167932.0,
+    "net_income": 1427652.75
+  },
+  "balance_sheet": {
+    "total_assets": 57719974.67,
+    "current_assets": 5429755.27,
+    "fixed_assets": 52290219.4,
+    "total_liabilities": 29999681.34,
+    "current_liabilities": 4438752.9,
+    "long_term_liabilities": 25568552.44,
+    "shareholders_equity": 27712669.33
+  },
+  "employees": {
+    "n_employees": 11,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sparr",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hein",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Revisions"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

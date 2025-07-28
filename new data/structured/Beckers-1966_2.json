@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 121.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 0.608
+  },
+  "balance_sheet": {
+    "total_assets": 88.271,
+    "current_assets": 40.384,
+    "fixed_assets": 47.887,
+    "total_liabilities": 51.256,
+    "current_liabilities": 15.87,
+    "long_term_liabilities": 21.312,
+    "shareholders_equity": 37.015
+  },
+  "employees": {
+    "n_employees": 1253,
+    "n_blue_collar_workers": 390,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "OLSON",
+      "first_name": "GOSTA",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "ELIASSON",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "ERICSON",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KÄLL",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HÅKANSON",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "NORDLUND",
+      "first_name": "JOHN",
+      "initials": null,
+      "position": "Överingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JELF",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "HJERNE",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

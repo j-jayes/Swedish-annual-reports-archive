@@ -1,0 +1,80 @@
+{
+  "company_name": "AB SCANIA-VABIS",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 717.312,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9.925,
+    "net_income": 32.419
+  },
+  "balance_sheet": {
+    "total_assets": 414.123,
+    "current_assets": 209.938,
+    "fixed_assets": 180.871,
+    "total_liabilities": 139.708,
+    "current_liabilities": 139.708,
+    "long_term_liabilities": 46.095,
+    "shareholders_equity": 177.987
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2260,
+    "n_white_collar_workers": 1482
+  },
+  "board": [
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "N.-F.",
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahrgren",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "Calissendorff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Godin",
+      "first_name": null,
+      "initials": "V.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

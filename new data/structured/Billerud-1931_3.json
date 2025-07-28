@@ -1,0 +1,82 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": 7150667.63,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 547941.92,
+    "depreciation": null,
+    "net_income": 3402914.29
+  },
+  "balance_sheet": {
+    "total_assets": 107514921.42,
+    "current_assets": 9229660.43,
+    "fixed_assets": 101283989.51,
+    "total_liabilities": 13762146.09,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 39596702.55
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "STORJOHANN",
+      "first_name": "CHR.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DICKSON",
+      "first_name": "GEORGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHMIDT",
+      "first_name": "SIXTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KILLANDER",
+      "first_name": null,
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "BLAKSTAD",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "DYSTER-AAS",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "SMITH",
+      "first_name": "AND.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BARK",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BÖRJESON",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "Fastighetsaktiebolaget Drott",
+  "fiscal_year": 1979,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 8057644.122,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4298848.202,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 430488.926,
+    "net_income": 1060846.124
+  },
+  "balance_sheet": {
+    "total_assets": 32889032.438,
+    "current_assets": 5357996.604,
+    "fixed_assets": 27531035.834,
+    "total_liabilities": 17107604.582,
+    "current_liabilities": 1841383.75,
+    "long_term_liabilities": 15268224.832,
+    "shareholders_equity": 15781427.856
+  },
+  "employees": {
+    "n_employees": 21,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ulvskog",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Alexandersson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Carleson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "finanschef"
+    },
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Tengbom",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "arkitekt"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ]
+}

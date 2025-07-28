@@ -1,0 +1,98 @@
+{
+  "company_name": "LM ERICSSON",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 2521081.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 153366.0,
+    "depreciation": null,
+    "net_income": 137106.0
+  },
+  "balance_sheet": {
+    "total_assets": 3744964.0,
+    "current_assets": 2500540.0,
+    "fixed_assets": 597708.0,
+    "total_liabilities": 1064983.0,
+    "current_liabilities": 478329.0,
+    "long_term_liabilities": 1153023.0,
+    "shareholders_equity": 1153023.0
+  },
+  "employees": {
+    "n_employees": 48700,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN",
+      "initials": "TURE",
+      "position": null
+    },
+    {
+      "surname": "LUNDVALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "James",
+      "first_name": "C.",
+      "initials": "B.",
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

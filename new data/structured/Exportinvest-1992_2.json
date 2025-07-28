@@ -1,0 +1,88 @@
+{
+  "company_name": "EXPORT INVEST",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 11.3,
+    "depreciation": null,
+    "net_income": 450.499
+  },
+  "balance_sheet": {
+    "total_assets": 1944.022,
+    "current_assets": 332.211,
+    "fixed_assets": 1611.811,
+    "total_liabilities": 36.53,
+    "current_liabilities": 36.53,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1893.425
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Trolle-Wachtmeister",
+      "first_name": "Hans Gabriel",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenhammar",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Wallenberg jr",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

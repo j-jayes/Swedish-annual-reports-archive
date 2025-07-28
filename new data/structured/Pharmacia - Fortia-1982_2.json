@@ -1,0 +1,116 @@
+{
+  "company_name": "Fortia-Pharmacia",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 1863.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 285.0
+  },
+  "balance_sheet": {
+    "total_assets": 2092.5,
+    "current_assets": 1169.9,
+    "fixed_assets": 914.4,
+    "total_liabilities": 767.9,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 686.2
+  },
+  "employees": {
+    "n_employees": 3811,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mark",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Darberg",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lanneberg",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Malmsten",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mandrén",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Sjöquist",
+      "first_name": "John",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Virding",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wessman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Barnden",
+      "first_name": "Robert",
+      "initials": null,
+      "auditing_firm": "Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

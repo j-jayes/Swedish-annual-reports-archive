@@ -1,0 +1,98 @@
+{
+  "company_name": "IGGESUND",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 2874.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 662.9,
+    "tax_expense": 60.0,
+    "depreciation": 138.5,
+    "net_income": 265.5
+  },
+  "balance_sheet": {
+    "total_assets": 3669.3,
+    "current_assets": 1928.6,
+    "fixed_assets": 1723.3,
+    "total_liabilities": 748.7,
+    "current_liabilities": 841.3,
+    "long_term_liabilities": 884.6,
+    "shareholders_equity": 524.4
+  },
+  "employees": {
+    "n_employees": 3927,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "ordf, Direktör"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Disponent, (VD + 10/5 1984)"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Fil.dr"
+    },
+    {
+      "surname": "Sprängare",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Nordin",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "Verkst.dir, (VD fr 10/5 1984)"
+    },
+    {
+      "surname": "Brönnhagen",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Lab.chef"
+    },
+    {
+      "surname": "Frohm",
+      "first_name": "Yoay",
+      "initials": null,
+      "position": "Elektriker"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

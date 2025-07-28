@@ -1,0 +1,92 @@
+{
+  "company_name": "Aktiebolaget Bofors",
+  "fiscal_year": 1939,
+  "income_statement": {
+    "revenue": 156208016.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3208977.8,
+    "net_income": 18222069.5
+  },
+  "balance_sheet": {
+    "total_assets": 163217475.3,
+    "current_assets": null,
+    "fixed_assets": 46985389.38,
+    "total_liabilities": null,
+    "current_liabilities": 31641431.45,
+    "long_term_liabilities": null,
+    "shareholders_equity": 28730000.0
+  },
+  "employees": {
+    "n_employees": 6963,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 1151
+  },
+  "board": [
+    {
+      "surname": "Wingquist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Uno",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Glimstedt",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Setterwall",
+      "first_name": "Albin",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": "Revisionsbyrå"
+    },
+    {
+      "surname": "Natt och Dag",
+      "first_name": "Knut H:son",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wilkens",
+      "first_name": null,
+      "initials": "A. J.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

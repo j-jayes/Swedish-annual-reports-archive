@@ -1,0 +1,146 @@
+{
+  "company_name": "Skaraborgs Enskilda Bank",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 14240041.99,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8322000.0,
+    "wages_expense": 5018622.57,
+    "tax_expense": 1274000.0,
+    "depreciation": 324517.0,
+    "net_income": 1303712.04
+  },
+  "balance_sheet": {
+    "total_assets": 469130373.3,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 444460160.72,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 24670212.58
+  },
+  "employees": {
+    "n_employees": 260,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": "G.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hofsten",
+      "first_name": "Erland",
+      "initials": "E. von",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": null,
+      "initials": "A. T.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Carl",
+      "initials": "C. S:son",
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": null,
+      "initials": "A.",
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Janson",
+      "first_name": null,
+      "initials": "S.",
+      "position": "agronom"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": null,
+      "initials": "W.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": null,
+      "initials": "L.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Sundelöf",
+      "first_name": null,
+      "initials": "K.",
+      "position": "köpman"
+    },
+    {
+      "surname": "Wästlund",
+      "first_name": null,
+      "initials": "G.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Waller",
+      "first_name": null,
+      "initials": "L.",
+      "position": "vice verkst. direktör"
+    },
+    {
+      "surname": "Grundfors",
+      "first_name": null,
+      "initials": "E.",
+      "position": "bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Karl",
+      "initials": "K. L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jönsson",
+      "first_name": null,
+      "initials": "S. A.",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": null,
+      "initials": "S.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lindgren",
+      "first_name": null,
+      "initials": "U.",
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

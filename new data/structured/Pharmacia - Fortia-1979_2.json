@@ -1,0 +1,98 @@
+{
+  "company_name": "AB FORTIA",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 1047.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -15.5,
+    "depreciation": -29.6,
+    "net_income": 21.4
+  },
+  "balance_sheet": {
+    "total_assets": 1008.2,
+    "current_assets": 452.1,
+    "fixed_assets": 553.3,
+    "total_liabilities": null,
+    "current_liabilities": 196.4,
+    "long_term_liabilities": 303.5,
+    "shareholders_equity": 162.9
+  },
+  "employees": {
+    "n_employees": 3221,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "MARK",
+      "first_name": "KURT",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "DARBERG",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKEMARK",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMBRAEUS",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LANNEBERG",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMSTEN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESSMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VIRDING",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JAKOBSON",
+      "first_name": "ALLAN",
+      "initials": null,
+      "auditing_firm": "Revisionsfirman Beskow & Jakobson AB"
+    },
+    {
+      "surname": "JONES",
+      "first_name": "DAVID",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co"
+    }
+  ],
+  "additional_notes": null
+}

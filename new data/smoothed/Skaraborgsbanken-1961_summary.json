@@ -1,0 +1,116 @@
+{
+  "company_name": "Skaraborgs Enskilda Bank",
+  "fiscal_year": 1961,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 11975707.87,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7001365.57,
+    "wages_expense": 4405895.63,
+    "tax_expense": 1047000.0,
+    "depreciation": 227020.0,
+    "net_income": 1057375.62
+  },
+  "balance_sheet": {
+    "total_assets": 274486278.14,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 424728511.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 240,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Pontén",
+      "first_name": "Sigurd",
+      "initials": "J:son",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "G.",
+      "initials": "Ivar",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Å.",
+      "initials": "T.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Carl",
+      "initials": "S:son",
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Hofsten",
+      "first_name": "Erland",
+      "initials": "von",
+      "position": "landstingsdirektör"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": "bankdirektör, verkst. direktör"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "agronom"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "W.",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Sundelöf",
+      "first_name": "K.",
+      "initials": null,
+      "position": "köpman"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Karl",
+      "initials": "L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Kungl. Bank- och Fondinspektionen"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

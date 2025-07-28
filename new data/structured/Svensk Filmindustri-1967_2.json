@@ -1,0 +1,68 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSK FILMINDUSTRI",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 10760889.33,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4158691.0,
+    "depreciation": null,
+    "net_income": 2295688.64
+  },
+  "balance_sheet": {
+    "total_assets": 41470601.28,
+    "current_assets": 14356712.36,
+    "fixed_assets": 26767888.92,
+    "total_liabilities": 9315539.09,
+    "current_liabilities": 5436490.07,
+    "long_term_liabilities": 3879049.34,
+    "shareholders_equity": 17200000.0
+  },
+  "employees": {
+    "n_employees": 751,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Schmidt",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fessé",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fant",
+      "first_name": "C.-H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Vifot",
+      "first_name": "Malte",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

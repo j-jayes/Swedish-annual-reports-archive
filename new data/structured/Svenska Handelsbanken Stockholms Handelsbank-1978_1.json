@@ -1,0 +1,188 @@
+{
+  "company_name": "Handelsbanken",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 1681.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 849.0,
+    "wages_expense": null,
+    "tax_expense": 110.0,
+    "depreciation": null,
+    "net_income": 190.0
+  },
+  "balance_sheet": {
+    "total_assets": 48853.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1178.0
+  },
+  "employees": {
+    "n_employees": 4823,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROWALDH",
+      "first_name": "TORE",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "CARLGREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HINDEMARK",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYBERG",
+      "first_name": "INGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDERSTRÖM",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKSTRÖM",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLGERSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RYDIN",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "YTTERSKOG",
+      "first_name": "KAJ",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "JAN",
+      "initials": null,
+      "position": "Verkst\nVerkställande direktörer"
+    },
+    {
+      "surname": "HEDELIUS",
+      "first_name": "TOM",
+      "initials": null,
+      "position": "Verkst\nVerkställande direktörer"
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRAFSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHNSON",
+      "first_name": "BO",
+      "initials": "AX:SON",
+      "position": null
+    },
+    {
+      "surname": "STYREN",
+      "first_name": "ULF",
+      "initials": "A",
+      "position": null
+    },
+    {
+      "surname": "ÅGRUP",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KÄLLENIUS",
+      "first_name": "STEN",
+      "initials": "initials",
+      "auditing_firm": "initials, ordf"
+    },
+    {
+      "surname": "DAHLSTRÖM",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EDSTRÖM",
+      "first_name": "KJELL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FLINK",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HANNER",
+      "first_name": "PER",
+      "initials": "V A",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HENCKEL",
+      "first_name": "TORE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WESTERLIND",
+      "first_name": "PETER",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

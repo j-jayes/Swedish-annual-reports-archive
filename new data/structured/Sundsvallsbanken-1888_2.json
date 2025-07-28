@@ -1,0 +1,51 @@
+{
+  "company_name": "Sundsvalls Enskilda Banks",
+  "fiscal_year": 1888,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 449703.61
+  },
+  "balance_sheet": {
+    "total_assets": 32713149.03,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 31873683.35,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 839465.68
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "de Bèche",
+      "first_name": "W.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Béve",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thuresson",
+      "first_name": "Th.",
+      "initials": "R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Aug.",
+      "initials": "R.",
+      "auditing_firm": "Konungens Befallningshafvandes ombud."
+    }
+  ],
+  "additional_notes": null
+}

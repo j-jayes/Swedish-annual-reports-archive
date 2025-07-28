@@ -1,0 +1,76 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Providentia",
+  "fiscal_year": 1972,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 18466822.13,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 732.0,
+    "depreciation": null,
+    "net_income": 14396996.234
+  },
+  "balance_sheet": {
+    "total_assets": 118269325.11,
+    "current_assets": 2377744.369,
+    "fixed_assets": 170626731.0,
+    "total_liabilities": 37325009.0,
+    "current_liabilities": 462924.968,
+    "long_term_liabilities": null,
+    "shareholders_equity": 57700880.336333334
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Sven",
+      "initials": "Sven T.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Archibald",
+      "initials": "G. A.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": "Peter",
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": null,
+      "initials": "Ulf-C.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Markdahl",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gedda",
+      "first_name": null,
+      "initials": "Per H.",
+      "auditing_firm": null
+    }
+  ]
+}

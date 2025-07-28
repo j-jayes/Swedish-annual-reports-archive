@@ -1,0 +1,104 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1975,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7863.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 298.0
+  },
+  "balance_sheet": {
+    "total_assets": 9291.333333333334,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1696.6666666666667
+  },
+  "employees": {
+    "n_employees": 43604,
+    "n_blue_collar_workers": 25193,
+    "n_white_collar_workers": 18411
+  },
+  "board": [
+    {
+      "surname": "Vrethem",
+      "first_name": "\"\nhas",
+      "initials": "Åke T",
+      "position": "ordinarie styrelseledamot"
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": null,
+      "initials": "Curt",
+      "position": "ordinarie styrelseledamot"
+    },
+    {
+      "surname": "Salén",
+      "first_name": null,
+      "initials": "Christer",
+      "position": "ordinarie styrelseledamot"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": null,
+      "initials": "Folke",
+      "position": "ordinarie styrelseledamot"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "Peter",
+      "position": "ordinarie styrelseledamot"
+    },
+    {
+      "surname": "Lindström",
+      "first_name": null,
+      "initials": "Torsten",
+      "position": "ordinarie styrelseledamot"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": null,
+      "initials": "Alde",
+      "position": "styrelsesuppleant"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": null,
+      "initials": "Sven",
+      "position": "styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": null,
+      "initials": "Sigurd",
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Karl Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Gabrielson",
+      "first_name": null,
+      "initials": "Lars",
+      "auditing_firm": "Disponent"
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": null,
+      "initials": "Erik",
+      "auditing_firm": "Tekn dr"
+    }
+  ]
+}

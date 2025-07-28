@@ -1,0 +1,92 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 607.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 146.931,
+    "wages_expense": null,
+    "tax_expense": 0.6,
+    "depreciation": 35.7,
+    "net_income": 0.5
+  },
+  "balance_sheet": {
+    "total_assets": 507.505,
+    "current_assets": 87.063,
+    "fixed_assets": 417.628,
+    "total_liabilities": 36.818,
+    "current_liabilities": 110.416,
+    "long_term_liabilities": 300.814,
+    "shareholders_equity": 33.681
+  },
+  "employees": {
+    "n_employees": 2450,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Birgander",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "Sjökapten"
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Nordenfalk",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Rodin",
+      "first_name": "John",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W",
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ehnborg",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

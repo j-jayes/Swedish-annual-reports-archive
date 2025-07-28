@@ -1,0 +1,94 @@
+{
+  "company_name": "Skandia",
+  "fiscal_year": 2006,
+  "income_statement": {
+    "revenue": 19470.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -17813.0,
+    "wages_expense": null,
+    "tax_expense": -2285.0,
+    "depreciation": null,
+    "net_income": 1107.0
+  },
+  "balance_sheet": {
+    "total_assets": 649864.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 13294.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Sutcliffe",
+      "first_name": "Jim",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Björnsson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Anne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broadhurst",
+      "first_name": "Norman",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Garren",
+      "first_name": "Mia",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Newman",
+      "first_name": "Michael",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Otterbeck",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Ingolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Roberts",
+      "first_name": "Julian",
+      "initials": null,
+      "position": "Chief Executive, Company Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Engström",
+      "first_name": "Anders",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

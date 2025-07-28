@@ -1,0 +1,104 @@
+{
+  "company_name": "HEVEA-KONCERNEN",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 690.928,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 22.735
+  },
+  "balance_sheet": {
+    "total_assets": 1519.2,
+    "current_assets": 524.545,
+    "fixed_assets": 852.26,
+    "total_liabilities": 269.913,
+    "current_liabilities": 139.368,
+    "long_term_liabilities": 266.239,
+    "shareholders_equity": 265.221
+  },
+  "employees": {
+    "n_employees": 4999,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "DOUGLAS",
+      "first_name": "VGUSTAF",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BJÖRKMAN",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "JOHN-JACOB",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FLORY",
+      "first_name": "INGRID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HANSSON",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HANZON",
+      "first_name": "MATS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKDAHL",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALMSTIERNA",
+      "first_name": "FREDRIK",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BREHMER",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "TÖRNQVIST",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "TIDSTRÖM",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "PRAMHÄLL",
+      "first_name": "INGVAR",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

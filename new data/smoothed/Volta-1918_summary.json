@@ -1,0 +1,62 @@
+{
+  "company_name": "ELEKTRISKA AKTIEBOLAGET VOLTA",
+  "fiscal_year": 1918,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3017000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 555935.46
+  },
+  "balance_sheet": {
+    "total_assets": 7947860.56,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 5328369.073333333,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 635469.98
+  },
+  "employees": {
+    "n_employees": 464,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "CARLSON.",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMBERG.",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JAGER.",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BYSTRÖM.",
+      "first_name": "I.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OSSBAHR.",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

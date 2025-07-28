@@ -1,0 +1,104 @@
+{
+  "company_name": "SKANDIA",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 19710389.09,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3131687.21
+  },
+  "balance_sheet": {
+    "total_assets": 53477897.17,
+    "current_assets": null,
+    "fixed_assets": 5516000.0,
+    "total_liabilities": 136701608.1,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 45045399.0
+  },
+  "employees": {
+    "n_employees": 630,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ULMGREN",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBOHM",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÉN",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlstedt",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KOCH",
+      "first_name": "RAGNAR",
+      "initials": "V.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDMAN",
+      "first_name": "ROLF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MEURK",
+      "first_name": "B. E.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

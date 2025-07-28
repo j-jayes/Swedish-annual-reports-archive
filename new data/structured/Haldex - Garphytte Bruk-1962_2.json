@@ -1,0 +1,68 @@
+{
+  "company_name": "Aktiebolaget Garphytte Bruk",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 3328.798,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1237.815,
+    "net_income": 1251.37
+  },
+  "balance_sheet": {
+    "total_assets": 23709.654,
+    "current_assets": 13515.402,
+    "fixed_assets": 8568.132,
+    "total_liabilities": 14476.387,
+    "current_liabilities": 3772.093,
+    "long_term_liabilities": 2698.695,
+    "shareholders_equity": 9233.267
+  },
+  "employees": {
+    "n_employees": 599,
+    "n_blue_collar_workers": 513,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "C.-R.",
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmer",
+      "first_name": "Govert",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pihl",
+      "first_name": "Gust.",
+      "initials": "Ove",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

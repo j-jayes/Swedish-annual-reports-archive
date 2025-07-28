@@ -1,0 +1,39 @@
+{
+  "company_name": "AKTIEBOLAGET KOL OCH KOKS",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": 1.10054648,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 484958.34,
+    "wages_expense": null,
+    "tax_expense": 85000.0,
+    "depreciation": 181361.96,
+    "net_income": 449026.64
+  },
+  "balance_sheet": {
+    "total_assets": 8183389.58,
+    "current_assets": 1102188.74,
+    "fixed_assets": 3727367.68,
+    "total_liabilities": 4158389.58,
+    "current_liabilities": 119935.56,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4025000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "CLASON",
+      "first_name": "OTTO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "REGNSTRAND",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

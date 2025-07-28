@@ -1,0 +1,80 @@
+{
+  "company_name": "LINOLEUM-AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 3588939.17,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 702307.0,
+    "depreciation": null,
+    "net_income": 401502.6
+  },
+  "balance_sheet": {
+    "total_assets": 10229228.43,
+    "current_assets": 4442604.86,
+    "fixed_assets": 5786623.57,
+    "total_liabilities": 6229228.43,
+    "current_liabilities": null,
+    "long_term_liabilities": 662078.3,
+    "shareholders_equity": 3601230.64
+  },
+  "employees": {
+    "n_employees": 376,
+    "n_blue_collar_workers": 272,
+    "n_white_collar_workers": 104
+  },
+  "board": [
+    {
+      "surname": "GRÖNBERG",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": null,
+      "initials": "C. G.",
+      "position": null
+    },
+    {
+      "surname": "KAARS SYPESTEYN",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "THORNANDER",
+      "first_name": null,
+      "initials": "TORSTEN",
+      "position": null
+    },
+    {
+      "surname": "THOMSEN",
+      "first_name": null,
+      "initials": "I.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "KAHM",
+      "first_name": "GUST.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

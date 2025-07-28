@@ -1,0 +1,94 @@
+{
+  "company_name": "SVENSK FILMINDUSTRI",
+  "fiscal_year": 1945,
+  "income_statement": {
+    "revenue": 2345504.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 889638.34
+  },
+  "balance_sheet": {
+    "total_assets": 8614510.18,
+    "current_assets": 3878512.77,
+    "fixed_assets": 3985489.95,
+    "total_liabilities": 2224438.54,
+    "current_liabilities": 1644438.54,
+    "long_term_liabilities": 580000.0,
+    "shareholders_equity": 10375172.07
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HINTZE",
+      "first_name": "HUGO",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "LISTANDER",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SILJESTRÖM",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROMS",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRUSENSTJERNA",
+      "first_name": "F. U.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUNDELL",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "CARL ANDERS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KASTENGREN",
+      "first_name": "HARRY",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

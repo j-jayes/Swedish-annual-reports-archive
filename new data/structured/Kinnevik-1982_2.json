@@ -1,0 +1,130 @@
+{
+  "company_name": "Investment AB Kinnevik",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 0.7,
+    "depreciation": 0.157,
+    "net_income": 26.027
+  },
+  "balance_sheet": {
+    "total_assets": 300.857,
+    "current_assets": 12.381,
+    "fixed_assets": 288.476,
+    "total_liabilities": 61.549,
+    "current_liabilities": 30.81,
+    "long_term_liabilities": 28.375,
+    "shareholders_equity": 205.157
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "von Horn",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Överintendent"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Friherre"
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Docent"
+    },
+    {
+      "surname": "Ahlström",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "von Horn",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Lantmästare"
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Skeppsredare"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Bruksdisponent, verkställande direktör"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": "Friherre"
+    },
+    {
+      "surname": "af Ugglas",
+      "first_name": "Margaretha",
+      "initials": null,
+      "position": "Civilekonom"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ernfridsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Morling",
+      "first_name": "P.M.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Ranby",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Karl-Gunnar",
+      "initials": null,
+      "auditing_firm": "Revisor"
+    },
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Zahlander",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

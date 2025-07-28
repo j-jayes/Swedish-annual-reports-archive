@@ -1,0 +1,104 @@
+{
+  "company_name": "Hexagon AB",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 609.079,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 548.854,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 18.271,
+    "net_income": 4.947
+  },
+  "balance_sheet": {
+    "total_assets": 453.333,
+    "current_assets": 247.421,
+    "fixed_assets": 204.141,
+    "total_liabilities": 209.357,
+    "current_liabilities": 126.809,
+    "long_term_liabilities": 177.235,
+    "shareholders_equity": 53.662
+  },
+  "employees": {
+    "n_employees": 2446,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Haeggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engkvist",
+      "first_name": "Norrberth",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rasmussen",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "G.",
+      "initials": "I.",
+      "position": null
+    },
+    {
+      "surname": "Sjöström",
+      "first_name": "Carl-Eric",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Lövgren",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "Nobel Industrier",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 21328.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -19389.1,
+    "wages_expense": null,
+    "tax_expense": 223.5,
+    "depreciation": 697.7,
+    "net_income": 653.5
+  },
+  "balance_sheet": {
+    "total_assets": 31541.1,
+    "current_assets": 17816.5,
+    "fixed_assets": 7775.0,
+    "total_liabilities": 12814.5,
+    "current_liabilities": 4200.0,
+    "long_term_liabilities": 2818.1,
+    "shareholders_equity": 4006.8
+  },
+  "employees": {
+    "n_employees": 22101,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Rudholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Aakvaag",
+      "first_name": "Torvild",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Eldh",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Åkesson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Carlberg",
+      "first_name": "Anders G",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

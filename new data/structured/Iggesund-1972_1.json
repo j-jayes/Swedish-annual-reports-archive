@@ -1,0 +1,80 @@
+{
+  "company_name": "IGGESUND",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 674.5,
+    "cost_of_goods_sold": 546.957,
+    "operating_expenses": 13.087,
+    "wages_expense": 206.741,
+    "tax_expense": 5.88,
+    "depreciation": 66.521,
+    "net_income": 20.414
+  },
+  "balance_sheet": {
+    "total_assets": 671.363,
+    "current_assets": 232.027,
+    "fixed_assets": 438.737,
+    "total_liabilities": 439.336,
+    "current_liabilities": 171.371,
+    "long_term_liabilities": 251.093,
+    "shareholders_equity": 232.027
+  },
+  "employees": {
+    "n_employees": 4832,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Generalkonsul"
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Disponent, verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    }
+  ],
+  "additional_notes": null
+}

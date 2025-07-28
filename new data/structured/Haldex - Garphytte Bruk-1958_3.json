@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET GARPHYTTE BRUK",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 1346540.31,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 565338.11,
+    "net_income": 812462.67
+  },
+  "balance_sheet": {
+    "total_assets": 15797020.77,
+    "current_assets": 9836544.49,
+    "fixed_assets": 5960476.28,
+    "total_liabilities": 3783779.97,
+    "current_liabilities": 2664296.64,
+    "long_term_liabilities": 1119483.29,
+    "shareholders_equity": 12013240.8
+  },
+  "employees": {
+    "n_employees": 523,
+    "n_blue_collar_workers": 443,
+    "n_white_collar_workers": 80
+  },
+  "board": [
+    {
+      "surname": "Calissendorff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Essen",
+      "first_name": "M.",
+      "initials": "M. von",
+      "position": null
+    },
+    {
+      "surname": "Essen",
+      "first_name": "C.",
+      "initials": "C.-R. von",
+      "position": null
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmer",
+      "first_name": "Govert",
+      "initials": null,
+      "position": "verkst.direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Nauclér",
+      "first_name": "C.",
+      "initials": "C.A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

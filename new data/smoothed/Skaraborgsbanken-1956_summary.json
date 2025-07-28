@@ -1,0 +1,110 @@
+{
+  "company_name": "SKARABORGS ENSKILDA BANK",
+  "fiscal_year": 1956,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7280026.62,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 2764505.09,
+    "tax_expense": null,
+    "depreciation": 1059045.0833333333,
+    "net_income": 772115.81
+  },
+  "balance_sheet": {
+    "total_assets": 280322541.34,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 173355086.78,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7430283.446666666
+  },
+  "employees": {
+    "n_employees": 180,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Pontén",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": "direktör, Klagstorp, Skövde, ordförande"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "G",
+      "initials": "AI",
+      "position": "kapten, Mariedal, Lundsbrunn, vice ordförande"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": null,
+      "initials": "A",
+      "position": "bankdirektör, Skövde, verkställande direktör"
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "C",
+      "initials": "Sison",
+      "position": "civilingenjör, Göteborg"
+    },
+    {
+      "surname": "Hofsten",
+      "first_name": "E",
+      "initials": "von",
+      "position": "landstingsdirektör, Mariestad"
+    },
+    {
+      "surname": "Waller",
+      "first_name": "E",
+      "initials": null,
+      "position": "agronom, Skara"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "A",
+      "initials": null,
+      "position": "bankdirektör, Skövde"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "S",
+      "initials": null,
+      "position": "godsägare, Ryholm, Moholm"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "W",
+      "initials": null,
+      "position": "disponent, Lidköping"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bredberg",
+      "first_name": "L",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor, Göteborg"
+    },
+    {
+      "surname": "Stenström",
+      "first_name": "M",
+      "initials": null,
+      "auditing_firm": "häradsskrivare, Borås"
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "K",
+      "initials": "L",
+      "auditing_firm": "tandläkare, Skövde"
+    },
+    {
+      "surname": "Karlgren",
+      "first_name": "N",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor, Göteborg (förordnad av Kungl. Bank- och Fondinspektionen)"
+    }
+  ]
+}

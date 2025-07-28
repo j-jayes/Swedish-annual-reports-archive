@@ -1,0 +1,92 @@
+{
+  "company_name": "BERGVIK OCH ALA AKTIEBOLAG",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 25645761.14,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9421554.98,
+    "depreciation": 5852565.91,
+    "net_income": 7321463.14
+  },
+  "balance_sheet": {
+    "total_assets": 144981828.53,
+    "current_assets": 62706506.21,
+    "fixed_assets": 82275322.32,
+    "total_liabilities": 70775066.91,
+    "current_liabilities": 21501686.18,
+    "long_term_liabilities": 50171000.0,
+    "shareholders_equity": 74206761.62
+  },
+  "employees": {
+    "n_employees": 2556,
+    "n_blue_collar_workers": 2285,
+    "n_white_collar_workers": 271
+  },
+  "board": [
+    {
+      "surname": "Odmark",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Francke",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "Sundfeldt",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Öhrling",
+      "first_name": null,
+      "initials": "P. O.",
+      "position": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ohrling",
+      "first_name": null,
+      "initials": "P. O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Aberg",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,100 @@
+{
+  "company_name": "SUNDSVALLS HANDELSBANK",
+  "fiscal_year": 1907,
+  "income_statement": {
+    "revenue": 863239.05,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 257388.74,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 545000.0
+  },
+  "balance_sheet": {
+    "total_assets": 27301825.18,
+    "current_assets": 6236798.25,
+    "fixed_assets": 3035132.35,
+    "total_liabilities": 10440000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7250000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "STACKELL",
+      "first_name": null,
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Arhusiander",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cornell",
+      "first_name": null,
+      "initials": "J.",
+      "position": "F."
+    },
+    {
+      "surname": "Hammarberg",
+      "first_name": null,
+      "initials": "H.",
+      "position": "E."
+    },
+    {
+      "surname": "Palmqvist",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wessén",
+      "first_name": null,
+      "initials": "C.",
+      "position": "O."
+    },
+    {
+      "surname": "Kjellstrand",
+      "first_name": null,
+      "initials": "F.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordgren",
+      "first_name": null,
+      "initials": "C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sandelin",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundholm",
+      "first_name": null,
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ribbing",
+      "first_name": null,
+      "initials": "E.",
+      "auditing_firm": "Kongl. Maj:ts Befallningshafvandes ombud"
+    }
+  ],
+  "additional_notes": null
+}

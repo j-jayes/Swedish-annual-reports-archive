@@ -1,0 +1,92 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSKA METALLVERKEN",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 15767070.48,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4500000.0,
+    "depreciation": null,
+    "net_income": 3092403.6
+  },
+  "balance_sheet": {
+    "total_assets": 159807932.29,
+    "current_assets": 64393026.29,
+    "fixed_assets": 91240848.0,
+    "total_liabilities": 47736441.9,
+    "current_liabilities": 10312922.87,
+    "long_term_liabilities": 30555500.9,
+    "shareholders_equity": 39430982.04
+  },
+  "employees": {
+    "n_employees": 4694,
+    "n_blue_collar_workers": 3439,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WESTERBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRABE",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRIIS",
+      "first_name": null,
+      "initials": "H. G.",
+      "position": null
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KORAEN",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": null
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fredholm",
+      "first_name": "I.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Tjelvar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

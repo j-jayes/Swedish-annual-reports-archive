@@ -1,0 +1,92 @@
+{
+  "company_name": "KLIPPANS FINPAPPERSBRUK",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 10087018.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2455843.16,
+    "depreciation": 2754945.92,
+    "net_income": 2456699.28
+  },
+  "balance_sheet": {
+    "total_assets": 56845517.97,
+    "current_assets": 21086525.16,
+    "fixed_assets": 21351998.82,
+    "total_liabilities": 39231952.27,
+    "current_liabilities": 14834856.75,
+    "long_term_liabilities": 17613565.7,
+    "shareholders_equity": 16600000.0
+  },
+  "employees": {
+    "n_employees": 1545,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUNNESON",
+      "first_name": null,
+      "initials": "P. EG.",
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GOSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "SONTAG",
+      "first_name": null,
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SONTAG",
+      "first_name": null,
+      "initials": "K.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

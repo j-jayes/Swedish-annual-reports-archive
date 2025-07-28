@@ -1,0 +1,104 @@
+{
+  "company_name": "Nobel Industrier",
+  "fiscal_year": 1991,
+  "income_statement": {
+    "revenue": 24.717,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 21.502,
+    "wages_expense": null,
+    "tax_expense": 83.0,
+    "depreciation": 1.441,
+    "net_income": -5.047
+  },
+  "balance_sheet": {
+    "total_assets": 33.431,
+    "current_assets": 13.885,
+    "fixed_assets": 19.539,
+    "total_liabilities": 12.719,
+    "current_liabilities": 9.948,
+    "long_term_liabilities": 8.226,
+    "shareholders_equity": 6.458
+  },
+  "employees": {
+    "n_employees": 22922,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Magnusson",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Ahlström",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsgren",
+      "first_name": "Jack",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mattsson",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallbom",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martinsson",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Tidström",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "Sundsvalls Banken",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 52.156,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4.8,
+    "depreciation": 17.119,
+    "net_income": 5.2
+  },
+  "balance_sheet": {
+    "total_assets": 1.574498,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 62.545
+  },
+  "employees": {
+    "n_employees": 413,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "disponent, Sundsvall, ordförande"
+    },
+    {
+      "surname": "Rogberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "civilingenjör, Stockholm, vice ordförande"
+    },
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "direktör, Östersund"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "K. G.",
+      "initials": null,
+      "position": "direktör, Bureå"
+    },
+    {
+      "surname": "Appeltofft",
+      "first_name": "Olof H.",
+      "initials": null,
+      "position": "direktör, Stockholm"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "direktör, Domsjöfabrik"
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "direktör, Stockholm"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "direktör, Ljusdal"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "odont. dr, Umeå"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "A. G.",
+      "initials": null,
+      "position": "bankdirektör, Stockholm"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Sundsvall, verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "advokat, Sundsvall"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "aukt. revisor, Sundsvall"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "aukt. revisor, Stockholm"
+    }
+  ],
+  "additional_notes": null
+}

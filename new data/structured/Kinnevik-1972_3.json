@@ -1,0 +1,92 @@
+{
+  "company_name": "Aktiebolaget Klippans Finpappersbruk",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 393.715,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 366.183,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 24.03,
+    "net_income": 5.389
+  },
+  "balance_sheet": {
+    "total_assets": 265.648,
+    "current_assets": 144.862,
+    "fixed_assets": 120.619,
+    "total_liabilities": 98.803,
+    "current_liabilities": 57.014,
+    "long_term_liabilities": 32.31,
+    "shareholders_equity": 77.521
+  },
+  "employees": {
+    "n_employees": 2857,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Crafoord",
+      "first_name": "Holger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "\\\"",
+      "initials": "Åke",
+      "position": null
+    },
+    {
+      "surname": "Hellestam",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Porat",
+      "first_name": "Stig",
+      "initials": "von",
+      "position": "vd"
+    },
+    {
+      "surname": "Borg",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Tage",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,100 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 45481000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 24153000.0,
+    "net_income": 8607000.0
+  },
+  "balance_sheet": {
+    "total_assets": 492646000.0,
+    "current_assets": 194333000.0,
+    "fixed_assets": 297657000.0,
+    "total_liabilities": 271669000.0,
+    "current_liabilities": 95404000.0,
+    "long_term_liabilities": 88000000.0,
+    "shareholders_equity": 118005000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "Evert",
+      "initials": "f",
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre",
+      "initials": "Rison",
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Envoyé"
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Wahlsteen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "position": "Aukt. Revisor"
+    },
+    {
+      "surname": "Strömbäck",
+      "first_name": "Helge",
+      "initials": null,
+      "position": "Viceamiral"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L",
+      "initials": "T",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Strömbäck",
+      "first_name": "Helge",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

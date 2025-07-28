@@ -1,0 +1,104 @@
+{
+  "company_name": "Boliden",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 6088.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 82.6
+  },
+  "balance_sheet": {
+    "total_assets": 7014.7,
+    "current_assets": 3860.2,
+    "fixed_assets": 3140.8,
+    "total_liabilities": 1782.3,
+    "current_liabilities": 2565.3,
+    "long_term_liabilities": 1283.9,
+    "shareholders_equity": 754.3
+  },
+  "employees": {
+    "n_employees": 8841,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Åkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Bert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Ugglas",
+      "first_name": "Margaretha",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Glenngård",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": "Hagström & Sillén AB"
+    },
+    {
+      "surname": "Näslund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Resultat före bokslutsdispositioner, Mkr 382\nRörelsens intäkter, Mkr 6088\nUtdelning/aktie, kr 8:50"
+}

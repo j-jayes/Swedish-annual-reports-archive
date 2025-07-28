@@ -1,0 +1,86 @@
+{
+  "company_name": "Aktiebolaget Svenska Metallverken",
+  "fiscal_year": 1946,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3862899.27
+  },
+  "balance_sheet": {
+    "total_assets": 62697570.36,
+    "current_assets": 34954035.32,
+    "fixed_assets": 32296716.41,
+    "total_liabilities": 29259760.0,
+    "current_liabilities": null,
+    "long_term_liabilities": 19929538.7,
+    "shareholders_equity": 9718161.32
+  },
+  "employees": {
+    "n_employees": 5032,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 1274
+  },
+  "board": [
+    {
+      "surname": "Westerberg",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "K",
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "C",
+      "initials": "C. A.",
+      "position": null
+    },
+    {
+      "surname": "Grabe",
+      "first_name": "Ale",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öberg",
+      "first_name": "Theofil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fredholm",
+      "first_name": "I.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

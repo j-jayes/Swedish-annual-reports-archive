@@ -1,0 +1,128 @@
+{
+  "company_name": "SKANDIA",
+  "fiscal_year": 1993,
+  "income_statement": {
+    "revenue": 43503.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -559.0,
+    "depreciation": null,
+    "net_income": 1384.0
+  },
+  "balance_sheet": {
+    "total_assets": 136519.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 10523,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "ORDFÖRANDE"
+    },
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "VICE ORDFÖRANDE"
+    },
+    {
+      "surname": "AUGUSTSON",
+      "first_name": "KURTH",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRAUN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAHLIN",
+      "first_name": "ROLAND",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGELIN",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRONBLAD",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDIN",
+      "first_name": "INGOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSSON",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RANTALA",
+      "first_name": "JUKKA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TOBISSON",
+      "first_name": "LARS",
+      "initials": "F",
+      "position": null
+    },
+    {
+      "surname": "WOLRATH",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "VERKSTÄLLANDE DIREKTÖR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "SWARTING",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MAGNUSSON",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "LEKMAN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

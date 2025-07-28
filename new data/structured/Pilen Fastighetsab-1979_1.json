@@ -1,0 +1,68 @@
+{
+  "company_name": "FASTIGHETS AB PILEN",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 17.391,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6.125,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.734,
+    "net_income": 5.229
+  },
+  "balance_sheet": {
+    "total_assets": 131.802,
+    "current_assets": 40.505,
+    "fixed_assets": 91.297,
+    "total_liabilities": 62.367,
+    "current_liabilities": 34.875,
+    "long_term_liabilities": 62.367,
+    "shareholders_equity": 34.56
+  },
+  "employees": {
+    "n_employees": 7,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sparr",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

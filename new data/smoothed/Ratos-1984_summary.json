@@ -1,0 +1,76 @@
+{
+  "company_name": "Ratos",
+  "fiscal_year": 1984,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 4112.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3938.2,
+    "wages_expense": null,
+    "tax_expense": 60.2,
+    "depreciation": null,
+    "net_income": 126.33333333333334
+  },
+  "balance_sheet": {
+    "total_assets": 3638.7,
+    "current_assets": 1994.2,
+    "fixed_assets": 1595.9,
+    "total_liabilities": 1123.9,
+    "current_liabilities": 1351.4,
+    "long_term_liabilities": 311.1,
+    "shareholders_equity": 1014.6666666666667
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Norin",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Damgaard-Nielsen",
+      "first_name": "Ole",
+      "initials": null,
+      "position": "Styrelseledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

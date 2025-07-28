@@ -1,0 +1,70 @@
+{
+  "company_name": "Kilsunds Aktiebolag",
+  "fiscal_year": 1936,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 98637.76,
+    "depreciation": 187298.62,
+    "net_income": 1085463.13
+  },
+  "balance_sheet": {
+    "total_assets": 8018423.6,
+    "current_assets": null,
+    "fixed_assets": 4641257.45,
+    "total_liabilities": 5848153.95,
+    "current_liabilities": 3105163.61,
+    "long_term_liabilities": 2053467.25,
+    "shareholders_equity": 1408153.95
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Bergengren",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eiserman",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": null,
+      "initials": "E. v.",
+      "position": null
+    },
+    {
+      "surname": "Edlunds",
+      "first_name": null,
+      "initials": "C. E.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindgren",
+      "first_name": null,
+      "initials": "I.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Westfeldt",
+      "first_name": null,
+      "initials": "I.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

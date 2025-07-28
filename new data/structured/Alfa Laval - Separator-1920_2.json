@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1920,
+  "income_statement": {
+    "revenue": 5478838.18,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 166231.4,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 108921297.64,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 80684614.81
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 320,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "JANSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WÄSTFELT",
+      "first_name": null,
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "TRYGGER",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THIEL",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERNSTOOM",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORSBERGS",
+      "first_name": "ERIK",
+      "initials": "AUG.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HIRSCH",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LAMM",
+      "first_name": "CARL",
+      "initials": "ROBERT",
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "Asken",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 325.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 243.5,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 58.5
+  },
+  "balance_sheet": {
+    "total_assets": 6237.6,
+    "current_assets": 1198.7,
+    "fixed_assets": 2101.6,
+    "total_liabilities": 4159.7,
+    "current_liabilities": 1802.8,
+    "long_term_liabilities": 1311.8,
+    "shareholders_equity": 650.8
+  },
+  "employees": {
+    "n_employees": 34,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K:son",
+      "position": "Handlande"
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyra AB"
+    }
+  ],
+  "additional_notes": null
+}

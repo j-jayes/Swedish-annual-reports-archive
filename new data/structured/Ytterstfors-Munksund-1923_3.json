@@ -1,0 +1,70 @@
+{
+  "company_name": "YTTERSTFORS-MUNKSUNDS",
+  "fiscal_year": 1923,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 419618.49,
+    "wages_expense": null,
+    "tax_expense": 92594.89,
+    "depreciation": null,
+    "net_income": 538328.86
+  },
+  "balance_sheet": {
+    "total_assets": 64079246.25,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 21116000.0,
+    "current_liabilities": 3362478.33,
+    "long_term_liabilities": 16250000.0,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "MALMSTRÖM",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORMAN",
+      "first_name": "UNO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MARKSTRÖM",
+      "first_name": "DAVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "RICHARD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "J.",
+      "initials": "L.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FLYGT",
+      "first_name": "HELMER",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KAASCHOU",
+      "first_name": null,
+      "initials": "Th.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

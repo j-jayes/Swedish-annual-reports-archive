@@ -1,0 +1,80 @@
+{
+  "company_name": "B. A. HJORTH & CO",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 11451617.55,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 45467054.13,
+    "current_assets": 15127065.75,
+    "fixed_assets": 8758115.0,
+    "total_liabilities": 19378604.07,
+    "current_liabilities": 12993158.86,
+    "long_term_liabilities": 13095291.2,
+    "shareholders_equity": 12746186.2
+  },
+  "employees": {
+    "n_employees": 1931,
+    "n_blue_collar_workers": 1232,
+    "n_white_collar_workers": 699
+  },
+  "board": [
+    {
+      "surname": "Hjorth",
+      "first_name": "Arnold",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brynge",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hollo",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widelt",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Verkst. dir"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

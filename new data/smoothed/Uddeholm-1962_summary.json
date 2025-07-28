@@ -1,0 +1,104 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1962,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 568.031,
+    "cost_of_goods_sold": 489.681,
+    "operating_expenses": 78.35,
+    "wages_expense": null,
+    "tax_expense": 9.6,
+    "depreciation": 46.896,
+    "net_income": 14.0
+  },
+  "balance_sheet": {
+    "total_assets": 652.109,
+    "current_assets": 154.56466666666668,
+    "fixed_assets": 350.49,
+    "total_liabilities": 338.945,
+    "current_liabilities": 73.511,
+    "long_term_liabilities": 267.23366666666664,
+    "shareholders_equity": 292.13733333333334
+  },
+  "employees": {
+    "n_employees": 14209,
+    "n_blue_collar_workers": 11620,
+    "n_white_collar_workers": 2589.3333333333335
+  },
+  "board": [
+    {
+      "surname": "LINDAHI",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDSTRÖM",
+      "first_name": "AGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": "K-G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "CARL A",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "FRISELL",
+      "first_name": "G",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GEIJER",
+      "first_name": "REINH",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "UPMARK",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ]
+}

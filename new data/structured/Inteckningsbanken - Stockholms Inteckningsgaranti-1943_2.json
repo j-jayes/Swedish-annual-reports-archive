@@ -1,0 +1,100 @@
+{
+  "company_name": "INTECKNINGSBANKEN",
+  "fiscal_year": 1943,
+  "income_statement": {
+    "revenue": 3968786.68,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1300000.0,
+    "depreciation": null,
+    "net_income": 1904936.31
+  },
+  "balance_sheet": {
+    "total_assets": 313023784.05,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 287440205.16,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 37573578.89
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "v. KRUSENSTJERNA",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KÄLLSTRÖM",
+      "first_name": "K. M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSON",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ALMQVIST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGENIUS",
+      "first_name": "H. E.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ÅKESSON",
+      "first_name": "O. A.",
+      "initials": null,
+      "auditing_firm": "Kungl. Bank- och Fondinspektionen."
+    },
+    {
+      "surname": "LOVÉN",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STERKY",
+      "first_name": "CARL EDV.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

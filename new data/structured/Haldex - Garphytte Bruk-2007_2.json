@@ -1,0 +1,98 @@
+{
+  "company_name": "Haldex",
+  "fiscal_year": 2007,
+  "income_statement": {
+    "revenue": 7940.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 81.0,
+    "depreciation": null,
+    "net_income": 141.0
+  },
+  "balance_sheet": {
+    "total_assets": 5082.0,
+    "current_assets": 2728.0,
+    "fixed_assets": 2354.0,
+    "total_liabilities": 1871.0,
+    "current_liabilities": 1470.0,
+    "long_term_liabilities": 1741.0,
+    "shareholders_equity": 1871.0
+  },
+  "employees": {
+    "n_employees": 5518,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Karlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Böös",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Lars-Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundewall",
+      "first_name": "Caroline",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thelin",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vieweg",
+      "first_name": "Cecilia",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cederlund",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallberg",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bengtsson",
+      "first_name": "Michael",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers AB"
+    },
+    {
+      "surname": "Stenudd",
+      "first_name": "Liselott",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers AB"
+    }
+  ],
+  "additional_notes": null
+}

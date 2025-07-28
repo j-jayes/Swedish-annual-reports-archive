@@ -1,0 +1,94 @@
+{
+  "company_name": "AB PLATMANUFAKTUR",
+  "fiscal_year": 1966,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 286.179,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 248.428,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 13.237666666666666,
+    "net_income": 7.789
+  },
+  "balance_sheet": {
+    "total_assets": 181.616,
+    "current_assets": 56.387,
+    "fixed_assets": 115.864,
+    "total_liabilities": 83.082,
+    "current_liabilities": 35.169,
+    "long_term_liabilities": 48.383,
+    "shareholders_equity": 81.975
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Lindskog",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Styrelsens vice ordförande"
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "CG",
+      "initials": null,
+      "position": "Friherre"
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Emblad",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Kistner",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Karnéus",
+      "first_name": "Richard",
+      "initials": null,
+      "position": "Disponent"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

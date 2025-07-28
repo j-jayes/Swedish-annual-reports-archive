@@ -1,0 +1,122 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 280693000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 236266000.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8380000.0,
+    "net_income": 2877000.0
+  },
+  "balance_sheet": {
+    "total_assets": 168908000.0,
+    "current_assets": null,
+    "fixed_assets": 49944000.0,
+    "total_liabilities": null,
+    "current_liabilities": 54007000.0,
+    "long_term_liabilities": 41373000.0,
+    "shareholders_equity": 9206000.0
+  },
+  "employees": {
+    "n_employees": 1277,
+    "n_blue_collar_workers": 1020,
+    "n_white_collar_workers": 257
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Widerström",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eneroth",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "Arik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Loftén",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "arbetstagareledamot"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Bert",
+      "initials": null,
+      "position": "arbetstagareledamot"
+    },
+    {
+      "surname": "Gyllenstierna",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Paues",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ahlström",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "arbetstagaresuppleant"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "arbetstagaresuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ranby",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Wennström",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "Visby Cementfabrik",
+  "fiscal_year": 1915,
+  "income_statement": {
+    "revenue": 421358.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 39219.76,
+    "depreciation": null,
+    "net_income": 231404.91
+  },
+  "balance_sheet": {
+    "total_assets": 3707807.36,
+    "current_assets": null,
+    "fixed_assets": 2733000.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1200000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ossbahr",
+      "first_name": "Richard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöstedt",
+      "first_name": "And.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Abel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Abel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "de Jounge",
+      "first_name": "Allon",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Een",
+      "first_name": "C.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Laurell",
+      "first_name": "Gustaf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

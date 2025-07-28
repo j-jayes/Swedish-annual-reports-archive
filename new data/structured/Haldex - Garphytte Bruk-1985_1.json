@@ -1,0 +1,116 @@
+{
+  "company_name": "Garphyttan Hesselman AB",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 615.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 525.2,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 47.0
+  },
+  "balance_sheet": {
+    "total_assets": 480.6,
+    "current_assets": 337.3,
+    "fixed_assets": 124.5,
+    "total_liabilities": 252.7,
+    "current_liabilities": 136.2,
+    "long_term_liabilities": 100.6,
+    "shareholders_equity": 124.3
+  },
+  "employees": {
+    "n_employees": 935,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helgesson",
+      "first_name": "Lars-Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edwardsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Lennart",
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Lindqvist",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Jönsson",
+      "first_name": "Majvi",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Thornberg",
+      "first_name": "Sam",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Lekman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 16.79309092,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 10.94335701
+  },
+  "balance_sheet": {
+    "total_assets": 133.51458351,
+    "current_assets": 256.14736,
+    "fixed_assets": 106.74039,
+    "total_liabilities": 3.73323203,
+    "current_liabilities": 2.7732032,
+    "long_term_liabilities": 742.60657,
+    "shareholders_equity": 65.2202
+  },
+  "employees": {
+    "n_employees": 6,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJOGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "A.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "SODERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PAHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "STERNER",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

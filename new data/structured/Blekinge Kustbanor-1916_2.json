@@ -1,0 +1,94 @@
+{
+  "company_name": "BLEKINGE KUSTBANOR",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": 2019491.34,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1745899.91,
+    "wages_expense": null,
+    "tax_expense": 17993.14,
+    "depreciation": null,
+    "net_income": 273591.43
+  },
+  "balance_sheet": {
+    "total_assets": 7573163.04,
+    "current_assets": null,
+    "fixed_assets": 5566383.67,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2064200.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Lilienberg",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tengvall",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Swanlund",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cederlund",
+      "first_name": "P. M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellerström",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Borgström",
+      "first_name": "J. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": null,
+      "auditing_firm": "ombud å statens vägnar"
+    }
+  ],
+  "additional_notes": null
+}

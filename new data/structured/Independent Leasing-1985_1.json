@@ -1,0 +1,122 @@
+{
+  "company_name": "Independent Finans AB",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 1198.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 24.288
+  },
+  "balance_sheet": {
+    "total_assets": 4874.251,
+    "current_assets": 2439.734,
+    "fixed_assets": 2329.589,
+    "total_liabilities": 2329.589,
+    "current_liabilities": 1467.379,
+    "long_term_liabilities": 1407.436,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 292,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindblad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "LEDAMOT"
+    },
+    {
+      "surname": "Andrén",
+      "first_name": "Sven G",
+      "initials": null,
+      "position": "ORDFÖRANDE"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "LEDAMOT"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VD OCH KONCERNCHEF"
+    },
+    {
+      "surname": "Algell",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "LEDAMOT"
+    },
+    {
+      "surname": "Brynell",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "LEDAMOT"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "LEDAMOT"
+    },
+    {
+      "surname": "Cawsey",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "LEDAMOT"
+    },
+    {
+      "surname": "Thunander",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "SUPPLEANT"
+    },
+    {
+      "surname": "Jones",
+      "first_name": "Ronald S",
+      "initials": null,
+      "position": "STYRELSESUPPLEANT"
+    },
+    {
+      "surname": "Christensson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "STYRELSESUPPLEANT"
+    },
+    {
+      "surname": "Andrén",
+      "first_name": "Siv",
+      "initials": null,
+      "position": "LEDAMOT"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raspe",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Melin",
+      "first_name": "Anne",
+      "initials": null,
+      "auditing_firm": "Deloitte, Haskins & Sells AB"
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Deloitte, Haskins & Sells AB"
+    }
+  ],
+  "additional_notes": null
+}

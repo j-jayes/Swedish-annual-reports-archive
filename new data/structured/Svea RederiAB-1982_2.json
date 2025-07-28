@@ -1,0 +1,92 @@
+{
+  "company_name": "STOCKHOLMS FÖRVALTNINGS AB SVEA",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 84.209,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5.806,
+    "net_income": 21.024
+  },
+  "balance_sheet": {
+    "total_assets": 525.034,
+    "current_assets": 20.905,
+    "fixed_assets": 504.129,
+    "total_liabilities": 334.05,
+    "current_liabilities": 79.204,
+    "long_term_liabilities": 254.846,
+    "shareholders_equity": 190.984
+  },
+  "employees": {
+    "n_employees": 11,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hallåker",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Eric",
+      "initials": "D",
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gezelius",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erling",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ödner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmberg",
+      "first_name": "Klas",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lundvall",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ehnborg",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

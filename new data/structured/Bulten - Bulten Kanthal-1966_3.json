@@ -1,0 +1,80 @@
+{
+  "company_name": "Bultfabriks Aktiebolaget",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 36.321868,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.55845,
+    "depreciation": 17.452748,
+    "net_income": 6.095374
+  },
+  "balance_sheet": {
+    "total_assets": 217.234356,
+    "current_assets": 105.382484,
+    "fixed_assets": 103.260821,
+    "total_liabilities": 143.371934,
+    "current_liabilities": 22.107103,
+    "long_term_liabilities": 69.69745,
+    "shareholders_equity": 73.862422
+  },
+  "employees": {
+    "n_employees": 4885,
+    "n_blue_collar_workers": 3639,
+    "n_white_collar_workers": 1246
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Hans",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Gösta",
+      "initials": "De",
+      "position": null
+    },
+    {
+      "surname": "Nathorst",
+      "first_name": "Helmer",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Cassel",
+      "first_name": null,
+      "initials": "Oiar",
+      "auditing_firm": "Aukt, revisor"
+    }
+  ],
+  "additional_notes": "Hallstahammar i mars 1967\nHelmer Nathorst\nVerkst. direktör\nBo Brundin\nEkonomidirektör"
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "SVENSK FILMINDUSTRI",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 3104101.75,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 434958.85,
+    "wages_expense": null,
+    "tax_expense": 257198.31,
+    "depreciation": 286366.44,
+    "net_income": 550045.07
+  },
+  "balance_sheet": {
+    "total_assets": 20797477.28,
+    "current_assets": 9482353.58,
+    "fixed_assets": 11315123.7,
+    "total_liabilities": 10097199.25,
+    "current_liabilities": 3245233.23,
+    "long_term_liabilities": 6851966.02,
+    "shareholders_equity": 9600012.0
+  },
+  "employees": {
+    "n_employees": 890,
+    "n_blue_collar_workers": 550,
+    "n_white_collar_workers": 340
+  },
+  "board": [
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": null,
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "ANÉR",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JUBERG",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "CARL",
+      "initials": "A.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Vifot",
+      "first_name": "Malte",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

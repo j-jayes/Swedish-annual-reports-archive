@@ -1,0 +1,82 @@
+{
+  "company_name": "Aktiebolaget Svenska Metallverken",
+  "fiscal_year": 1908,
+  "income_statement": {
+    "revenue": 12559607.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 566041.75
+  },
+  "balance_sheet": {
+    "total_assets": 10182808.53,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6007000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wijkman",
+      "first_name": "O.",
+      "initials": "O. Fr.",
+      "position": null
+    },
+    {
+      "surname": "Rappe",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Granström",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wenström",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heurlin",
+      "first_name": "C.",
+      "initials": "C. H.",
+      "position": null
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gihl",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hammarskjöld",
+      "first_name": "C.",
+      "initials": "C. G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sundström",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

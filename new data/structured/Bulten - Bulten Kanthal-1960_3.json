@@ -1,0 +1,74 @@
+{
+  "company_name": "Bultfabriks Aktiebolaget",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 12996765.26,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1900000.0,
+    "depreciation": null,
+    "net_income": 2327910.2
+  },
+  "balance_sheet": {
+    "total_assets": 91085069.15,
+    "current_assets": 33023708.54,
+    "fixed_assets": 58061360.61,
+    "total_liabilities": 54385069.15,
+    "current_liabilities": 14249500.0,
+    "long_term_liabilities": 11800068.16,
+    "shareholders_equity": 28200000.0
+  },
+  "employees": {
+    "n_employees": 2081,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "DE GEER",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "NATHORST",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "KANTZOW",
+      "first_name": "Hans",
+      "initials": "V.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "PLM AB",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 1873.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1682.7,
+    "wages_expense": null,
+    "tax_expense": 26.7,
+    "depreciation": null,
+    "net_income": 37.6
+  },
+  "balance_sheet": {
+    "total_assets": 1376.2,
+    "current_assets": 729.0,
+    "fixed_assets": 636.3,
+    "total_liabilities": 430.7,
+    "current_liabilities": 176.0,
+    "long_term_liabilities": 310.5,
+    "shareholders_equity": 213.3
+  },
+  "employees": {
+    "n_employees": 9423,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "v.ordf"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langebæk",
+      "first_name": "Steen",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Haustrup",
+      "first_name": "Poul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindeblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydelius",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Adamsson",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ivetorp",
+      "first_name": "Maj-Britt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

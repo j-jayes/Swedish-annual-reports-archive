@@ -1,0 +1,86 @@
+{
+  "company_name": "Marabou",
+  "fiscal_year": 1974,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 356.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 0.3,
+    "depreciation": 11.5,
+    "net_income": 0.4
+  },
+  "balance_sheet": {
+    "total_assets": 224.7,
+    "current_assets": 92.66666666666667,
+    "fixed_assets": 132.73333333333335,
+    "total_liabilities": 108.73333333333333,
+    "current_liabilities": 51.8,
+    "long_term_liabilities": 53.5,
+    "shareholders_equity": 95.2
+  },
+  "employees": {
+    "n_employees": 1724,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ericson",
+      "first_name": null,
+      "initials": "H:son",
+      "position": "Riksmarskalk"
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Gentele",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Lundgren",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Herr"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Gentele",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "Fastighetsaktiebolaget Hufvudstaden",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 59.146,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 26.351,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8.349,
+    "net_income": 12.05
+  },
+  "balance_sheet": {
+    "total_assets": 297.332,
+    "current_assets": 38.632,
+    "fixed_assets": 267.016,
+    "total_liabilities": 150.912,
+    "current_liabilities": 20.698,
+    "long_term_liabilities": 122.269,
+    "shareholders_equity": 146.42
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bohman",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Lindholm",
+      "first_name": "Stig",
+      "initials": "H:son",
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

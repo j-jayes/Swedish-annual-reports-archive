@@ -1,0 +1,98 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1999,
+  "income_statement": {
+    "revenue": 807.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 62.9
+  },
+  "balance_sheet": {
+    "total_assets": 427.5,
+    "current_assets": 220.1,
+    "fixed_assets": 154.0,
+    "total_liabilities": 171.6,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 210.6
+  },
+  "employees": {
+    "n_employees": 1119,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "\nÅkesson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Ekberg",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Förberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Karlström",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Erséus",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Ingvarsson",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Ingeström",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Adolfsson",
+      "first_name": "Ola-Per",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Roland",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    }
+  ],
+  "additional_notes": null
+}

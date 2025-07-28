@@ -1,0 +1,70 @@
+{
+  "company_name": "Blekinge Kustbanor",
+  "fiscal_year": 1915,
+  "income_statement": {
+    "revenue": 1695713.49,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1392389.82,
+    "wages_expense": null,
+    "tax_expense": 17993.14,
+    "depreciation": null,
+    "net_income": 303323.67
+  },
+  "balance_sheet": {
+    "total_assets": 7356275.29,
+    "current_assets": null,
+    "fixed_assets": 5433642.55,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 321421.92
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Lilienberg",
+      "first_name": "A.",
+      "initials": null,
+      "position": "Revisionssekreteraren"
+    },
+    {
+      "surname": "Trolle-Wachtmeister",
+      "first_name": "H. G.",
+      "initials": null,
+      "position": "Öfverstekammarjunkaren Grefve"
+    },
+    {
+      "surname": "Kruse",
+      "first_name": "L. M.",
+      "initials": null,
+      "position": "Godsägaren"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Borgström",
+      "first_name": "J. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": "Ombud å statens vägnar."
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Otto",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

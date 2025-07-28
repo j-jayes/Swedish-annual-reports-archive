@@ -1,0 +1,86 @@
+{
+  "company_name": "Gunnebo Bruks Aktiebolag",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 73178374.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 119000.0,
+    "depreciation": 3528000.0,
+    "net_income": 3378000.0
+  },
+  "balance_sheet": {
+    "total_assets": 41324000.0,
+    "current_assets": 8382000.0,
+    "fixed_assets": 19642000.0,
+    "total_liabilities": 10440000.0,
+    "current_liabilities": 10440000.0,
+    "long_term_liabilities": 9231000.0,
+    "shareholders_equity": 26765000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 670,
+    "n_white_collar_workers": 153
+  },
+  "board": [
+    {
+      "surname": "WAHLSTEEN",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDERSTRÖM",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÄGGQVIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TIGERSCHIOLD",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WILHELMSON",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "SJÖHOLM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WENNSTRÖM",
+      "first_name": "INGE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

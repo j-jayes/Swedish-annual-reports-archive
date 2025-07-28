@@ -1,0 +1,116 @@
+{
+  "company_name": "TRELLEBORG",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 1337.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1222.8,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 43.9,
+    "net_income": 7.4
+  },
+  "balance_sheet": {
+    "total_assets": 1162.7,
+    "current_assets": 776.8,
+    "fixed_assets": 385.7,
+    "total_liabilities": 923.8,
+    "current_liabilities": 303.5,
+    "long_term_liabilities": 539.7,
+    "shareholders_equity": 238.9
+  },
+  "employees": {
+    "n_employees": 5301,
+    "n_blue_collar_workers": 3486,
+    "n_white_collar_workers": 1815
+  },
+  "board": [
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Herrlin",
+      "first_name": "Karl-Magnus",
+      "initials": null,
+      "position": "Leg läkare"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": "P",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Redaktör"
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Mörck",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "F d v verkst direktör"
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "Gummiarbetare"
+    },
+    {
+      "surname": "Harvidsson",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "Produktchef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

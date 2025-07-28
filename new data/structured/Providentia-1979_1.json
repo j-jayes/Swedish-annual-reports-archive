@@ -1,0 +1,82 @@
+{
+  "company_name": "Förvaltnings AB Providentia",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 49.579,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5.071,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 61.699
+  },
+  "balance_sheet": {
+    "total_assets": 375.786,
+    "current_assets": 25.063,
+    "fixed_assets": 350.723,
+    "total_liabilities": null,
+    "current_liabilities": 3.21,
+    "long_term_liabilities": null,
+    "shareholders_equity": 372.576
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagergren",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": "H.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": "A.",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

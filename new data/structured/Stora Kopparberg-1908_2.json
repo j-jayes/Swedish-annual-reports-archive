@@ -1,0 +1,70 @@
+{
+  "company_name": "Stora Kopparbergs Bergslags Aktiebolags",
+  "fiscal_year": 1908,
+  "income_statement": {
+    "revenue": 22824402.13,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2041962.32
+  },
+  "balance_sheet": {
+    "total_assets": 72830023.48,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 30241581.8
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ljungberg",
+      "first_name": "E",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Bråkenhielm",
+      "first_name": "P",
+      "initials": "P. J.",
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Rich",
+      "initials": "Rich.",
+      "position": null
+    },
+    {
+      "surname": "Sælander",
+      "first_name": "Axel",
+      "initials": "Axel",
+      "position": null
+    },
+    {
+      "surname": "Hammarberg",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Esseen",
+      "first_name": "G",
+      "initials": "G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frisell",
+      "first_name": "E",
+      "initials": "E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

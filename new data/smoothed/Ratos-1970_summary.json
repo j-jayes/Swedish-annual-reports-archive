@@ -1,0 +1,70 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Ratos",
+  "fiscal_year": 1970,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 8.623835,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 7.046
+  },
+  "balance_sheet": {
+    "total_assets": 103.27408833333332,
+    "current_assets": 60.43,
+    "fixed_assets": 42.100825,
+    "total_liabilities": 9.243176333333333,
+    "current_liabilities": 8.025875,
+    "long_term_liabilities": null,
+    "shareholders_equity": 72.63333333333334
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Regelius",
+      "first_name": "Karl",
+      "initials": "Erik",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

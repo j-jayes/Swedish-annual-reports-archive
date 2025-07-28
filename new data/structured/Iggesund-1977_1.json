@@ -1,0 +1,92 @@
+{
+  "company_name": "Iggesund",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 1368.4,
+    "cost_of_goods_sold": -1267.3,
+    "operating_expenses": null,
+    "wages_expense": 460.0,
+    "tax_expense": 8.5,
+    "depreciation": null,
+    "net_income": 22.7
+  },
+  "balance_sheet": {
+    "total_assets": 1515.5,
+    "current_assets": 605.4,
+    "fixed_assets": 603.1,
+    "total_liabilities": 1156.7,
+    "current_liabilities": 413.2,
+    "long_term_liabilities": 358.4,
+    "shareholders_equity": 358.8
+  },
+  "employees": {
+    "n_employees": 5206,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Direktör, ordf."
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Direktör, v. ordf."
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gustaf",
+      "initials": "C:son",
+      "position": "Civiljägmästare Greve"
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Disponent, verkst.dir."
+    },
+    {
+      "surname": "Brönnhagen",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Lab.chef"
+    },
+    {
+      "surname": "Frohm",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Elektriker"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    }
+  ],
+  "additional_notes": null
+}

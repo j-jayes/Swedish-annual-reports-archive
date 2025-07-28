@@ -1,0 +1,88 @@
+{
+  "company_name": "AKTIEBOLAGET STOCKHOLMS BRYGGERIER",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 107345.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3617.0,
+    "net_income": 7165.0
+  },
+  "balance_sheet": {
+    "total_assets": 169918.0,
+    "current_assets": 40354.0,
+    "fixed_assets": 125440.0,
+    "total_liabilities": 71458.0,
+    "current_liabilities": 23455.0,
+    "long_term_liabilities": 338.0,
+    "shareholders_equity": 98460.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BODELFELT",
+      "first_name": null,
+      "initials": "B",
+      "position": null
+    },
+    {
+      "surname": "ANDERSON",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELMFELDT",
+      "first_name": null,
+      "initials": "B",
+      "position": null
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "F",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RYDE",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "TM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLGERSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 1136.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -1024.4,
+    "wages_expense": null,
+    "tax_expense": -29.8,
+    "depreciation": null,
+    "net_income": 43.3
+  },
+  "balance_sheet": {
+    "total_assets": 1310.6,
+    "current_assets": 274.5,
+    "fixed_assets": 584.6,
+    "total_liabilities": 894.6,
+    "current_liabilities": 365.3,
+    "long_term_liabilities": 511.8,
+    "shareholders_equity": 416.0
+  },
+  "employees": {
+    "n_employees": 14150,
+    "n_blue_collar_workers": 8291,
+    "n_white_collar_workers": 5859
+  },
+  "board": [
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Silfverstolpe",
+      "first_name": "Gudmund",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

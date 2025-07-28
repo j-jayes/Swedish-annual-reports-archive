@@ -1,0 +1,80 @@
+{
+  "company_name": "Aktiebolaget Klippans Finpappersbruk",
+  "fiscal_year": 1971,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 365.066,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 342.617,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 18.314,
+    "net_income": 3.163
+  },
+  "balance_sheet": {
+    "total_assets": 300.891,
+    "current_assets": 159.52333333333334,
+    "fixed_assets": 141.571,
+    "total_liabilities": 226.53366666666668,
+    "current_liabilities": 74.242,
+    "long_term_liabilities": 121.943,
+    "shareholders_equity": 70.693
+  },
+  "employees": {
+    "n_employees": 3499,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Crafoord",
+      "first_name": "Holger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellestam",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Tage",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Elvefors",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    }
+  ]
+}

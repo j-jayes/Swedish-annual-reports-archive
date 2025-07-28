@@ -1,0 +1,92 @@
+{
+  "company_name": "SVENSKA LLOYD",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 144.123,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 128.884,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9.1,
+    "net_income": 0.778
+  },
+  "balance_sheet": {
+    "total_assets": 138.074,
+    "current_assets": 18.628,
+    "fixed_assets": 119.447,
+    "total_liabilities": 108.246,
+    "current_liabilities": 28.417,
+    "long_term_liabilities": 79.829,
+    "shareholders_equity": 29.828
+  },
+  "employees": {
+    "n_employees": 867,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wiberg",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Andersén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "f.d. verkst. direktör"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Granberg",
+      "first_name": null,
+      "initials": "N. E.",
+      "position": "vice verkst. direktör"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Christoffersen",
+      "first_name": "Torgeir",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rohlin",
+      "first_name": "Sven-Rune",
+      "initials": null,
+      "auditing_firm": "J.E. Stenbergs Revisionsbyrå AB"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Orvar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Håkansson",
+      "first_name": "Edvin",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

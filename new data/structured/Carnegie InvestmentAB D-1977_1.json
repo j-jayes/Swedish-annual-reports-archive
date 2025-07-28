@@ -1,0 +1,86 @@
+{
+  "company_name": "D. Carnegie & Co.",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 5887000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5858000.0,
+    "wages_expense": null,
+    "tax_expense": 59000.0,
+    "depreciation": null,
+    "net_income": 3808000.0
+  },
+  "balance_sheet": {
+    "total_assets": 288174000.0,
+    "current_assets": 240783000.0,
+    "fixed_assets": 47311000.0,
+    "total_liabilities": 244980000.0,
+    "current_liabilities": 237023000.0,
+    "long_term_liabilities": 7877000.0,
+    "shareholders_equity": 43194000.0
+  },
+  "employees": {
+    "n_employees": 23,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ekman",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hulterström",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Kommunalrådet"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Finnhammar",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Ankerton",
+      "first_name": "Ove",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Björner",
+      "first_name": "Torbjörn",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

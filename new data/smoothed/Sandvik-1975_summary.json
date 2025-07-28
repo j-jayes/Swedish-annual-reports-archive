@@ -1,0 +1,92 @@
+{
+  "company_name": "SANDVIK",
+  "fiscal_year": 1975,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3667.296,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2846.325,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 190.497,
+    "net_income": 81.702
+  },
+  "balance_sheet": {
+    "total_assets": 4638.542,
+    "current_assets": 3209.784,
+    "fixed_assets": 1378.029,
+    "total_liabilities": 3014.7973333333334,
+    "current_liabilities": 885.4966666666667,
+    "long_term_liabilities": 1158.2526666666668,
+    "shareholders_equity": 853.845
+  },
+  "employees": {
+    "n_employees": 26931,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Magnuson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stake",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bahrke",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Koraen",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Bergsingenjör"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1996,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 763.0
+  },
+  "balance_sheet": {
+    "total_assets": 4446.4,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4220.5
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "GARDELL",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "STORCH",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ORDFÖRANDE"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "PER-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGSTRÖMER",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEDERHAUSEN",
+      "first_name": "MATS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "QVIBERG",
+      "first_name": "MATS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNELL",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "SET - Svensson, Erikson & Tjus Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

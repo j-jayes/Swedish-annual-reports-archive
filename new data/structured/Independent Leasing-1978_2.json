@@ -1,0 +1,92 @@
+{
+  "company_name": "Independent Leasing AB",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 142.704,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 3.691,
+    "tax_expense": 4.102,
+    "depreciation": 88.322,
+    "net_income": 12.747
+  },
+  "balance_sheet": {
+    "total_assets": 411.861,
+    "current_assets": 20.575,
+    "fixed_assets": 337.153,
+    "total_liabilities": null,
+    "current_liabilities": 94.13,
+    "long_term_liabilities": 29.58,
+    "shareholders_equity": 18.0
+  },
+  "employees": {
+    "n_employees": 50,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Henry",
+      "first_name": "Sanford",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kjellström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Porat",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Soper",
+      "first_name": "Derek",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Björkebaum",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Westergren",
+      "first_name": "Ulla",
+      "initials": null,
+      "position": "Personalrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Elinder",
+      "first_name": "Rickard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

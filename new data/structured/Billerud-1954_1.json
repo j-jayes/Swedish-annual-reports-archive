@@ -1,0 +1,86 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 195578276.93,
+    "cost_of_goods_sold": 147873565.67,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 18000000.0,
+    "depreciation": null,
+    "net_income": 16048633.21
+  },
+  "balance_sheet": {
+    "total_assets": 204064253.56,
+    "current_assets": 102812179.55,
+    "fixed_assets": 101252074.01,
+    "total_liabilities": 81843243.83,
+    "current_liabilities": 39856037.86,
+    "long_term_liabilities": 41987204.94,
+    "shareholders_equity": 122221010.73
+  },
+  "employees": {
+    "n_employees": 5902,
+    "n_blue_collar_workers": 5235,
+    "n_white_collar_workers": 667
+  },
+  "board": [
+    {
+      "surname": "HAMMARSKJÖLD",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HISING",
+      "first_name": null,
+      "initials": "K. I.",
+      "position": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": null,
+      "initials": "L.-E.",
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": null,
+      "initials": "Y.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ALMQUIST",
+      "first_name": "HARRY",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WENDT",
+      "first_name": "STELLAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

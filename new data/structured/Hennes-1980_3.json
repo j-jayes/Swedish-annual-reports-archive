@@ -1,0 +1,106 @@
+{
+  "company_name": "H & M HENNES & MAURITZ AB",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 1500.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10.0,
+    "net_income": 26.7
+  },
+  "balance_sheet": {
+    "total_assets": 488.0,
+    "current_assets": 424.4,
+    "fixed_assets": 63.6,
+    "total_liabilities": 227.6,
+    "current_liabilities": 163.7,
+    "long_term_liabilities": 61.2,
+    "shareholders_equity": 73.7
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Mattson",
+      "first_name": "John",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Stjernquist",
+      "first_name": "Inge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erling",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Chrantz",
+      "first_name": "Rosa",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hagrup",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kristfeldt",
+      "first_name": "Jens",
+      "initials": "Ove",
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Ella",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

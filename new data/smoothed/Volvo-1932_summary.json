@@ -1,0 +1,64 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1932,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 12168383.31,
+    "cost_of_goods_sold": 11059222.36,
+    "operating_expenses": 916028.1,
+    "wages_expense": null,
+    "tax_expense": 10000.0,
+    "depreciation": null,
+    "net_income": 102494.31
+  },
+  "balance_sheet": {
+    "total_assets": 9277527.01,
+    "current_assets": null,
+    "fixed_assets": 3028964.26,
+    "total_liabilities": null,
+    "current_liabilities": 4112257.15,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4200000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "WINGQUIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "UNO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSON",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "ELON",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LILLJEGREN",
+      "first_name": "HUGO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

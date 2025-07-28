@@ -1,0 +1,92 @@
+{
+  "company_name": "Stockholms Superfosfat Fabriks Aktiebolag",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 58985083.41,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5782654.32,
+    "depreciation": null,
+    "net_income": 12091346.12
+  },
+  "balance_sheet": {
+    "total_assets": 339905049.47,
+    "current_assets": 99133235.22,
+    "fixed_assets": 84549564.44,
+    "total_liabilities": 17708749.95,
+    "current_liabilities": 39384474.95,
+    "long_term_liabilities": 81382335.71,
+    "shareholders_equity": 14279524.46
+  },
+  "employees": {
+    "n_employees": 1562,
+    "n_blue_collar_workers": 1129,
+    "n_white_collar_workers": 433
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "ABENIUS",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "GEER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DALÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLEGVAD",
+      "first_name": "JÖRGEN",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "PONTIN",
+      "first_name": "MAGNUS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WEDELIN",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

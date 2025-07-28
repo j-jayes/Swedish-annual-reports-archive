@@ -1,0 +1,110 @@
+{
+  "company_name": "Wilh. Sonesson AB",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 4270.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -3667.3,
+    "wages_expense": null,
+    "tax_expense": 5.2,
+    "depreciation": null,
+    "net_income": 77.6
+  },
+  "balance_sheet": {
+    "total_assets": 4739.6,
+    "current_assets": 2847.5,
+    "fixed_assets": 1815.1,
+    "total_liabilities": 1326.0,
+    "current_liabilities": 942.5,
+    "long_term_liabilities": 1197.8,
+    "shareholders_equity": 1426.9
+  },
+  "employees": {
+    "n_employees": 8356,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör, Vice ordförande"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "VD, Wilh. Sonesson AB"
+    },
+    {
+      "surname": "Althin",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lindblad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "VD, AB Cardo"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Löwhagen",
+      "first_name": "Birger",
+      "initials": null,
+      "position": "VD, Skanska AB"
+    },
+    {
+      "surname": "Renell",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "VVD, AB Volvo"
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Direktör, AGA AB"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Personalrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Bohlin & Jacobsson AB"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Peters & Co Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

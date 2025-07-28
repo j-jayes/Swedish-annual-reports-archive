@@ -1,0 +1,80 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1972,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 330.442857,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 400658.4005,
+    "net_income": 1.112
+  },
+  "balance_sheet": {
+    "total_assets": 147.63110566666666,
+    "current_assets": 125.09712833333333,
+    "fixed_assets": 22.533644,
+    "total_liabilities": 89.21813333333334,
+    "current_liabilities": 75.61705133333334,
+    "long_term_liabilities": 24.471305666666666,
+    "shareholders_equity": 27.474
+  },
+  "employees": {
+    "n_employees": 398,
+    "n_blue_collar_workers": 154,
+    "n_white_collar_workers": 244
+  },
+  "board": [
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Ordförande-Chairman"
+    },
+    {
+      "surname": "BECKETT",
+      "first_name": "TERRY",
+      "initials": "N",
+      "position": null
+    },
+    {
+      "surname": "MOLSON",
+      "first_name": "RON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "\"\nKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINTON",
+      "first_name": "STELLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WITT",
+      "first_name": "CARL",
+      "initials": "HENRIK",
+      "auditing_firm": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

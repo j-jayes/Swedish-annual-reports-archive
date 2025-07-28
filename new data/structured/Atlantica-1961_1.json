@@ -1,0 +1,104 @@
+{
+  "company_name": "Försäkringsaktiebolaget Atlantica",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 12585164.64,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1639617.09,
+    "wages_expense": null,
+    "tax_expense": 152261.68,
+    "depreciation": null,
+    "net_income": 523793.47
+  },
+  "balance_sheet": {
+    "total_assets": 38123469.7,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5000000.0
+  },
+  "employees": {
+    "n_employees": 35,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": null,
+      "initials": "E. W.",
+      "position": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": null,
+      "initials": "K. E.",
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORBURN",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "SANDEN",
+      "first_name": "David",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDQVIST",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KIHLBOM",
+      "first_name": "Niklas",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FALLENIUS",
+      "first_name": null,
+      "initials": "C-A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "KARLGREN",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "MARABOU",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 18788.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5275.0,
+    "net_income": 2561079.2
+  },
+  "balance_sheet": {
+    "total_assets": 66534.0,
+    "current_assets": 59504.0,
+    "fixed_assets": 37898.0,
+    "total_liabilities": 46959.0,
+    "current_liabilities": 36273.0,
+    "long_term_liabilities": 19313.0,
+    "shareholders_equity": 19575.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERICSON",
+      "first_name": "STIG",
+      "initials": "H:",
+      "position": null
+    },
+    {
+      "surname": "ANDERFELT",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GENTELE",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BEXELIUS",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

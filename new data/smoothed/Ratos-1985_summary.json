@@ -1,0 +1,76 @@
+{
+  "company_name": "Förvaltnings AB Ratos",
+  "fiscal_year": 1985,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -100.3,
+    "depreciation": null,
+    "net_income": 126.9
+  },
+  "balance_sheet": {
+    "total_assets": 1774.7,
+    "current_assets": 1051.4333333333334,
+    "fixed_assets": 877.8,
+    "total_liabilities": 626.8666666666667,
+    "current_liabilities": 370.15,
+    "long_term_liabilities": 174.5,
+    "shareholders_equity": 525.0333333333333
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Damgaard-Nielsen",
+      "first_name": "Ole",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Norin",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

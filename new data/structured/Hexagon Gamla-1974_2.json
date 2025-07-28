@@ -1,0 +1,128 @@
+{
+  "company_name": "Hexagon",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 265.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 230.714,
+    "wages_expense": null,
+    "tax_expense": 2.616,
+    "depreciation": 7.658,
+    "net_income": 7.146
+  },
+  "balance_sheet": {
+    "total_assets": 140.7,
+    "current_assets": 123.885,
+    "fixed_assets": 59.059,
+    "total_liabilities": 53.079,
+    "current_liabilities": 64.392,
+    "long_term_liabilities": 83.653,
+    "shareholders_equity": 35.705
+  },
+  "employees": {
+    "n_employees": 1721,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Haeggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöström",
+      "first_name": "Carl-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "G.",
+      "initials": "Ivar",
+      "position": null
+    },
+    {
+      "surname": "Bouveng",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Gahn",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Hemmingson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Montelius",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Mossberg",
+      "first_name": "Sture",
+      "initials": null,
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

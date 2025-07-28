@@ -1,0 +1,116 @@
+{
+  "company_name": "Svenska Sockerfabriks Aktiebolaget",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 15123957.84,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2929140.06,
+    "depreciation": null,
+    "net_income": 4595531.51
+  },
+  "balance_sheet": {
+    "total_assets": 152718837.55,
+    "current_assets": 77469256.61,
+    "fixed_assets": 75249580.94,
+    "total_liabilities": 65754752.37,
+    "current_liabilities": 29790667.19,
+    "long_term_liabilities": 35964085.18,
+    "shareholders_equity": 86964085.18
+  },
+  "employees": {
+    "n_employees": 4777,
+    "n_blue_collar_workers": 3762,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "E.",
+      "initials": "C:son",
+      "position": "Bankdirektören"
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": "Civilingeniören"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": null,
+      "initials": null,
+      "position": "Landshövdingen Herr"
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "H.",
+      "initials": null,
+      "position": "Direktören"
+    },
+    {
+      "surname": "Gummeson",
+      "first_name": "P.",
+      "initials": "Eg.",
+      "position": "Direktören"
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "S.",
+      "initials": null,
+      "position": "f. d. Hovrättsrådet, Direktören"
+    },
+    {
+      "surname": "Tranchell",
+      "first_name": "C.",
+      "initials": "F.",
+      "position": "Direktören"
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Direktören"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Bankdirektören"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ekman",
+      "first_name": "Håkan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordenstedt",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Emil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Malmquist",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kockum",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "Pripp & Lyckholm",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 18807942.51,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2253087.59,
+    "depreciation": 1578977.18,
+    "net_income": 4002538.92
+  },
+  "balance_sheet": {
+    "total_assets": 80074485.72,
+    "current_assets": 20198163.7,
+    "fixed_assets": 59876322.02,
+    "total_liabilities": 14683734.53,
+    "current_liabilities": 7229436.4,
+    "long_term_liabilities": 11620574.13,
+    "shareholders_equity": 53857808.0
+  },
+  "employees": {
+    "n_employees": 760,
+    "n_blue_collar_workers": 570,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dieden",
+      "first_name": "Gotthard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Loberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ygge",
+      "first_name": "Birger",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wikland",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Holmqvist",
+      "first_name": "Harry",
+      "initials": "H",
+      "auditing_firm": "suppleant"
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Gösta",
+      "initials": "G",
+      "auditing_firm": "suppleant"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": "G",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

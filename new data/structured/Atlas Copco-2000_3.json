@@ -1,0 +1,122 @@
+{
+  "company_name": "Atlas Copco",
+  "fiscal_year": 2000,
+  "income_statement": {
+    "revenue": 46.527,
+    "cost_of_goods_sold": -31.154,
+    "operating_expenses": -8.361,
+    "wages_expense": null,
+    "tax_expense": -1.723,
+    "depreciation": 3.982,
+    "net_income": 2.924
+  },
+  "balance_sheet": {
+    "total_assets": 61.688,
+    "current_assets": 18.639,
+    "fixed_assets": 43.049,
+    "total_liabilities": null,
+    "current_liabilities": 19.359,
+    "long_term_liabilities": 12.281,
+    "shareholders_equity": 23.982
+  },
+  "employees": {
+    "n_employees": 26392,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "Mazzalupi",
+      "first_name": "Giulio",
+      "initials": null,
+      "position": "President and CEO"
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "Michael",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janssen",
+      "first_name": "Paul-Emmanuel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Singhania",
+      "first_name": "Hari",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellström",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Core",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Litzén",
+      "first_name": "Ulla",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Soting",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmström",
+      "first_name": "Stefan",
+      "initials": null,
+      "auditing_firm": "KPMG Bohlins AB"
+    },
+    {
+      "surname": "Markborn",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen AB"
+    }
+  ],
+  "additional_notes": null
+}

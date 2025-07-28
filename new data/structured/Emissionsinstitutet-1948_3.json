@@ -1,0 +1,62 @@
+{
+  "company_name": "AKTIEBOLAGET EMISSIONSINSTITUTET",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 573230.23,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 36744.0,
+    "depreciation": 36193.06,
+    "net_income": 384847.23
+  },
+  "balance_sheet": {
+    "total_assets": 6205180.25,
+    "current_assets": 3148526.25,
+    "fixed_assets": 3056654.0,
+    "total_liabilities": 108245.13,
+    "current_liabilities": 108245.13,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4800000.0
+  },
+  "employees": {
+    "n_employees": 3,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Liljenroth",
+      "first_name": "F.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Calissendorff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Verkst\nDirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fredrikson",
+      "first_name": "Verner",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "S-H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

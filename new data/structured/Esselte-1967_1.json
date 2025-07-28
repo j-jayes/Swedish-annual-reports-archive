@@ -1,0 +1,43 @@
+{
+  "company_name": "SLT-koncernen",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 631.047,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 23.972,
+    "net_income": 10.223
+  },
+  "balance_sheet": {
+    "total_assets": 417.936,
+    "current_assets": 224.487,
+    "fixed_assets": 165.447,
+    "total_liabilities": 271.6,
+    "current_liabilities": 103.134,
+    "long_term_liabilities": 168.466,
+    "shareholders_equity": 146.336
+  },
+  "employees": {
+    "n_employees": 7476,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

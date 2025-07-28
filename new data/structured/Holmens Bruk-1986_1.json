@@ -1,0 +1,110 @@
+{
+  "company_name": "Holmen",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 6426.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 60.4,
+    "depreciation": 301.1,
+    "net_income": 125.0
+  },
+  "balance_sheet": {
+    "total_assets": 6917.8,
+    "current_assets": 2472.3,
+    "fixed_assets": 4427.4,
+    "total_liabilities": 2238.9,
+    "current_liabilities": 1558.4,
+    "long_term_liabilities": 834.9,
+    "shareholders_equity": 1846.5
+  },
+  "employees": {
+    "n_employees": 6500,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ÖNNESJÖ",
+      "first_name": "KARL",
+      "initials": "KARL ERIK",
+      "position": "ordförande"
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRIPENSTEDT",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONASON",
+      "first_name": "LAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KARLSON",
+      "first_name": "JOHNNY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSSON",
+      "first_name": "THOMAS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": "CLAS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDBLAD",
+      "first_name": "LARS",
+      "initials": "LARS G",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "TROLLE-LÖWEN",
+      "first_name": "AUGUST",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ZETTERBERG",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "ÖIAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FRIDMAN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "BOHLINS REVISIONSBYRÅ AB"
+    }
+  ],
+  "additional_notes": null
+}

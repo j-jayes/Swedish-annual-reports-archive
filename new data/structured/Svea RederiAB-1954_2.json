@@ -1,0 +1,74 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 87149587.96,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2690320.0,
+    "depreciation": 9148592.0,
+    "net_income": 21158383.17
+  },
+  "balance_sheet": {
+    "total_assets": 84530944.96,
+    "current_assets": 25606069.05,
+    "fixed_assets": 58924875.91,
+    "total_liabilities": 57412944.96,
+    "current_liabilities": 25330523.57,
+    "long_term_liabilities": 28259999.01,
+    "shareholders_equity": 27118000.0
+  },
+  "employees": {
+    "n_employees": 1480,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Schollin-Borg",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gester",
+      "first_name": "Eskil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": "Verkst, dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Norrthon",
+      "first_name": "Philip",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

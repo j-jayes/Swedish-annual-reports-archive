@@ -1,0 +1,92 @@
+{
+  "company_name": "UPSALA-EKEBY AB",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1412367.0
+  },
+  "balance_sheet": {
+    "total_assets": 43431015.0,
+    "current_assets": 23305190.0,
+    "fixed_assets": 20796568.0,
+    "total_liabilities": 21430232.0,
+    "current_liabilities": 17925874.0,
+    "long_term_liabilities": 576103.0,
+    "shareholders_equity": 21648532.0
+  },
+  "employees": {
+    "n_employees": 1300,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sterner",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Bahr",
+      "first_name": "Carl von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": null,
+      "initials": "C. G.",
+      "position": null
+    },
+    {
+      "surname": "Wetter",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammerlund",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henningson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "AUKT. REVISOR"
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

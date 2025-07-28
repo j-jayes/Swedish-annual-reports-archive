@@ -1,0 +1,80 @@
+{
+  "company_name": "CORONAVERKEN AB",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 398.426,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10.581,
+    "net_income": 4.843
+  },
+  "balance_sheet": {
+    "total_assets": 331.862,
+    "current_assets": 250.243,
+    "fixed_assets": 76.275,
+    "total_liabilities": 264.29,
+    "current_liabilities": 135.792,
+    "long_term_liabilities": 64.467,
+    "shareholders_equity": 67.572
+  },
+  "employees": {
+    "n_employees": 4501,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HILL-LINDQUIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "RISBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "SVANTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF TROLLE",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGCRANTZ",
+      "first_name": "SIGURD",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AHREN",
+      "first_name": null,
+      "initials": "C. E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "RILBY",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,470 @@
+{
+  "company_name": "Hufvudstaden",
+  "years_covered": "1927-2006",
+  "total_years": 66,
+  "total_members": 60,
+  "avg_board_size": 2.4545454545454546,
+  "avg_tenure": 6.383333333333334,
+  "median_tenure": 4.0,
+  "avg_turnover_rate": 0.8765720604182142,
+  "board_size_by_year": {
+    "1927": 0,
+    "1938": 0,
+    "1939": 0,
+    "1940": 0,
+    "1941": 0,
+    "1942": 2,
+    "1943": 0,
+    "1944": 0,
+    "1945": 0,
+    "1946": 0,
+    "1947": 0,
+    "1948": 1,
+    "1949": 0,
+    "1950": 2,
+    "1951": 1,
+    "1952": 1,
+    "1953": 1,
+    "1954": 1,
+    "1955": 1,
+    "1956": 1,
+    "1957": 1,
+    "1958": 0,
+    "1959": 1,
+    "1960": 1,
+    "1961": 1,
+    "1962": 1,
+    "1963": 1,
+    "1964": 0,
+    "1965": 1,
+    "1966": 1,
+    "1967": 1,
+    "1968": 3,
+    "1969": 3,
+    "1970": 3,
+    "1971": 6,
+    "1972": 6,
+    "1973": 3,
+    "1974": 3,
+    "1975": 3,
+    "1976": 3,
+    "1977": 3,
+    "1978": 3,
+    "1979": 6,
+    "1980": 8,
+    "1981": 3,
+    "1982": 3,
+    "1983": 7,
+    "1984": 7,
+    "1985": 8,
+    "1986": 8,
+    "1987": 4,
+    "1988": 3,
+    "1989": 3,
+    "1990": 7,
+    "1991": 6,
+    "1992": 6,
+    "1993": 2,
+    "1994": 2,
+    "1995": 2,
+    "1996": 1,
+    "1997": 2,
+    "1998": 2,
+    "2002": 2,
+    "2003": 7,
+    "2005": 2,
+    "2006": 2
+  },
+  "turnover_by_period": {
+    "1927-1938": {
+      "joined": 5,
+      "left": 8,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1938-1939": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1939-1940": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1940-1941": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1941-1942": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 1.0
+    },
+    "1942-1943": {
+      "joined": 2,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 1.5
+    },
+    "1943-1944": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0
+    },
+    "1944-1945": {
+      "joined": 0,
+      "left": 6,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1945-1946": {
+      "joined": 6,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1946-1947": {
+      "joined": 0,
+      "left": 1,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1947-1948": {
+      "joined": 1,
+      "left": 2,
+      "stayed": 3,
+      "turnover_rate": 3.0
+    },
+    "1948-1949": {
+      "joined": 3,
+      "left": 1,
+      "stayed": 3,
+      "turnover_rate": 4.0
+    },
+    "1949-1950": {
+      "joined": 0,
+      "left": 2,
+      "stayed": 4,
+      "turnover_rate": 1.0
+    },
+    "1950-1951": {
+      "joined": 2,
+      "left": 0,
+      "stayed": 4,
+      "turnover_rate": 0.6666666666666666
+    },
+    "1951-1952": {
+      "joined": 1,
+      "left": 2,
+      "stayed": 4,
+      "turnover_rate": 1.5
+    },
+    "1952-1953": {
+      "joined": 4,
+      "left": 2,
+      "stayed": 3,
+      "turnover_rate": 3.0
+    },
+    "1953-1954": {
+      "joined": 1,
+      "left": 2,
+      "stayed": 5,
+      "turnover_rate": 1.5
+    },
+    "1954-1955": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 5,
+      "turnover_rate": 1.0
+    },
+    "1955-1956": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 5,
+      "turnover_rate": 1.0
+    },
+    "1956-1957": {
+      "joined": 1,
+      "left": 2,
+      "stayed": 4,
+      "turnover_rate": 1.5
+    },
+    "1957-1958": {
+      "joined": 0,
+      "left": 5,
+      "stayed": 0,
+      "turnover_rate": 5.0
+    },
+    "1958-1959": {
+      "joined": 5,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 5.0
+    },
+    "1959-1960": {
+      "joined": 2,
+      "left": 2,
+      "stayed": 3,
+      "turnover_rate": 2.0
+    },
+    "1960-1961": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0.0
+    },
+    "1961-1962": {
+      "joined": 0,
+      "left": 2,
+      "stayed": 3,
+      "turnover_rate": 1.0
+    },
+    "1962-1963": {
+      "joined": 2,
+      "left": 1,
+      "stayed": 2,
+      "turnover_rate": 1.5
+    },
+    "1963-1964": {
+      "joined": 0,
+      "left": 4,
+      "stayed": 0,
+      "turnover_rate": 4.0
+    },
+    "1964-1965": {
+      "joined": 3,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 3.0
+    },
+    "1965-1966": {
+      "joined": 1,
+      "left": 0,
+      "stayed": 3,
+      "turnover_rate": 0.5
+    },
+    "1966-1967": {
+      "joined": 2,
+      "left": 1,
+      "stayed": 3,
+      "turnover_rate": 1.5
+    },
+    "1967-1968": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0.0
+    },
+    "1968-1969": {
+      "joined": 2,
+      "left": 2,
+      "stayed": 3,
+      "turnover_rate": 0.6666666666666666
+    },
+    "1969-1970": {
+      "joined": 1,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0.16666666666666666
+    },
+    "1970-1971": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.0
+    },
+    "1971-1972": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 5,
+      "turnover_rate": 0.16666666666666666
+    },
+    "1972-1973": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.0
+    },
+    "1973-1974": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.0
+    },
+    "1974-1975": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.0
+    },
+    "1975-1976": {
+      "joined": 1,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.16666666666666666
+    },
+    "1976-1977": {
+      "joined": 0,
+      "left": 1,
+      "stayed": 6,
+      "turnover_rate": 0.16666666666666666
+    },
+    "1977-1978": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.0
+    },
+    "1978-1979": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.0
+    },
+    "1979-1980": {
+      "joined": 3,
+      "left": 1,
+      "stayed": 5,
+      "turnover_rate": 0.2857142857142857
+    },
+    "1980-1981": {
+      "joined": 1,
+      "left": 2,
+      "stayed": 6,
+      "turnover_rate": 0.2727272727272727
+    },
+    "1981-1982": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 7,
+      "turnover_rate": 0.0
+    },
+    "1982-1983": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 6,
+      "turnover_rate": 0.2
+    },
+    "1983-1984": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 7,
+      "turnover_rate": 0.0
+    },
+    "1984-1985": {
+      "joined": 1,
+      "left": 0,
+      "stayed": 7,
+      "turnover_rate": 0.06666666666666667
+    },
+    "1985-1986": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 8,
+      "turnover_rate": 0.0
+    },
+    "1986-1987": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 7,
+      "turnover_rate": 0.16666666666666666
+    },
+    "1987-1988": {
+      "joined": 1,
+      "left": 2,
+      "stayed": 6,
+      "turnover_rate": 0.42857142857142855
+    },
+    "1988-1989": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 7,
+      "turnover_rate": 0.0
+    },
+    "1989-1990": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 6,
+      "turnover_rate": 0.2
+    },
+    "1990-1991": {
+      "joined": 2,
+      "left": 3,
+      "stayed": 4,
+      "turnover_rate": 0.38461538461538464
+    },
+    "1991-1992": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.0
+    },
+    "1992-1993": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.0
+    },
+    "1993-1994": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.0
+    },
+    "1994-1995": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 5,
+      "turnover_rate": 0.5
+    },
+    "1995-1996": {
+      "joined": 2,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0.6666666666666666
+    },
+    "1996-1997": {
+      "joined": 3,
+      "left": 3,
+      "stayed": 5,
+      "turnover_rate": 2.0
+    },
+    "1997-1998": {
+      "joined": 5,
+      "left": 5,
+      "stayed": 3,
+      "turnover_rate": 2.5
+    },
+    "1998-2002": {
+      "joined": 4,
+      "left": 4,
+      "stayed": 4,
+      "turnover_rate": 2.0
+    },
+    "2002-2003": {
+      "joined": 1,
+      "left": 2,
+      "stayed": 6,
+      "turnover_rate": 0.3333333333333333
+    },
+    "2003-2005": {
+      "joined": 2,
+      "left": 0,
+      "stayed": 7,
+      "turnover_rate": 0.2222222222222222
+    },
+    "2005-2006": {
+      "joined": 2,
+      "left": 3,
+      "stayed": 6,
+      "turnover_rate": 1.25
+    }
+  }
+}

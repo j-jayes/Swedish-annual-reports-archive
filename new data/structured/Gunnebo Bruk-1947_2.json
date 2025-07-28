@@ -1,0 +1,74 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 1831441.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 552372.0,
+    "net_income": 392197.19
+  },
+  "balance_sheet": {
+    "total_assets": 8863468.18,
+    "current_assets": 3042293.14,
+    "fixed_assets": 2844003.0,
+    "total_liabilities": 3863468.18,
+    "current_liabilities": 101564.67,
+    "long_term_liabilities": 1804876.78,
+    "shareholders_equity": 5000000.0
+  },
+  "employees": {
+    "n_employees": 601,
+    "n_blue_collar_workers": 516,
+    "n_white_collar_workers": 85
+  },
+  "board": [
+    {
+      "surname": "Gyllenstierna",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellgren",
+      "first_name": "Rich.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wilhelmson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunström",
+      "first_name": "Rudolf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jaede",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

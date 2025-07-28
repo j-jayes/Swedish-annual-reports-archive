@@ -1,0 +1,76 @@
+{
+  "company_name": "Aktiebolaget Nordiska Armaturfabrikerna",
+  "fiscal_year": 1940,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 198251.3,
+    "depreciation": 498169.45,
+    "net_income": 895724.16
+  },
+  "balance_sheet": {
+    "total_assets": 15242523.6,
+    "current_assets": null,
+    "fixed_assets": 4933477.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8850000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enström",
+      "first_name": "Axel",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "Vielmetter",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åkerblom",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlander",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenram",
+      "first_name": "B.",
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sandberg",
+      "first_name": "Gustaf",
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "Iggesund",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 2456.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2081.3,
+    "wages_expense": null,
+    "tax_expense": 31.4,
+    "depreciation": 105.5,
+    "net_income": 76.7
+  },
+  "balance_sheet": {
+    "total_assets": 4157.0,
+    "current_assets": 1597.4,
+    "fixed_assets": 1428.5,
+    "total_liabilities": 2757.4,
+    "current_liabilities": 874.9,
+    "long_term_liabilities": 585.6,
+    "shareholders_equity": 1399.6
+  },
+  "employees": {
+    "n_employees": 2597,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "CARLGREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLSTRÖM",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDBLAD",
+      "first_name": "LARS",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "KEMPE",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LÖF",
+      "first_name": "BERNT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDIN",
+      "first_name": "JÖRGEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRÖNNHAGEN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FROHM",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PRAMHALL",
+      "first_name": "INGVAR",
+      "initials": null,
+      "auditing_firm": "OHRLINGS REVISIONSBYRÅ AB"
+    },
+    {
+      "surname": "GEIJER",
+      "first_name": "WILHELM",
+      "initials": null,
+      "auditing_firm": "OHRLINGS REVISIONSBYRÅ AB"
+    }
+  ],
+  "additional_notes": null
+}

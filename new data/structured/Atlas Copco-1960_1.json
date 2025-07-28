@@ -1,0 +1,70 @@
+{
+  "company_name": "Atlas Copco AB",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 36895538.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6830061.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3038022.0,
+    "net_income": 11710215.0
+  },
+  "balance_sheet": {
+    "total_assets": 199467335.0,
+    "current_assets": 75654863.0,
+    "fixed_assets": 18507217.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": 13325585.0,
+    "shareholders_equity": 123113447.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "von Steyern",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": "Jr",
+      "position": null
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "K.",
+      "initials": "A.",
+      "position": "Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Authorized Accountant"
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

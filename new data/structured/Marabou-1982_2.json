@@ -1,0 +1,128 @@
+{
+  "company_name": "Marabou",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 1150.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 918.8,
+    "wages_expense": null,
+    "tax_expense": 10.1,
+    "depreciation": null,
+    "net_income": 7.9
+  },
+  "balance_sheet": {
+    "total_assets": 713.3,
+    "current_assets": 347.9,
+    "fixed_assets": 365.4,
+    "total_liabilities": 335.6,
+    "current_liabilities": 165.4,
+    "long_term_liabilities": 170.0,
+    "shareholders_equity": 71.3
+  },
+  "employees": {
+    "n_employees": 2452,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Belfrage",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Osvald",
+      "first_name": "Per Håkan",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Mohler",
+      "first_name": "Harold S",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Cappelen",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "sekreterare"
+    },
+    {
+      "surname": "Sandström",
+      "first_name": "Svante",
+      "initials": null,
+      "position": "personalrepresentanter"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "personalrepresentanter"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Barbro",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Akteus",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Almqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Jakobsson",
+      "first_name": "Evy",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Strandin",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

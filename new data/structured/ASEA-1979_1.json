@@ -1,0 +1,98 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 11830.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 11068.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 325.0,
+    "net_income": 195.0
+  },
+  "balance_sheet": {
+    "total_assets": 16267.0,
+    "current_assets": 11497.0,
+    "fixed_assets": 4755.0,
+    "total_liabilities": 14069.0,
+    "current_liabilities": 2685.0,
+    "long_term_liabilities": 3942.0,
+    "shareholders_equity": 2198.0
+  },
+  "employees": {
+    "n_employees": 43404,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\\u00c5ke",
+      "initials": "T.",
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Lindstr\\u00f6m",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "verkst\\u00e4llande direkt\\u00f6r"
+    },
+    {
+      "surname": "Sal\\u00e9n",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "S\\u00f6derberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "L\\u00f6fgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Karl",
+      "initials": "Erik",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "tekn dr"
+    },
+    {
+      "surname": "Gabrielson",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

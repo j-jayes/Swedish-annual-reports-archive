@@ -1,0 +1,58 @@
+{
+  "company_name": "Rederiaktiebolaget Svea",
+  "fiscal_year": 1881,
+  "income_statement": {
+    "revenue": 777785.43,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 589430.95,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 86291.87
+  },
+  "balance_sheet": {
+    "total_assets": 1213806.24,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ahlborg",
+      "first_name": "K.",
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "Edelstam",
+      "first_name": "C. F.",
+      "initials": "C. F.",
+      "position": null
+    },
+    {
+      "surname": "Lind af Hageby",
+      "first_name": "A.",
+      "initials": "A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wedberg",
+      "first_name": "Jac.",
+      "initials": "Jac.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Brogren",
+      "first_name": "F. J.",
+      "initials": "F. J.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

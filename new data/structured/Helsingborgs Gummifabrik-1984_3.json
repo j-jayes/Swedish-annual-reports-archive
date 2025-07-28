@@ -1,0 +1,70 @@
+{
+  "company_name": "AB Hevea",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 15.198,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 110.0,
+    "depreciation": null,
+    "net_income": 60.667
+  },
+  "balance_sheet": {
+    "total_assets": 733.373,
+    "current_assets": 383.042,
+    "fixed_assets": 316.031,
+    "total_liabilities": 280.006,
+    "current_liabilities": 280.006,
+    "long_term_liabilities": 169.738,
+    "shareholders_equity": 253.408
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Sandell",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gartell",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hansson",
+      "first_name": "Olle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hasselquist",
+      "first_name": "Michael",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Törnqvist",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

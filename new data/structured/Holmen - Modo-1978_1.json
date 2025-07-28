@@ -1,0 +1,98 @@
+{
+  "company_name": "Mo och Domsjö Aktiebolag",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 2291.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 30.9,
+    "depreciation": 142.9,
+    "net_income": 67.0
+  },
+  "balance_sheet": {
+    "total_assets": 3867.4,
+    "current_assets": 1451.2,
+    "fixed_assets": 2413.0,
+    "total_liabilities": 874.2,
+    "current_liabilities": 692.7,
+    "long_term_liabilities": 730.8,
+    "shareholders_equity": 837.2
+  },
+  "employees": {
+    "n_employees": 7858,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wegerfelt",
+      "first_name": "K",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "verkst dir"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "SIF-repr"
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "LO-repr"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

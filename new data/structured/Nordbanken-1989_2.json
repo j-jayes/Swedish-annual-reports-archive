@@ -1,0 +1,158 @@
+{
+  "company_name": "NORDBANKEN",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 1423.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 736.3,
+    "wages_expense": null,
+    "tax_expense": -18.9,
+    "depreciation": null,
+    "net_income": 149.6
+  },
+  "balance_sheet": {
+    "total_assets": 57412.6,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 53997.5,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2545.2
+  },
+  "employees": {
+    "n_employees": 1483,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "MATSSON",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "ORDF"
+    },
+    {
+      "surname": "ANDO",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "VICE ORDF"
+    },
+    {
+      "surname": "BARNÉUS",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LODIN",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MARKLUND",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "Mårten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FINSKAS",
+      "first_name": "Bertel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDMARK",
+      "first_name": "Samme",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MÅBERG",
+      "first_name": "Olle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖSTRAND",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THURDIN",
+      "first_name": "Görel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VRETMAN",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDSTRÖM",
+      "first_name": "Gunilla",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅKERLUND",
+      "first_name": "Inga",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jämtelid",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "SET Svensson, Erikson & Tjus Revisionsbyrå AB"
+    },
+    {
+      "surname": "Mundebo",
+      "first_name": "Ingemar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tidström",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

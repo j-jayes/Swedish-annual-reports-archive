@@ -1,0 +1,98 @@
+{
+  "company_name": "Upsala-Ekeby AB",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 100.403,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3.197,
+    "net_income": 1.949
+  },
+  "balance_sheet": {
+    "total_assets": 89.057,
+    "current_assets": 20.66,
+    "fixed_assets": 45.637,
+    "total_liabilities": 54.581,
+    "current_liabilities": 10.042,
+    "long_term_liabilities": 23.275,
+    "shareholders_equity": 34.476
+  },
+  "employees": {
+    "n_employees": 1041,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderman",
+      "first_name": "H. W.",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "C. G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Skoog",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunne",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Synnerdahl",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wetter",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammerlund",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henningson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

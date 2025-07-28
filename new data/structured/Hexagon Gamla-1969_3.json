@@ -1,0 +1,86 @@
+{
+  "company_name": "HEXAGON AB",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 82.237,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 74.259,
+    "wages_expense": null,
+    "tax_expense": 3.486,
+    "depreciation": 1.802,
+    "net_income": 2.339
+  },
+  "balance_sheet": {
+    "total_assets": 70.601,
+    "current_assets": 45.473,
+    "fixed_assets": 25.127,
+    "total_liabilities": 46.414,
+    "current_liabilities": 25.442,
+    "long_term_liabilities": 20.579,
+    "shareholders_equity": 19.815
+  },
+  "employees": {
+    "n_employees": 417,
+    "n_blue_collar_workers": 346,
+    "n_white_collar_workers": 71
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Waldemar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "G.",
+      "initials": "I.",
+      "position": null
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "von Hofsten",
+      "first_name": "Erland",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "AB NORDISKA KOMPANIET",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 31136522.83,
+    "tax_expense": 2071400.0,
+    "depreciation": 1636753.51,
+    "net_income": 4848802.18
+  },
+  "balance_sheet": {
+    "total_assets": 120416374.43,
+    "current_assets": 56402041.37,
+    "fixed_assets": 64014333.06,
+    "total_liabilities": 59840933.32,
+    "current_liabilities": 16223574.61,
+    "long_term_liabilities": 44351866.5,
+    "shareholders_equity": 47840000.0
+  },
+  "employees": {
+    "n_employees": 2717,
+    "n_blue_collar_workers": 743,
+    "n_white_collar_workers": 1974
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUSEWITZ",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WARN",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHROFF",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KALDERÉN",
+      "first_name": "R.",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GRUMME",
+      "first_name": "C.",
+      "initials": "Ed.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "OIAR",
+      "initials": null,
+      "auditing_firm": "Aukt revisor Suppl."
+    }
+  ],
+  "additional_notes": null
+}

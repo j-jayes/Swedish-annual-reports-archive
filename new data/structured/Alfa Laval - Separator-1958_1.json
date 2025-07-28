@@ -1,0 +1,74 @@
+{
+  "company_name": "Aktiebolaget Separator",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 40411171.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 10906932.0
+  },
+  "balance_sheet": {
+    "total_assets": 268928038.0,
+    "current_assets": null,
+    "fixed_assets": 114103439.0,
+    "total_liabilities": null,
+    "current_liabilities": 25015333.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 138045000.0
+  },
+  "employees": {
+    "n_employees": 16633,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "TRYGGER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "J.",
+      "position": "GÖSTA DE GEER"
+    },
+    {
+      "surname": "GRANFORS",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": null,
+      "initials": "L.T.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "LINDSTRÖM",
+      "first_name": null,
+      "initials": "O.W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "MOBERG",
+      "first_name": "WILHELM",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Siffermaterialet har i den tryckta berättelsen avrundats till jämna kronor."
+}

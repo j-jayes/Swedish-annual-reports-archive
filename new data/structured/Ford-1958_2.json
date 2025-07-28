@@ -1,0 +1,80 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 171.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 277.895,
+    "net_income": 2205455.0
+  },
+  "balance_sheet": {
+    "total_assets": 45941638.0,
+    "current_assets": 29884476.0,
+    "fixed_assets": 7845085.0,
+    "total_liabilities": 16605567.0,
+    "current_liabilities": 9441441.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 28536071.0
+  },
+  "employees": {
+    "n_employees": 408,
+    "n_blue_collar_workers": 172,
+    "n_white_collar_workers": 236
+  },
+  "board": [
+    {
+      "surname": "Ford II",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhle",
+      "first_name": null,
+      "initials": "N.K.",
+      "position": null
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jones",
+      "first_name": null,
+      "initials": "H.E.",
+      "position": null
+    },
+    {
+      "surname": "Bröndum",
+      "first_name": "Otto",
+      "initials": null,
+      "position": "Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": "Oskar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dickinson",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1943,
+  "income_statement": {
+    "revenue": 439879.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 104739.0,
+    "net_income": -293888.0
+  },
+  "balance_sheet": {
+    "total_assets": 9460240.0,
+    "current_assets": null,
+    "fixed_assets": 2100676.0,
+    "total_liabilities": null,
+    "current_liabilities": 646092.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "FORD",
+      "first_name": "EDSEL",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "PERRY",
+      "first_name": null,
+      "initials": "RT. HON. LORD",
+      "position": null
+    },
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERNOD",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÉN",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRÖNDUM",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ISELL",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SILLÉN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

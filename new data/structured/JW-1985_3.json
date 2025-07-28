@@ -1,0 +1,116 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 334825.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5441.0,
+    "net_income": 13177.0
+  },
+  "balance_sheet": {
+    "total_assets": 319514.0,
+    "current_assets": 197890.0,
+    "fixed_assets": 121624.0,
+    "total_liabilities": 132452.0,
+    "current_liabilities": 49778.0,
+    "long_term_liabilities": 38075.0,
+    "shareholders_equity": 71574.0
+  },
+  "employees": {
+    "n_employees": 1022,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ROOS",
+      "first_name": "FREDRIK",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "IRSTAD",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "DANIELSEN",
+      "first_name": "TORE",
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "PAULI",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDH",
+      "first_name": "ZERNY",
+      "initials": null,
+      "position": "Koncernchef"
+    },
+    {
+      "surname": "ZETTERBERG",
+      "first_name": "\nÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HULTHÉN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGQUIST",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERMANSSON",
+      "first_name": "\nÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LORIN",
+      "first_name": "\nÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLOFSSON",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AXELSSON",
+      "first_name": "KURT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "SUNE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

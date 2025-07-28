@@ -1,0 +1,86 @@
+{
+  "company_name": "Beijerinvest",
+  "fiscal_year": 1973,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1129.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 10.795,
+    "depreciation": 0.0,
+    "net_income": 17.28
+  },
+  "balance_sheet": {
+    "total_assets": 679.854,
+    "current_assets": 473.31,
+    "fixed_assets": 200.981,
+    "total_liabilities": 263.437,
+    "current_liabilities": 262.737,
+    "long_term_liabilities": 151.979,
+    "shareholders_equity": 113.94
+  },
+  "employees": {
+    "n_employees": 3582,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Beijer",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "styrelsens ordförande"
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": "styrelsens vice ordförande"
+    },
+    {
+      "surname": "Jörgensen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kruse",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Ivar Nordelöfs Revisionsbyrå"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå"
+    }
+  ]
+}

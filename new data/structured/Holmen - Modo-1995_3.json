@@ -1,0 +1,98 @@
+{
+  "company_name": "MoDo",
+  "fiscal_year": 1995,
+  "income_statement": {
+    "revenue": 22319.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -15692.0,
+    "wages_expense": null,
+    "tax_expense": -1545.0,
+    "depreciation": -1151.0,
+    "net_income": 3671.0
+  },
+  "balance_sheet": {
+    "total_assets": 28743.0,
+    "current_assets": 10003.0,
+    "fixed_assets": 18740.0,
+    "total_liabilities": null,
+    "current_liabilities": 4666.0,
+    "long_term_liabilities": 5819.0,
+    "shareholders_equity": 14471.0
+  },
+  "employees": {
+    "n_employees": 9707,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Gidlöf",
+      "first_name": "Dick",
+      "initials": null,
+      "position": "Löntagarrepresentant LO"
+    },
+    {
+      "surname": "Karison",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": "Löntagarrepresentant LO"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martensson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": "Löntagarrepresentant PTK"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Welin",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zetterberg",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "KPMG Bohlins AB"
+    }
+  ],
+  "additional_notes": null
+}

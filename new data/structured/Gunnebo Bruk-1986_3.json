@@ -1,0 +1,116 @@
+{
+  "company_name": "GUNNEBOKONCERNEN",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 1011.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 935.6,
+    "wages_expense": null,
+    "tax_expense": 9.3,
+    "depreciation": null,
+    "net_income": 15.7
+  },
+  "balance_sheet": {
+    "total_assets": 826.5,
+    "current_assets": 578.4,
+    "fixed_assets": 226.7,
+    "total_liabilities": 228.9,
+    "current_liabilities": 254.2,
+    "long_term_liabilities": 150.3,
+    "shareholders_equity": 106.7
+  },
+  "employees": {
+    "n_employees": 1436,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hising",
+      "first_name": "Lars",
+      "initials": "IVAR",
+      "position": null
+    },
+    {
+      "surname": "Hjalmar",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Asplund",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Unger",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Olle",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brändström",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pedersen",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Antonsson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Call",
+      "first_name": "Uno",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Sandell",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

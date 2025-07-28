@@ -1,0 +1,104 @@
+{
+  "company_name": "AKTIEBOLAGET NORDISKA KOMPANIET",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1279769.61,
+    "wages_expense": 20984859.19,
+    "tax_expense": 1449040.0,
+    "depreciation": 274297.59,
+    "net_income": 2468949.62
+  },
+  "balance_sheet": {
+    "total_assets": 87445909.91,
+    "current_assets": 45421830.96,
+    "fixed_assets": 42024078.95,
+    "total_liabilities": 45136296.63,
+    "current_liabilities": 10379555.58,
+    "long_term_liabilities": 3274105.0,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 2831,
+    "n_blue_collar_workers": 929,
+    "n_white_collar_workers": 1902
+  },
+  "board": [
+    {
+      "surname": "WARN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUSEWITZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "R.",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "SCHROFF",
+      "first_name": "ROBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRIIS",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KALDER\nÉN",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": "C.",
+      "initials": "ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

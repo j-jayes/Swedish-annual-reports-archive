@@ -1,0 +1,76 @@
+{
+  "company_name": "SVENSKA LLOYD",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 80.695,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1.212
+  },
+  "balance_sheet": {
+    "total_assets": 58.822,
+    "current_assets": null,
+    "fixed_assets": 44.487,
+    "total_liabilities": 9.154,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 26.146
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PETTERSSON",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CHRISTOFFERSEN",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOOGLAND",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "BLIDBERG",
+      "first_name": "CARL",
+      "initials": "ÅKE",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

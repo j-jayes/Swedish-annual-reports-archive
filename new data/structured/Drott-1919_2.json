@@ -1,0 +1,70 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1919,
+  "income_statement": {
+    "revenue": 1464599.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 78558.42,
+    "tax_expense": 115287.34,
+    "depreciation": null,
+    "net_income": 714622.81
+  },
+  "balance_sheet": {
+    "total_assets": 20608246.45,
+    "current_assets": 310320.35,
+    "fixed_assets": 18423136.0,
+    "total_liabilities": 13897174.43,
+    "current_liabilities": 444120.12,
+    "long_term_liabilities": 12110243.45,
+    "shareholders_equity": 6908548.57
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "OSSBAHR",
+      "first_name": "RICHARD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "PONTUS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYSTRÖM",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DIEDEN",
+      "first_name": "TH.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HÖRSTADIUS",
+      "first_name": "G. W.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WASASTIERNA",
+      "first_name": "ALB.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

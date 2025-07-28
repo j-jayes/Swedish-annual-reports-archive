@@ -1,0 +1,98 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AKTIEBOLAG",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 224101926.84,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 18000000.0,
+    "depreciation": 13653904.77,
+    "net_income": 12685959.35
+  },
+  "balance_sheet": {
+    "total_assets": 241604998.55,
+    "current_assets": 46363766.25,
+    "fixed_assets": 89041522.78,
+    "total_liabilities": 25318850.04,
+    "current_liabilities": 21158754.89,
+    "long_term_liabilities": 20000000.0,
+    "shareholders_equity": 167986012.85
+  },
+  "employees": {
+    "n_employees": 9783,
+    "n_blue_collar_workers": 8672,
+    "n_white_collar_workers": 1111
+  },
+  "board": [
+    {
+      "surname": "WAHLUND",
+      "first_name": null,
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "SALWÉN",
+      "first_name": null,
+      "initials": "E. RIK.",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "GEER",
+      "first_name": "LOUIS",
+      "initials": "DE",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "RODLING",
+      "first_name": "EJNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ABENIUS",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "NORDENSTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "COLLÉN",
+      "first_name": null,
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "RABENIUS",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

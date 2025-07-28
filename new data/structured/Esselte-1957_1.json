@@ -1,0 +1,86 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 23712.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 7247.0,
+    "net_income": 4314.0
+  },
+  "balance_sheet": {
+    "total_assets": 85879.0,
+    "current_assets": null,
+    "fixed_assets": 47572.0,
+    "total_liabilities": null,
+    "current_liabilities": 18696.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 56014.0
+  },
+  "employees": {
+    "n_employees": 6020,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "GENERALKONSUL"
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "FRITHIOF",
+      "initials": null,
+      "position": "BANKDIREKTÖR"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": "DISPONENT"
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": "ÖVERINTENDENT"
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "SUNDEN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "f. d. HOVRÄTTSRÅDET VERKST. DIREKTÖR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BESERT",
+      "first_name": "RUENTARD",
+      "initials": null,
+      "auditing_firm": "DISPONENT"
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "AUKT. REVISOR"
+    }
+  ],
+  "additional_notes": null
+}

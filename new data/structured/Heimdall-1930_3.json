@@ -1,0 +1,106 @@
+{
+  "company_name": "Försäkringsaktiebolaget Heimdall",
+  "fiscal_year": 1930,
+  "income_statement": {
+    "revenue": 4765956.84,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 495584.56,
+    "wages_expense": null,
+    "tax_expense": 50137.99,
+    "depreciation": 4862.32,
+    "net_income": 229021.06
+  },
+  "balance_sheet": {
+    "total_assets": 8072214.03,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2670037.27,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1500000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Trolle",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hammarström",
+      "first_name": "Alexis",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Kuylenstjerna",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagrelius",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Överintendent"
+    },
+    {
+      "surname": "Österlöf",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Berg",
+      "first_name": "August",
+      "initials": null,
+      "position": "v. Direktör"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Bernh.",
+      "initials": null,
+      "position": "Kapten"
+    },
+    {
+      "surname": "Roos",
+      "first_name": "O. W.",
+      "initials": null,
+      "position": "Byråchef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ericson",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Drakenberg",
+      "first_name": "Jean",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Elliot",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": "Militieombudsman"
+    },
+    {
+      "surname": "Cygnæus",
+      "first_name": "A. W.",
+      "initials": null,
+      "auditing_firm": "Kammarrättsråd"
+    },
+    {
+      "surname": "Laurell",
+      "first_name": "C. A.",
+      "initials": null,
+      "auditing_firm": "Kamrer"
+    }
+  ],
+  "additional_notes": null
+}

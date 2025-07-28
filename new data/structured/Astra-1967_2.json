@@ -1,0 +1,80 @@
+{
+  "company_name": "Aktiebolaget Astra",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 445.473,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 396.455,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 12.74,
+    "net_income": 17.792
+  },
+  "balance_sheet": {
+    "total_assets": 327.674,
+    "current_assets": 170.337,
+    "fixed_assets": 150.228,
+    "total_liabilities": 88.78,
+    "current_liabilities": 76.146,
+    "long_term_liabilities": 37.941,
+    "shareholders_equity": 142.245
+  },
+  "employees": {
+    "n_employees": 4240,
+    "n_blue_collar_workers": 719,
+    "n_white_collar_workers": 764
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Herrman",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Julin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kistner",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werkö",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wegerfelt",
+      "first_name": "Karl Arne",
+      "initials": null,
+      "position": "verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

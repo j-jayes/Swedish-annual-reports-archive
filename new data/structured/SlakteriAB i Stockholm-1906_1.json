@@ -1,0 +1,45 @@
+{
+  "company_name": "Slagteri-Aktiebolagets",
+  "fiscal_year": 1906,
+  "income_statement": {
+    "revenue": 2441583.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 72999.14
+  },
+  "balance_sheet": {
+    "total_assets": 1036758.66,
+    "current_assets": null,
+    "fixed_assets": 373267.89,
+    "total_liabilities": null,
+    "current_liabilities": 47540.35,
+    "long_term_liabilities": null,
+    "shareholders_equity": 260000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Hirsch",
+      "first_name": "Isaak",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lagerbjelke",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hirsch",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

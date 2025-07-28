@@ -1,0 +1,82 @@
+{
+  "company_name": "AKTIEBOLAGET STOCKHOLMS BRYGGERIER",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 70790.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 17476.0,
+    "tax_expense": null,
+    "depreciation": 3010.0,
+    "net_income": 4956.0
+  },
+  "balance_sheet": {
+    "total_assets": 143848.0,
+    "current_assets": 21487.0,
+    "fixed_assets": 122361.0,
+    "total_liabilities": 55823.0,
+    "current_liabilities": 13246.0,
+    "long_term_liabilities": 4146.0,
+    "shareholders_equity": 88025.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ANDERSON",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDENSON",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERDAHL",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "S",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "T",
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "KRÜLL",
+      "first_name": "MAX",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BROMAN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

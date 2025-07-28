@@ -1,0 +1,49 @@
+{
+  "company_name": "Cardo",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 1211.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5.674,
+    "depreciation": null,
+    "net_income": 32.975
+  },
+  "balance_sheet": {
+    "total_assets": 396.991,
+    "current_assets": 1004.0,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": 25.828,
+    "long_term_liabilities": 17.686,
+    "shareholders_equity": 51.563
+  },
+  "employees": {
+    "n_employees": 3344,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Faxe",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "N.A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

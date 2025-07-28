@@ -1,0 +1,176 @@
+{
+  "company_name": "Skandia",
+  "fiscal_year": 1984,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 15.032,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 67.0,
+    "depreciation": null,
+    "net_income": 28.0
+  },
+  "balance_sheet": {
+    "total_assets": 32.853,
+    "current_assets": null,
+    "fixed_assets": 891.0,
+    "total_liabilities": 3.65,
+    "current_liabilities": 3.65,
+    "long_term_liabilities": 2.244,
+    "shareholders_equity": 1.083
+  },
+  "employees": {
+    "n_employees": 6065,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ericsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": null,
+      "initials": "Curt G",
+      "position": null
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Carl-Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dockered",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindquist",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olténg",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palme",
+      "first_name": "Claës",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiold",
+      "first_name": "Clas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wolrath",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kristensson",
+      "first_name": "Astrid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martinsson",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olanders",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Kerstin",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindén",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Einar Larssons Revisionsbyrå AB"
+    },
+    {
+      "surname": "Lindroth",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Sören",
+      "initials": null,
+      "auditing_firm": "Einar Larssons Revisionsbyrå AB"
+    },
+    {
+      "surname": "Åkerblom",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "company_name": "UPLANDSBANKEN",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 363.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 240.1,
+    "wages_expense": null,
+    "tax_expense": 12.7,
+    "depreciation": null,
+    "net_income": 14.0
+  },
+  "balance_sheet": {
+    "total_assets": 8267.3,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 7567.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 700.0
+  },
+  "employees": {
+    "n_employees": 662,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ando",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Mårten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frid",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyquist",
+      "first_name": "Ulla",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Matsson",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Donald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lovén",
+      "first_name": "Henrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Spendrup",
+      "first_name": "Jens",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Mattsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hedefalk",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gefors",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

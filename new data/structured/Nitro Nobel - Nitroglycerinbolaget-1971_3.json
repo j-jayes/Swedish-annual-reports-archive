@@ -1,0 +1,98 @@
+{
+  "company_name": "Nitro Nobel AB",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 112.96,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 98.722,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6.322,
+    "net_income": 2.544
+  },
+  "balance_sheet": {
+    "total_assets": 92.139,
+    "current_assets": 36.128,
+    "fixed_assets": 41.952,
+    "total_liabilities": 45.151,
+    "current_liabilities": 18.777,
+    "long_term_liabilities": 26.374,
+    "shareholders_equity": 43.813
+  },
+  "employees": {
+    "n_employees": 949,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langefors",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Boman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": null,
+      "initials": "Ulf-C.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "S:son Ankarcrona",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Didrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

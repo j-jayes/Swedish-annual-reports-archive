@@ -1,0 +1,104 @@
+{
+  "company_name": "SANDVIK",
+  "fiscal_year": 1993,
+  "income_statement": {
+    "revenue": 21770.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 327.0,
+    "depreciation": 1104.0,
+    "net_income": 1069.0
+  },
+  "balance_sheet": {
+    "total_assets": 25127.0,
+    "current_assets": 16775.0,
+    "fixed_assets": 8352.0,
+    "total_liabilities": null,
+    "current_liabilities": 5827.0,
+    "long_term_liabilities": 4299.0,
+    "shareholders_equity": 7371.0
+  },
+  "employees": {
+    "n_employees": 26869,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Malmros",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Håkansson",
+      "first_name": "Lars-Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindstedt",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Honkamäki",
+      "first_name": "Eino",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjödén",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "President"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svantemark",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

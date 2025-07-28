@@ -1,0 +1,82 @@
+{
+  "company_name": "Investment Aktiebolaget Asken",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 13285499.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 195000.0,
+    "depreciation": 11268933.0,
+    "net_income": 1169791.0
+  },
+  "balance_sheet": {
+    "total_assets": 69136419.0,
+    "current_assets": 5253846.0,
+    "fixed_assets": 35800000.0,
+    "total_liabilities": 15629399.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 53507020.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Simonsson",
+      "first_name": "Svante",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Carlander",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K:son",
+      "position": null
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kellgren",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Sune Kellgrens Revisionsbyrå AB"
+    },
+    {
+      "surname": "Kjellman",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolaget",
+  "fiscal_year": 1962,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 862252576.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 31580785.0,
+    "wages_expense": 226181575.33333334,
+    "tax_expense": 40000000.0,
+    "depreciation": 31580785.0,
+    "net_income": 47377952.0
+  },
+  "balance_sheet": {
+    "total_assets": 1107751339.0,
+    "current_assets": 621663450.0,
+    "fixed_assets": 486087889.0,
+    "total_liabilities": 256194081.66666666,
+    "current_liabilities": 174562570.33333334,
+    "long_term_liabilities": 68597586.0,
+    "shareholders_equity": 466168956.0
+  },
+  "employees": {
+    "n_employees": 19829,
+    "n_blue_collar_workers": 11717,
+    "n_white_collar_workers": 8112
+  },
+  "board": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "position": null
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Pausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke",
+      "initials": "T",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

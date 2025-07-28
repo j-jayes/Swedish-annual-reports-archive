@@ -1,0 +1,52 @@
+{
+  "company_name": "Ratos",
+  "fiscal_year": 1982,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2407.4,
+    "cost_of_goods_sold": -2306.1,
+    "operating_expenses": 2306.1,
+    "wages_expense": null,
+    "tax_expense": 49.9,
+    "depreciation": 34.4,
+    "net_income": 126.9
+  },
+  "balance_sheet": {
+    "total_assets": 1791.3999999999999,
+    "current_assets": 1231.1,
+    "fixed_assets": 877.6666666666666,
+    "total_liabilities": 1094.3666666666666,
+    "current_liabilities": 602.7666666666667,
+    "long_term_liabilities": 263.5,
+    "shareholders_equity": 459.06666666666666
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "S\nHOLM SCHO",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "S\nHOLM SCHO",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRIDMAN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "REGELIUS",
+      "first_name": "KARL ERIK",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

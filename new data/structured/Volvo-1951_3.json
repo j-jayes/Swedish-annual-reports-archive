@@ -1,0 +1,86 @@
+{
+  "company_name": "Aktiebolaget Volvo",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 6917241.48
+  },
+  "balance_sheet": {
+    "total_assets": 450574127.28,
+    "current_assets": null,
+    "fixed_assets": 67967361.15,
+    "total_liabilities": null,
+    "current_liabilities": 70897978.2,
+    "long_term_liabilities": null,
+    "shareholders_equity": 83947744.86
+  },
+  "employees": {
+    "n_employees": 7612,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Prytz",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar H:son",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Magnus",
+      "first_name": null,
+      "initials": "E. L.",
+      "position": null
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Hilding",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Larson",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Fryklund",
+      "first_name": "\nÅke",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

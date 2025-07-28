@@ -1,0 +1,92 @@
+{
+  "company_name": "Aktiebolaget Volvo",
+  "fiscal_year": 1958,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 798.765,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 17.1,
+    "depreciation": null,
+    "net_income": 14.935
+  },
+  "balance_sheet": {
+    "total_assets": 635.0556666666666,
+    "current_assets": null,
+    "fixed_assets": 59.724,
+    "total_liabilities": null,
+    "current_liabilities": 173.866,
+    "long_term_liabilities": 67.924,
+    "shareholders_equity": 111.702
+  },
+  "employees": {
+    "n_employees": 13948,
+    "n_blue_collar_workers": 9494,
+    "n_white_collar_workers": 4454
+  },
+  "board": [
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "ASSAR",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HALLSTRÖM",
+      "first_name": null,
+      "initials": "H",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "TÖRNEBOHM",
+      "first_name": "HILDING",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRANFORS",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JUNKER",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRYKLUND",
+      "first_name": "\nÅKE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

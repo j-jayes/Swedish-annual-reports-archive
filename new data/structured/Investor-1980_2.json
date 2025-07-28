@@ -1,0 +1,88 @@
+{
+  "company_name": "AB Investor",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 63.334,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 59.499,
+    "wages_expense": null,
+    "tax_expense": 10.407,
+    "depreciation": null,
+    "net_income": 163.355
+  },
+  "balance_sheet": {
+    "total_assets": 527.525,
+    "current_assets": 26.522,
+    "fixed_assets": 501.003,
+    "total_liabilities": null,
+    "current_liabilities": 16.179,
+    "long_term_liabilities": null,
+    "shareholders_equity": 511.346
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": null,
+      "initials": "Ulf-C.",
+      "position": null
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "förordnad av Regeringen"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

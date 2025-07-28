@@ -1,0 +1,70 @@
+{
+  "company_name": "FÖRVALTNINGSAKTIEBOLAGET PROVIDENTIA",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 20509205.86,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 18191513.44
+  },
+  "balance_sheet": {
+    "total_assets": 138468525.99,
+    "current_assets": 4951025.07,
+    "fixed_assets": 133517500.92,
+    "total_liabilities": 8700000.0,
+    "current_liabilities": 504291.7,
+    "long_term_liabilities": 2390000.0,
+    "shareholders_equity": 60000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G.",
+      "initials": "G. A.",
+      "position": null
+    },
+    {
+      "surname": "Anér",
+      "first_name": "Josef",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\nÅberg",
+      "first_name": "Sven",
+      "initials": "Sven T.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ohlson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

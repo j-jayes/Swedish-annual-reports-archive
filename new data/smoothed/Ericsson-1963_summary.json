@@ -1,0 +1,116 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET L M ERICSSON",
+  "fiscal_year": 1963,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 493552320.436,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 18674370.682,
+    "depreciation": null,
+    "net_income": 16959033.918
+  },
+  "balance_sheet": {
+    "total_assets": 695415724.162,
+    "current_assets": 501420002.838,
+    "fixed_assets": 128844924.356,
+    "total_liabilities": 474434282.19733334,
+    "current_liabilities": 218988771.31,
+    "long_term_liabilities": 61372122.744,
+    "shareholders_equity": 220982775.298
+  },
+  "employees": {
+    "n_employees": 40600,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "ERNFRID",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN TURE",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "STERNER",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG JR",
+      "first_name": "MARC",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "LARS-ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖDMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "James",
+      "first_name": "C.",
+      "initials": "B.",
+      "auditing_firm": "Incorporated Accountant i firma Price Waterhouse & Co."
+    }
+  ]
+}

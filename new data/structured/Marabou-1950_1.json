@@ -1,0 +1,74 @@
+{
+  "company_name": "MARABOU",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 9143193.79,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 373313.73,
+    "net_income": 894488.36
+  },
+  "balance_sheet": {
+    "total_assets": 39435876.22,
+    "current_assets": 22022340.66,
+    "fixed_assets": 17413535.56,
+    "total_liabilities": 24860851.27,
+    "current_liabilities": 11555851.27,
+    "long_term_liabilities": 12124000.0,
+    "shareholders_equity": 14575000.0
+  },
+  "employees": {
+    "n_employees": 1446,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DANNFELT",
+      "first_name": "C. JURLIN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERFELT",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SVENSSON",
+      "first_name": "SETH",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GENTELE",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

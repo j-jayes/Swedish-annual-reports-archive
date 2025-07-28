@@ -1,0 +1,82 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGET",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 42370552.76,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 11100000.0,
+    "depreciation": null,
+    "net_income": 16205764.59
+  },
+  "balance_sheet": {
+    "total_assets": 243199071.2,
+    "current_assets": 104214482.63,
+    "fixed_assets": 135835710.09,
+    "total_liabilities": 53794496.47,
+    "current_liabilities": 57890442.47,
+    "long_term_liabilities": 11387311.35,
+    "shareholders_equity": 170400000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": null,
+      "initials": "\nÅke",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": null,
+      "initials": "O",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ljungdahl",
+      "first_name": null,
+      "initials": "C E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": null,
+      "initials": "G A",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

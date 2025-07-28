@@ -1,0 +1,128 @@
+{
+  "company_name": "SUNDSVALLS BANKEN",
+  "fiscal_year": 1967,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 45.797,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 24.422,
+    "wages_expense": 13.189,
+    "tax_expense": 5.8,
+    "depreciation": 10.777,
+    "net_income": 5.9
+  },
+  "balance_sheet": {
+    "total_assets": 1459.519,
+    "current_assets": 1023.02,
+    "fixed_assets": 179.195,
+    "total_liabilities": 1158.865,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 35.525
+  },
+  "employees": {
+    "n_employees": 428,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": "N",
+      "position": "direktör"
+    },
+    {
+      "surname": "Hannell",
+      "first_name": "Gösta",
+      "initials": "G",
+      "position": "direktör"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Folke",
+      "initials": "F",
+      "position": "direktör"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "A.",
+      "initials": "A. G.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": "Y",
+      "position": "disponent, Sundsvall, ordförande"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "K.",
+      "initials": "K. G.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Gunnar",
+      "initials": "G",
+      "position": "jur. dr"
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": "E",
+      "position": "direktör"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Gösta",
+      "initials": "G",
+      "position": "odont. dr"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": "J",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Appeltofft",
+      "first_name": "Olof",
+      "initials": "O. H.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Rogberg",
+      "first_name": "Nils",
+      "initials": "N",
+      "position": "civilingenjör, Stockholm, vice ordförande"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

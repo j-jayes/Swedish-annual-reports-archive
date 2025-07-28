@@ -1,0 +1,92 @@
+{
+  "company_name": "Motala Verkstads Nya Aktiebolags",
+  "fiscal_year": 1905,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 46202.73
+  },
+  "balance_sheet": {
+    "total_assets": 6357992.98,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 5583242.58,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 774750.4
+  },
+  "employees": {
+    "n_employees": 454,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HOLMQUIST",
+      "first_name": "C. F.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "SJÖHOLM",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LILLIENAU",
+      "first_name": "AUG.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅNGSTRÖM",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PIHLGREN",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NORRMAN",
+      "first_name": "V.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CEDERSTRÖM",
+      "first_name": "R.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

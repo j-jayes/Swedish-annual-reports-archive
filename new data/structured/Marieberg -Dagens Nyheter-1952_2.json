@@ -1,0 +1,92 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 4512732.63,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 694976.0,
+    "depreciation": 1771482.74,
+    "net_income": 656991.54
+  },
+  "balance_sheet": {
+    "total_assets": 27384142.85,
+    "current_assets": 16662299.85,
+    "fixed_assets": 10721843.1,
+    "total_liabilities": 13829521.26,
+    "current_liabilities": 6430280.6,
+    "long_term_liabilities": 7248927.66,
+    "shareholders_equity": 13554621.59
+  },
+  "employees": {
+    "n_employees": 2591,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Tor",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heilborn",
+      "first_name": "Helge",
+      "initials": null,
+      "position": "Verkst. direktören"
+    },
+    {
+      "surname": "Tingsten",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": "Chefredaktören"
+    },
+    {
+      "surname": "Ljungquist",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Byråchef"
+    },
+    {
+      "surname": "Norhammar",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,58 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1921,
+  "income_statement": {
+    "revenue": 907482.42,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 120121.61,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -1268456.54
+  },
+  "balance_sheet": {
+    "total_assets": 66444149.98,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 66444149.98,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "PRINTZSKÖLD",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARC.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NACHMANSON",
+      "first_name": "JOSEPH",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CEDERSTRÖM",
+      "first_name": null,
+      "initials": "R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "KINNANDER",
+      "first_name": null,
+      "initials": "O.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

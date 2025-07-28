@@ -1,0 +1,76 @@
+{
+  "company_name": "Aktiebolaget Svenska Metallverken",
+  "fiscal_year": 1943,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4246303.0,
+    "depreciation": 4148091.0,
+    "net_income": 1714167.44
+  },
+  "balance_sheet": {
+    "total_assets": 64339506.6,
+    "current_assets": 34875841.69,
+    "fixed_assets": 29463664.91,
+    "total_liabilities": 44025269.04,
+    "current_liabilities": 16607201.92,
+    "long_term_liabilities": 17951521.98,
+    "shareholders_equity": 20314237.6
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hjorth",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\"\nÅkerman",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Grabe",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öberg",
+      "first_name": "Theofil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fredholm",
+      "first_name": "I.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

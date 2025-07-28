@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET PLÅTMANUFAKTUR",
+  "fiscal_year": 1959,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 12015.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 11556.493,
+    "tax_expense": 2887.0,
+    "depreciation": 3896.0,
+    "net_income": 2233.0
+  },
+  "balance_sheet": {
+    "total_assets": 40022.0,
+    "current_assets": 22474.0,
+    "fixed_assets": 17548.0,
+    "total_liabilities": 17997.0,
+    "current_liabilities": 5951.0,
+    "long_term_liabilities": 12046.0,
+    "shareholders_equity": 19475.0
+  },
+  "employees": {
+    "n_employees": 1355,
+    "n_blue_collar_workers": 1017,
+    "n_white_collar_workers": 338
+  },
+  "board": [
+    {
+      "surname": "Lindskog",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Karnéus",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Bertil",
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

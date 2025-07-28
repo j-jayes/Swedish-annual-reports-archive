@@ -1,0 +1,64 @@
+{
+  "company_name": "SVENSKA DIAMANTBERGBORRNINGS AKTIEBOLAGET",
+  "fiscal_year": 1958,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 8011366.152347741,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2700000.0,
+    "depreciation": 1943651.0,
+    "net_income": 2073854.82
+  },
+  "balance_sheet": {
+    "total_assets": 27185068.05252723,
+    "current_assets": 17389265.04796151,
+    "fixed_assets": 4570965.07881473,
+    "total_liabilities": 9643656.0941919,
+    "current_liabilities": 4370737.47203431,
+    "long_term_liabilities": 9896671.488491083,
+    "shareholders_equity": 2821120.6216666666
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Liljenroth",
+      "first_name": null,
+      "initials": "F. G.",
+      "position": null
+    },
+    {
+      "surname": "Matton",
+      "first_name": null,
+      "initials": "Carl M.",
+      "position": null
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Wadsted",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    }
+  ]
+}

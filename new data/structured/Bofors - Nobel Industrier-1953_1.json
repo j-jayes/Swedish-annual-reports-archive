@@ -1,0 +1,76 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 241515000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5233000.0,
+    "depreciation": null,
+    "net_income": 6311000.0
+  },
+  "balance_sheet": {
+    "total_assets": 415300000.0,
+    "current_assets": 256096000.0,
+    "fixed_assets": 159204000.0,
+    "total_liabilities": 54300000.0,
+    "current_liabilities": 46591000.0,
+    "long_term_liabilities": 818000.0,
+    "shareholders_equity": 54300000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Nauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Glimstedt",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wetter",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "E.",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Alfred",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

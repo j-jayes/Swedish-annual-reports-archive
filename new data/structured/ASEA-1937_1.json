@@ -1,0 +1,86 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolaget",
+  "fiscal_year": 1937,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 9453424.39
+  },
+  "balance_sheet": {
+    "total_assets": 168753309.53,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 73153309.53,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 95600000.0
+  },
+  "employees": {
+    "n_employees": 10776,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Edström",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Enström",
+      "first_name": "Axel",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Axel",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Murray",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Arthur",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Julin",
+      "first_name": "Rich.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sillén",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ljungdahl",
+      "first_name": "C.",
+      "initials": "E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

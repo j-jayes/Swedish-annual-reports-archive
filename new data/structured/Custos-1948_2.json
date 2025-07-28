@@ -1,0 +1,74 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 4.17927952,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3.60074204
+  },
+  "balance_sheet": {
+    "total_assets": 60.27471302,
+    "current_assets": null,
+    "fixed_assets": 41.30641555,
+    "total_liabilities": null,
+    "current_liabilities": 105.949,
+    "long_term_liabilities": null,
+    "shareholders_equity": 35000000.0
+  },
+  "employees": {
+    "n_employees": 4,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HERSLOW",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKLUND",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSON",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HALLBERG",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

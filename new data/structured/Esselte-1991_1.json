@@ -1,0 +1,122 @@
+{
+  "company_name": "Esselte",
+  "fiscal_year": 1991,
+  "income_statement": {
+    "revenue": 15630.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -14698.0,
+    "wages_expense": null,
+    "tax_expense": -217.0,
+    "depreciation": -1033.0,
+    "net_income": -467.0
+  },
+  "balance_sheet": {
+    "total_assets": 10189.0,
+    "current_assets": 5603.0,
+    "fixed_assets": 2164.0,
+    "total_liabilities": 3312.0,
+    "current_liabilities": 3053.0,
+    "long_term_liabilities": 1.0,
+    "shareholders_equity": 3312.0
+  },
+  "employees": {
+    "n_employees": 17383,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bennet",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöberg",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedström",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundén",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rönnmark",
+      "first_name": "Lars-Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Peters & Co"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Markborn",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Peters & Co"
+    }
+  ],
+  "additional_notes": null
+}

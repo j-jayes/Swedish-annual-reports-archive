@@ -1,0 +1,80 @@
+{
+  "company_name": "FAGERSTA BRUKS AKTIEBOLAG",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 90989000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 27850000.0,
+    "tax_expense": 3351037.0,
+    "depreciation": 2842437.73,
+    "net_income": 4147588.98
+  },
+  "balance_sheet": {
+    "total_assets": 99939983.17,
+    "current_assets": 45541124.54,
+    "fixed_assets": 54398858.63,
+    "total_liabilities": 43872047.39,
+    "current_liabilities": 10133623.32,
+    "long_term_liabilities": 28926276.11,
+    "shareholders_equity": 56067935.78
+  },
+  "employees": {
+    "n_employees": 5388,
+    "n_blue_collar_workers": 4582,
+    "n_white_collar_workers": 806
+  },
+  "board": [
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖBERG",
+      "first_name": "THURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ASELIUS",
+      "first_name": null,
+      "initials": "HJ.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDAHL",
+      "first_name": "SUNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": null,
+      "initials": "L.T.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

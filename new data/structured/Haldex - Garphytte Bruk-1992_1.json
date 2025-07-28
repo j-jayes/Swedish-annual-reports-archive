@@ -1,0 +1,86 @@
+{
+  "company_name": "Garphyttan Industrier AB",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 1535.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1383.6,
+    "wages_expense": null,
+    "tax_expense": 21.4,
+    "depreciation": null,
+    "net_income": 34.1
+  },
+  "balance_sheet": {
+    "total_assets": 1270.4,
+    "current_assets": 687.6,
+    "fixed_assets": 508.1,
+    "total_liabilities": 863.1,
+    "current_liabilities": 429.7,
+    "long_term_liabilities": 336.9,
+    "shareholders_equity": 407.3
+  },
+  "employees": {
+    "n_employees": 1929,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lilius",
+      "first_name": "Mikael",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlgren",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edwardsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Arbetstagarrepresentant"
+    },
+    {
+      "surname": "Warnander",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Fernström",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,112 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 306.577,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 111.731,
+    "wages_expense": null,
+    "tax_expense": 1.24,
+    "depreciation": 23.993,
+    "net_income": 6.251
+  },
+  "balance_sheet": {
+    "total_assets": 589.51,
+    "current_assets": 145.562,
+    "fixed_assets": 430.826,
+    "total_liabilities": 203.36,
+    "current_liabilities": 63.13,
+    "long_term_liabilities": 149.546,
+    "shareholders_equity": 31.878
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Direktör, Göteborg, ordförande"
+    },
+    {
+      "surname": "Wettermark",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Direktör, Torna-Hättestad, vice ordförande"
+    },
+    {
+      "surname": "Birgander",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "Sjökapten, Helsingborg"
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": "Direktör, Malmö"
+    },
+    {
+      "surname": "Rodin",
+      "first_name": "John",
+      "initials": null,
+      "position": "Herr, Landskrona"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör, Stockholm"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W",
+      "position": "Direktör, Lidingö, verkställande direktör"
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Direktör, Gavle"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Berndt",
+      "initials": null,
+      "position": "Inspektör, Saltsjöbaden"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Advokat, Nacka"
+    },
+    {
+      "surname": "Gustavsson",
+      "first_name": "Thurs",
+      "initials": null,
+      "position": "Herr, Helsingborg"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Direktör, Stockholm"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Aukt. revisorn"
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": "Aukt. revisorn"
+    }
+  ],
+  "additional_notes": null
+}

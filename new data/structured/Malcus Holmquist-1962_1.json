@@ -1,0 +1,86 @@
+{
+  "company_name": "MALCUS HOLMQUIST",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 5353571.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1178556.0,
+    "net_income": 1445428.0
+  },
+  "balance_sheet": {
+    "total_assets": 34415470.0,
+    "current_assets": null,
+    "fixed_assets": 7567647.0,
+    "total_liabilities": null,
+    "current_liabilities": 5264107.0,
+    "long_term_liabilities": 5000000.0,
+    "shareholders_equity": 11734000.0
+  },
+  "employees": {
+    "n_employees": 933,
+    "n_blue_collar_workers": 636,
+    "n_white_collar_workers": 297
+  },
+  "board": [
+    {
+      "surname": "Danielsen",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlsteen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": null,
+      "initials": "C. M.",
+      "position": null
+    },
+    {
+      "surname": "Boström",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Brofelth",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "aukt, revisor"
+    },
+    {
+      "surname": "Rönnberg",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

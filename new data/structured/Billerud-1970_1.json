@@ -1,0 +1,116 @@
+{
+  "company_name": "BILLERUDS AKTIEBOLAG",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 691.223,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 551.849,
+    "wages_expense": null,
+    "tax_expense": 8.921,
+    "depreciation": 56.9,
+    "net_income": 18.047
+  },
+  "balance_sheet": {
+    "total_assets": 837.082,
+    "current_assets": 276.843,
+    "fixed_assets": 563.369,
+    "total_liabilities": 572.535,
+    "current_liabilities": 197.304,
+    "long_term_liabilities": 329.473,
+    "shareholders_equity": 264.547
+  },
+  "employees": {
+    "n_employees": 6825,
+    "n_blue_collar_workers": 5299,
+    "n_white_collar_workers": 1526
+  },
+  "board": [
+    {
+      "surname": "Pihlgren",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Talman"
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Smith",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Simonsson",
+      "first_name": "Svante",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Wendt",
+      "first_name": "Stellan",
+      "initials": null,
+      "auditing_firm": "Revisionschef"
+    },
+    {
+      "surname": "Herting",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Kommunalrådet"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Påhlgren",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Gustav",
+      "initials": null,
+      "auditing_firm": "Kanslichef"
+    }
+  ],
+  "additional_notes": null
+}

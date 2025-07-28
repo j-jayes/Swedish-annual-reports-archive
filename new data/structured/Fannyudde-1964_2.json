@@ -1,0 +1,55 @@
+{
+  "company_name": "AKTIEBOLAGET FANNYUDDE",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 214000.0,
+    "depreciation": null,
+    "net_income": 3200000.0
+  },
+  "balance_sheet": {
+    "total_assets": 58839752.0,
+    "current_assets": 2748122.0,
+    "fixed_assets": 56091630.0,
+    "total_liabilities": 214752.0,
+    "current_liabilities": 214752.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 58625000.0
+  },
+  "employees": {
+    "n_employees": 1,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Bendel",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schröder",
+      "first_name": "Sture",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dubois",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

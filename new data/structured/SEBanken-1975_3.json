@@ -1,0 +1,230 @@
+{
+  "company_name": "Skandinaviska Enskilda Banken",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 1340.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 142.8,
+    "depreciation": 54.4,
+    "net_income": 133.3
+  },
+  "balance_sheet": {
+    "total_assets": 37917.2,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1268.3
+  },
+  "employees": {
+    "n_employees": 6774,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": "M",
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": "LE",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": "G",
+      "position": "tekn dr"
+    },
+    {
+      "surname": "Gorthon",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Johnson",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "bergsingenjör"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "f d förbundsordförande"
+    },
+    {
+      "surname": "Meidner",
+      "first_name": "Rudolf",
+      "initials": null,
+      "position": "fil dr"
+    },
+    {
+      "surname": "Nordmark",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Bonnier Jr",
+      "first_name": "Albert",
+      "initials": null,
+      "position": "bokförläggare"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ambassadör"
+    },
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Svanberg",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "riksdagsman"
+    },
+    {
+      "surname": "Gustavsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ombudsman"
+    },
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Petersson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "bankkamrer"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Senneby",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rodhe",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Blomstedt",
+      "first_name": null,
+      "initials": "CR",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jälmby",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": null,
+      "initials": "G C:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hersler",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": null,
+      "initials": "S-H",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wistrand",
+      "first_name": "Jerker",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

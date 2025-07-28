@@ -1,0 +1,631 @@
+{
+  "company_name": "Boxholm",
+  "years_covered": "1873-1964",
+  "total_years": 89,
+  "total_members": 43,
+  "avg_board_size": 0.16853932584269662,
+  "avg_tenure": 8.906976744186046,
+  "median_tenure": 5.0,
+  "avg_turnover_rate": 0.23674242424242423,
+  "board_size_by_year": {
+    "1873": 0,
+    "1875": 0,
+    "1876": 0,
+    "1878": 0,
+    "1879": 0,
+    "1880": 0,
+    "1881": 0,
+    "1883": 0,
+    "1884": 0,
+    "1885": 0,
+    "1886": 0,
+    "1887": 0,
+    "1888": 0,
+    "1889": 0,
+    "1890": 0,
+    "1891": 0,
+    "1892": 0,
+    "1893": 0,
+    "1894": 0,
+    "1895": 0,
+    "1896": 0,
+    "1897": 0,
+    "1898": 0,
+    "1899": 0,
+    "1900": 0,
+    "1901": 0,
+    "1902": 0,
+    "1903": 0,
+    "1904": 0,
+    "1905": 0,
+    "1906": 0,
+    "1907": 0,
+    "1908": 0,
+    "1909": 0,
+    "1910": 0,
+    "1911": 0,
+    "1912": 0,
+    "1913": 0,
+    "1914": 0,
+    "1915": 0,
+    "1916": 0,
+    "1917": 0,
+    "1918": 0,
+    "1919": 0,
+    "1920": 0,
+    "1921": 0,
+    "1922": 0,
+    "1923": 0,
+    "1924": 0,
+    "1925": 0,
+    "1926": 0,
+    "1927": 0,
+    "1928": 0,
+    "1929": 0,
+    "1930": 0,
+    "1931": 0,
+    "1932": 0,
+    "1933": 0,
+    "1934": 0,
+    "1935": 0,
+    "1936": 0,
+    "1937": 0,
+    "1938": 0,
+    "1939": 0,
+    "1940": 0,
+    "1941": 0,
+    "1942": 0,
+    "1943": 0,
+    "1944": 0,
+    "1945": 0,
+    "1946": 0,
+    "1947": 0,
+    "1948": 0,
+    "1949": 0,
+    "1950": 1,
+    "1951": 1,
+    "1952": 1,
+    "1953": 1,
+    "1954": 1,
+    "1955": 1,
+    "1956": 0,
+    "1957": 1,
+    "1958": 2,
+    "1959": 1,
+    "1960": 1,
+    "1961": 1,
+    "1962": 1,
+    "1963": 1,
+    "1964": 1
+  },
+  "turnover_by_period": {
+    "1873-1875": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1875-1876": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1876-1878": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1878-1879": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1879-1880": {
+      "joined": 2,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1880-1881": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 2,
+      "turnover_rate": 0
+    },
+    "1881-1883": {
+      "joined": 0,
+      "left": 2,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1883-1884": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1884-1885": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1885-1886": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1886-1887": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1887-1888": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1888-1889": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1889-1890": {
+      "joined": 2,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1890-1891": {
+      "joined": 4,
+      "left": 2,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1891-1892": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 3,
+      "turnover_rate": 0
+    },
+    "1892-1893": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 3,
+      "turnover_rate": 0
+    },
+    "1893-1894": {
+      "joined": 2,
+      "left": 2,
+      "stayed": 2,
+      "turnover_rate": 0
+    },
+    "1894-1895": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1895-1896": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 3,
+      "turnover_rate": 0
+    },
+    "1896-1897": {
+      "joined": 0,
+      "left": 2,
+      "stayed": 2,
+      "turnover_rate": 0
+    },
+    "1897-1898": {
+      "joined": 2,
+      "left": 0,
+      "stayed": 2,
+      "turnover_rate": 0
+    },
+    "1898-1899": {
+      "joined": 2,
+      "left": 2,
+      "stayed": 2,
+      "turnover_rate": 0
+    },
+    "1899-1900": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 3,
+      "turnover_rate": 0
+    },
+    "1900-1901": {
+      "joined": 0,
+      "left": 2,
+      "stayed": 2,
+      "turnover_rate": 0
+    },
+    "1901-1902": {
+      "joined": 3,
+      "left": 1,
+      "stayed": 1,
+      "turnover_rate": 0
+    },
+    "1902-1903": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 3,
+      "turnover_rate": 0
+    },
+    "1903-1904": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1904-1905": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 3,
+      "turnover_rate": 0
+    },
+    "1905-1906": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1906-1907": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1907-1908": {
+      "joined": 0,
+      "left": 4,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1908-1909": {
+      "joined": 4,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1909-1910": {
+      "joined": 1,
+      "left": 0,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1910-1911": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1911-1912": {
+      "joined": 2,
+      "left": 2,
+      "stayed": 3,
+      "turnover_rate": 0
+    },
+    "1912-1913": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1913-1914": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1914-1915": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1915-1916": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1916-1917": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1917-1918": {
+      "joined": 1,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1918-1919": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0
+    },
+    "1919-1920": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1920-1921": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0
+    },
+    "1921-1922": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 0
+    },
+    "1922-1923": {
+      "joined": 0,
+      "left": 1,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1923-1924": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1924-1925": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1925-1926": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1926-1927": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1927-1928": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1928-1929": {
+      "joined": 3,
+      "left": 2,
+      "stayed": 3,
+      "turnover_rate": 0
+    },
+    "1929-1930": {
+      "joined": 0,
+      "left": 1,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1930-1931": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1931-1932": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1932-1933": {
+      "joined": 0,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1933-1934": {
+      "joined": 2,
+      "left": 1,
+      "stayed": 3,
+      "turnover_rate": 0
+    },
+    "1934-1935": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1935-1936": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1936-1937": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1937-1938": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1938-1939": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1939-1940": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1940-1941": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1941-1942": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1942-1943": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1943-1944": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1944-1945": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1945-1946": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1946-1947": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1947-1948": {
+      "joined": 3,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 0
+    },
+    "1948-1949": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 7,
+      "turnover_rate": 0
+    },
+    "1949-1950": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 8,
+      "turnover_rate": 0.0
+    },
+    "1950-1951": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 8,
+      "turnover_rate": 0.0
+    },
+    "1951-1952": {
+      "joined": 0,
+      "left": 3,
+      "stayed": 5,
+      "turnover_rate": 1.5
+    },
+    "1952-1953": {
+      "joined": 2,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 1.5
+    },
+    "1953-1954": {
+      "joined": 3,
+      "left": 0,
+      "stayed": 6,
+      "turnover_rate": 1.5
+    },
+    "1954-1955": {
+      "joined": 0,
+      "left": 4,
+      "stayed": 5,
+      "turnover_rate": 2.0
+    },
+    "1955-1956": {
+      "joined": 3,
+      "left": 0,
+      "stayed": 5,
+      "turnover_rate": 3.0
+    },
+    "1956-1957": {
+      "joined": 0,
+      "left": 0,
+      "stayed": 8,
+      "turnover_rate": 0.0
+    },
+    "1957-1958": {
+      "joined": 2,
+      "left": 3,
+      "stayed": 5,
+      "turnover_rate": 1.6666666666666667
+    },
+    "1958-1959": {
+      "joined": 3,
+      "left": 5,
+      "stayed": 2,
+      "turnover_rate": 2.6666666666666665
+    },
+    "1959-1960": {
+      "joined": 3,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 2.0
+    },
+    "1960-1961": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 6,
+      "turnover_rate": 1.0
+    },
+    "1961-1962": {
+      "joined": 1,
+      "left": 3,
+      "stayed": 4,
+      "turnover_rate": 2.0
+    },
+    "1962-1963": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 1.0
+    },
+    "1963-1964": {
+      "joined": 1,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 1.0
+    }
+  }
+}

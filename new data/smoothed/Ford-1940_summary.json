@@ -1,0 +1,88 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1940,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 809.088,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 111.223,
+    "net_income": 479.27733333333333
+  },
+  "balance_sheet": {
+    "total_assets": 12.343271,
+    "current_assets": null,
+    "fixed_assets": 1586.638256,
+    "total_liabilities": 1388.0376720000002,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2526.8229636666665
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "FORD",
+      "first_name": "EDSEL",
+      "initials": "B.",
+      "position": "Board of Directors"
+    },
+    {
+      "surname": "PERRY OF STOCK HAR-",
+      "first_name": null,
+      "initials": "RT. HON. LORD",
+      "position": "Board of Directors"
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": "Board of Directors"
+    },
+    {
+      "surname": "STÉN",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": "Board of Directors"
+    },
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": "Board of Directors"
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "ELIEL",
+      "initials": null,
+      "position": "Board of Directors"
+    },
+    {
+      "surname": "LUNDBLAD",
+      "first_name": null,
+      "initials": "Dr. J.",
+      "position": "Deputy Members of the Board"
+    },
+    {
+      "surname": "LUNDBLAD",
+      "first_name": "GUST.",
+      "initials": "R.",
+      "position": "Deputy Members of the Board"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SILLÉN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

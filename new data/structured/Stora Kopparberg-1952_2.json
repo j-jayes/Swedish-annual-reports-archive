@@ -1,0 +1,98 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AKTIEBOLAG",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 417139831.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 24000000.0,
+    "depreciation": 47740402.8,
+    "net_income": 21651522.56
+  },
+  "balance_sheet": {
+    "total_assets": 302586534.17,
+    "current_assets": 146441048.16,
+    "fixed_assets": 156145486.01,
+    "total_liabilities": 126586534.17,
+    "current_liabilities": 38035351.61,
+    "long_term_liabilities": 42000000.0,
+    "shareholders_equity": 176000000.0
+  },
+  "employees": {
+    "n_employees": 10524,
+    "n_blue_collar_workers": 9294,
+    "n_white_collar_workers": 1230
+  },
+  "board": [
+    {
+      "surname": "WAHLUND",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RODLING",
+      "first_name": "EJNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GEER",
+      "first_name": "LOUIS DE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ABENIUS",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "COLLÉN",
+      "first_name": null,
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "RABENIUS",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ÖBRINK",
+      "first_name": "ARNOLD",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,51 @@
+{
+  "company_name": "BERGVIK och ALA NYA AKTIEBOLAG",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 109002.11,
+    "tax_expense": 80059.5,
+    "depreciation": 773319.02,
+    "net_income": 3645896.56
+  },
+  "balance_sheet": {
+    "total_assets": 25382564.4,
+    "current_assets": 4277538.77,
+    "fixed_assets": 5831709.71,
+    "total_liabilities": 19982564.9,
+    "current_liabilities": 6270080.34,
+    "long_term_liabilities": 8000000.0,
+    "shareholders_equity": 5400000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Tham",
+      "first_name": "W.",
+      "initials": null,
+      "position": "j:or"
+    },
+    {
+      "surname": "Granström",
+      "first_name": "Ewald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Francke",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlnacke",
+      "first_name": "Arthur",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1949,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 95432714.383,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2500001.25,
+    "depreciation": null,
+    "net_income": 2828716.114333333
+  },
+  "balance_sheet": {
+    "total_assets": 126284425.93533333,
+    "current_assets": 156812266.6,
+    "fixed_assets": 21742862.598,
+    "total_liabilities": 132802266.17,
+    "current_liabilities": 57846348.431,
+    "long_term_liabilities": 10000005.0,
+    "shareholders_equity": 37749537.55466667
+  },
+  "employees": {
+    "n_employees": 2693,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Prytz",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar",
+      "initials": "H:son",
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Magnus",
+      "first_name": "Erik",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Hilding",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larson",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "Rolf Jacobsson"
+    },
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": "Edvard Stenberg"
+    }
+  ]
+}

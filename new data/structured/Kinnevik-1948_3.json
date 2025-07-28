@@ -1,0 +1,82 @@
+{
+  "company_name": "AKTIEBOLAGET KINNEVIK",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 322071.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2533.53,
+    "net_income": 310338.95
+  },
+  "balance_sheet": {
+    "total_assets": 9186854.44,
+    "current_assets": 104920.94,
+    "fixed_assets": 104518.14,
+    "total_liabilities": 422111.07,
+    "current_liabilities": 10510.9,
+    "long_term_liabilities": 422111.07,
+    "shareholders_equity": 362151.37
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Stén",
+      "first_name": "Helmer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brockman",
+      "first_name": "Clarence",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Erik",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    }
+  ],
+  "additional_notes": null
+}

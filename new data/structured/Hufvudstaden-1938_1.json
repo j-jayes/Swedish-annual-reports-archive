@@ -1,0 +1,70 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET HUFVUDSTADEN",
+  "fiscal_year": 1938,
+  "income_statement": {
+    "revenue": 3726665.29,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 329488.58,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 720764.73,
+    "net_income": 1151211.77
+  },
+  "balance_sheet": {
+    "total_assets": 42753393.99,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 16000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Zethelius",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dunker",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Celsing",
+      "first_name": "F.",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "Krusenstjerna",
+      "first_name": "F.",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "Hintze",
+      "first_name": "Hugo",
+      "initials": "B.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fessé",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 8713.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -7573.8,
+    "wages_expense": null,
+    "tax_expense": -258.1,
+    "depreciation": null,
+    "net_income": 203.3
+  },
+  "balance_sheet": {
+    "total_assets": 7777.2,
+    "current_assets": 4874.0,
+    "fixed_assets": 2870.2,
+    "total_liabilities": 2745.4,
+    "current_liabilities": 2745.4,
+    "long_term_liabilities": 2288.7,
+    "shareholders_equity": 2356.5
+  },
+  "employees": {
+    "n_employees": 15770,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G.",
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "Henry",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Solveig",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Erlandsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Anställd"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Birgit",
+      "initials": null,
+      "position": "Anställd"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillen AB"
+    },
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillen AB"
+    }
+  ],
+  "additional_notes": null
+}

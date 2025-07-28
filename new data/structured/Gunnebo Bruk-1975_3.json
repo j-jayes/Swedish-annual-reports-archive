@@ -1,0 +1,94 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 267429000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 230106000.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9579000.0,
+    "net_income": 5218000.0
+  },
+  "balance_sheet": {
+    "total_assets": 263467000.0,
+    "current_assets": 177156000.0,
+    "fixed_assets": 81584000.0,
+    "total_liabilities": 155934000.0,
+    "current_liabilities": 76571000.0,
+    "long_term_liabilities": 31293000.0,
+    "shareholders_equity": 55940000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "HÄGGQVIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "WIDERSTRÖM",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "GYLLENSTIERNA",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TIGERSCHIÖLD",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYGREN",
+      "first_name": "ERIK",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "PEHRSSON",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖHOLM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "LOFTÉN",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "arbetstagareledamot"
+    },
+    {
+      "surname": "KARLSSON",
+      "first_name": "BERT",
+      "initials": null,
+      "position": "arbetstagareledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "WENNSTRÖM",
+      "first_name": "INGE",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

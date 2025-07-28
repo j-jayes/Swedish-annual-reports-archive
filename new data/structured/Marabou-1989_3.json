@@ -1,0 +1,140 @@
+{
+  "company_name": "Maraboukoncernen",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 3330.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 50.8,
+    "depreciation": null,
+    "net_income": 71.9
+  },
+  "balance_sheet": {
+    "total_assets": 2122.4,
+    "current_assets": 878.3,
+    "fixed_assets": 1219.5,
+    "total_liabilities": 139.3,
+    "current_liabilities": 615.9,
+    "long_term_liabilities": 358.6,
+    "shareholders_equity": 336.1
+  },
+  "employees": {
+    "n_employees": 3771,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mogren",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Osvald",
+      "first_name": "Per Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Augustson",
+      "first_name": "Kurth",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Kjos",
+      "first_name": "Sigmund",
+      "initials": null,
+      "position": "(suppleant)"
+    },
+    {
+      "surname": "Zimmerman",
+      "first_name": "Richard A.",
+      "initials": null,
+      "position": "(suppleant)"
+    },
+    {
+      "surname": "Cappelen",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "(suppleant)"
+    },
+    {
+      "surname": "Kjaer",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Sigvor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Agneta",
+      "initials": null,
+      "position": "(suppleant)"
+    },
+    {
+      "surname": "Pulli",
+      "first_name": "Yrjö",
+      "initials": null,
+      "position": "(suppleant)"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Akteus",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Lörnell",
+      "first_name": "Anders",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

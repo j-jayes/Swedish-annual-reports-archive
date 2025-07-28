@@ -1,0 +1,112 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 48.944,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7.169,
+    "wages_expense": null,
+    "tax_expense": 1.987,
+    "depreciation": null,
+    "net_income": 43.027
+  },
+  "balance_sheet": {
+    "total_assets": 510.642,
+    "current_assets": 77.257,
+    "fixed_assets": 433.385,
+    "total_liabilities": 90.905,
+    "current_liabilities": 19.251,
+    "long_term_liabilities": 77.925,
+    "shareholders_equity": 419.737
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BERGQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "GYLLENHAMMAR",
+      "first_name": "PEHR G.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SYDOW",
+      "first_name": "KRISTIAN VON",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": null,
+      "initials": "LARS ERIK",
+      "position": "Direktör"
+    },
+    {
+      "surname": "ÖHMAN",
+      "first_name": "ANDERS R.",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "ANDO",
+      "first_name": "SIGVARD",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "LEKSELL",
+      "first_name": "OVE",
+      "initials": null,
+      "position": "vice verkst direktör, suppleant"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "TYRA",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "Riksdagsledamot, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PÅHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "THORÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

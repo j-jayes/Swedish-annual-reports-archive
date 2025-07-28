@@ -1,0 +1,61 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1974,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 6917.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 80.0
+  },
+  "balance_sheet": {
+    "total_assets": 8010.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1476.0
+  },
+  "employees": {
+    "n_employees": 41217,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Herr",
+      "initials": null,
+      "position": "styrelsens ordförande"
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "tekn dr"
+    },
+    {
+      "surname": "Salen",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "tekn dr"
+    }
+  ],
+  "auditors": []
+}

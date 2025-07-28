@@ -1,0 +1,80 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 12686.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2081.0
+  },
+  "balance_sheet": {
+    "total_assets": 164851.0,
+    "current_assets": 49321.0,
+    "fixed_assets": 79454.0,
+    "total_liabilities": 92828.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 29767.0
+  },
+  "employees": {
+    "n_employees": 1880,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Engwall",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Orrmell",
+      "first_name": "Aron",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gester",
+      "first_name": "Eskil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hain",
+      "first_name": null,
+      "initials": "Rich.",
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt W.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

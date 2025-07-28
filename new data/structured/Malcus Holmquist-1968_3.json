@@ -1,0 +1,64 @@
+{
+  "company_name": "MALCUS HOLMQUIST",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 29.122,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 30.64,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 348.0,
+    "net_income": 0.0
+  },
+  "balance_sheet": {
+    "total_assets": 18.033,
+    "current_assets": 6.725,
+    "fixed_assets": 11.308,
+    "total_liabilities": null,
+    "current_liabilities": 179.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 17.854
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Randholm",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

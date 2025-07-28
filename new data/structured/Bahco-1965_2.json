@@ -1,0 +1,98 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 220.949,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4.174353
+  },
+  "balance_sheet": {
+    "total_assets": 269.59567,
+    "current_assets": 214.224563,
+    "fixed_assets": 55.371107,
+    "total_liabilities": 105.251574,
+    "current_liabilities": 83.820477,
+    "long_term_liabilities": 80.522619,
+    "shareholders_equity": 12.360619
+  },
+  "employees": {
+    "n_employees": 3564,
+    "n_blue_collar_workers": 2188,
+    "n_white_collar_workers": 1472
+  },
+  "board": [
+    {
+      "surname": "Tunhammar",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forssius",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brusewitz",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "\"\n\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

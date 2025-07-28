@@ -1,0 +1,68 @@
+{
+  "company_name": "SCANIA-VABIS",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 22.688,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6.221,
+    "net_income": 4.467
+  },
+  "balance_sheet": {
+    "total_assets": 108.252,
+    "current_assets": 22.77,
+    "fixed_assets": 45.611,
+    "total_liabilities": 68.66,
+    "current_liabilities": 36.382,
+    "long_term_liabilities": 20.078,
+    "shareholders_equity": 39.592
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1608,
+    "n_white_collar_workers": 781
+  },
+  "board": [
+    {
+      "surname": "Throne-Holst",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Godin",
+      "first_name": "V.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

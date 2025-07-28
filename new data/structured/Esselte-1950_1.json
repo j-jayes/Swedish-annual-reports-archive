@@ -1,0 +1,86 @@
+{
+  "company_name": "SVERIGES LITOGRAFISKA TRYCKERIER",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 22217625.96,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4034085.38,
+    "net_income": 4261639.9
+  },
+  "balance_sheet": {
+    "total_assets": 56496163.42,
+    "current_assets": 14361176.57,
+    "fixed_assets": 31943684.42,
+    "total_liabilities": 48642611.44,
+    "current_liabilities": 14854465.16,
+    "long_term_liabilities": 27417356.28,
+    "shareholders_equity": 7853551.98
+  },
+  "employees": {
+    "n_employees": 7862,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BJÖRKMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUNDELL",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLÉN",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "BIESÈRT",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

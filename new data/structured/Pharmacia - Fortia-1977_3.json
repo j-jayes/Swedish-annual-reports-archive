@@ -1,0 +1,134 @@
+{
+  "company_name": "AB FORTIA",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 701.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 18.5
+  },
+  "balance_sheet": {
+    "total_assets": 706.2,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 43.8
+  },
+  "employees": {
+    "n_employees": 2512,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "MARK",
+      "first_name": "KURT",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "EKEMARK",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMSTEN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOSSBERG",
+      "first_name": "JOHN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SKÅNSBERG",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESSMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VIRDING",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BOODE",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKLUND",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYSTRÖM",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "KENT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JAKOBSON",
+      "first_name": "ALLAN",
+      "initials": null,
+      "auditing_firm": "Revisionsfirman Beskow & Jakobson AB"
+    },
+    {
+      "surname": "JONES",
+      "first_name": "DAVID",
+      "initials": null,
+      "auditing_firm": "Firma Price Waterhouse & Co."
+    },
+    {
+      "surname": "BESKOW",
+      "first_name": "KARL-HENRIK",
+      "initials": null,
+      "auditing_firm": "Revisionsfirman Beskow & Jakobson AB"
+    },
+    {
+      "surname": "SMITH",
+      "first_name": "KENNETH",
+      "initials": null,
+      "auditing_firm": "Firma Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,94 @@
+{
+  "company_name": "EXPORT-INVEST",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 27.588,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.986,
+    "depreciation": null,
+    "net_income": 156.722
+  },
+  "balance_sheet": {
+    "total_assets": 477.127,
+    "current_assets": 53.199,
+    "fixed_assets": 379.65,
+    "total_liabilities": 43.818,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 433.065
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Norgren",
+      "first_name": "Christian",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Westin",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Björnsson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "Bankdirektör"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Callerström",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Bankdirektör"
+    }
+  ],
+  "additional_notes": "Bokslutskommentarer se sid 13"
+}

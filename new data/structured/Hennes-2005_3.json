@@ -1,0 +1,110 @@
+{
+  "company_name": "H&M Hennes & Mauritz AB",
+  "fiscal_year": 2005,
+  "income_statement": {
+    "revenue": 61262.2,
+    "cost_of_goods_sold": 25080.7,
+    "operating_expenses": 23008.6,
+    "wages_expense": null,
+    "tax_expense": 4306.3,
+    "depreciation": 1451.6,
+    "net_income": 9246.5
+  },
+  "balance_sheet": {
+    "total_assets": 33183.2,
+    "current_assets": 25105.7,
+    "fixed_assets": 8077.5,
+    "total_liabilities": 7259.4,
+    "current_liabilities": 6484.6,
+    "long_term_liabilities": null,
+    "shareholders_equity": 25923.8
+  },
+  "employees": {
+    "n_employees": 34614,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hofer",
+      "first_name": "Werner",
+      "initials": null,
+      "position": "Auditing Committee"
+    },
+    {
+      "surname": "Kvart",
+      "first_name": "Sussi",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Auditing Committee"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Chairman of the Auditing Committee"
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Norin-Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Employee representative"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lundvall",
+      "first_name": "\"\n\nÅsa",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "\nÅström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

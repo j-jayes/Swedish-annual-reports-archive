@@ -1,0 +1,98 @@
+{
+  "company_name": "Mo och Domsjö Aktiebolag",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 2004.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1926.5,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 120.3,
+    "net_income": 13.1
+  },
+  "balance_sheet": {
+    "total_assets": 4076.4,
+    "current_assets": 1612.7,
+    "fixed_assets": 2433.0,
+    "total_liabilities": 3336.2,
+    "current_liabilities": 908.4,
+    "long_term_liabilities": 1666.1,
+    "shareholders_equity": 770.2
+  },
+  "employees": {
+    "n_employees": 8138,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Verkst dir"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "SIF-repr"
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "LO-repr"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wegerfelt",
+      "first_name": null,
+      "initials": "K Arne",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

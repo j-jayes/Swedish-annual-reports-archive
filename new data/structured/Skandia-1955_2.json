@@ -1,0 +1,112 @@
+{
+  "company_name": "SKANDIA",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 142007374.04,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 37415799.18,
+    "wages_expense": null,
+    "tax_expense": 582973.44,
+    "depreciation": null,
+    "net_income": 7203490.23
+  },
+  "balance_sheet": {
+    "total_assets": 252586664.97,
+    "current_assets": 5301961.48,
+    "fixed_assets": 17066152.0,
+    "total_liabilities": 17277596.3,
+    "current_liabilities": 15236802.61,
+    "long_term_liabilities": null,
+    "shareholders_equity": 235309068.67
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MEIDNER",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIKLUND",
+      "first_name": "HOLGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRUNDSTRÖM",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PETRI",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "T.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDMAN",
+      "first_name": "ROLF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BJÖRFORS",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RUNDQUIST",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Försäkringsinspektionen förordnad revisor"
+    }
+  ],
+  "additional_notes": null
+}

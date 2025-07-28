@@ -1,0 +1,43 @@
+{
+  "company_name": "Nobel Industrier",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 13920.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 12579.0,
+    "wages_expense": null,
+    "tax_expense": 53.0,
+    "depreciation": null,
+    "net_income": 521.0
+  },
+  "balance_sheet": {
+    "total_assets": 17637.0,
+    "current_assets": 11453.0,
+    "fixed_assets": 4546.0,
+    "total_liabilities": null,
+    "current_liabilities": 10887.0,
+    "long_term_liabilities": 3316.4,
+    "shareholders_equity": 1874.8
+  },
+  "employees": {
+    "n_employees": 18122,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Linden",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

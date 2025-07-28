@@ -1,0 +1,110 @@
+{
+  "company_name": "MoDo",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 15759.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 14706.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1166.0,
+    "net_income": -943.0
+  },
+  "balance_sheet": {
+    "total_assets": 29539.0,
+    "current_assets": 18922.0,
+    "fixed_assets": 8.0,
+    "total_liabilities": 22187.0,
+    "current_liabilities": 7015.0,
+    "long_term_liabilities": 12519.0,
+    "shareholders_equity": 7352.0
+  },
+  "employees": {
+    "n_employees": 12266,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl Erik",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Gidlöf",
+      "first_name": "Dick",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Löf",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Mårtensson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Welin",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Ledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Schumacher",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

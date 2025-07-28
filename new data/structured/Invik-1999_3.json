@@ -1,0 +1,98 @@
+{
+  "company_name": "INVIK & CO. AB",
+  "fiscal_year": 1999,
+  "income_statement": {
+    "revenue": 708.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 33.2
+  },
+  "balance_sheet": {
+    "total_assets": 5350.2,
+    "current_assets": 2560.1,
+    "fixed_assets": 2790.1,
+    "total_liabilities": 3025.6,
+    "current_liabilities": 2407.5,
+    "long_term_liabilities": 618.1,
+    "shareholders_equity": 2250.5
+  },
+  "employees": {
+    "n_employees": 188,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan Hugo",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Horn",
+      "first_name": "Rickard",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Jur kand och skogsmästare"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Skogsmästare"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Cristina",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wingren",
+      "first_name": "Pål",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Källhed",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

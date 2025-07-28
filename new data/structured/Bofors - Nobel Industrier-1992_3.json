@@ -1,0 +1,140 @@
+{
+  "company_name": "Nobel Industrier",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 21481.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -739.0,
+    "depreciation": -1435.0,
+    "net_income": 1952.0
+  },
+  "balance_sheet": {
+    "total_assets": 31393.0,
+    "current_assets": 12893.0,
+    "fixed_assets": 18500.0,
+    "total_liabilities": 23307.0,
+    "current_liabilities": 7946.0,
+    "long_term_liabilities": 6108.0,
+    "shareholders_equity": 8086.0
+  },
+  "employees": {
+    "n_employees": 20194,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Magnusson",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Ahlström",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsgren",
+      "first_name": "Jack",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mattsson",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallbom",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martinsson",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martinsson",
+      "first_name": "Barbro",
+      "initials": null,
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "Östling",
+      "first_name": "Agne",
+      "initials": null,
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "Werner",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "Sekreterare i styrelsen"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Tidström",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Barnden",
+      "first_name": "Robert",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

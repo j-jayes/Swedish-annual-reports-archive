@@ -1,0 +1,106 @@
+{
+  "company_name": "Providentia",
+  "fiscal_year": 1991,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 715.0,
+    "depreciation": null,
+    "net_income": 1067.867
+  },
+  "balance_sheet": {
+    "total_assets": 6889.443666666667,
+    "current_assets": 147.66666666666666,
+    "fixed_assets": 6791.394,
+    "total_liabilities": 1646.249,
+    "current_liabilities": 2191.4286666666667,
+    "long_term_liabilities": 191.0,
+    "shareholders_equity": 2553.9436666666666
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlzon",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljunggren",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": "A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Haegerstrand",
+      "first_name": "Ingemar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

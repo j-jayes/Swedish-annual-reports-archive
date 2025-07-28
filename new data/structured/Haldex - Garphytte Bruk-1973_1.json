@@ -1,0 +1,110 @@
+{
+  "company_name": "Garphyttan",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 103.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4.143,
+    "net_income": 1.899
+  },
+  "balance_sheet": {
+    "total_assets": 105.498,
+    "current_assets": 55.258,
+    "fixed_assets": 50.24,
+    "total_liabilities": 69.323,
+    "current_liabilities": 43.545,
+    "long_term_liabilities": 25.778,
+    "shareholders_equity": 22.74
+  },
+  "employees": {
+    "n_employees": 756,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": null,
+      "initials": "Ulf-Christian",
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ignell",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Werme",
+      "first_name": "Henrik",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Ström",
+      "first_name": "Henry",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Bäcker",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

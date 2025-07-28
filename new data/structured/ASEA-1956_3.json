@@ -1,0 +1,55 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGET",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 580.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 22.0,
+    "depreciation": null,
+    "net_income": 25.6
+  },
+  "balance_sheet": {
+    "total_assets": 685.033,
+    "current_assets": null,
+    "fixed_assets": 367.23,
+    "total_liabilities": null,
+    "current_liabilities": 107.588,
+    "long_term_liabilities": null,
+    "shareholders_equity": 337.65
+  },
+  "employees": {
+    "n_employees": 30562,
+    "n_blue_collar_workers": 18933,
+    "n_white_collar_workers": 11629
+  },
+  "board": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G",
+      "initials": "A",
+      "position": null
+    },
+    {
+      "surname": "Hagstr\nG.A",
+      "first_name": "Sven",
+      "initials": "öm",
+      "position": null
+    },
+    {
+      "surname": "L\ndin",
+      "first_name": "Si",
+      "initials": "gurd",
+      "position": null
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

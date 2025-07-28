@@ -1,0 +1,104 @@
+{
+  "company_name": "KemaNobel",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 3306.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 139.5,
+    "net_income": 67.2
+  },
+  "balance_sheet": {
+    "total_assets": 3198.7,
+    "current_assets": 1690.8,
+    "fixed_assets": 1501.8,
+    "total_liabilities": 727.4,
+    "current_liabilities": 829.6,
+    "long_term_liabilities": 768.9,
+    "shareholders_equity": 727.4
+  },
+  "employees": {
+    "n_employees": 6556,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Trolle-Wachtmeister",
+      "first_name": "H-G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dybeck",
+      "first_name": "Clarence",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ingrid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallbom",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "koncernchef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wisen",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": "REVEKO"
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "REVEKO"
+    }
+  ],
+  "additional_notes": null
+}

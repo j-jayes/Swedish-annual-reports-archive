@@ -1,0 +1,100 @@
+{
+  "company_name": "Svenska Amerika Linien",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 28455193.29,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2618866.25,
+    "depreciation": null,
+    "net_income": 4987821.85
+  },
+  "balance_sheet": {
+    "total_assets": 174409431.57,
+    "current_assets": 57892368.44,
+    "fixed_assets": 154670961.12,
+    "total_liabilities": 115424672.08,
+    "current_liabilities": 41744364.62,
+    "long_term_liabilities": 31842500.0,
+    "shareholders_equity": 58984758.49
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "T. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Simonsson",
+      "first_name": "Y.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fagerberg",
+      "first_name": "J. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Zetterholm",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bredberg",
+      "first_name": "Leo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

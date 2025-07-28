@@ -1,0 +1,82 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1913,
+  "income_statement": {
+    "revenue": 6895718.31,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1550611.81
+  },
+  "balance_sheet": {
+    "total_assets": 31945139.31,
+    "current_assets": null,
+    "fixed_assets": 20068940.97,
+    "total_liabilities": 10791425.23,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8963154.33
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Danielsson",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herlenius",
+      "first_name": "Aug.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sörensen",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergström",
+      "first_name": "L. W.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Mueller",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijerstam",
+      "first_name": "Carl af",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "P. O.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "The number 1,550,611.81 is taken from the 'Årets nettovinst' field. The number 6,895,718: 31 is taken from the 'Järn- och ståleffekter' field. The number 8,963,154:33 is taken from the 'Reservfonden' field. The number 10,791,425:23 is taken from the 'Skulder' field. The numbers 20,068,940: 97 and 31,945,139: 31 are taken from the 'Fastigheter' and 'Transport' fields, respectively."
+}

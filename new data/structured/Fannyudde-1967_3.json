@@ -1,0 +1,100 @@
+{
+  "company_name": "AKTIEBOLAGET FANNYUDDE",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 10.403925,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 0.01,
+    "depreciation": null,
+    "net_income": 3.45
+  },
+  "balance_sheet": {
+    "total_assets": 65.597278,
+    "current_assets": 86.052,
+    "fixed_assets": 65.511226,
+    "total_liabilities": 57.278,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 65.54
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellstenius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhle",
+      "first_name": null,
+      "initials": "N. K.",
+      "position": null
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": null,
+      "initials": "C. H.",
+      "position": null
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bendel",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schröder",
+      "first_name": "Sture",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

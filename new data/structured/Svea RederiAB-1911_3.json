@@ -1,0 +1,39 @@
+{
+  "company_name": "Rederi Aktiebolaget Transatlantics",
+  "fiscal_year": 1911,
+  "income_statement": {
+    "revenue": 4643936.19,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3884815.56,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 759120.63
+  },
+  "balance_sheet": {
+    "total_assets": 6540385.99,
+    "current_assets": null,
+    "fixed_assets": 6090000.0,
+    "total_liabilities": null,
+    "current_liabilities": 427965.11,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1357000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Appelberg",
+      "first_name": "Harald",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

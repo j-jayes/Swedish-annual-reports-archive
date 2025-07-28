@@ -1,0 +1,100 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 341977.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5691.0,
+    "net_income": 3182.0
+  },
+  "balance_sheet": {
+    "total_assets": 239743.0,
+    "current_assets": 151158.0,
+    "fixed_assets": 89432.0,
+    "total_liabilities": 91084.0,
+    "current_liabilities": 56750.0,
+    "long_term_liabilities": 34334.0,
+    "shareholders_equity": 48137.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Olson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Gripenstedt",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Jörgensen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Direktör, verkställande direktör"
+    },
+    {
+      "surname": "Lindqvist",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Rånby",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Säve",
+      "first_name": "Carl",
+      "initials": "T",
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Feinstein",
+      "first_name": "Sten",
+      "initials": "Erik",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

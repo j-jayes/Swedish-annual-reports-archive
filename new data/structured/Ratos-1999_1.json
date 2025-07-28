@@ -1,0 +1,88 @@
+{
+  "company_name": "Ratos",
+  "fiscal_year": 1999,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -57.0,
+    "depreciation": null,
+    "net_income": 1704.0
+  },
+  "balance_sheet": {
+    "total_assets": 5355.0,
+    "current_assets": 424.0,
+    "fixed_assets": 5307.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5056.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Stenhammar",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bruzelius",
+      "first_name": "Peggy",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Faulkner",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Grosskopf",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lilius",
+      "first_name": "Mikael",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Karlsson",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    }
+  ],
+  "additional_notes": null
+}

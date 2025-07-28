@@ -1,0 +1,86 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolaget",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 653.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 234.4,
+    "tax_expense": 13.0,
+    "depreciation": 22.2,
+    "net_income": 25.0
+  },
+  "balance_sheet": {
+    "total_assets": 888.55,
+    "current_assets": 277.21,
+    "fixed_assets": 209.4,
+    "total_liabilities": 428.25,
+    "current_liabilities": 171.42,
+    "long_term_liabilities": 59.8,
+    "shareholders_equity": 428.25
+  },
+  "employees": {
+    "n_employees": 17833,
+    "n_blue_collar_workers": 9891,
+    "n_white_collar_workers": 7942
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\"\".ke T",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten S:son",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G A",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

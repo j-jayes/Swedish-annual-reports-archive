@@ -1,0 +1,100 @@
+{
+  "company_name": "AKTIEBOLAGET ELEKTROLUX",
+  "fiscal_year": 1930,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1780862.73,
+    "wages_expense": null,
+    "tax_expense": 1000000.0,
+    "depreciation": null,
+    "net_income": 8042821.96
+  },
+  "balance_sheet": {
+    "total_assets": 73005893.39,
+    "current_assets": 29176326.3,
+    "fixed_assets": 43005044.02,
+    "total_liabilities": 761118.62,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 62600000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Gren",
+      "first_name": "A. L.",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Rydbeck",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "vice Ordförande"
+    },
+    {
+      "surname": "Wernher",
+      "first_name": "Harold",
+      "initials": "Sir",
+      "position": null
+    },
+    {
+      "surname": "Enström",
+      "first_name": "A. F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Siegbahn",
+      "first_name": "Manne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Günther",
+      "first_name": "Chr.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engberg",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Aurell",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Aurell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Faulkner",
+      "first_name": "H. G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

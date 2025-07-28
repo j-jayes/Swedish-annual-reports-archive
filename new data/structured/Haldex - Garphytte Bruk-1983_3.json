@@ -1,0 +1,128 @@
+{
+  "company_name": "Garphyttan",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 249.521,
+    "cost_of_goods_sold": 213.49,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.205,
+    "depreciation": 5.4,
+    "net_income": 11.301
+  },
+  "balance_sheet": {
+    "total_assets": 182.628,
+    "current_assets": 152.531,
+    "fixed_assets": 62.756,
+    "total_liabilities": 118.097,
+    "current_liabilities": 44.486,
+    "long_term_liabilities": 73.611,
+    "shareholders_equity": 40.56
+  },
+  "employees": {
+    "n_employees": 386,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Alde",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Hagelin",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ordinare ledamöter"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Ordinare ledamöter"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Lindqvist",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Edvardsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Ordinarie"
+    },
+    {
+      "surname": "Thell",
+      "first_name": "Ronny",
+      "initials": null,
+      "position": "Ordinarie"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Lennart",
+      "initials": "M",
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Askengren",
+      "first_name": "Görgen",
+      "initials": null,
+      "position": "Ordinarie"
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Ordinarie"
+    },
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Blomgren",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Askengren",
+      "first_name": "Görgen",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "AB Garphytte Bruk",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 194.345,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 179.295,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3.821,
+    "net_income": 0.664
+  },
+  "balance_sheet": {
+    "total_assets": 151.705,
+    "current_assets": 59.167,
+    "fixed_assets": 60.348,
+    "total_liabilities": 41.636,
+    "current_liabilities": 41.636,
+    "long_term_liabilities": 36.47,
+    "shareholders_equity": 25.1
+  },
+  "employees": {
+    "n_employees": 508,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Alde",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Hagelin",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Thell",
+      "first_name": "Ronny",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Edvardsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Askengren",
+      "first_name": "Görgen",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1933,
+  "income_statement": {
+    "revenue": 12970503.11,
+    "cost_of_goods_sold": 11437656.87,
+    "operating_expenses": 1284535.55,
+    "wages_expense": null,
+    "tax_expense": 15000.0,
+    "depreciation": null,
+    "net_income": 143546.05
+  },
+  "balance_sheet": {
+    "total_assets": 10210265.67,
+    "current_assets": null,
+    "fixed_assets": 2844846.83,
+    "total_liabilities": null,
+    "current_liabilities": 5014814.68,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5063787.31
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WINGQUIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PRYTZ",
+      "first_name": "B. G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "UNO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MAGNUS",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSON",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "ELON",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LILLJEGREN",
+      "first_name": "HUGO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

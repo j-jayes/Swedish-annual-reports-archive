@@ -1,0 +1,104 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 940.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4.892,
+    "depreciation": 15.222,
+    "net_income": 8.507
+  },
+  "balance_sheet": {
+    "total_assets": 751.39,
+    "current_assets": 611.128,
+    "fixed_assets": 139.472,
+    "total_liabilities": 250.422,
+    "current_liabilities": 215.663,
+    "long_term_liabilities": 66.643,
+    "shareholders_equity": 160.802
+  },
+  "employees": {
+    "n_employees": 4339,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "ordförande, VD Svenska Cellulosa AB SCA"
+    },
+    {
+      "surname": "Trolle",
+      "first_name": "Ulf af",
+      "initials": null,
+      "position": "professor, vice ordförande"
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": "VD Sunds Defibrator AB"
+    },
+    {
+      "surname": "Blomgren",
+      "first_name": "Boris",
+      "initials": null,
+      "position": "styrelseordförande John Mattson Byggnads AB"
+    },
+    {
+      "surname": "Ek",
+      "first_name": "Carl Olof",
+      "initials": null,
+      "position": "direktör BPA Byggproduktion AB"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "VD Svenska Handelsbanken"
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "styrelseordförande Svenska Varv AB"
+    },
+    {
+      "surname": "Krüger",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "industrielektriker AB Bahco Ventilation"
+    },
+    {
+      "surname": "Svegmar",
+      "first_name": "Carl-Axel",
+      "initials": null,
+      "position": "kalkylingenjör AB Bahco Ventilation"
+    },
+    {
+      "surname": "Hjalmar",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

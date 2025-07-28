@@ -1,0 +1,104 @@
+{
+  "company_name": "AGA Aktiebolag",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 1058.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 983.5,
+    "wages_expense": null,
+    "tax_expense": 29.3,
+    "depreciation": null,
+    "net_income": 2.3
+  },
+  "balance_sheet": {
+    "total_assets": 1170.0,
+    "current_assets": 653.2,
+    "fixed_assets": 513.7,
+    "total_liabilities": 364.1,
+    "current_liabilities": 364.1,
+    "long_term_liabilities": 389.8,
+    "shareholders_equity": 399.4
+  },
+  "employees": {
+    "n_employees": 14529,
+    "n_blue_collar_workers": 8380,
+    "n_white_collar_workers": 6048
+  },
+  "board": [
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Silfverstolpe",
+      "first_name": "Gudmund",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Trolle",
+      "first_name": "Ulf",
+      "initials": "af",
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Wallin",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

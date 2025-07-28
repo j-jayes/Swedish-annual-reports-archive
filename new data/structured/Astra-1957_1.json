@@ -1,0 +1,74 @@
+{
+  "company_name": "Aktiebolaget Astra, Apotekarnes Kemiska Fabriker",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 16162957.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3335000.0,
+    "depreciation": 1518604.42,
+    "net_income": 3124962.68
+  },
+  "balance_sheet": {
+    "total_assets": 52162199.79,
+    "current_assets": 18685741.2,
+    "fixed_assets": 33476458.59,
+    "total_liabilities": 24171989.55,
+    "current_liabilities": 6926350.39,
+    "long_term_liabilities": 17245639.16,
+    "shareholders_equity": 18502200.0
+  },
+  "employees": {
+    "n_employees": 1645,
+    "n_blue_collar_workers": 832,
+    "n_white_collar_workers": 813
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kistner",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Herman",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wegerfelt",
+      "first_name": "Karl",
+      "initials": "A",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Otterström",
+      "first_name": "C.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 132493.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 125580.719,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2620.341,
+    "net_income": 1455.734
+  },
+  "balance_sheet": {
+    "total_assets": 46113.174,
+    "current_assets": 19722.685,
+    "fixed_assets": 26390.489,
+    "total_liabilities": 8800.468,
+    "current_liabilities": 8267.214,
+    "long_term_liabilities": 4481.25,
+    "shareholders_equity": 37312.706
+  },
+  "employees": {
+    "n_employees": 1167,
+    "n_blue_collar_workers": 339,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "OLSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "CARLGREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DEGEFORS",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÅKANSON",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HJERNE",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTLING",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALL",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DILLÉN",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HULTÉN",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDQVIST",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "KONCERNCHEF"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JELF",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "FEINSTEIN",
+      "first_name": "STEN ERIK",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "TÖNNERVIK",
+      "first_name": "HENRY",
+      "initials": null,
+      "auditing_firm": "Revisor SRS"
+    }
+  ],
+  "additional_notes": null
+}

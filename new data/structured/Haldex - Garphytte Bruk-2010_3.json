@@ -1,0 +1,92 @@
+{
+  "company_name": "Haldex",
+  "fiscal_year": 2010,
+  "income_statement": {
+    "revenue": 6906.0,
+    "cost_of_goods_sold": 5147.0,
+    "operating_expenses": 596.0,
+    "wages_expense": null,
+    "tax_expense": 47.0,
+    "depreciation": 278.0,
+    "net_income": 131.0
+  },
+  "balance_sheet": {
+    "total_assets": 5053.0,
+    "current_assets": 3110.0,
+    "fixed_assets": 2486.0,
+    "total_liabilities": 2702.0,
+    "current_liabilities": 1121.0,
+    "long_term_liabilities": 1248.0,
+    "shareholders_equity": 2351.0
+  },
+  "employees": {
+    "n_employees": 3811,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Moberg",
+      "first_name": "Lars-Göran",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Böös",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Charette",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Sundewall",
+      "first_name": "Caroline",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Thelin",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Vieweg",
+      "first_name": "Cecilia",
+      "initials": null,
+      "position": "Styrelseledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bengtsson",
+      "first_name": "Michael",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers"
+    },
+    {
+      "surname": "Hägglund",
+      "first_name": "Ann-Christine",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers"
+    }
+  ],
+  "additional_notes": null
+}

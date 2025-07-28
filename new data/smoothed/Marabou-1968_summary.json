@@ -1,0 +1,74 @@
+{
+  "company_name": "MARABOU",
+  "fiscal_year": 1968,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 138771.351,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2500.0,
+    "depreciation": null,
+    "net_income": 1010051.9023333334
+  },
+  "balance_sheet": {
+    "total_assets": 84686.322,
+    "current_assets": 42611.295,
+    "fixed_assets": 41461.387,
+    "total_liabilities": null,
+    "current_liabilities": 26807.397,
+    "long_term_liabilities": 2779.0933333333332,
+    "shareholders_equity": 60.425
+  },
+  "employees": {
+    "n_employees": 1331,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "H:SON-ERICSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERFELT",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HANSELLE",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BEXELIUS",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1997,
+  "income_statement": {
+    "revenue": 113000.0,
+    "cost_of_goods_sold": 81916.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 931.0,
+    "depreciation": 4255.0,
+    "net_income": 352.0
+  },
+  "balance_sheet": {
+    "total_assets": 79640.0,
+    "current_assets": 51860.0,
+    "fixed_assets": 27780.0,
+    "total_liabilities": 59075.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20565.0
+  },
+  "employees": {
+    "n_employees": 105950,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Chairman of the Board"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "G\nGsta",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Bruzelius",
+      "first_name": "Peggy",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Halvorsen",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hughes",
+      "first_name": "Louis",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "Michael",
+      "initials": null,
+      "position": "President"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

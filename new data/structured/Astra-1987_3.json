@@ -1,0 +1,98 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 5406.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 628.0,
+    "depreciation": null,
+    "net_income": 624.6
+  },
+  "balance_sheet": {
+    "total_assets": 7063.1,
+    "current_assets": 4306.2,
+    "fixed_assets": 2198.7,
+    "total_liabilities": 5239.9,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 6880,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "TONY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RINGKVIST",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TILLANDER",
+      "first_name": "BARBRO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLBACK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOGREN",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "TRG Revision Einar Larsson AB"
+    }
+  ],
+  "additional_notes": null
+}

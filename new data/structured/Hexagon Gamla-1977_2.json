@@ -1,0 +1,80 @@
+{
+  "company_name": "Hexagon AB",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 554.759,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 498.429,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 16.207,
+    "net_income": 7.648
+  },
+  "balance_sheet": {
+    "total_assets": 440.149,
+    "current_assets": 228.896,
+    "fixed_assets": 209.357,
+    "total_liabilities": 181.843,
+    "current_liabilities": 120.327,
+    "long_term_liabilities": 181.843,
+    "shareholders_equity": 51.844
+  },
+  "employees": {
+    "n_employees": 2493,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Haeggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "G. Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöström",
+      "first_name": "Carl-Eric",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

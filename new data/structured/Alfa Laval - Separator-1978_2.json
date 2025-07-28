@@ -1,0 +1,92 @@
+{
+  "company_name": "Alfa-Laval",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 4986.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4595.0,
+    "wages_expense": null,
+    "tax_expense": 114.4,
+    "depreciation": 92.5,
+    "net_income": 98.0
+  },
+  "balance_sheet": {
+    "total_assets": 5919.9,
+    "current_assets": 2227.5,
+    "fixed_assets": 1150.9,
+    "total_liabilities": 423.2,
+    "current_liabilities": 2582.6,
+    "long_term_liabilities": 953.9,
+    "shareholders_equity": 1228.3
+  },
+  "employees": {
+    "n_employees": 17763,
+    "n_blue_collar_workers": 6983,
+    "n_white_collar_workers": 10780
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Karl",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eliæson",
+      "first_name": "Per-Jonas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engström",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlman",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

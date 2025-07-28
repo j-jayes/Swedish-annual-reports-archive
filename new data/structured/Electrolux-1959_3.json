@@ -1,0 +1,122 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 15.321,
+    "depreciation": 7.953,
+    "net_income": 14.518
+  },
+  "balance_sheet": {
+    "total_assets": 284.601,
+    "current_assets": 166.847,
+    "fixed_assets": 117.754,
+    "total_liabilities": 87.49,
+    "current_liabilities": 20.085,
+    "long_term_liabilities": 24.06,
+    "shareholders_equity": 142.0
+  },
+  "employees": {
+    "n_employees": 18203,
+    "n_blue_collar_workers": 2526,
+    "n_white_collar_workers": 1196
+  },
+  "board": [
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wernher",
+      "first_name": "Harold",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Elon",
+      "initials": "V.",
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Deijfen",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "Deputies"
+    },
+    {
+      "surname": "Hoſving",
+      "first_name": "Ane",
+      "initials": "M.",
+      "position": "Deputies"
+    },
+    {
+      "surname": "Hyllén",
+      "first_name": "Kai",
+      "initials": null,
+      "position": "Deputies"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": "Deputies"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Mårtensson",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

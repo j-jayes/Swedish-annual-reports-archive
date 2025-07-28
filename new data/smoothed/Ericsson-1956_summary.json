@@ -1,0 +1,104 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET LM ERICSSON",
+  "fiscal_year": 1956,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 702834000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 17642000.0,
+    "depreciation": 18239500.0,
+    "net_income": 20412000.0
+  },
+  "balance_sheet": {
+    "total_assets": 819478000.0,
+    "current_assets": 528202000.0,
+    "fixed_assets": 144258000.0,
+    "total_liabilities": 495461000.0,
+    "current_liabilities": 276169000.0,
+    "long_term_liabilities": 144112000.0,
+    "shareholders_equity": 324017000.0
+  },
+  "employees": {
+    "n_employees": 24900,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BEHN",
+      "first_name": "SOSTHENES",
+      "initials": null,
+      "position": "ÖVERSTE"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "VICE AMIRAL"
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "ERNFRID",
+      "initials": null,
+      "position": "BANKDIREKTÖR Vice ordförande"
+    },
+    {
+      "surname": "LEAVEY",
+      "first_name": "EDMOND",
+      "initials": "H.",
+      "position": "GENERAL"
+    },
+    {
+      "surname": "SALMONSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "ADVOKAT"
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "PROFESSOR"
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN",
+      "initials": "TURE",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dickinson",
+      "first_name": "John",
+      "initials": "C.",
+      "auditing_firm": "Chartered Accountant i firma Price Waterhouse & Co."
+    }
+  ]
+}

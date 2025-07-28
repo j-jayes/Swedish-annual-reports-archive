@@ -1,0 +1,112 @@
+{
+  "company_name": "Kopparfors Aktiebolag",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 467.267,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 45.878,
+    "net_income": 17.103
+  },
+  "balance_sheet": {
+    "total_assets": 1145.493,
+    "current_assets": 292.595,
+    "fixed_assets": 643.746,
+    "total_liabilities": 457.302,
+    "current_liabilities": 371.205,
+    "long_term_liabilities": 457.302,
+    "shareholders_equity": 177.13
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "Herr",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HOLGERSSON",
+      "first_name": "Sigbjörn",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "MONTGOMERY",
+      "first_name": "Henry",
+      "initials": null,
+      "position": "Lagman"
+    },
+    {
+      "surname": "GRIPENSTEDT",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Civiljägmästare"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "Teknologie Doktor"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Generalkonsul"
+    },
+    {
+      "surname": "ENGMAN",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verst. direktör"
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Snickare"
+    },
+    {
+      "surname": "LINDBLAD",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Sågverksarbetare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

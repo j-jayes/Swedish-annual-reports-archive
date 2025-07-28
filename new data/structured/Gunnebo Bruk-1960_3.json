@@ -1,0 +1,86 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 7855552.8,
+    "tax_expense": 116706.0,
+    "depreciation": 1165545.87,
+    "net_income": 1294326.13
+  },
+  "balance_sheet": {
+    "total_assets": 31701221.63,
+    "current_assets": 15456442.27,
+    "fixed_assets": 16244779.36,
+    "total_liabilities": 19888532.96,
+    "current_liabilities": 7053799.54,
+    "long_term_liabilities": 12434733.42,
+    "shareholders_equity": 11812688.67
+  },
+  "employees": {
+    "n_employees": 555,
+    "n_blue_collar_workers": 448,
+    "n_white_collar_workers": 107
+  },
+  "board": [
+    {
+      "surname": "JERN",
+      "first_name": "Seth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TIGERSCHIOLD",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYGREN",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OBERG",
+      "first_name": "Thure",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖHOLM",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JERN",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

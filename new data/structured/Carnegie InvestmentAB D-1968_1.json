@@ -1,0 +1,94 @@
+{
+  "company_name": "Investmentaktiebolaget D. Carnegie & Co.",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 3264421.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1351677.0
+  },
+  "balance_sheet": {
+    "total_assets": 23203772.0,
+    "current_assets": 537747.0,
+    "fixed_assets": 22666025.0,
+    "total_liabilities": 21779288.0,
+    "current_liabilities": 640563.0,
+    "long_term_liabilities": 1537425.0,
+    "shareholders_equity": 21025784.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Langenskiöld",
+      "first_name": null,
+      "initials": "C. G.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Melin",
+      "first_name": "Hilding",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Söderman",
+      "first_name": "H. W.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "Agronom"
+    },
+    {
+      "surname": "Ponsbach",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": null,
+      "initials": "Carl",
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

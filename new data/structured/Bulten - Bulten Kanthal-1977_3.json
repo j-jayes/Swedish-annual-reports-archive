@@ -1,0 +1,134 @@
+{
+  "company_name": "Bulten-Kanthal",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 710.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 668.777,
+    "wages_expense": 253.7,
+    "tax_expense": 11.571,
+    "depreciation": 36.6,
+    "net_income": 8.206
+  },
+  "balance_sheet": {
+    "total_assets": 836.412,
+    "current_assets": 593.15,
+    "fixed_assets": 238.794,
+    "total_liabilities": 224.548,
+    "current_liabilities": 224.548,
+    "long_term_liabilities": 104.094,
+    "shareholders_equity": 137.096
+  },
+  "employees": {
+    "n_employees": 4480,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Ehrner",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Berth",
+      "initials": "von",
+      "position": "Head of the Ramnäs Bruk Division"
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Louis",
+      "initials": "De",
+      "position": "Managing Director of Shalco AB"
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Chairman of AB Electrolux"
+    },
+    {
+      "surname": "Ugglas",
+      "first_name": "Margaretha",
+      "initials": "af",
+      "position": "Member of the Swedish Parliament"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Hans",
+      "initials": "Cavalli-",
+      "position": "Managing Director of Skandinaviska Enskilda Banken, Malmö"
+    },
+    {
+      "surname": "Wenehed",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Jarl",
+      "initials": "von",
+      "position": "Deputy Member"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Nils-Georg",
+      "initials": null,
+      "position": "President of the Bulten-Kanthal branch of the Swedish Union of Technical and Clerical Industry Employees"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "President of the Hallstaverken branch of the SMVU"
+    },
+    {
+      "surname": "Staflin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "President of the Bulten-Kanthal branch of the Swedish Supervisors Union"
+    },
+    {
+      "surname": "Ahlqvist",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "President of the Rallsta-verken branch of the SMWU"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": "Stockholm, Authorized Public Accountant"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Stockholm, Authorized Public Accountant"
+    },
+    {
+      "surname": "Morling",
+      "first_name": "Pehr",
+      "initials": "Magnus",
+      "auditing_firm": "Stockholm, Authorized Public Accountant, Deputy"
+    },
+    {
+      "surname": "Markdahl",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Stockholm, Authorized Public Accountant, Deputy"
+    }
+  ],
+  "additional_notes": null
+}

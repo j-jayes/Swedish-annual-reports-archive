@@ -1,0 +1,58 @@
+{
+  "company_name": "Storfors Bruks Aktiebolag",
+  "fiscal_year": 1912,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 167910.89
+  },
+  "balance_sheet": {
+    "total_assets": 11420395.44,
+    "current_assets": null,
+    "fixed_assets": 6289655.27,
+    "total_liabilities": null,
+    "current_liabilities": 8586643.41,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2500000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "DANIELSSON",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERLENIUS",
+      "first_name": "AUG.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "GUST.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GRUNDSTRÖM",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "af GEIJERSTAM",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

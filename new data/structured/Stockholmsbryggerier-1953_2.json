@@ -1,0 +1,110 @@
+{
+  "company_name": "AKTIEBOLAGET STOCKHOLMS BRYGGERIER",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 29628347.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2150265.32,
+    "depreciation": 2538235.32,
+    "net_income": 5012487.87
+  },
+  "balance_sheet": {
+    "total_assets": 103213937.71,
+    "current_assets": 17641054.3,
+    "fixed_assets": 85205540.76,
+    "total_liabilities": 63096921.94,
+    "current_liabilities": 7242828.07,
+    "long_term_liabilities": 19468113.96,
+    "shareholders_equity": 34710942.03
+  },
+  "employees": {
+    "n_employees": 1132,
+    "n_blue_collar_workers": 838,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ANDERSON",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": null,
+      "initials": "R. v.",
+      "position": null
+    },
+    {
+      "surname": "NORDENSON",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERDAHL",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMMARSKIOLD",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "STERKY",
+      "first_name": "HAKAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELMFELDT",
+      "first_name": "B",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TEGNÉR",
+      "first_name": "AXEL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WIRSTRÖM",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

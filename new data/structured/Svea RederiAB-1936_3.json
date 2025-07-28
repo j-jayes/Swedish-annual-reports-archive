@@ -1,0 +1,82 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1936,
+  "income_statement": {
+    "revenue": 34200764.43,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 30400419.21,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1635090.62
+  },
+  "balance_sheet": {
+    "total_assets": 24504828.45,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 31256677.02,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 17640000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ericson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gullander",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Appelqvist",
+      "first_name": null,
+      "initials": "F. Ax.",
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thulin",
+      "first_name": null,
+      "initials": "P. G.",
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Schollin-Borg",
+      "first_name": null,
+      "initials": "P.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Norrthon",
+      "first_name": "Philip",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "T.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    }
+  ],
+  "additional_notes": null
+}

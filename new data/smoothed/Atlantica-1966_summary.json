@@ -1,0 +1,110 @@
+{
+  "company_name": "ATLANTICA",
+  "fiscal_year": 1966,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 17709308.13,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 578800.0,
+    "depreciation": null,
+    "net_income": 549079.01
+  },
+  "balance_sheet": {
+    "total_assets": 42078413.58,
+    "current_assets": 6528988.28,
+    "fixed_assets": 6541393.37,
+    "total_liabilities": 29169049.21,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 32,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E.",
+      "initials": "E.W.",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDEN",
+      "first_name": "David",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORBURN",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K.",
+      "initials": "K.R.",
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDQVIST",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDERSEN",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KIHLBOM",
+      "first_name": "Niklas",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FALLENIUS",
+      "first_name": "C.",
+      "initials": "C-A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "KARLGREN",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

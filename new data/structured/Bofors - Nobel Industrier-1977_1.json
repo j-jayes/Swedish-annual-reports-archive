@@ -1,0 +1,104 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 2325.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 16.9,
+    "depreciation": null,
+    "net_income": 22.7
+  },
+  "balance_sheet": {
+    "total_assets": 4105.9,
+    "current_assets": 1124.5,
+    "fixed_assets": 863.2,
+    "total_liabilities": 3804.1,
+    "current_liabilities": 2054.1,
+    "long_term_liabilities": 549.7,
+    "shareholders_equity": 274.9
+  },
+  "employees": {
+    "n_employees": 13557,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "Konsul, Ordförande i styrelsen för AB BOFORS"
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "Bankdirektör, Vice ordförande i styrelsen för AB BOFORS"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Vd i Byggnads AB Balken"
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Bruksdisponent, Vd i Billeruds AB"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Vd i Investment AB Asken"
+    },
+    {
+      "surname": "Kylvik",
+      "first_name": "Frank",
+      "initials": null,
+      "position": "Svarvare"
+    },
+    {
+      "surname": "Nordin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Bruksdisponent, Fd Vdi AB BOFORS"
+    },
+    {
+      "surname": "Waldenström",
+      "first_name": "Erland",
+      "initials": null,
+      "position": "Bruksdisponent, 1:e vice ordförande i Skandinaviska Enskilda Banken"
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": "Bruksdisponent, Vd i AB BOFORS"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

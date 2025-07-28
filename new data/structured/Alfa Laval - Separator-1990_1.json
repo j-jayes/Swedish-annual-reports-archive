@@ -1,0 +1,43 @@
+{
+  "company_name": "ALFA-LAVAL",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 17881.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1145.0
+  },
+  "balance_sheet": {
+    "total_assets": 18718.0,
+    "current_assets": 14888.5,
+    "fixed_assets": 456.7,
+    "total_liabilities": null,
+    "current_liabilities": 10860.2,
+    "long_term_liabilities": 2287.4,
+    "shareholders_equity": 5401.8
+  },
+  "employees": {
+    "n_employees": 20809,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Lundvall",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

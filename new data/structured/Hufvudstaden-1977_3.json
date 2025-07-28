@@ -1,0 +1,80 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 101.727,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 52.665,
+    "wages_expense": null,
+    "tax_expense": 22.432,
+    "depreciation": null,
+    "net_income": 12.424
+  },
+  "balance_sheet": {
+    "total_assets": 349.243,
+    "current_assets": 32.394,
+    "fixed_assets": 316.052,
+    "total_liabilities": 161.695,
+    "current_liabilities": 32.693,
+    "long_term_liabilities": 129.002,
+    "shareholders_equity": 137.548
+  },
+  "employees": {
+    "n_employees": 159,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bergqvist",
+      "first_name": "\"\nDirektör Åke",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Lindholm",
+      "first_name": "Stig",
+      "initials": "Hj:son",
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

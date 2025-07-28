@@ -1,0 +1,82 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1994,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5375.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -718.5,
+    "depreciation": null,
+    "net_income": 2923.3
+  },
+  "balance_sheet": {
+    "total_assets": 15088.1,
+    "current_assets": 115.2,
+    "fixed_assets": 14972.9,
+    "total_liabilities": 37.13333333333333,
+    "current_liabilities": 7.8,
+    "long_term_liabilities": 42.3,
+    "shareholders_equity": 15028.5
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Soderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wedin",
+      "first_name": "Thord",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högfelt",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gutberg",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

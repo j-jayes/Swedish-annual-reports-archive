@@ -1,0 +1,39 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1908,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1847642.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 123618.06
+  },
+  "balance_sheet": {
+    "total_assets": 5542044.5,
+    "current_assets": null,
+    "fixed_assets": 3362788.53,
+    "total_liabilities": 2095837.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3000000.0
+  },
+  "employees": {},
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Lindvall",
+      "first_name": "C. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rundquist",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

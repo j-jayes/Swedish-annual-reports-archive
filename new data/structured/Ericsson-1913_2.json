@@ -1,0 +1,43 @@
+{
+  "company_name": "L. M. ERICSSON & Co.",
+  "fiscal_year": 1913,
+  "income_statement": {
+    "revenue": 2841701.65,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 502876.16,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2453438.36
+  },
+  "balance_sheet": {
+    "total_assets": 11516550.22,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3453366.67,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 1634,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Hallén",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schultz",
+      "first_name": "Eduard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

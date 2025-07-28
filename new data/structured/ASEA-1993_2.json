@@ -1,0 +1,76 @@
+{
+  "company_name": "ASEA AB",
+  "fiscal_year": 1993,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -1474.8,
+    "depreciation": null,
+    "net_income": 251.5
+  },
+  "balance_sheet": {
+    "total_assets": 14778.6,
+    "current_assets": 89.5,
+    "fixed_assets": 14689.1,
+    "total_liabilities": 201.2,
+    "current_liabilities": 53.9,
+    "long_term_liabilities": 14423.9,
+    "shareholders_equity": 14709.5
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wedin",
+      "first_name": "Thord",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högfelt",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "company_name": "UPLANDS ENSKILDA BANK",
+  "fiscal_year": 1911,
+  "income_statement": {
+    "revenue": 1120544.29,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 401821.05,
+    "wages_expense": null,
+    "tax_expense": 73195.28,
+    "depreciation": 22823.18,
+    "net_income": 718723.24
+  },
+  "balance_sheet": {
+    "total_assets": 43497932.51,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 43497932.51,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 9275000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Gardtman",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bahr",
+      "first_name": "Johan",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Stadenberg",
+      "first_name": "G.",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "Strandberg",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "L.",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Samsioe",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Siljeström",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Holmberg",
+      "first_name": "Fredr.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hagen",
+      "first_name": "Rob.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fries",
+      "first_name": "Thoralf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

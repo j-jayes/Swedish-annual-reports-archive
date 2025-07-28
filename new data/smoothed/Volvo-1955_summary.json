@@ -1,0 +1,104 @@
+{
+  "company_name": "Aktiebolaget Volvo",
+  "fiscal_year": 1955,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 519.404,
+    "cost_of_goods_sold": 477.783,
+    "operating_expenses": 477.784,
+    "wages_expense": null,
+    "tax_expense": 7.957,
+    "depreciation": null,
+    "net_income": 9.123666666666667
+  },
+  "balance_sheet": {
+    "total_assets": 537.217,
+    "current_assets": 419.487,
+    "fixed_assets": 101.74033333333334,
+    "total_liabilities": 143.499,
+    "current_liabilities": 120.69200000000001,
+    "long_term_liabilities": 22.442666666666664,
+    "shareholders_equity": 101.5
+  },
+  "employees": {
+    "n_employees": 11947,
+    "n_blue_collar_workers": 8272,
+    "n_white_collar_workers": 3675
+  },
+  "board": [
+    {
+      "surname": "Prytz",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": null,
+      "initials": "H",
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Törnebohm",
+      "first_name": "Hilding",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larson",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnus",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydell",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Fryklund",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ]
+}

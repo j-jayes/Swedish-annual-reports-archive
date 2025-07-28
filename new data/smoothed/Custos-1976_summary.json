@@ -1,0 +1,116 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1976,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 41.189,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.987,
+    "depreciation": null,
+    "net_income": 46.774
+  },
+  "balance_sheet": {
+    "total_assets": 431.985,
+    "current_assets": 15.876,
+    "fixed_assets": 416.109,
+    "total_liabilities": 22.020333333333333,
+    "current_liabilities": 12.318666666666667,
+    "long_term_liabilities": 2853.3505,
+    "shareholders_equity": 409.943
+  },
+  "employees": {
+    "n_employees": 7,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BERGQVIST",
+      "first_name": "AKE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "GYLLENHAMMAR",
+      "first_name": "PEHR",
+      "initials": "G.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SYDOW",
+      "first_name": "KRISTIAN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "LARS-ERIK",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "ÖHMAN",
+      "first_name": "ANDERS",
+      "initials": "R.",
+      "position": "Advokat"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "TYRA",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "Riksdagsledamot, suppleant"
+    },
+    {
+      "surname": "ANDO",
+      "first_name": "SIGVARD",
+      "initials": null,
+      "position": "Direktör, verkst. direktör"
+    },
+    {
+      "surname": "LEKSELL",
+      "first_name": "OVE",
+      "initials": null,
+      "position": "Direktör, vice verkst. direktör, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PÅHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "THORÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "company_name": "Slagteri-Aktiebolagets",
+  "fiscal_year": 1904,
+  "income_statement": {
+    "revenue": 2331902.51,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 35514.66,
+    "net_income": 188973.09
+  },
+  "balance_sheet": {
+    "total_assets": 956658.78,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 696658.78,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 260000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Redtz",
+      "first_name": "John",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Slöör",
+      "first_name": "Filip",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lilliesköld",
+      "first_name": "Wilh.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hirsch",
+      "first_name": "Isaak",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hirsch",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

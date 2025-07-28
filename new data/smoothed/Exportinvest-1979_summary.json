@@ -1,0 +1,76 @@
+{
+  "company_name": "Aktiebolaget Export-Invest",
+  "fiscal_year": 1979,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3622898.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 164662.0,
+    "wages_expense": null,
+    "tax_expense": 8350.0,
+    "depreciation": null,
+    "net_income": 3621896.0
+  },
+  "balance_sheet": {
+    "total_assets": 48793392.0,
+    "current_assets": 1238806.0,
+    "fixed_assets": 47554586.0,
+    "total_liabilities": 145204.0,
+    "current_liabilities": 136626.66666666666,
+    "long_term_liabilities": 158786.66666666666,
+    "shareholders_equity": 48496648.666666664
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Generaldirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Civilekonom"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "HEXAGON",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 724.132,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 11.39,
+    "depreciation": null,
+    "net_income": 14.784
+  },
+  "balance_sheet": {
+    "total_assets": 523.498,
+    "current_assets": 305.109,
+    "fixed_assets": 216.882,
+    "total_liabilities": 195.44,
+    "current_liabilities": 156.221,
+    "long_term_liabilities": 33.091,
+    "shareholders_equity": 59.06
+  },
+  "employees": {
+    "n_employees": 2525,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Haeggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engkvist",
+      "first_name": "Norrberth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rasmussen",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ek",
+      "first_name": "Torbjörn",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

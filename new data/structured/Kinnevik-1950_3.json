@@ -1,0 +1,70 @@
+{
+  "company_name": "AKTIEBOLAGET KINNEVIK",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 429095.45,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2607.89,
+    "net_income": 415988.32
+  },
+  "balance_sheet": {
+    "total_assets": 9290014.02,
+    "current_assets": 44261.2,
+    "fixed_assets": 7750000.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8384949.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Erik W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Hans von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Revisor auktoriserad av Stockholms Handelskammare"
+    }
+  ],
+  "additional_notes": null
+}

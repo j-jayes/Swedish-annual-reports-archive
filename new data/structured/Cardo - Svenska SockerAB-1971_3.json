@@ -1,0 +1,100 @@
+{
+  "company_name": "AB CARDO",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 22950.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 18092.0
+  },
+  "balance_sheet": {
+    "total_assets": 236344.0,
+    "current_assets": 16278.0,
+    "fixed_assets": 135000.0,
+    "total_liabilities": 50738.0,
+    "current_liabilities": 768.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 17770.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "S.",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Konsul"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "H.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Th.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Kennedy",
+      "first_name": "Douglas",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Nordenskjöld",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Dieden",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Larson",
+      "first_name": "Rutger",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Faxe",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "N. A.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

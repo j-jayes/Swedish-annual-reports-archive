@@ -1,0 +1,116 @@
+{
+  "company_name": "Dagens Nyheters AB",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 1500.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1423.3,
+    "wages_expense": null,
+    "tax_expense": 2.2,
+    "depreciation": 51.5,
+    "net_income": 12.8
+  },
+  "balance_sheet": {
+    "total_assets": 1051.4,
+    "current_assets": 486.6,
+    "fixed_assets": 564.8,
+    "total_liabilities": 355.6,
+    "current_liabilities": 307.7,
+    "long_term_liabilities": 239.5,
+    "shareholders_equity": 103.8
+  },
+  "employees": {
+    "n_employees": 5055,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dennis",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Petrén",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Clas",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Strömstedt",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svenson",
+      "first_name": "Sven",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindwall",
+      "first_name": "Claes",
+      "initials": "Leo",
+      "position": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Carry",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "Professor"
+    }
+  ],
+  "additional_notes": null
+}

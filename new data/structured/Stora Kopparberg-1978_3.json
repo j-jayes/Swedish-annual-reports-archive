@@ -1,0 +1,116 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AB",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 2970.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2587.6,
+    "wages_expense": null,
+    "tax_expense": 29.3,
+    "depreciation": 184.2,
+    "net_income": 60.0
+  },
+  "balance_sheet": {
+    "total_assets": 5312.2,
+    "current_assets": 1676.2,
+    "fixed_assets": 3604.2,
+    "total_liabilities": 2454.0,
+    "current_liabilities": 1070.1,
+    "long_term_liabilities": 1997.4,
+    "shareholders_equity": 147.8
+  },
+  "employees": {
+    "n_employees": 9694,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Eggertz",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundvall",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Carl Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lekman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Carlehäll",
+      "first_name": "Anders",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

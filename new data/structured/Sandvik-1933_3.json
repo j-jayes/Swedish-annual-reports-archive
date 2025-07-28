@@ -1,0 +1,70 @@
+{
+  "company_name": "Sandvikens Jernverks Aktiebolag",
+  "fiscal_year": 1933,
+  "income_statement": {
+    "revenue": 25041914.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 713107.0,
+    "net_income": 1039348.74
+  },
+  "balance_sheet": {
+    "total_assets": 50447136.72,
+    "current_assets": null,
+    "fixed_assets": 27818310.93,
+    "total_liabilities": null,
+    "current_liabilities": 2840710.09,
+    "long_term_liabilities": 11608000.0,
+    "shareholders_equity": 16000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Yngström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sebardt",
+      "first_name": "Wilh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Göransson",
+      "first_name": "K. F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Koraen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sehlberg",
+      "first_name": "J. H.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sillén",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

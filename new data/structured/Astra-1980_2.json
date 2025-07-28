@@ -1,0 +1,104 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 1988.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1775.1,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 74.8,
+    "net_income": 51.0
+  },
+  "balance_sheet": {
+    "total_assets": 1992.3,
+    "current_assets": 1144.7,
+    "fixed_assets": 834.2,
+    "total_liabilities": 543.7,
+    "current_liabilities": 475.6,
+    "long_term_liabilities": 543.7,
+    "shareholders_equity": 432.5
+  },
+  "employees": {
+    "n_employees": 6213,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "ALM",
+      "first_name": "BÖRJE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "TONY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TILLANDER",
+      "first_name": "BARBRO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WERKÖ",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDENGREN",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": "Professor"
+    },
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": "Styrelsen föreslår fondemission med en ny aktie för fyra gamla och en utdelning på 6:25 per gammal aktie. \nProcentsiffran avser jämförbara enheter."
+}

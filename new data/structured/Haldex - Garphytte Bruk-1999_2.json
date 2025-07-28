@@ -1,0 +1,104 @@
+{
+  "company_name": "Haldex",
+  "fiscal_year": 1999,
+  "income_statement": {
+    "revenue": 5798.0,
+    "cost_of_goods_sold": 4261.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 116.0,
+    "depreciation": null,
+    "net_income": 186.0
+  },
+  "balance_sheet": {
+    "total_assets": 3750.0,
+    "current_assets": 1970.0,
+    "fixed_assets": 1780.0,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": 1087.0,
+    "shareholders_equity": 1490.0
+  },
+  "employees": {
+    "n_employees": 4290,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Blomberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Palmgren",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Rogersson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Warnander",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Cederlund",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Fridén",
+      "first_name": "Jonny",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Fernström",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    }
+  ],
+  "additional_notes": null
+}

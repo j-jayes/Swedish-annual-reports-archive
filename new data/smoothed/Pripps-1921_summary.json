@@ -1,0 +1,76 @@
+{
+  "company_name": "Aktiebolaget J. A. Pripp & Son.",
+  "fiscal_year": 1922,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3791715.91,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 117927.01,
+    "depreciation": null,
+    "net_income": 2298623.37
+  },
+  "balance_sheet": {
+    "total_assets": 16917055.31,
+    "current_assets": null,
+    "fixed_assets": 6641900.0,
+    "total_liabilities": null,
+    "current_liabilities": 1664992.91,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5089111.6850000005
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "SÖDERHIELM",
+      "first_name": "PH.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "W:m",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGENGREN",
+      "first_name": "MANNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FLEMING",
+      "first_name": "HERMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bökman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergendal",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

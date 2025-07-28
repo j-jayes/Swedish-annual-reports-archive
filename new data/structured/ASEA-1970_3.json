@@ -1,0 +1,86 @@
+{
+  "company_name": "ASEA-GRUPPEN",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 3689.577,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3319.901,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 117.928,
+    "net_income": 90.34
+  },
+  "balance_sheet": {
+    "total_assets": 4988.236,
+    "current_assets": 3453.179,
+    "fixed_assets": 1495.139,
+    "total_liabilities": 1033.042,
+    "current_liabilities": 1873.31,
+    "long_term_liabilities": 1033.042,
+    "shareholders_equity": 1217.057
+  },
+  "employees": {
+    "n_employees": 36591,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": null,
+      "initials": "Åke T",
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": null,
+      "initials": "Sten S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Agnevall",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

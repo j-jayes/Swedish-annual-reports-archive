@@ -1,0 +1,70 @@
+{
+  "company_name": "FASTIGHETSAKΤΙΕΒΟLAGET DROTT",
+  "fiscal_year": 1951,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2409736.03,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 226103.33333333334,
+    "net_income": 365970.77
+  },
+  "balance_sheet": {
+    "total_assets": 24272329.59,
+    "current_assets": 586399.8,
+    "fixed_assets": 23685929.79,
+    "total_liabilities": 17482868.826666668,
+    "current_liabilities": 531953.0,
+    "long_term_liabilities": 13901272.16,
+    "shareholders_equity": 6789474.81
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "TENGBOM",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL VON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSSBAHR",
+      "first_name": "CARL PATRIC",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖQVIST",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": "Verkst. direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Almqvist",
+      "first_name": "Harald",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Theodor",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

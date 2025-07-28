@@ -1,0 +1,100 @@
+{
+  "company_name": "HEIMDALL",
+  "fiscal_year": 1931,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 4094953.31,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 39009.21,
+    "depreciation": null,
+    "net_income": 230627.25
+  },
+  "balance_sheet": {
+    "total_assets": 8218372.55,
+    "current_assets": 2922850.0,
+    "fixed_assets": null,
+    "total_liabilities": 5793890.826666666,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2424481.723333333
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "TROLLE",
+      "first_name": "ERIC",
+      "initials": null,
+      "position": "Riksmarskalk, ordförande"
+    },
+    {
+      "surname": "HAMMARSTRÖM",
+      "first_name": "ALEXIS",
+      "initials": null,
+      "position": "Landshövding, vice ordförande"
+    },
+    {
+      "surname": "KUYLENSTJERNA",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": "Kammarherre, f. d. Byråchef"
+    },
+    {
+      "surname": "LAGRELIUS",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": "Överintendent"
+    },
+    {
+      "surname": "ÖSTERLÖF",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": "f. d. Häradshövding, Verkställande direktör"
+    },
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": "BERNH.",
+      "initials": null,
+      "position": "Kapten"
+    },
+    {
+      "surname": "ROOS",
+      "first_name": "O. W.",
+      "initials": null,
+      "position": "Byråchef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ERICSON",
+      "first_name": "HANS",
+      "initials": null,
+      "auditing_firm": "Amiral"
+    },
+    {
+      "surname": "DRAKENBERG",
+      "first_name": "JEAN",
+      "initials": null,
+      "auditing_firm": "Ingenjör"
+    },
+    {
+      "surname": "CYGNÆUS",
+      "first_name": "A. W.",
+      "initials": null,
+      "auditing_firm": "Kammarrättsråd"
+    },
+    {
+      "surname": "ELLIOT",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": "Militieombudsman"
+    },
+    {
+      "surname": "LAURELL",
+      "first_name": "C. A.",
+      "initials": null,
+      "auditing_firm": "Kapten"
+    }
+  ]
+}

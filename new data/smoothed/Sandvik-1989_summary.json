@@ -1,0 +1,104 @@
+{
+  "company_name": "Sandvik",
+  "fiscal_year": 1989,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 18769.0,
+    "cost_of_goods_sold": -15199.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -725.0,
+    "depreciation": -694.0,
+    "net_income": 2304.0
+  },
+  "balance_sheet": {
+    "total_assets": 22575.0,
+    "current_assets": 15110.0,
+    "fixed_assets": 7440.0,
+    "total_liabilities": 5558.333333333333,
+    "current_liabilities": 6242.0,
+    "long_term_liabilities": 4191.0,
+    "shareholders_equity": 7206.0
+  },
+  "employees": {
+    "n_employees": 26779,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Boström",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Håkansson",
+      "first_name": "Lars-Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindstedt",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmros",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "President"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schiller",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Öhrn",
+      "first_name": "Bernhard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

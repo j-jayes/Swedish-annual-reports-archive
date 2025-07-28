@@ -1,0 +1,110 @@
+{
+  "company_name": "AB BAHCO",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 2627.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -15.5,
+    "depreciation": null,
+    "net_income": 78.1
+  },
+  "balance_sheet": {
+    "total_assets": 2042.2,
+    "current_assets": 1602.2,
+    "fixed_assets": 438.7,
+    "total_liabilities": 1742.1,
+    "current_liabilities": 966.1,
+    "long_term_liabilities": 776.0,
+    "shareholders_equity": 300.1
+  },
+  "employees": {
+    "n_employees": 6840,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Belin",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Feinsilber",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": "ordförande, VD Investment AB Promotion"
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": "direktör Sunds Defibrator AB"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "VD Svenska Handelsbanken"
+    },
+    {
+      "surname": "Lagerman",
+      "first_name": "Pehr",
+      "initials": null,
+      "position": "direktör, Pehr Lagerman Företagskonsult AB"
+    },
+    {
+      "surname": "Mauritzon",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "VD Borås Invest AB"
+    },
+    {
+      "surname": "Lehto",
+      "first_name": "Sakari T.",
+      "initials": null,
+      "position": "minister, VD Oy Partek Ab, Helsingfors"
+    },
+    {
+      "surname": "Skoog",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "svetsare AB Hydrauto"
+    },
+    {
+      "surname": "Wenehed",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "VD AB Aritmos"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör Svenska Handelsbanken"
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

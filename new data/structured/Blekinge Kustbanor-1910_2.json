@@ -1,0 +1,70 @@
+{
+  "company_name": "BLEKINGE KUSTBANOR",
+  "fiscal_year": 1910,
+  "income_statement": {
+    "revenue": 1217322.92,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1013836.1,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 203486.82
+  },
+  "balance_sheet": {
+    "total_assets": 6396783.16,
+    "current_assets": null,
+    "fixed_assets": 4687092.61,
+    "total_liabilities": 5696208.05,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Lilienberg",
+      "first_name": "A.",
+      "initials": null,
+      "position": "Revisionssekreteraren"
+    },
+    {
+      "surname": "Trolle-Wachtmeister",
+      "first_name": "H. G.",
+      "initials": null,
+      "position": "Öfverstekammarjunkaren, Grefve"
+    },
+    {
+      "surname": "Olsson i Applakärr",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Landtbrukaren"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ekenman",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Albert",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": "Ombud å statens vägnar"
+    }
+  ],
+  "additional_notes": null
+}

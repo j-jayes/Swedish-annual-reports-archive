@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Svenska Metallverken",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 491.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8.1,
+    "net_income": 4.9
+  },
+  "balance_sheet": {
+    "total_assets": 381.3,
+    "current_assets": 143.2,
+    "fixed_assets": 238.1,
+    "total_liabilities": 297.7,
+    "current_liabilities": 78.6,
+    "long_term_liabilities": 123.9,
+    "shareholders_equity": 83.6
+  },
+  "employees": {
+    "n_employees": 5062,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "BROR",
+      "initials": "B. G.",
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BON DE SOUSA PERNES",
+      "first_name": "MANOEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS",
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "CARL",
+      "initials": "C. A.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ERIKSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HEDBERG",
+      "first_name": "THJELVAR",
+      "initials": null,
+      "auditing_firm": "Stadsdirektör"
+    }
+  ],
+  "additional_notes": null
+}

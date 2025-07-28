@@ -1,0 +1,98 @@
+{
+  "company_name": "LATOUR",
+  "fiscal_year": 1994,
+  "income_statement": {
+    "revenue": 2754.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -2467.4,
+    "wages_expense": null,
+    "tax_expense": -30.8,
+    "depreciation": -71.6,
+    "net_income": 257.1
+  },
+  "balance_sheet": {
+    "total_assets": 3452.0,
+    "current_assets": 1666.3,
+    "fixed_assets": 1785.6,
+    "total_liabilities": 1743.9,
+    "current_liabilities": 979.9,
+    "long_term_liabilities": 764.0,
+    "shareholders_equity": 1707.5
+  },
+  "employees": {
+    "n_employees": 2463,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Elisabeth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekdahl",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Flory",
+      "first_name": "Ingrid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jordeus",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirenstam",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

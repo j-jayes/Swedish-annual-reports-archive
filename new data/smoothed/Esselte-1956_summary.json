@@ -1,0 +1,86 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1957,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 20145000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 74.0,
+    "tax_expense": null,
+    "depreciation": 4504668.919,
+    "net_income": 2884001.442
+  },
+  "balance_sheet": {
+    "total_assets": 54735360.701,
+    "current_assets": 30152515.476,
+    "fixed_assets": 22084014.977333333,
+    "total_liabilities": 12802010.66,
+    "current_liabilities": 7821336.101666667,
+    "long_term_liabilities": 1500001.5,
+    "shareholders_equity": 37342685.338
+  },
+  "employees": {
+    "n_employees": 6164,
+    "n_blue_collar_workers": 4325,
+    "n_white_collar_workers": 1798
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "GENERALKONSUL"
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "FRITHIOF",
+      "initials": null,
+      "position": "BANKDIREKTÖR"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": "DISPONENT"
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": "ÖVERINTENDENT"
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "SUNDÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "f. d. HOVRÄTTSRÅDET"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BIESÈRT",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

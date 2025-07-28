@@ -1,0 +1,45 @@
+{
+  "company_name": "Aktiebolaget Stockholms Diskontobanks",
+  "fiscal_year": 1909,
+  "income_statement": {
+    "revenue": 1030260.71,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 290059.83,
+    "wages_expense": null,
+    "tax_expense": 53153.47,
+    "depreciation": 42994.81,
+    "net_income": 644052.6
+  },
+  "balance_sheet": {
+    "total_assets": 33462353.27,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Thoresen",
+      "first_name": "Harald",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Claus",
+      "first_name": "C. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wolcker",
+      "first_name": "Erik von",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

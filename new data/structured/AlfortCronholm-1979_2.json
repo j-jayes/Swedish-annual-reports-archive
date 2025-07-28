@@ -1,0 +1,146 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 476.411,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 447.979,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6.34,
+    "net_income": 3.885
+  },
+  "balance_sheet": {
+    "total_assets": 301.553,
+    "current_assets": 198.454,
+    "fixed_assets": 102.211,
+    "total_liabilities": 190.346,
+    "current_liabilities": 82.908,
+    "long_term_liabilities": 73.511,
+    "shareholders_equity": 34.583
+  },
+  "employees": {
+    "n_employees": 859,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "af Klercker",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Michael",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Haldo",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Krokstedt",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Malmvik",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rönström",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Áman",
+      "first_name": null,
+      "initials": "K.E.",
+      "position": null
+    },
+    {
+      "surname": "Ögren",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Conradson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Karl Gustav",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Reed",
+      "first_name": "James",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Sundvisson",
+      "first_name": "Sven Å",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tidbeck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Rydholm",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Klingberg",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Mörck",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

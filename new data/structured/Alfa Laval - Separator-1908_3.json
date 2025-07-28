@@ -1,0 +1,70 @@
+{
+  "company_name": "SEPARATOR",
+  "fiscal_year": 1908,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2878939.68
+  },
+  "balance_sheet": {
+    "total_assets": 25995798.97,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 20067043.54,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Jansson",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bernström",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bernström",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åkerhielm",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Burén",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hirsch",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

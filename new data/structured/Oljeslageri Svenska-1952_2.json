@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSKA OLJESLAGERI AKTIEBOLAGET",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 1418132.38,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 23359.0,
+    "depreciation": null,
+    "net_income": 43287.2
+  },
+  "balance_sheet": {
+    "total_assets": 14260421.54,
+    "current_assets": 11777695.89,
+    "fixed_assets": 2482725.65,
+    "total_liabilities": 8380063.76,
+    "current_liabilities": 18559590.4,
+    "long_term_liabilities": 911987.92,
+    "shareholders_equity": 5880357.78
+  },
+  "employees": {
+    "n_employees": 220,
+    "n_blue_collar_workers": 313,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sörensen",
+      "first_name": null,
+      "initials": "S. H.",
+      "position": null
+    },
+    {
+      "surname": "Malmgren",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engblom",
+      "first_name": null,
+      "initials": "C. P.",
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Osvaldo",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Orrmell",
+      "first_name": "Aron",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmerson",
+      "first_name": null,
+      "initials": "H. E.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thufvesson",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

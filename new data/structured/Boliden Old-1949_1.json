@@ -1,0 +1,88 @@
+{
+  "company_name": "BOLIDENS GRUVAKTIEBOLAG",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 16963760.76,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9567948.68,
+    "net_income": 4408877.3
+  },
+  "balance_sheet": {
+    "total_assets": 126922898.39,
+    "current_assets": 74719484.09,
+    "fixed_assets": 52203414.3,
+    "total_liabilities": 14125359.04,
+    "current_liabilities": 10025359.04,
+    "long_term_liabilities": null,
+    "shareholders_equity": 112797539.35
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bengtson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljungdahl",
+      "first_name": "K-G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schwartz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ahrén",
+      "first_name": "Fritiof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": "S.",
+      "initials": "L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wendler",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "NORDARMATUR",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 89.897,
+    "cost_of_goods_sold": 84.641,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3.375,
+    "net_income": 0.315
+  },
+  "balance_sheet": {
+    "total_assets": 71.871,
+    "current_assets": 39.963,
+    "fixed_assets": 18.141,
+    "total_liabilities": 49.65,
+    "current_liabilities": 19.55,
+    "long_term_liabilities": 2.369,
+    "shareholders_equity": 22.221
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1033,
+    "n_white_collar_workers": 554
+  },
+  "board": [
+    {
+      "surname": "WIJKANDER",
+      "first_name": "RUTGER",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOBERG",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖKBY",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "BEXELIUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

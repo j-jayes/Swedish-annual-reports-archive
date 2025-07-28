@@ -1,0 +1,86 @@
+{
+  "company_name": "Upsala-Ekeby",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 464.862,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 419.357,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5.206
+  },
+  "balance_sheet": {
+    "total_assets": 555.907,
+    "current_assets": 324.225,
+    "fixed_assets": 130.785,
+    "total_liabilities": 120.582,
+    "current_liabilities": 349.611,
+    "long_term_liabilities": null,
+    "shareholders_equity": 55.288
+  },
+  "employees": {
+    "n_employees": 1470,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Alfredson",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Josephson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "finansdirektör"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Lars-Gösta",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "Rosén",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Skoog",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "Weil",
+      "first_name": "Robert",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Börje",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "company_name": "AB ADDO",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 7310000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1078000.0,
+    "depreciation": 1240000.0,
+    "net_income": 1528000.0
+  },
+  "balance_sheet": {
+    "total_assets": 55722000.0,
+    "current_assets": 47113000.0,
+    "fixed_assets": 8609000.0,
+    "total_liabilities": 23792000.0,
+    "current_liabilities": 23792000.0,
+    "long_term_liabilities": 7620000.0,
+    "shareholders_equity": 18550000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Vilén",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ordförande (Chairman)"
+    },
+    {
+      "surname": "Agrell",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Agrell",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Civilingenjör, Verkställande direktör (Managing Director)"
+    },
+    {
+      "surname": "Agrell",
+      "first_name": "Sten-Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hallberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Varvsingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bruzelius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

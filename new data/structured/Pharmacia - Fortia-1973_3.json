@@ -1,0 +1,86 @@
+{
+  "company_name": "AB Fortia",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 373.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 358.8,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 8.6
+  },
+  "balance_sheet": {
+    "total_assets": 295.4,
+    "current_assets": 157.8,
+    "fixed_assets": 119.8,
+    "total_liabilities": 235.7,
+    "current_liabilities": 80.4,
+    "long_term_liabilities": 125.4,
+    "shareholders_equity": 59.7
+  },
+  "employees": {
+    "n_employees": 2169,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindblad",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Malmsten",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "jourhavande styrelseledamot"
+    },
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wessman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rosengren",
+      "first_name": "Lars",
+      "initials": "F",
+      "position": null
+    },
+    {
+      "surname": "Gadd",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "utsedd av Kungl Majit"
+    },
+    {
+      "surname": "Virding",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hultgren",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Karlgren",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

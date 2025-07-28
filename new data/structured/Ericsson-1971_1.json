@@ -1,0 +1,200 @@
+{
+  "company_name": "LM ERICSSON",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 3759.128,
+    "cost_of_goods_sold": 2068.606,
+    "operating_expenses": 1059.39,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 128.193,
+    "net_income": 132.303
+  },
+  "balance_sheet": {
+    "total_assets": 5775.803,
+    "current_assets": 3749.707,
+    "fixed_assets": 992.724,
+    "total_liabilities": 2153.155,
+    "current_liabilities": 1596.552,
+    "long_term_liabilities": 1103.353,
+    "shareholders_equity": 1448.448
+  },
+  "employees": {
+    "n_employees": 66900,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN TURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDVALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "BORG",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBÆUS",
+      "first_name": "CHRISTIAN",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    },
+    {
+      "surname": "MOHLIN",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    },
+    {
+      "surname": "SUNDKVIST",
+      "first_name": "FRED",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    },
+    {
+      "surname": "SVALLING",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    },
+    {
+      "surname": "ÅKESSON",
+      "first_name": "YNGVE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "AHLSTRÖM",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ALSTRÖM",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGSTRÖM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAGERLIND",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LEDIN",
+      "first_name": "ERIC",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MATTSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEHRSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUND",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TENGBERG",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "de Vylder",
+      "first_name": "Klas",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "N.-A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Boyd",
+      "first_name": "John Mackinlay",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

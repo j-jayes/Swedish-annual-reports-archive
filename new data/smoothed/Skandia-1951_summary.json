@@ -1,0 +1,100 @@
+{
+  "company_name": "SKANDIA",
+  "fiscal_year": 1951,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 80873634.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 26683320.1,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3053685.12
+  },
+  "balance_sheet": {
+    "total_assets": 211363232.91,
+    "current_assets": 15066638.24,
+    "fixed_assets": 14353315.0,
+    "total_liabilities": 76499234.97,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 58695304.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ULMGREN",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBOHM",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KOCH",
+      "first_name": "RAGNAR",
+      "initials": "V.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MEURK",
+      "first_name": "B.",
+      "initials": "E.",
+      "auditing_firm": "Kungl. Försäkringsinspektionen"
+    }
+  ]
+}

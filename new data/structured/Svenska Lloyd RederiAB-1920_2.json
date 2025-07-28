@@ -1,0 +1,88 @@
+{
+  "company_name": "Rederiaktiebolaget Svenska Lloyd",
+  "fiscal_year": 1920,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 6826693.33
+  },
+  "balance_sheet": {
+    "total_assets": 81061699.88,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 24597206.14
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "Dan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Werner",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kyhlberger",
+      "first_name": "G.",
+      "initials": "G.A.",
+      "position": null
+    },
+    {
+      "surname": "Ågren",
+      "first_name": "Axel",
+      "initials": "Axel H.",
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "J.",
+      "initials": "J. Alb.",
+      "position": null
+    },
+    {
+      "surname": "Metcalfe",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Krüger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johnsson",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Albert",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Arthur",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

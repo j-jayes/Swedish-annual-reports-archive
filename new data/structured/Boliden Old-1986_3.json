@@ -1,0 +1,128 @@
+{
+  "company_name": "Boliden",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 12384.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -12795.0,
+    "wages_expense": null,
+    "tax_expense": 54.0,
+    "depreciation": null,
+    "net_income": -167.0
+  },
+  "balance_sheet": {
+    "total_assets": 11289.0,
+    "current_assets": 6972.0,
+    "fixed_assets": 4076.0,
+    "total_liabilities": null,
+    "current_liabilities": 5271.0,
+    "long_term_liabilities": 2843.0,
+    "shareholders_equity": 592.0
+  },
+  "employees": {
+    "n_employees": 16076,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Borelius",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": "arb v ordf"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Carl Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Oldér",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlberg",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Stig-Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Glenngård",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    },
+    {
+      "surname": "Näslund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 6.481666,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.79,
+    "depreciation": 1196.733,
+    "net_income": 1.79281
+  },
+  "balance_sheet": {
+    "total_assets": 36.557254,
+    "current_assets": 5.336119,
+    "fixed_assets": 8.315394,
+    "total_liabilities": 9.6564,
+    "current_liabilities": 4.367533,
+    "long_term_liabilities": 5.0,
+    "shareholders_equity": 6.682416
+  },
+  "employees": {
+    "n_employees": 630,
+    "n_blue_collar_workers": 467,
+    "n_white_collar_workers": 163
+  },
+  "board": [
+    {
+      "surname": "Ford",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cooper",
+      "first_name": "Stanford",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heidenstam",
+      "first_name": "Rolf",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hernod",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bröndum",
+      "first_name": "Otto",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Andersson",
+      "first_name": "Theodor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sillén",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

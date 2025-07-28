@@ -1,0 +1,86 @@
+{
+  "company_name": "Billman-Regulator AB",
+  "fiscal_year": 1962,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 48382772.65,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 40465999.89,
+    "wages_expense": null,
+    "tax_expense": 243384.0,
+    "depreciation": 1159327.2833333334,
+    "net_income": 1204929.52
+  },
+  "balance_sheet": {
+    "total_assets": 51028419.35666667,
+    "current_assets": 30384026.17,
+    "fixed_assets": 22361043.15,
+    "total_liabilities": 34942851.54,
+    "current_liabilities": 12384981.053333335,
+    "long_term_liabilities": 23748356.733333334,
+    "shareholders_equity": 17845701.54
+  },
+  "employees": {
+    "n_employees": 614,
+    "n_blue_collar_workers": 332,
+    "n_white_collar_workers": 282
+  },
+  "board": [
+    {
+      "surname": "DALEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "ÄBERG",
+      "first_name": "SVEN",
+      "initials": "T.",
+      "position": "direktör"
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "G.",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "BILLMAN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "HAIJ",
+      "first_name": "CURT",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "LINDBLAD",
+      "first_name": "TURE",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "HAARD",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "THUNBERG",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

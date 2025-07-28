@@ -1,0 +1,130 @@
+{
+  "company_name": "Sundsvalls Enskilda Bank",
+  "fiscal_year": 1901,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1626674.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 446302.73,
+    "wages_expense": 213051.19,
+    "tax_expense": 59882.95,
+    "depreciation": 249144.62,
+    "net_income": 700376.14
+  },
+  "balance_sheet": {
+    "total_assets": 52983462.98,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 10436609.78,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 24273426.6
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Axel",
+      "initials": "Ax. G.",
+      "position": null
+    },
+    {
+      "surname": "Dymling",
+      "first_name": "John",
+      "initials": "John Fr.",
+      "position": null
+    },
+    {
+      "surname": "Gihl",
+      "first_name": "Hans",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Kuliust",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sebardt",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Erik",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Rsström",
+      "first_name": "Lars",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Edström",
+      "first_name": "August",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Johan",
+      "initials": "J. A.",
+      "position": null
+    },
+    {
+      "surname": "Ljungberg",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gihl",
+      "first_name": "Gustaf",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Kihlman",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Hugo",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Thuresson",
+      "first_name": "Thure",
+      "initials": "Th. R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "de Besche",
+      "first_name": "Walter",
+      "initials": "W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Enhörning",
+      "first_name": "Edvard",
+      "initials": "E. A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Engelstedt",
+      "first_name": "Ernst",
+      "initials": "E. F.",
+      "auditing_firm": null
+    }
+  ]
+}

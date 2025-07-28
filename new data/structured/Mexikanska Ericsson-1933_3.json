@@ -1,0 +1,70 @@
+{
+  "company_name": "MEXIKANSKA TELEFONAKTIEBOLAGET ERICSSON",
+  "fiscal_year": 1933,
+  "income_statement": {
+    "revenue": 6988903.45,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3713634.97,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 327591.63,
+    "net_income": -318954.38
+  },
+  "balance_sheet": {
+    "total_assets": 73671895.12,
+    "current_assets": null,
+    "fixed_assets": 59119728.21,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 23940000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": null,
+      "initials": "H. Th.",
+      "position": null
+    },
+    {
+      "surname": "Wahlqvist",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rudberg",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

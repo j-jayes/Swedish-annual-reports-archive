@@ -1,0 +1,86 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 300.389,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 261.832,
+    "wages_expense": 101.8,
+    "tax_expense": 5.182,
+    "depreciation": 13.487,
+    "net_income": 4.838
+  },
+  "balance_sheet": {
+    "total_assets": 191.044,
+    "current_assets": 55.832,
+    "fixed_assets": 131.384,
+    "total_liabilities": 71.218,
+    "current_liabilities": 47.821,
+    "long_term_liabilities": 71.218,
+    "shareholders_equity": 62.602
+  },
+  "employees": {
+    "n_employees": 2980,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": "jr",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "\"\nhÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wrigstad",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "\"\nÅke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

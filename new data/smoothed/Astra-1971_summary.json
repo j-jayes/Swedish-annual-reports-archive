@@ -1,0 +1,86 @@
+{
+  "company_name": "Astra",
+  "fiscal_year": 1971,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 714.096,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 643.289,
+    "wages_expense": null,
+    "tax_expense": 14.731,
+    "depreciation": null,
+    "net_income": 21.904666666666667
+  },
+  "balance_sheet": {
+    "total_assets": 527.1356666666666,
+    "current_assets": 278.18966666666665,
+    "fixed_assets": 244.55066666666667,
+    "total_liabilities": 194.51666666666668,
+    "current_liabilities": 80.67333333333333,
+    "long_term_liabilities": 92.29733333333333,
+    "shareholders_equity": 129.32966666666667
+  },
+  "employees": {
+    "n_employees": 4626.333333333333,
+    "n_blue_collar_workers": 959,
+    "n_white_collar_workers": 1886
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "J",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "H",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Alm",
+      "first_name": "B",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "S",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Julin",
+      "first_name": "B",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werkö",
+      "first_name": "L",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wegerfelt",
+      "first_name": "K",
+      "initials": "A",
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

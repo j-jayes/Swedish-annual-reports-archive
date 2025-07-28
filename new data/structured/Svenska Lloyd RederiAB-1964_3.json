@@ -1,0 +1,80 @@
+{
+  "company_name": "Rederiaktiebolaget Svenska Lloyd",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 111646000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 98740000.0,
+    "wages_expense": null,
+    "tax_expense": 2356000.0,
+    "depreciation": 11248000.0,
+    "net_income": 2245000.0
+  },
+  "balance_sheet": {
+    "total_assets": 69179000.0,
+    "current_assets": 22056000.0,
+    "fixed_assets": 47123000.0,
+    "total_liabilities": 39841000.0,
+    "current_liabilities": 24043000.0,
+    "long_term_liabilities": 14138000.0,
+    "shareholders_equity": 30998000.0
+  },
+  "employees": {
+    "n_employees": 1072,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSÉN",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JANSON",
+      "first_name": "ORVAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ROHLIN",
+      "first_name": "SVEN-RUNE",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HÅKANSSON",
+      "first_name": "EDVIN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

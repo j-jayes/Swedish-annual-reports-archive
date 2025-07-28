@@ -1,0 +1,82 @@
+{
+  "company_name": "Svensk Filmindustri",
+  "fiscal_year": 1929,
+  "income_statement": {
+    "revenue": 305979.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 187287.99
+  },
+  "balance_sheet": {
+    "total_assets": 14797222.62,
+    "current_assets": null,
+    "fixed_assets": 5112068.99,
+    "total_liabilities": 3081176.6,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 11000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "LISTANDER",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MAGNUSSON",
+      "first_name": null,
+      "initials": "CHS.",
+      "position": null
+    },
+    {
+      "surname": "AHLSTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHÖNMEYR",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "HOLM",
+      "first_name": null,
+      "initials": "V.",
+      "position": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wahlgren",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wåhlin",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

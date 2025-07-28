@@ -1,0 +1,80 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 1326.856,
+    "cost_of_goods_sold": 1245.755,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 35.832,
+    "depreciation": null,
+    "net_income": 53.185
+  },
+  "balance_sheet": {
+    "total_assets": 1272.016,
+    "current_assets": 400.25,
+    "fixed_assets": 214.184,
+    "total_liabilities": 371.935,
+    "current_liabilities": 300.178,
+    "long_term_liabilities": 72.499,
+    "shareholders_equity": 318.249
+  },
+  "employees": {
+    "n_employees": 20964,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Soderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Luke",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Werthen",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmen",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

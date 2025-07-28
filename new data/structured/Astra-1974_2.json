@@ -1,0 +1,104 @@
+{
+  "company_name": "Astra",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 1102.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 981.1,
+    "wages_expense": null,
+    "tax_expense": 19.2,
+    "depreciation": null,
+    "net_income": 27.0
+  },
+  "balance_sheet": {
+    "total_assets": 798.1,
+    "current_assets": 457.8,
+    "fixed_assets": 337.3,
+    "total_liabilities": 303.5,
+    "current_liabilities": 228.5,
+    "long_term_liabilities": 106.6,
+    "shareholders_equity": 147.5
+  },
+  "employees": {
+    "n_employees": 6333,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Alm",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Julin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Verna",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Herrman",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sager",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Roland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werkö",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wegerfelt",
+      "first_name": null,
+      "initials": "K",
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

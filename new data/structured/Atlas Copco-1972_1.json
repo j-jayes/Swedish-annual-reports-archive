@@ -1,0 +1,92 @@
+{
+  "company_name": "Atlas Copco AB",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 1849.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6500000.0,
+    "depreciation": 43.0,
+    "net_income": 92.0
+  },
+  "balance_sheet": {
+    "total_assets": 585387869.0,
+    "current_assets": 224883723.0,
+    "fixed_assets": 91936712.0,
+    "total_liabilities": null,
+    "current_liabilities": 37706355.0,
+    "long_term_liabilities": 172921679.0,
+    "shareholders_equity": 305056190.0
+  },
+  "employees": {
+    "n_employees": 13881,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Kurt-Allan",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Ekefalk",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sporborg",
+      "first_name": "Henry",
+      "initials": "N.",
+      "position": null
+    },
+    {
+      "surname": "\"\",",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Man. Dir."
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Deputy Member, Deputy Man. Dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

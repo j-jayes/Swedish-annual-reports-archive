@@ -1,0 +1,88 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AKTIEBOLAG",
+  "fiscal_year": 1945,
+  "income_statement": {
+    "revenue": 145507817.41,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8000000.0,
+    "depreciation": 11224245.06,
+    "net_income": 11768570.35
+  },
+  "balance_sheet": {
+    "total_assets": 208683764.36,
+    "current_assets": 97769841.68,
+    "fixed_assets": 47967502.69,
+    "total_liabilities": 148645168.54,
+    "current_liabilities": 26923994.02,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "LJUNGLÖF",
+      "first_name": null,
+      "initials": "ROB",
+      "position": null
+    },
+    {
+      "surname": "WAHLUND",
+      "first_name": null,
+      "initials": "CLAES",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "SALWEN",
+      "first_name": null,
+      "initials": "E. RIK.",
+      "position": null
+    },
+    {
+      "surname": "RODLING",
+      "first_name": null,
+      "initials": "EJNAR",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NORDENSTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "COLLÉN",
+      "first_name": "A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RABENIUS",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

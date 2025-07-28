@@ -1,0 +1,104 @@
+{
+  "company_name": "BOLIDEN AKTIEBOLAG",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 1837.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1463.5,
+    "wages_expense": null,
+    "tax_expense": 37.7,
+    "depreciation": 102.7,
+    "net_income": 55.0
+  },
+  "balance_sheet": {
+    "total_assets": 1784.0,
+    "current_assets": 1010.8,
+    "fixed_assets": 770.1,
+    "total_liabilities": 955.2,
+    "current_liabilities": 380.6,
+    "long_term_liabilities": 541.4,
+    "shareholders_equity": 484.6
+  },
+  "employees": {
+    "n_employees": 6294,
+    "n_blue_collar_workers": 4479,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "AKERMAN",
+      "first_name": "ALF",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "BRYNIELSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EDLUND",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAMARCHE",
+      "first_name": "ALFRED",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDSKOG",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALM",
+      "first_name": "AKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VIKSTRÖM",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "John Wendlers Revisionsbyrå AB"
+    },
+    {
+      "surname": "Dahl",
+      "first_name": "C O",
+      "initials": null,
+      "auditing_firm": "John Wendlers Revisionsbyrå AB"
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "John Wendlers Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

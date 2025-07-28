@@ -1,0 +1,92 @@
+{
+  "company_name": "INVIK & CO. AB",
+  "fiscal_year": 2000,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 817.4,
+    "cost_of_goods_sold": -640.4,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 88.0
+  },
+  "balance_sheet": {
+    "total_assets": 2635.26,
+    "current_assets": 1494.8837999999998,
+    "fixed_assets": 1140.3762000000002,
+    "total_liabilities": 1829.5518,
+    "current_liabilities": 1374.7105999999999,
+    "long_term_liabilities": 454.84119999999996,
+    "shareholders_equity": 774.6796
+  },
+  "employees": {
+    "n_employees": 203,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "von Horn",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Hedersledamot"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan Hugo",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Ek lic"
+    },
+    {
+      "surname": "von Horn",
+      "first_name": "Rickard",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Jur kand och skogsmästare"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Skogsmästare"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Cristina",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Wingren",
+      "first_name": "Pål",
+      "initials": null,
+      "auditing_firm": "Auktoriserd revisor"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "company_name": "FÖRSÄKRINGSAKTIEBOLAGET ATLANTICA",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 32472.31742,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 428.08
+  },
+  "balance_sheet": {
+    "total_assets": 43706.79055,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 22569.71428,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20605.36928
+  },
+  "employees": {
+    "n_employees": 33,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thorburn",
+      "first_name": "B.",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "E.",
+      "initials": "E. W.",
+      "position": "v. Ordförande"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lyden",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sandén",
+      "first_name": "David",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundqvist",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eneroth",
+      "first_name": "B.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Karlgren",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Försäkringsinspektionen förordnad revisor"
+    }
+  ],
+  "additional_notes": null
+}

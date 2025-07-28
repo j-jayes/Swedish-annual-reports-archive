@@ -1,0 +1,110 @@
+{
+  "company_name": "Cardo",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 2419.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 502.0,
+    "tax_expense": 12.4,
+    "depreciation": null,
+    "net_income": 76.5
+  },
+  "balance_sheet": {
+    "total_assets": 76477.844,
+    "current_assets": 41074.741,
+    "fixed_assets": 117552.585,
+    "total_liabilities": 49800.0,
+    "current_liabilities": 194892.585,
+    "long_term_liabilities": 67752.585,
+    "shareholders_equity": 117552.585
+  },
+  "employees": {
+    "n_employees": 5051,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Beckman",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "arbetstagar-representant"
+    },
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "koncernchef"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Thorolf",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Kennedy",
+      "first_name": "Douglas",
+      "initials": null,
+      "position": "godsägare"
+    },
+    {
+      "surname": "Kihlstedt",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "arbetstagar-representant"
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Lindblad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Porat",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Faxe",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

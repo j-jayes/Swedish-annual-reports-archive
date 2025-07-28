@@ -1,0 +1,63 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1919,
+  "income_statement": {
+    "revenue": 50591796.17,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 18458565.43,
+    "tax_expense": 3564671.08,
+    "depreciation": 1341350.0,
+    "net_income": 10756127.72
+  },
+  "balance_sheet": {
+    "total_assets": 51002334.2,
+    "current_assets": 23575478.11,
+    "fixed_assets": 26827000.0,
+    "total_liabilities": 45649396.73,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 29400000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Nachmanson",
+      "first_name": "Joseph",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tamm",
+      "first_name": "H.",
+      "initials": "S.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Appelquist",
+      "first_name": "J.",
+      "initials": "Ax.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": "B.",
+      "initials": "v.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjödahl",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,128 @@
+{
+  "company_name": "Independent Finans AB",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 752.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 31.0
+  },
+  "balance_sheet": {
+    "total_assets": 2330.36,
+    "current_assets": 391.301,
+    "fixed_assets": 1930.309,
+    "total_liabilities": 1467.379,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 123.429
+  },
+  "employees": {
+    "n_employees": 228,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Andrén",
+      "first_name": "Sven",
+      "initials": "G",
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Brynell",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Cawsey",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Kjell-Åke",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Verkställande Direktör"
+    },
+    {
+      "surname": "Algell",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Andrén",
+      "first_name": "Siv",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Ahlqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Balcker",
+      "first_name": "Eivind",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Jones",
+      "first_name": "Ronald",
+      "initials": "S",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Levin",
+      "first_name": "Bert",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Lund",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Styrelseledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Deloitte, Haskins & Sells AB"
+    },
+    {
+      "surname": "Melin",
+      "first_name": "Anne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Raspe",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "NIFE JUNGNER AB",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 319.994,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 272.458,
+    "wages_expense": null,
+    "tax_expense": 6.953,
+    "depreciation": null,
+    "net_income": 6.612
+  },
+  "balance_sheet": {
+    "total_assets": 364.645,
+    "current_assets": 268.243,
+    "fixed_assets": 95.063,
+    "total_liabilities": 233.994,
+    "current_liabilities": 98.296,
+    "long_term_liabilities": 105.414,
+    "shareholders_equity": 130.651
+  },
+  "employees": {
+    "n_employees": 2537,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "advokat"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "ingenjör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "avsynare"
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Örtegren",
+      "first_name": "Tage",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Karl",
+      "initials": "R",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Theorin",
+      "first_name": "Lars-Åke",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

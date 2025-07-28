@@ -1,0 +1,74 @@
+{
+  "company_name": "NITROGLYCERIN AKTIEBOLAGET",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 3348656.72,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 811573.73,
+    "depreciation": null,
+    "net_income": 858555.95
+  },
+  "balance_sheet": {
+    "total_assets": 15588770.21,
+    "current_assets": 5446430.47,
+    "fixed_assets": 5427330.16,
+    "total_liabilities": 9788770.21,
+    "current_liabilities": 1982519.37,
+    "long_term_liabilities": 814154.87,
+    "shareholders_equity": 5800000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 506,
+    "n_white_collar_workers": 121
+  },
+  "board": [
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten S:son",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

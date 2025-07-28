@@ -1,0 +1,76 @@
+{
+  "company_name": "Bergvik och Ala Nya Aktiebolag",
+  "fiscal_year": 1945,
+  "income_statement": {
+    "revenue": 8147078.32,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1418496.4,
+    "depreciation": 2730000.0,
+    "net_income": 2286198.47
+  },
+  "balance_sheet": {
+    "total_assets": 61748343.84,
+    "current_assets": 15200579.99,
+    "fixed_assets": 41847505.6,
+    "total_liabilities": 30810843.84,
+    "current_liabilities": 1597912.48,
+    "long_term_liabilities": 20613000.0,
+    "shareholders_equity": 30937500.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Stén",
+      "first_name": "Helmer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wåhlin",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Francke",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundfeldt",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ohrling",
+      "first_name": "P. O.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Francke",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

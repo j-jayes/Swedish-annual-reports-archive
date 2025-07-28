@@ -1,0 +1,86 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 18064172.42,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8716766.8,
+    "net_income": 2063918.51
+  },
+  "balance_sheet": {
+    "total_assets": 78951496.24,
+    "current_assets": 27426055.53,
+    "fixed_assets": 51525440.71,
+    "total_liabilities": 25925060.53,
+    "current_liabilities": null,
+    "long_term_liabilities": 12676630.16,
+    "shareholders_equity": 24608000.0
+  },
+  "employees": {
+    "n_employees": 1477,
+    "n_blue_collar_workers": 160,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Engwall",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thulin",
+      "first_name": null,
+      "initials": "P. G.",
+      "position": null
+    },
+    {
+      "surname": "Schollin-Borg",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hain",
+      "first_name": "Rich.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Grill",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Norrthon",
+      "first_name": "Philip",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

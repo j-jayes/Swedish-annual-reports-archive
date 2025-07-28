@@ -1,0 +1,86 @@
+{
+  "company_name": "DAGENS NYHETERS AB",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 392.35,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 322.521,
+    "wages_expense": null,
+    "tax_expense": 16.9,
+    "depreciation": 12.457,
+    "net_income": 13.572
+  },
+  "balance_sheet": {
+    "total_assets": 241.027,
+    "current_assets": 107.334,
+    "fixed_assets": 128.173,
+    "total_liabilities": 80.195,
+    "current_liabilities": 62.331,
+    "long_term_liabilities": 17.0,
+    "shareholders_equity": 81.501
+  },
+  "employees": {
+    "n_employees": 3130,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "Chefredaktör"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Wrigstad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Chefredaktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "\nÅke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

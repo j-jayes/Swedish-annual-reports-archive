@@ -1,0 +1,82 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 46.285981,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 15.139,
+    "depreciation": null,
+    "net_income": 30.769492
+  },
+  "balance_sheet": {
+    "total_assets": 185.657676,
+    "current_assets": 7.607676,
+    "fixed_assets": 178.05,
+    "total_liabilities": 181.57053,
+    "current_liabilities": 6.001074,
+    "long_term_liabilities": 720.0,
+    "shareholders_equity": 17.2
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "N.",
+      "initials": null,
+      "auditing_firm": "A."
+    }
+  ],
+  "additional_notes": null
+}

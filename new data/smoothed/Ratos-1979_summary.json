@@ -1,0 +1,98 @@
+{
+  "company_name": "Ratos",
+  "fiscal_year": 1979,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2111.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 82.8,
+    "depreciation": 40.6,
+    "net_income": 208.2
+  },
+  "balance_sheet": {
+    "total_assets": 2037.0,
+    "current_assets": 1183.2,
+    "fixed_assets": 651.9,
+    "total_liabilities": 715.0,
+    "current_liabilities": 597.1,
+    "long_term_liabilities": 621.8,
+    "shareholders_equity": 325.7666666666667
+  },
+  "employees": {
+    "n_employees": 3539,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hägerman",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilstein",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norin",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tiblom",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Versteegh",
+      "first_name": "Arend",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Regelius",
+      "first_name": "Karl Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

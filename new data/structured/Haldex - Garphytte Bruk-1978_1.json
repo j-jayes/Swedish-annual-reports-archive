@@ -1,0 +1,110 @@
+{
+  "company_name": "AB Garphytte Bruk",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 189.798,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 175.007,
+    "wages_expense": null,
+    "tax_expense": 886.0,
+    "depreciation": 9.234,
+    "net_income": 0.0
+  },
+  "balance_sheet": {
+    "total_assets": 175.773,
+    "current_assets": 114.072,
+    "fixed_assets": 61.665,
+    "total_liabilities": 78.168,
+    "current_liabilities": 40.139,
+    "long_term_liabilities": 76.488,
+    "shareholders_equity": 7.455
+  },
+  "employees": {
+    "n_employees": 646,
+    "n_blue_collar_workers": 505,
+    "n_white_collar_workers": 141
+  },
+  "board": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Alde",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-Christian",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Thell",
+      "first_name": "Ronny",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Hessle",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bäcker",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

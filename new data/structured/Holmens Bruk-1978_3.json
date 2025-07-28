@@ -1,0 +1,104 @@
+{
+  "company_name": "HOLMEN",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 1775.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 93.9,
+    "net_income": 22.2
+  },
+  "balance_sheet": {
+    "total_assets": 1948.585,
+    "current_assets": 740.865,
+    "fixed_assets": 1150.607,
+    "total_liabilities": 923.04,
+    "current_liabilities": 442.948,
+    "long_term_liabilities": 365.631,
+    "shareholders_equity": 295.866
+  },
+  "employees": {
+    "n_employees": 4032,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Gripenstedt",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Trolle Löwen",
+      "first_name": "August",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl",
+      "initials": "Erik",
+      "position": "verkst.dir."
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Ellert",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": "aukt.revisor"
+    },
+    {
+      "surname": "Lundén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Revisionsbyrå",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "Bohlins"
+    }
+  ],
+  "additional_notes": null
+}

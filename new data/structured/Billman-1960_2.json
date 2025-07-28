@@ -1,0 +1,68 @@
+{
+  "company_name": "REGULATOR & INSTRUMENT AB BILLMAN",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 21001251.53,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 20037231.22,
+    "wages_expense": null,
+    "tax_expense": 297860.0,
+    "depreciation": 294755.0,
+    "net_income": 309700.66
+  },
+  "balance_sheet": {
+    "total_assets": 17504511.41,
+    "current_assets": 7481665.25,
+    "fixed_assets": 4560569.23,
+    "total_liabilities": 5979676.4,
+    "current_liabilities": 5202200.3,
+    "long_term_liabilities": 2894887.94,
+    "shareholders_equity": 1727539.88
+  },
+  "employees": {
+    "n_employees": 418,
+    "n_blue_collar_workers": 221,
+    "n_white_collar_workers": 197
+  },
+  "board": [
+    {
+      "surname": "DALÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BILLMAN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare auktoriserade revisorer"
+    },
+    {
+      "surname": "THUNBERG",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

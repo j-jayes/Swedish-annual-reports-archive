@@ -1,0 +1,122 @@
+{
+  "company_name": "AKTIEBOLAGET ELECTROLUX",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 345.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 16.588,
+    "depreciation": null,
+    "net_income": 20.132
+  },
+  "balance_sheet": {
+    "total_assets": 405.342,
+    "current_assets": null,
+    "fixed_assets": 170.291,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": 40.725,
+    "shareholders_equity": 226.0
+  },
+  "employees": {
+    "n_employees": 5764,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SALMONSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TRYGGER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDELL",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VRETHEM",
+      "first_name": "ÅKE",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "WENNBERG",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Hofving",
+      "first_name": "Arne",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wollart",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOLMÉN",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

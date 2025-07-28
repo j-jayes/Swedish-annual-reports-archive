@@ -1,0 +1,116 @@
+{
+  "company_name": "Wilh. Sonesson AB",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 287.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 246.8,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 10.4
+  },
+  "balance_sheet": {
+    "total_assets": 234.0,
+    "current_assets": 175.8,
+    "fixed_assets": 52.2,
+    "total_liabilities": 163.4,
+    "current_liabilities": 78.9,
+    "long_term_liabilities": 27.1,
+    "shareholders_equity": 70.6
+  },
+  "employees": {
+    "n_employees": 1734,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Hellestam",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "v Verkst direktör"
+    },
+    {
+      "surname": "Kristensson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Sonesson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Suppleant/Verkst direktör"
+    },
+    {
+      "surname": "Tomebohm",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Malmborg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Adjungerad ledamot"
+    },
+    {
+      "surname": "Popper",
+      "first_name": "Alfred",
+      "initials": null,
+      "position": "Adjungerad ledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hansson",
+      "first_name": "Åke",
+      "initials": "J",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Tillman",
+      "first_name": "Torsten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

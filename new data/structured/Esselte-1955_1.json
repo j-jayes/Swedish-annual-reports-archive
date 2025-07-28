@@ -1,0 +1,86 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 22044794.03,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5931863.9,
+    "net_income": 4831672.96
+  },
+  "balance_sheet": {
+    "total_assets": 60056023.2,
+    "current_assets": 34401528.11,
+    "fixed_assets": 30765535.0,
+    "total_liabilities": 18551286.07,
+    "current_liabilities": null,
+    "long_term_liabilities": 2400000.0,
+    "shareholders_equity": 3939500.0
+  },
+  "employees": {
+    "n_employees": 6140,
+    "n_blue_collar_workers": 4374,
+    "n_white_collar_workers": 1726
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "v. ORDF."
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": "ORDF."
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "FRITHIOF",
+      "initials": null,
+      "position": "BANKDIREKTÖR"
+    },
+    {
+      "surname": "BJÖRKMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "DISPONENT"
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": "KAMMARHERRE"
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "VERKST. DIREKTOR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLÉN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "auditing_firm": "AUKT. REVISOR"
+    },
+    {
+      "surname": "BIESÈRT",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": "DISPONENT"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 9314.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8073.0,
+    "wages_expense": null,
+    "tax_expense": 220.0,
+    "depreciation": null,
+    "net_income": 283.0
+  },
+  "balance_sheet": {
+    "total_assets": 13638.0,
+    "current_assets": 5989.0,
+    "fixed_assets": 7539.0,
+    "total_liabilities": 9177.0,
+    "current_liabilities": 4434.0,
+    "long_term_liabilities": 2614.0,
+    "shareholders_equity": 4461.0
+  },
+  "employees": {
+    "n_employees": 14584,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ägrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Brändström",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frisinger",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pålsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V",
+      "auditing_firm": "REVEKO AB"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

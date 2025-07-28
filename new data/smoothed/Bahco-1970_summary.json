@@ -1,0 +1,92 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1970,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 371.976,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 340.219,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8.166,
+    "net_income": 4.367
+  },
+  "balance_sheet": {
+    "total_assets": 372.192,
+    "current_assets": 302.22,
+    "fixed_assets": 70.048,
+    "total_liabilities": 102.59866666666666,
+    "current_liabilities": 102.72666666666667,
+    "long_term_liabilities": 29.137999999999998,
+    "shareholders_equity": 217.894
+  },
+  "employees": {
+    "n_employees": 3816,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trolle",
+      "first_name": "Ulf",
+      "initials": "af",
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Karlsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

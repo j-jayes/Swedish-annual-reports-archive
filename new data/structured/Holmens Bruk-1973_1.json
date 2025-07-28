@@ -1,0 +1,110 @@
+{
+  "company_name": "Holmens Bruk",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 764.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 69.2,
+    "net_income": 17.6
+  },
+  "balance_sheet": {
+    "total_assets": 663.164,
+    "current_assets": 294.599,
+    "fixed_assets": 366.575,
+    "total_liabilities": 265.364,
+    "current_liabilities": 187.021,
+    "long_term_liabilities": 78.343,
+    "shareholders_equity": 190.442
+  },
+  "employees": {
+    "n_employees": 3991,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Gripenstedt",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Ellert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lantz",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": null,
+      "initials": "L.G.",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\nÖnnesjö",
+      "first_name": "Karl",
+      "initials": "E.",
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Lundén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Pihlström",
+      "first_name": "Herbert",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Halvorsen",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "Advokat"
+    }
+  ],
+  "additional_notes": null
+}

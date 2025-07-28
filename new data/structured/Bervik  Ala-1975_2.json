@@ -1,0 +1,122 @@
+{
+  "company_name": "Bergvik och Ala Aktiebolag",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 615.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 60.0,
+    "net_income": 14.074
+  },
+  "balance_sheet": {
+    "total_assets": 871.542,
+    "current_assets": 426.599,
+    "fixed_assets": 423.597,
+    "total_liabilities": 732.317,
+    "current_liabilities": 244.713,
+    "long_term_liabilities": 283.792,
+    "shareholders_equity": 139.225
+  },
+  "employees": {
+    "n_employees": 2941,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H W",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "BRUKSDISPONENT"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "DIREKTÖR"
+    },
+    {
+      "surname": "Gabrielsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Lindholm",
+      "first_name": "Gustav",
+      "initials": null,
+      "position": "SORTERARE"
+    },
+    {
+      "surname": "Nordgren",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "INDUSTRIARBETARE"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "TEKN DR"
+    },
+    {
+      "surname": "Nordgren",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "ADVOKAT"
+    },
+    {
+      "surname": "Wedin",
+      "first_name": "Per",
+      "initials": null,
+      "position": "INDUSTRIARBETARE"
+    },
+    {
+      "surname": "Frööjd",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "position": "SKOGSARBETARE"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "AUKT REVISOR"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": "DIREKTÖR"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Didrik",
+      "initials": null,
+      "auditing_firm": "DIREKTÖR"
+    }
+  ],
+  "additional_notes": null
+}

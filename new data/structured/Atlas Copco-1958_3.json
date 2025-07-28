@@ -1,0 +1,74 @@
+{
+  "company_name": "Atlas Copco Aktiebolag",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 24069386.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4853196.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2903767.0,
+    "net_income": 7100571.0
+  },
+  "balance_sheet": {
+    "total_assets": 137247157.0,
+    "current_assets": 69910640.0,
+    "fixed_assets": 18112953.0,
+    "total_liabilities": 56132650.0,
+    "current_liabilities": 44426862.0,
+    "long_term_liabilities": 11705728.0,
+    "shareholders_equity": 81114567.0
+  },
+  "employees": {
+    "n_employees": 1163,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Steyern",
+      "first_name": "Nils von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sällfors",
+      "first_name": "C. Tarras",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

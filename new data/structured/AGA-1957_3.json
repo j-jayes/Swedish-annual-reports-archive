@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA AB GASACCUMULATOR",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 16.557,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.883,
+    "depreciation": null,
+    "net_income": 5.895
+  },
+  "balance_sheet": {
+    "total_assets": 140.037,
+    "current_assets": 77.202,
+    "fixed_assets": 55.0,
+    "total_liabilities": 68.979,
+    "current_liabilities": 36.824,
+    "long_term_liabilities": 34.481,
+    "shareholders_equity": 71.028
+  },
+  "employees": {
+    "n_employees": 9658,
+    "n_blue_collar_workers": 1615,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Heidenstam",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Ernfrid",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Banck",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "\nÅselius",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Befrits",
+      "first_name": "Ragnar",
+      "initials": null,
+      "auditing_firm": "f. d. bankdirektör"
+    }
+  ],
+  "additional_notes": null
+}

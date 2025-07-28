@@ -1,0 +1,86 @@
+{
+  "company_name": "LINOLEUM-AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1951,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3588939.17,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1808447.35,
+    "wages_expense": null,
+    "tax_expense": 702307.0,
+    "depreciation": null,
+    "net_income": 401502.6
+  },
+  "balance_sheet": {
+    "total_assets": 10229228.43,
+    "current_assets": 4442604.86,
+    "fixed_assets": 4625869.156666667,
+    "total_liabilities": 5353229.166666666,
+    "current_liabilities": 3601230.64,
+    "long_term_liabilities": 662078.3,
+    "shareholders_equity": 3867076.88
+  },
+  "employees": {
+    "n_employees": 376,
+    "n_blue_collar_workers": 272,
+    "n_white_collar_workers": 104
+  },
+  "board": [
+    {
+      "surname": "GRÖNBERG",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORNANDER",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ZOELLY",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KAARS SYPESTEYN",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMSEN",
+      "first_name": "I.",
+      "initials": null,
+      "position": "Verkställande direktör."
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": "C.",
+      "initials": "G.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Auktoriserad revisor."
+    },
+    {
+      "surname": "KAΗM",
+      "first_name": "GUST.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

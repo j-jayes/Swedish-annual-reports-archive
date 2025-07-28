@@ -1,0 +1,104 @@
+{
+  "company_name": "AB ELECTROLUX",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 405.408,
+    "cost_of_goods_sold": 381.849,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 11.468,
+    "net_income": 16.048
+  },
+  "balance_sheet": {
+    "total_assets": 469.782,
+    "current_assets": 237.86,
+    "fixed_assets": 223.406,
+    "total_liabilities": 71.242,
+    "current_liabilities": 71.242,
+    "long_term_liabilities": 44.474,
+    "shareholders_equity": 281.173
+  },
+  "employees": {
+    "n_employees": 5049,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Soderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Ake",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Wennberg",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hofving",
+      "first_name": "Arne",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wollart",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmen",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lufgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

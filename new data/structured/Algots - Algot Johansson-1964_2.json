@@ -1,0 +1,86 @@
+{
+  "company_name": "ALGOT JOHANSSON AKTIEBOLAG",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 6586381.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2677546.0,
+    "depreciation": null,
+    "net_income": 2815061.09
+  },
+  "balance_sheet": {
+    "total_assets": 35567996.0,
+    "current_assets": 32551705.0,
+    "fixed_assets": 3016291.0,
+    "total_liabilities": 14815674.0,
+    "current_liabilities": 6147412.0,
+    "long_term_liabilities": 2764197.0,
+    "shareholders_equity": 20752322.0
+  },
+  "employees": {
+    "n_employees": 1319,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Johansson",
+      "first_name": "Algot",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Fredén",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Curtman",
+      "first_name": null,
+      "initials": "C. W/",
+      "position": "Överdirektör"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "John",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Elis",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Hernqvist",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Fabrikschef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Lagberg",
+      "first_name": "Karl",
+      "initials": "Y.",
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": "Under året har Algots varor haft en god efterfrågan med en omsättning för bolaget å 77.237.000 kr"
+}

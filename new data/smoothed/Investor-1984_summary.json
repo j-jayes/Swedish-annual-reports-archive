@@ -1,0 +1,104 @@
+{
+  "company_name": "AB Investor",
+  "fiscal_year": 1984,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 94.495,
+    "wages_expense": null,
+    "tax_expense": 35.272,
+    "depreciation": 525.0,
+    "net_income": 881.6303333333334
+  },
+  "balance_sheet": {
+    "total_assets": 5222.541,
+    "current_assets": 1511.2333333333333,
+    "fixed_assets": 2175.4556666666667,
+    "total_liabilities": 2467.6216666666664,
+    "current_liabilities": 547.6493333333333,
+    "long_term_liabilities": 1670.7456666666667,
+    "shareholders_equity": 2208.451666666667
+  },
+  "employees": {
+    "n_employees": 23,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Flogner",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

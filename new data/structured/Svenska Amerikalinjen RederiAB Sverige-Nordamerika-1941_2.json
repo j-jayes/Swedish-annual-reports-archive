@@ -1,0 +1,70 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSKA AMERIKA LINIEN",
+  "fiscal_year": 1941,
+  "income_statement": {
+    "revenue": 7925778.78,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7431435.22,
+    "wages_expense": null,
+    "tax_expense": 1400000.0,
+    "depreciation": 2150000.0,
+    "net_income": 2778427.62
+  },
+  "balance_sheet": {
+    "total_assets": 67120858.36,
+    "current_assets": 13328086.31,
+    "fixed_assets": 48257599.0,
+    "total_liabilities": 33232599.62,
+    "current_liabilities": 1421768.83,
+    "long_term_liabilities": 1375000.0,
+    "shareholders_equity": 24000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BELFRAGE",
+      "first_name": "AKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "Y.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAGERBERG",
+      "first_name": "J. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ALPEN",
+      "first_name": "TH.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BREDBERG",
+      "first_name": "LEO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

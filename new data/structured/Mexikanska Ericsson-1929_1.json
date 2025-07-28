@@ -1,0 +1,70 @@
+{
+  "company_name": "Mexikanska Telefonaktiebolaget Ericsson",
+  "fiscal_year": 1929,
+  "income_statement": {
+    "revenue": 6822211.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3871307.14,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1285235.55
+  },
+  "balance_sheet": {
+    "total_assets": 42996219.39,
+    "current_assets": null,
+    "fixed_assets": 28801672.77,
+    "total_liabilities": 21326340.14,
+    "current_liabilities": null,
+    "long_term_liabilities": 10800000.0,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallstedt",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlqvist",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wincrantz",
+      "first_name": "K. F.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gerdhem",
+      "first_name": "K. W.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

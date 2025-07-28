@@ -1,0 +1,98 @@
+{
+  "company_name": "KOCKUMS JERNVERKSAKTIEBOLAG",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 135.276,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4.907,
+    "net_income": 4.213
+  },
+  "balance_sheet": {
+    "total_assets": 125.268,
+    "current_assets": 81.971,
+    "fixed_assets": 43.02,
+    "total_liabilities": 95.346,
+    "current_liabilities": 29.488,
+    "long_term_liabilities": 37.121,
+    "shareholders_equity": 29.922
+  },
+  "employees": {
+    "n_employees": 1038,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Kockum",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kockum",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rosén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Waldolf",
+      "first_name": null,
+      "initials": "A.",
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Fredholm",
+      "first_name": null,
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

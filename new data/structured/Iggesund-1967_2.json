@@ -1,0 +1,92 @@
+{
+  "company_name": "Iggesundskoncernen",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 340.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 67.887,
+    "wages_expense": null,
+    "tax_expense": 5.354,
+    "depreciation": null,
+    "net_income": 11.038
+  },
+  "balance_sheet": {
+    "total_assets": 440.475,
+    "current_assets": 133.552,
+    "fixed_assets": 306.874,
+    "total_liabilities": 248.327,
+    "current_liabilities": 81.87,
+    "long_term_liabilities": 154.549,
+    "shareholders_equity": 192.148
+  },
+  "employees": {
+    "n_employees": 4611,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlstrom",
+      "first_name": "S.",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisorn"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisorn"
+    },
+    {
+      "surname": "Viberg",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Wallin",
+      "first_name": "Per-Gustaf",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    }
+  ],
+  "additional_notes": "Koncernens leveranser till utomstående har för verksamhetsåret uppnått ett faktureringsvärde av kr. 340.200.000, varav för export kr. 187.800.000."
+}

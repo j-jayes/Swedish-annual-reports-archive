@@ -1,0 +1,92 @@
+{
+  "company_name": "Billerud",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 1462.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 19.5,
+    "depreciation": null,
+    "net_income": 29.0
+  },
+  "balance_sheet": {
+    "total_assets": 2483.3,
+    "current_assets": 953.6,
+    "fixed_assets": 1527.1,
+    "total_liabilities": 1480.8,
+    "current_liabilities": 517.6,
+    "long_term_liabilities": 767.7,
+    "shareholders_equity": 502.5
+  },
+  "employees": {
+    "n_employees": 6230,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bergquist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Smith",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Ture",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "fotograf"
+    },
+    {
+      "surname": "Östlund",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "kokmästare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Wendt",
+      "first_name": "Stellan",
+      "initials": null,
+      "auditing_firm": "f d revisionsdirektör"
+    }
+  ],
+  "additional_notes": null
+}

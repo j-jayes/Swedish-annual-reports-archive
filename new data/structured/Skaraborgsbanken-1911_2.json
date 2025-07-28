@@ -1,0 +1,82 @@
+{
+  "company_name": "Skaraborgs Enskilda Bank",
+  "fiscal_year": 1911,
+  "income_statement": {
+    "revenue": 1761727.27,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 264166.83,
+    "tax_expense": null,
+    "depreciation": 59666.17,
+    "net_income": 703585.06
+  },
+  "balance_sheet": {
+    "total_assets": 56614284.48,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hedenstierna",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brodén",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Tor",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beckman",
+      "first_name": "Cl",
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundell",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wahlenius",
+      "first_name": "L",
+      "initials": "W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fock",
+      "first_name": "E",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tomtlund",
+      "first_name": "A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

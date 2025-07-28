@@ -1,0 +1,82 @@
+{
+  "company_name": "EXPORT-INVEST",
+  "fiscal_year": 1987,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 43.68,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5.488,
+    "wages_expense": null,
+    "tax_expense": 27.212,
+    "depreciation": null,
+    "net_income": 186.589
+  },
+  "balance_sheet": {
+    "total_assets": 716.52,
+    "current_assets": 3.34,
+    "fixed_assets": 713.18,
+    "total_liabilities": 12.069,
+    "current_liabilities": 12.069,
+    "long_term_liabilities": null,
+    "shareholders_equity": 704.402
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Norgren",
+      "first_name": "Christian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ]
+}

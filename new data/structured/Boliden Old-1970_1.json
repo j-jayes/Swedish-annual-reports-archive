@@ -1,0 +1,98 @@
+{
+  "company_name": "BOLIDEN AKTIEBOLAG",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 919.943,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 23.984,
+    "depreciation": 44.4,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 790.533,
+    "current_assets": 342.125,
+    "fixed_assets": 438.998,
+    "total_liabilities": 440.305,
+    "current_liabilities": 146.723,
+    "long_term_liabilities": 118.027,
+    "shareholders_equity": 337.461
+  },
+  "employees": {
+    "n_employees": 5705,
+    "n_blue_collar_workers": 4052,
+    "n_white_collar_workers": 1653
+  },
+  "board": [
+    {
+      "surname": "NORÉN",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "BRYNIELSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELFSTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAMARCHE",
+      "first_name": "ALFRED",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALM",
+      "first_name": "AKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": null,
+      "initials": "S. L.",
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DAHL",
+      "first_name": "CARL",
+      "initials": "C O",
+      "auditing_firm": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

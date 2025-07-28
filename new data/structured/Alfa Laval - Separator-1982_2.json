@@ -1,0 +1,98 @@
+{
+  "company_name": "Alfa Laval",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 8240.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 142.1,
+    "depreciation": null,
+    "net_income": 234.9
+  },
+  "balance_sheet": {
+    "total_assets": 9647.6,
+    "current_assets": 2618.7,
+    "fixed_assets": 5318.8,
+    "total_liabilities": 4701.1,
+    "current_liabilities": null,
+    "long_term_liabilities": 1152.8,
+    "shareholders_equity": 1546.8
+  },
+  "employees": {
+    "n_employees": 17943,
+    "n_blue_collar_workers": 6581,
+    "n_white_collar_workers": 11362
+  },
+  "board": [
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Börjehag",
+      "first_name": "Monica",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eliæson",
+      "first_name": "Per-Jonas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlman",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Faulkner",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jorma",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

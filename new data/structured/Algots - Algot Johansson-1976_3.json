@@ -1,0 +1,122 @@
+{
+  "company_name": "ALGOT JOHANSSON AB",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 198.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 215.114,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 404.0
+  },
+  "balance_sheet": {
+    "total_assets": 120.688,
+    "current_assets": 103.807,
+    "fixed_assets": 11.949,
+    "total_liabilities": 89.606,
+    "current_liabilities": 72.47,
+    "long_term_liabilities": 5.925,
+    "shareholders_equity": 31.082
+  },
+  "employees": {
+    "n_employees": 3383,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Aasa",
+      "first_name": "Johannes",
+      "initials": null,
+      "position": "anställdas representant"
+    },
+    {
+      "surname": "Boode",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rahmn",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Strömberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiking",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "anställdas representant"
+    },
+    {
+      "surname": "Söderholm",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Fischer",
+      "first_name": "Hannelore",
+      "initials": null,
+      "position": "anställdas representant"
+    },
+    {
+      "surname": "Flodin",
+      "first_name": "Eva",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Juntti",
+      "first_name": "Wivi-Anne",
+      "initials": null,
+      "position": "anställdas representant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Gometz",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Lundvall",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

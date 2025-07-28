@@ -1,0 +1,104 @@
+{
+  "company_name": "Fagersta Bruks Aktiebolag",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 133018266.036,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2268935.6,
+    "depreciation": 11521511.5215,
+    "net_income": 3008341.672
+  },
+  "balance_sheet": {
+    "total_assets": 110765554.864,
+    "current_assets": 65280797.228,
+    "fixed_assets": 43986087.972,
+    "total_liabilities": 54766442.866,
+    "current_liabilities": 21218376.721,
+    "long_term_liabilities": 32597065.194,
+    "shareholders_equity": 52740772.148
+  },
+  "employees": {
+    "n_employees": 7689,
+    "n_blue_collar_workers": 5000,
+    "n_white_collar_workers": 1284
+  },
+  "board": [
+    {
+      "surname": "Ödmark",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Eiserman",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Elfström",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "viverkst. dir"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Audin",
+      "first_name": null,
+      "initials": "J.",
+      "auditing_firm": null
+    }
+  ]
+}

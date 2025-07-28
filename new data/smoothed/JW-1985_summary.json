@@ -1,0 +1,104 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1985,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 334825.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5441.0,
+    "net_income": 13822.0
+  },
+  "balance_sheet": {
+    "total_assets": 319514.0,
+    "current_assets": 197890.0,
+    "fixed_assets": 121624.0,
+    "total_liabilities": 132452.0,
+    "current_liabilities": 49778.0,
+    "long_term_liabilities": 74828.33333333333,
+    "shareholders_equity": 71574.0
+  },
+  "employees": {
+    "n_employees": 1022,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Roos",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Irstad",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Danielsen",
+      "first_name": "Tore",
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "Pauli",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zetterberg",
+      "first_name": "\"\"\nholm",
+      "initials": "\"\".S.",
+      "position": null
+    },
+    {
+      "surname": "Sandh",
+      "first_name": "Zerny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "\"\".S.",
+      "initials": "Åke",
+      "position": null
+    },
+    {
+      "surname": "Lorin",
+      "first_name": "\"\".S.",
+      "initials": "Åke",
+      "position": null
+    },
+    {
+      "surname": "Olofsson",
+      "first_name": "\"\".S.",
+      "initials": "Kjell",
+      "position": null
+    },
+    {
+      "surname": "Bergquist",
+      "first_name": "\"\".S.",
+      "initials": "Jan",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": "Godkänd revisor"
+    }
+  ]
+}

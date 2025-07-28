@@ -1,0 +1,86 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 422.724,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 12.0,
+    "depreciation": 38.4,
+    "net_income": 15.0
+  },
+  "balance_sheet": {
+    "total_assets": 506.944,
+    "current_assets": 264.56,
+    "fixed_assets": 241.562,
+    "total_liabilities": 256.504,
+    "current_liabilities": 57.975,
+    "long_term_liabilities": 191.313,
+    "shareholders_equity": 250.44
+  },
+  "employees": {
+    "n_employees": 11957,
+    "n_blue_collar_workers": 10081,
+    "n_white_collar_workers": 1876
+  },
+  "board": [
+    {
+      "surname": "Schwartz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljungdahl",
+      "first_name": null,
+      "initials": "K-G.",
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frisell",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Lindahl",
+      "first_name": null,
+      "initials": "Alf/",
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": null,
+      "initials": "Age/",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

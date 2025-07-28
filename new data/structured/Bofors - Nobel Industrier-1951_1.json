@@ -1,0 +1,88 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 192462000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9808000.0,
+    "net_income": 6026000.0
+  },
+  "balance_sheet": {
+    "total_assets": 322362000.0,
+    "current_assets": 201256000.0,
+    "fixed_assets": 121106000.0,
+    "total_liabilities": 46245000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 52540000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Nauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wetter",
+      "first_name": "E.",
+      "initials": null,
+      "position": "Verkst\nllande direktör"
+    },
+    {
+      "surname": "Glimstedt",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Soblman",
+      "first_name": "Sverre Rison",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wilkens",
+      "first_name": "A. J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Boblin",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Alfred",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

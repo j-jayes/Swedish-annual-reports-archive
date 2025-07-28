@@ -1,0 +1,76 @@
+{
+  "company_name": "CORONAVERKEN AKTIEBOLAG",
+  "fiscal_year": 1959,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 22.762,
+    "wages_expense": null,
+    "tax_expense": 16.4,
+    "depreciation": null,
+    "net_income": 646214.946
+  },
+  "balance_sheet": {
+    "total_assets": 13463553.746,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 19216.4,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 12790481.612666667
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HILL-LINDQUIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "RAMBERG",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CORENIUS",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDÉN",
+      "first_name": "DAVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÅKANSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AHRÉN",
+      "first_name": "CLAES",
+      "initials": "E.",
+      "auditing_firm": "(koncernrevisor)"
+    },
+    {
+      "surname": "WENNEBORG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

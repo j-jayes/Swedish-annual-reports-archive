@@ -1,0 +1,110 @@
+{
+  "company_name": "H & M HENNES & MAURITZ AB",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 1935.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 45.3,
+    "depreciation": 11.2,
+    "net_income": 25.4
+  },
+  "balance_sheet": {
+    "total_assets": 562.7,
+    "current_assets": 455.6,
+    "fixed_assets": 88.1,
+    "total_liabilities": null,
+    "current_liabilities": 163.8,
+    "long_term_liabilities": 73.1,
+    "shareholders_equity": 122.0
+  },
+  "employees": {
+    "n_employees": 3362,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mattson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Felixon",
+      "first_name": "Max",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Ella",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hagrup",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kristfeldt",
+      "first_name": "Jens",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erling",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stjernquist",
+      "first_name": "Inge",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

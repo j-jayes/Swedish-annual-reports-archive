@@ -1,0 +1,43 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 351750.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9685.0,
+    "depreciation": 19313.0,
+    "net_income": 11115.0
+  },
+  "balance_sheet": {
+    "total_assets": 222028.0,
+    "current_assets": 102072.0,
+    "fixed_assets": 113698.0,
+    "total_liabilities": 114022.0,
+    "current_liabilities": 35097.0,
+    "long_term_liabilities": 55090.0,
+    "shareholders_equity": 107106.0
+  },
+  "employees": {
+    "n_employees": 3493,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

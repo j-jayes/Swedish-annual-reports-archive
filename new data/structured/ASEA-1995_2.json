@@ -1,0 +1,70 @@
+{
+  "company_name": "ASEA AB",
+  "fiscal_year": 1995,
+  "income_statement": {
+    "revenue": 2661.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2640.5
+  },
+  "balance_sheet": {
+    "total_assets": 8985.0,
+    "current_assets": 1709.0,
+    "fixed_assets": 8985.0,
+    "total_liabilities": 113.7,
+    "current_liabilities": 7.6,
+    "long_term_liabilities": 48.6,
+    "shareholders_equity": 10644.8
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högfelt",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gutberg",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Mottagen utdelning från ABB Asea Brown Boveri Ltd (för 1994/1993): 1 143,0 MSEK\nAnteciperad utdelning från ABB Asea Brown Boveri Ltd (för 1995/1994): 1 490,0 MSEK"
+}

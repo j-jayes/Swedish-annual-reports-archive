@@ -1,0 +1,94 @@
+{
+  "company_name": "Svenska Amerika Linien",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 91.755,
+    "cost_of_goods_sold": 77.708,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3.465,
+    "depreciation": 11.344,
+    "net_income": 3.155
+  },
+  "balance_sheet": {
+    "total_assets": 178.961,
+    "current_assets": 74.075,
+    "fixed_assets": 105.116,
+    "total_liabilities": 64.168,
+    "current_liabilities": 60.873,
+    "long_term_liabilities": 3.317,
+    "shareholders_equity": 6168.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Boheman",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Steen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

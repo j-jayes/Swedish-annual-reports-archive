@@ -1,0 +1,98 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1983,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 734.488,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.612,
+    "depreciation": null,
+    "net_income": 2.031
+  },
+  "balance_sheet": {
+    "total_assets": 435.826,
+    "current_assets": 277.805,
+    "fixed_assets": 154.985,
+    "total_liabilities": 320.472,
+    "current_liabilities": 107.619,
+    "long_term_liabilities": 125.211,
+    "shareholders_equity": 115.354
+  },
+  "employees": {
+    "n_employees": 937,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gerentz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "C.J. Michael",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Mikael",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Kjellberg",
+      "first_name": "Toivo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Krokstedt",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmvik",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werelius",
+      "first_name": "Lars Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ögren",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Finnhammar",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordh",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "Hexagon AB",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 2101.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 35.3,
+    "depreciation": null,
+    "net_income": 32.3
+  },
+  "balance_sheet": {
+    "total_assets": 1569.8,
+    "current_assets": 1124.2,
+    "fixed_assets": 414.8,
+    "total_liabilities": 510.3,
+    "current_liabilities": 447.7,
+    "long_term_liabilities": 366.9,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 3404,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hæggström",
+      "first_name": "Göran",
+      "initials": "G.Z.",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engkvist",
+      "first_name": "Norrberth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brink",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Roos",
+      "first_name": "Carl-Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ek",
+      "first_name": "Torbjörn",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ståhl",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "Stora Kopparbergs Bergslags Aktiebolags",
+  "fiscal_year": 1909,
+  "income_statement": {
+    "revenue": 15009636.11,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1578193.5
+  },
+  "balance_sheet": {
+    "total_assets": 75690753.01,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 31853814.03,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 24000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ljungberg",
+      "first_name": "E.",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Bråkenhielm",
+      "first_name": "P.",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Molander",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Rich.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Essen",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Frizell",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hammarberg",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET BAHCO",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 8.023048,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1.425194
+  },
+  "balance_sheet": {
+    "total_assets": 89.09548,
+    "current_assets": 66.564103,
+    "fixed_assets": 22.531377,
+    "total_liabilities": 37.54611,
+    "current_liabilities": 37.54611,
+    "long_term_liabilities": 26.153121,
+    "shareholders_equity": 25.396249
+  },
+  "employees": {
+    "n_employees": 2285,
+    "n_blue_collar_workers": 1428,
+    "n_white_collar_workers": 857
+  },
+  "board": [
+    {
+      "surname": "Hjorth",
+      "first_name": "Arnold",
+      "initials": null,
+      "position": "Verkställande"
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Assarsson",
+      "first_name": "Vilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "\"\".\nAke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundequist",
+      "first_name": "Gosta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

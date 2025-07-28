@@ -1,0 +1,86 @@
+{
+  "company_name": "Ratos",
+  "fiscal_year": 1976,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1463.0339999999999,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 39.159666666666666,
+    "depreciation": 67.4,
+    "net_income": 14.161333333333333
+  },
+  "balance_sheet": {
+    "total_assets": 990.262,
+    "current_assets": 1181.3666666666666,
+    "fixed_assets": 359.042,
+    "total_liabilities": 1073.068,
+    "current_liabilities": 463.5145,
+    "long_term_liabilities": 366.6585,
+    "shareholders_equity": 163.94333333333333
+  },
+  "employees": {
+    "n_employees": 6474,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilstein",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "offentlig representant"
+    },
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": "M:son",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Nordberg",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Regelius",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "Dagens Nyheters AB",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 418.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 384.6,
+    "wages_expense": null,
+    "tax_expense": 11.8,
+    "depreciation": null,
+    "net_income": 9.8
+  },
+  "balance_sheet": {
+    "total_assets": 279.229,
+    "current_assets": 143.006,
+    "fixed_assets": 126.333,
+    "total_liabilities": 160.231,
+    "current_liabilities": 66.224,
+    "long_term_liabilities": 94.007,
+    "shareholders_equity": 92.438
+  },
+  "employees": {
+    "n_employees": 3060,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Chefredaktör"
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Bert",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Wrigstad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Chefredaktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "Åke",
+      "initials": "v.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

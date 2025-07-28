@@ -1,0 +1,86 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 153346000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 137580000.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5196000.0,
+    "net_income": 1842000.0
+  },
+  "balance_sheet": {
+    "total_assets": 120046000.0,
+    "current_assets": 42538000.0,
+    "fixed_assets": 34249000.0,
+    "total_liabilities": 49052000.0,
+    "current_liabilities": 21580000.0,
+    "long_term_liabilities": 16906000.0,
+    "shareholders_equity": 30732000.0
+  },
+  "employees": {
+    "n_employees": 1279,
+    "n_blue_collar_workers": 1036,
+    "n_white_collar_workers": 243
+  },
+  "board": [
+    {
+      "surname": "HÄGGQVIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDERSTROM",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WILHELMSON",
+      "first_name": null,
+      "initials": "LEIF",
+      "position": null
+    },
+    {
+      "surname": "TIGERSCHIOLD",
+      "first_name": null,
+      "initials": "BO",
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJOHOLM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "WENNSTRÖM",
+      "first_name": "INGE",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "H&M Hennes & Mauritz AB",
+  "fiscal_year": 2003,
+  "income_statement": {
+    "revenue": 48237.7,
+    "cost_of_goods_sold": 21145.1,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3222.8,
+    "depreciation": 1125.6,
+    "net_income": 6385.9
+  },
+  "balance_sheet": {
+    "total_assets": 25761.7,
+    "current_assets": 19320.0,
+    "fixed_assets": 6441.7,
+    "total_liabilities": 5665.0,
+    "current_liabilities": 4703.8,
+    "long_term_liabilities": 961.2,
+    "shareholders_equity": 20096.7
+  },
+  "employees": {
+    "n_employees": 28409,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ramberg",
+      "first_name": "Agneta",
+      "initials": null,
+      "position": "Deputy employee"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Eva",
+      "initials": null,
+      "position": "Deputy employee"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kvart",
+      "first_name": "Sussi",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "Eriksen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Hofer",
+      "first_name": "Werner",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norin-Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Employee representative"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hedén",
+      "first_name": "\"\nÅke",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Backlund",
+      "first_name": "Eva",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

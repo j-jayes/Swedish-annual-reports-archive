@@ -1,0 +1,88 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": 29482536.43,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 17381469.01,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 9950855.23
+  },
+  "balance_sheet": {
+    "total_assets": 34406978.5,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 19950069.4,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8400000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Tamm",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Appelqvist",
+      "first_name": null,
+      "initials": "J. Ax.",
+      "position": null
+    },
+    {
+      "surname": "Bäckström",
+      "first_name": "John",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Broman",
+      "first_name": null,
+      "initials": "J. W.",
+      "position": null
+    },
+    {
+      "surname": "Ljungberg",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Joseph",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wicander",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomberg",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Leuhusen",
+      "first_name": "Edv.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pott",
+      "first_name": null,
+      "initials": "G.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

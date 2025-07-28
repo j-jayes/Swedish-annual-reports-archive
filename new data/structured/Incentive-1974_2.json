@@ -1,0 +1,104 @@
+{
+  "company_name": "INCENTIVE",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 1390.4,
+    "cost_of_goods_sold": 1248.849,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 18.716,
+    "depreciation": 29.501,
+    "net_income": 13.601
+  },
+  "balance_sheet": {
+    "total_assets": 1311.37,
+    "current_assets": 1000.047,
+    "fixed_assets": 302.853,
+    "total_liabilities": 331.418,
+    "current_liabilities": 507.682,
+    "long_term_liabilities": 369.604,
+    "shareholders_equity": 153.437
+  },
+  "employees": {
+    "n_employees": 7169,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NICOLIN",
+      "first_name": "CURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSON",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "LEIJONHUFVUD",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "REGELIUS",
+      "first_name": "KARL",
+      "initials": "ERIK",
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WIDHAGEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "aukt. revisor Suppleanter:"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Suppleanter:"
+    }
+  ],
+  "additional_notes": null
+}

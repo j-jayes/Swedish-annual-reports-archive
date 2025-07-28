@@ -1,0 +1,100 @@
+{
+  "company_name": "INTECKNINGSBANKEN",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1970797.58,
+    "wages_expense": 1191741.5,
+    "tax_expense": 1710838.0,
+    "depreciation": null,
+    "net_income": 2131344.06
+  },
+  "balance_sheet": {
+    "total_assets": 353192699.3,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 317266475.85,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SAHLIN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRUSENSTJERNA",
+      "first_name": "F.",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ALMQVIST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSON",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KÄLLSTRÖM",
+      "first_name": "K.",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "HAGENIUS",
+      "first_name": "H.",
+      "initials": "E.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRISELL",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LOVÉN",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TROILI",
+      "first_name": "E.",
+      "initials": "U.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

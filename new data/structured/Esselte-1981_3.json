@@ -1,0 +1,104 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 5584.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 180.9,
+    "net_income": 291.6
+  },
+  "balance_sheet": {
+    "total_assets": 5711.5,
+    "current_assets": 3013.5,
+    "fixed_assets": 2329.5,
+    "total_liabilities": 2035.6,
+    "current_liabilities": 1909.5,
+    "long_term_liabilities": 1411.3,
+    "shareholders_equity": 733.9
+  },
+  "employees": {
+    "n_employees": 16146,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Solveig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Birgit",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Selling",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Sillén & Jacobsson AB"
+    },
+    {
+      "surname": "Nordbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Sillén & Jacobsson AB"
+    }
+  ],
+  "additional_notes": null
+}

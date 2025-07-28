@@ -1,0 +1,110 @@
+{
+  "company_name": "AB Garphytte Bruk",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 173.631,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 172.137,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9.274,
+    "net_income": -17.487
+  },
+  "balance_sheet": {
+    "total_assets": 182.476,
+    "current_assets": 108.885,
+    "fixed_assets": 73.475,
+    "total_liabilities": 87.79,
+    "current_liabilities": 36.429,
+    "long_term_liabilities": 57.913,
+    "shareholders_equity": 17.203
+  },
+  "employees": {
+    "n_employees": 726,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-Christian",
+      "initials": "U.",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Alde",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sören",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Thell",
+      "first_name": "Ronny",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Hessle",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Bäcker",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

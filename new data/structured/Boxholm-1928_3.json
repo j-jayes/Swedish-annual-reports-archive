@@ -1,0 +1,76 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1928,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 264746.01,
+    "wages_expense": null,
+    "tax_expense": 110000.0,
+    "depreciation": null,
+    "net_income": 242201.4
+  },
+  "balance_sheet": {
+    "total_assets": 18353777.11,
+    "current_assets": null,
+    "fixed_assets": 10884275.39,
+    "total_liabilities": 9150045.06,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Petterson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Uggla",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kinander",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rääf",
+      "first_name": "Henrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Elis",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rundquist",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "G.",
+      "initials": "A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

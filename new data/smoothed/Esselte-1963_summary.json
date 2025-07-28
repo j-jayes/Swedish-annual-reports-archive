@@ -1,0 +1,86 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1964,
+  "additional_notes": "The company reports a net profit of 6.4 million kronor for the financial year (previous year 5.9 million kronor). The Board proposes a dividend of SEK 8 on both preference and ordinary shares.",
+  "income_statement": {
+    "revenue": 12873968.55,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10340485.0,
+    "net_income": 2136838.933333333
+  },
+  "balance_sheet": {
+    "total_assets": 117225592.16666667,
+    "current_assets": 54278850.4,
+    "fixed_assets": 60774311.63333333,
+    "total_liabilities": 49933413.63333333,
+    "current_liabilities": 36509470.0,
+    "long_term_liabilities": 1885113.5,
+    "shareholders_equity": 52555266.766666666
+  },
+  "employees": {
+    "n_employees": 7575,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "General Konsul"
+    },
+    {
+      "surname": "Ahrén",
+      "first_name": "Frithiof",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "Horn",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Överintendent"
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Nordenfalk",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "f. d. Hovrättsrådet"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "Ekeberg",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ]
+}

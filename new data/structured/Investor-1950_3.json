@@ -1,0 +1,70 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 5208910.65,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4431329.76
+  },
+  "balance_sheet": {
+    "total_assets": 63903762.11,
+    "current_assets": 3432873.11,
+    "fixed_assets": 60470889.0,
+    "total_liabilities": 7719623.13,
+    "current_liabilities": 184376.04,
+    "long_term_liabilities": null,
+    "shareholders_equity": 56184138.98
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STEYERN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LILJENROTH",
+      "first_name": "F.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CALISSENDORFF",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERLIN",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,94 @@
+{
+  "company_name": "Export-Invest",
+  "fiscal_year": 1980,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5014.342,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 690.0,
+    "wages_expense": null,
+    "tax_expense": 6.0,
+    "depreciation": null,
+    "net_income": 4987.329333333333
+  },
+  "balance_sheet": {
+    "total_assets": 51095.654,
+    "current_assets": 1236.134,
+    "fixed_assets": 49859.52,
+    "total_liabilities": 382.3333333333333,
+    "current_liabilities": 131.0,
+    "long_term_liabilities": 639.5,
+    "shareholders_equity": 50767.332
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Generaldirektör"
+    },
+    {
+      "surname": "Westin",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Fagerlund",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Civilekonom"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Aukt."
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ]
+}

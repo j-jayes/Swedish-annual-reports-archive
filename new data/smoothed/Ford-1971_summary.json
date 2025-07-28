@@ -1,0 +1,104 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1971,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 98113118.892512,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 164.083,
+    "depreciation": 260590.808,
+    "net_income": -2403338.14
+  },
+  "balance_sheet": {
+    "total_assets": 48079536.492214,
+    "current_assets": 15649599.965804,
+    "fixed_assets": 7401271.802514,
+    "total_liabilities": 39292127.662611336,
+    "current_liabilities": 28960859.254936,
+    "long_term_liabilities": 10331595.666666666,
+    "shareholders_equity": -469649.092
+  },
+  "employees": {
+    "n_employees": 413,
+    "n_blue_collar_workers": 159,
+    "n_white_collar_workers": 254
+  },
+  "board": [
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Ordförande-Chairman"
+    },
+    {
+      "surname": "BECKETT",
+      "first_name": "TERRY",
+      "initials": "N",
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINTON",
+      "first_name": "STELLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KEMP",
+      "first_name": "JOHN",
+      "initials": "S",
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "HIRSCH",
+      "first_name": "JOHN",
+      "initials": "G",
+      "position": "Styrelsesuppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WITT",
+      "first_name": "CARL",
+      "initials": "HENRIK",
+      "auditing_firm": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EDLUND",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Revisorssuppleanter"
+    },
+    {
+      "surname": "HOLM",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": "Revisorssuppleanter"
+    }
+  ]
+}

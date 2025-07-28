@@ -1,0 +1,80 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolagets",
+  "fiscal_year": 1906,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 30912.22
+  },
+  "balance_sheet": {
+    "total_assets": 14078715.36,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 8964493.25,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5042426.433333334
+  },
+  "employees": {
+    "n_employees": 1804,
+    "n_blue_collar_workers": 1645.5,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wijkman",
+      "first_name": "O",
+      "initials": "O",
+      "position": null
+    },
+    {
+      "surname": "Heilborn",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wenström",
+      "first_name": "G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berg",
+      "first_name": "P",
+      "initials": "P. T.",
+      "position": null
+    },
+    {
+      "surname": "Edström",
+      "first_name": "J",
+      "initials": "J. S.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Vougt",
+      "first_name": "C",
+      "initials": "C. F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cleophas",
+      "first_name": "Er",
+      "initials": "Er.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Skogman",
+      "first_name": "Karl",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

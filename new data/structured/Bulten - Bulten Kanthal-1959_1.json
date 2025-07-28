@@ -1,0 +1,80 @@
+{
+  "company_name": "Bultfabriks Aktiebolaget",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 8855560.72,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1918755.98
+  },
+  "balance_sheet": {
+    "total_assets": 69734310.66,
+    "current_assets": 15353172.05,
+    "fixed_assets": 44371189.39,
+    "total_liabilities": 4435868.13,
+    "current_liabilities": 10368698.63,
+    "long_term_liabilities": 14246210.0,
+    "shareholders_equity": 25975000.0
+  },
+  "employees": {
+    "n_employees": 3041,
+    "n_blue_collar_workers": 1534,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "KANTZOW",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BEXELIUS",
+      "first_name": "HERBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GEER",
+      "first_name": "GÖSTA",
+      "initials": "DE",
+      "position": null
+    },
+    {
+      "surname": "NATHORST",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

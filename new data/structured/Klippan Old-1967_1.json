@@ -1,0 +1,86 @@
+{
+  "company_name": "Klippans Finpappersbruk",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 25.025,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 170.0,
+    "depreciation": null,
+    "net_income": 2.86
+  },
+  "balance_sheet": {
+    "total_assets": 164.366,
+    "current_assets": 62.203,
+    "fixed_assets": 77.125,
+    "total_liabilities": null,
+    "current_liabilities": 39.337,
+    "long_term_liabilities": null,
+    "shareholders_equity": 63.23
+  },
+  "employees": {
+    "n_employees": 2948,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 426
+  },
+  "board": [
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GUSTA",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": null,
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "WESTERSTROM",
+      "first_name": "TH",
+      "initials": "TH",
+      "position": null
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": "E",
+      "position": null
+    },
+    {
+      "surname": "BLENNOW",
+      "first_name": "INGEMAR",
+      "initials": "I",
+      "position": null
+    },
+    {
+      "surname": "CRAFOORD",
+      "first_name": "HOLGER",
+      "initials": "H",
+      "position": null
+    },
+    {
+      "surname": "LARSON",
+      "first_name": "RUTGER",
+      "initials": "R",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LARSSON",
+      "first_name": "TAGE",
+      "initials": "T",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ELVEFORS",
+      "first_name": "NILS",
+      "initials": "N",
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

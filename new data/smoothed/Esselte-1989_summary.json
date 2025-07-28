@@ -1,0 +1,152 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1989,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 16626.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -291.2,
+    "depreciation": 546.0,
+    "net_income": 312.3
+  },
+  "balance_sheet": {
+    "total_assets": 10658.466666666667,
+    "current_assets": 6291.166666666666,
+    "fixed_assets": 4462.2,
+    "total_liabilities": 4868.633333333333,
+    "current_liabilities": 3489.7,
+    "long_term_liabilities": 2694.1,
+    "shareholders_equity": 1999.6
+  },
+  "employees": {
+    "n_employees": 20066,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindholm",
+      "first_name": "Gerhard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindholm",
+      "first_name": "Peo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Solveig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundén",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Bernt",
+      "initials": "A",
+      "position": null
+    },
+    {
+      "surname": "Hedström",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    },
+    {
+      "surname": "Söderström",
+      "first_name": "Jerker",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    },
+    {
+      "surname": "Cederberg",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    }
+  ]
+}

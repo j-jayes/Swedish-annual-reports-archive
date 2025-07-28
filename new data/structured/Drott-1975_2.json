@@ -1,0 +1,74 @@
+{
+  "company_name": "Fastighetsaktiebolaget Drott",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 15523018.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6819766.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 230000.0,
+    "net_income": 3279304.0
+  },
+  "balance_sheet": {
+    "total_assets": 96553061.0,
+    "current_assets": 13958701.0,
+    "fixed_assets": 82594360.0,
+    "total_liabilities": 52325644.0,
+    "current_liabilities": 3380559.0,
+    "long_term_liabilities": 48945085.0,
+    "shareholders_equity": 44227417.0
+  },
+  "employees": {
+    "n_employees": 23,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Archibald",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Nessen",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ingenjör"
+    },
+    {
+      "surname": "Tengbom",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "arkitekt"
+    },
+    {
+      "surname": "Sundell",
+      "first_name": "Yngve",
+      "initials": "Y",
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Flogner",
+      "first_name": "Sven",
+      "initials": "S",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Markdahl",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

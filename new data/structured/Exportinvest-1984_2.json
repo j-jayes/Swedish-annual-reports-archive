@@ -1,0 +1,94 @@
+{
+  "company_name": "EXPORT-INVEST",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 25.496,
+    "wages_expense": null,
+    "tax_expense": 2.677,
+    "depreciation": null,
+    "net_income": 156.722
+  },
+  "balance_sheet": {
+    "total_assets": 477.127,
+    "current_assets": 96.977,
+    "fixed_assets": 380.15,
+    "total_liabilities": 43.818,
+    "current_liabilities": 43.818,
+    "long_term_liabilities": 244.0,
+    "shareholders_equity": 433.065
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Norgren",
+      "first_name": "Christian",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Westin",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Björnsson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Callerström",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

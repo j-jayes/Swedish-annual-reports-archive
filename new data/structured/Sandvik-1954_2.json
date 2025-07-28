@@ -1,0 +1,86 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 24832422.83,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 12119687.0,
+    "net_income": 5336493.05
+  },
+  "balance_sheet": {
+    "total_assets": 229805778.19,
+    "current_assets": 96188755.19,
+    "fixed_assets": 133617023.0,
+    "total_liabilities": 40780452.24,
+    "current_liabilities": 40136933.11,
+    "long_term_liabilities": 96500776.73,
+    "shareholders_equity": 88909642.22
+  },
+  "employees": {
+    "n_employees": 6670,
+    "n_blue_collar_workers": 5020,
+    "n_white_collar_workers": 1650
+  },
+  "board": [
+    {
+      "surname": "Magnusson",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Erik",
+      "initials": "W",
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": null,
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Göransson",
+      "first_name": null,
+      "initials": "K F",
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sebardt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": "O",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

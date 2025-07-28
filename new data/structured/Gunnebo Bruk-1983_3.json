@@ -1,0 +1,98 @@
+{
+  "company_name": "GUNNEBOKONCERNEN",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 805.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3.0,
+    "depreciation": null,
+    "net_income": 18.6
+  },
+  "balance_sheet": {
+    "total_assets": 685.1,
+    "current_assets": 467.8,
+    "fixed_assets": 208.7,
+    "total_liabilities": 615.5,
+    "current_liabilities": 165.0,
+    "long_term_liabilities": 223.2,
+    "shareholders_equity": 69.6
+  },
+  "employees": {
+    "n_employees": 1645,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LINDBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "SJÖHOLM",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEHRSSON",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HISING",
+      "first_name": "LARS IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HJALMAR",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ASPLUND",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "UNGER",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEDERSEN",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRANQVIST",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EDLUND",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

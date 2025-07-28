@@ -1,0 +1,112 @@
+{
+  "company_name": "Svenska Sockerfabriks Aktiebolaget",
+  "fiscal_year": 1936,
+  "income_statement": {
+    "revenue": 86453218.81,
+    "cost_of_goods_sold": 47885850.3,
+    "operating_expenses": 6639288.09,
+    "wages_expense": null,
+    "tax_expense": 158765.76,
+    "depreciation": 3769422.4,
+    "net_income": 4973751.89
+  },
+  "balance_sheet": {
+    "total_assets": 122990426.62,
+    "current_assets": 8000935.81,
+    "fixed_assets": 55842918.9,
+    "total_liabilities": 41977622.86,
+    "current_liabilities": 2872636.03,
+    "long_term_liabilities": 2640000.0,
+    "shareholders_equity": 81000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Dahlberg",
+      "first_name": null,
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": null,
+      "initials": "E. C:son",
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Joh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Platen",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vennersten",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frisell",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmros",
+      "first_name": "Carl Joh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tranchell",
+      "first_name": null,
+      "initials": "C. F.",
+      "position": null
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhman",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Faxe",
+      "first_name": null,
+      "initials": "G. C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Falkenberg",
+      "first_name": "Melcher",
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kockum",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ask",
+      "first_name": "Otto",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

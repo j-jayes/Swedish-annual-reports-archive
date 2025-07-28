@@ -1,0 +1,100 @@
+{
+  "company_name": "SVENSKA SOCKERFABRIKS AKTIEBOLAGET",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": 62679254.36,
+    "cost_of_goods_sold": 33800756.2,
+    "operating_expenses": 6155714.43,
+    "wages_expense": 11651386.89,
+    "tax_expense": 336693.75,
+    "depreciation": null,
+    "net_income": 3296749.18
+  },
+  "balance_sheet": {
+    "total_assets": 163115737.93,
+    "current_assets": 8005265.32,
+    "fixed_assets": 87457557.92,
+    "total_liabilities": 28115737.93,
+    "current_liabilities": 3432301.22,
+    "long_term_liabilities": null,
+    "shareholders_equity": 135000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Broomé",
+      "first_name": "Albert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frisell",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tranchell",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmros",
+      "first_name": "Carl",
+      "initials": "Joh",
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Joh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Platen",
+      "first_name": "Wilhelm",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Malte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vennersten",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhman",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Falkenberg",
+      "first_name": "Melcher",
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Faxe",
+      "first_name": "G.",
+      "initials": "C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kockum",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

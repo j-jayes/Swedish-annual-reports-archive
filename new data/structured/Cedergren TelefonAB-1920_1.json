@@ -1,0 +1,74 @@
+{
+  "company_name": "Allmänna Industriaktiebolaget H. T. Cedergrens",
+  "fiscal_year": 1920,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1295392.13
+  },
+  "balance_sheet": {
+    "total_assets": 49996519.65,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1820077.52,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 33706050.0
+  },
+  "employees": {
+    "n_employees": 353,
+    "n_blue_collar_workers": 119,
+    "n_white_collar_workers": 15
+  },
+  "board": [
+    {
+      "surname": "Pegelow",
+      "first_name": "F. W. H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klemming",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hasselberg",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wincrantz",
+      "first_name": "K. F.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Carlander",
+      "first_name": "Jos.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jakobson",
+      "first_name": "Frans",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

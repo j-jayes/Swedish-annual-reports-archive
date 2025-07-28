@@ -1,0 +1,64 @@
+{
+  "company_name": "HEIMDALL",
+  "fiscal_year": 1919,
+  "income_statement": {
+    "revenue": 3140953.41,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 386172.87,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 279429.49
+  },
+  "balance_sheet": {
+    "total_assets": 5758632.6,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3252053.11,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2506579.49
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ELLSÉN",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRUNDSTRÖM",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MILLAR",
+      "first_name": "JAMES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF SILLÉN",
+      "first_name": "J. O.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAMMARSTRÖM",
+      "first_name": "ALEXIS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DRAKENBERG",
+      "first_name": "JEAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

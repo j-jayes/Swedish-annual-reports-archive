@@ -1,0 +1,110 @@
+{
+  "company_name": "Skandia",
+  "fiscal_year": 1994,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -24.0
+  },
+  "balance_sheet": {
+    "total_assets": 162.851,
+    "current_assets": 94.9,
+    "fixed_assets": null,
+    "total_liabilities": 95.8,
+    "current_liabilities": null,
+    "long_term_liabilities": 7.715,
+    "shareholders_equity": 8.182
+  },
+  "employees": {
+    "n_employees": 5847,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Greve",
+      "first_name": "Jan",
+      "initials": "Einar",
+      "position": null
+    },
+    {
+      "surname": "Hagelin",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "Siw",
+      "initials": null,
+      "position": "Ordförande personalklubben"
+    },
+    {
+      "surname": "Kronblad",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Ingolf",
+      "initials": null,
+      "position": "Distriktschef"
+    },
+    {
+      "surname": "Tobisson",
+      "first_name": "Lars",
+      "initials": "F.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindén",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Swarting",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Lekman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

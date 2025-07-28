@@ -1,0 +1,112 @@
+{
+  "company_name": "Investment AB Latour",
+  "fiscal_year": 1997,
+  "income_statement": {
+    "revenue": 3271.0,
+    "cost_of_goods_sold": -2522.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 342.0
+  },
+  "balance_sheet": {
+    "total_assets": 3181.0,
+    "current_assets": 936.0,
+    "fixed_assets": 2245.0,
+    "total_liabilities": 1843.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1838.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Elisabeth",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Flory",
+      "first_name": "Ingrid",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Wirenstam",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Lancos",
+      "first_name": "Janos",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Throbäck",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Qvist",
+      "first_name": "Ralph",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Öhrlings Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Öhrlings Coopers & Lybrand AB"
+    }
+  ],
+  "additional_notes": null
+}

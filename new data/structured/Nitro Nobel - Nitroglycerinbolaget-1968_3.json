@@ -1,0 +1,98 @@
+{
+  "company_name": "NITRO NOBEL",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 88.816,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6.181,
+    "net_income": 2.488
+  },
+  "balance_sheet": {
+    "total_assets": 77.108,
+    "current_assets": 28.392,
+    "fixed_assets": 47.52,
+    "total_liabilities": 34.548,
+    "current_liabilities": 16.116,
+    "long_term_liabilities": 13.154,
+    "shareholders_equity": 42.56
+  },
+  "employees": {
+    "n_employees": 874,
+    "n_blue_collar_workers": 615,
+    "n_white_collar_workers": 259
+  },
+  "board": [
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Langefors",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Linder",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "direktør"
+    },
+    {
+      "surname": "Boman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": "advokat"
+    },
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Didrik",
+      "initials": null,
+      "auditing_firm": "ekonomidirektör"
+    }
+  ],
+  "additional_notes": null
+}

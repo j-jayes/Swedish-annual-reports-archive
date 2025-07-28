@@ -1,0 +1,98 @@
+{
+  "company_name": "LM Ericsson",
+  "fiscal_year": 1945,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 10.20566167,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.84567849,
+    "depreciation": 3.46289756,
+    "net_income": 3.81321125
+  },
+  "balance_sheet": {
+    "total_assets": 179.51400718,
+    "current_assets": 70.8276697,
+    "fixed_assets": 21.25005838,
+    "total_liabilities": 97.04254774,
+    "current_liabilities": 32.60918527,
+    "long_term_liabilities": 24.329612146666665,
+    "shareholders_equity": 82.47145944
+  },
+  "employees": {
+    "n_employees": 3565,
+    "n_blue_collar_workers": 4002,
+    "n_white_collar_workers": 1564
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rudberg",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borgquist",
+      "first_name": null,
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högstedt",
+      "first_name": null,
+      "initials": "K. H.",
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

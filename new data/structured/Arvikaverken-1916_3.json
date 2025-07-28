@@ -1,0 +1,70 @@
+{
+  "company_name": "ARVIKA-VERKEN",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": 1293498.99,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 20703.06,
+    "depreciation": 150000.0,
+    "net_income": 780884.54
+  },
+  "balance_sheet": {
+    "total_assets": 12085337.64,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 12085337.64,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ANDERSON.",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KIHLGREN.",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDSTRÖM.",
+      "first_name": "ALB.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NACHMANSON.",
+      "first_name": "AUG.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AKERLINDH.",
+      "first_name": "REGUST.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "ISAAC O.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WALLENSTRÖM.",
+      "first_name": "A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

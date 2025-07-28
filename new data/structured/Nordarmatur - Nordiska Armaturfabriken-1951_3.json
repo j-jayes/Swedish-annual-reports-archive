@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET NORDISKA ARMATURFABRIKERNA",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 4151955.11,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 815000.0,
+    "depreciation": null,
+    "net_income": 791046.09
+  },
+  "balance_sheet": {
+    "total_assets": 24883504.37,
+    "current_assets": 11005492.62,
+    "fixed_assets": 6790001.0,
+    "total_liabilities": 14254417.87,
+    "current_liabilities": 9649793.65,
+    "long_term_liabilities": 2570600.0,
+    "shareholders_equity": 10629086.5
+  },
+  "employees": {
+    "n_employees": 1386,
+    "n_blue_collar_workers": 980,
+    "n_white_collar_workers": 406
+  },
+  "board": [
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlander",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "\nÅge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Rothlind",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Berlin",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

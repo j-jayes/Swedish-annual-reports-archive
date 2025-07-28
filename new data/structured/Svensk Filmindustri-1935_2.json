@@ -1,0 +1,82 @@
+{
+  "company_name": "SVENSK FILMINDUSTRI",
+  "fiscal_year": 1936,
+  "income_statement": {
+    "revenue": 1533264.51,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 881038.94
+  },
+  "balance_sheet": {
+    "total_assets": 10522508.94,
+    "current_assets": 3434359.46,
+    "fixed_assets": 4188149.48,
+    "total_liabilities": 682300.96,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 9840207.98
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "LUNDQVIST",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUNDELL",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HINTZE",
+      "first_name": "HUGO",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LISTANDER",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SILJESTRÖM",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kastengren",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

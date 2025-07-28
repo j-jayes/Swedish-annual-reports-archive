@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1966,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 121.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2929.0,
+    "net_income": 203.072
+  },
+  "balance_sheet": {
+    "total_assets": 29482.613506666665,
+    "current_assets": 13488.358326666666,
+    "fixed_assets": 15994.25518,
+    "total_liabilities": 17119.492926666666,
+    "current_liabilities": 5300.43919,
+    "long_term_liabilities": 7118.182540000001,
+    "shareholders_equity": 12363.12058
+  },
+  "employees": {
+    "n_employees": 1253,
+    "n_blue_collar_workers": 390,
+    "n_white_collar_workers": 560
+  },
+  "board": [
+    {
+      "surname": "OLSON",
+      "first_name": "GoFFa",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BuxosR",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "ELIASION",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "CARE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HAKANSON",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "ERICSON",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KALL",
+      "first_name": "BERTH.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "NORDLUND",
+      "first_name": "Jous",
+      "initials": null,
+      "position": "Överingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JELF",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HJERNE",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

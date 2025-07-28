@@ -1,0 +1,104 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 396.807641,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8.65,
+    "depreciation": null,
+    "net_income": 11.856
+  },
+  "balance_sheet": {
+    "total_assets": 583.217,
+    "current_assets": null,
+    "fixed_assets": 202.61,
+    "total_liabilities": null,
+    "current_liabilities": 211.81,
+    "long_term_liabilities": 156.939,
+    "shareholders_equity": 137.9
+  },
+  "employees": {
+    "n_employees": 8883,
+    "n_blue_collar_workers": 5653,
+    "n_white_collar_workers": 3230
+  },
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "Evert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre",
+      "initials": "R",
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Waldenström",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Boblin",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordqvist",
+      "first_name": "Helmer",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

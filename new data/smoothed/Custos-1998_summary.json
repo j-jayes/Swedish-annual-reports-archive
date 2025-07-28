@@ -1,0 +1,82 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1998,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 46.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -42.0,
+    "wages_expense": null,
+    "tax_expense": -147.3,
+    "depreciation": 0.3,
+    "net_income": 2125.866666666667
+  },
+  "balance_sheet": {
+    "total_assets": 6934.666666666666,
+    "current_assets": 2830.2333333333336,
+    "fixed_assets": 4107.8,
+    "total_liabilities": 303.6,
+    "current_liabilities": 259.9,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6594.966666666666
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Hagströmer",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ORDFÖRANDE"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnson",
+      "first_name": "Sten K",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lederhausen",
+      "first_name": "Mats",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Qviberg",
+      "first_name": "Mats",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Savén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gardell",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "VERKSTÄLLANDE DIREKTÖR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "KPMG"
+    }
+  ]
+}

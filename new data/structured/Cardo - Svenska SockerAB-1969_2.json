@@ -1,0 +1,88 @@
+{
+  "company_name": "AB Cardo",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 22.194,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 16.996
+  },
+  "balance_sheet": {
+    "total_assets": 216.304,
+    "current_assets": 1185.0,
+    "fixed_assets": 216.601,
+    "total_liabilities": 61.772,
+    "current_liabilities": 3160.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 50.738
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hammarskiöld",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kennedy",
+      "first_name": "Douglas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Th.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordenskjöld",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Karl",
+      "initials": "N.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

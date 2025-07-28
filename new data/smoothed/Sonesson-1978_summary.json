@@ -1,0 +1,92 @@
+{
+  "company_name": "SONESSONS",
+  "fiscal_year": 1978,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 493.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 165.3,
+    "tax_expense": 8.8,
+    "depreciation": null,
+    "net_income": 9.4
+  },
+  "balance_sheet": {
+    "total_assets": 470.1,
+    "current_assets": 326.9,
+    "fixed_assets": 142.2,
+    "total_liabilities": 241.1,
+    "current_liabilities": 123.3,
+    "long_term_liabilities": 126.85,
+    "shareholders_equity": 105.9
+  },
+  "employees": {
+    "n_employees": 2120,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Brink",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Kessman",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Kristensson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Professor i företagsekonomi"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Lüning",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Vice ordförande"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hansson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "company_name": "Investmentaktiebolaget Promotion",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 977.9,
+    "cost_of_goods_sold": 585.5,
+    "operating_expenses": 146.4,
+    "wages_expense": null,
+    "tax_expense": 33.7,
+    "depreciation": 23.8,
+    "net_income": 263.7
+  },
+  "balance_sheet": {
+    "total_assets": 1804.8,
+    "current_assets": 1031.1,
+    "fixed_assets": 761.7,
+    "total_liabilities": 573.0,
+    "current_liabilities": 573.0,
+    "long_term_liabilities": 450.3,
+    "shareholders_equity": 629.6
+  },
+  "employees": {
+    "n_employees": 1933,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Feinsilber",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Vice verkställande direktör"
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöqvist",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Unger",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Tagesson",
+      "first_name": "Bo-Göran",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

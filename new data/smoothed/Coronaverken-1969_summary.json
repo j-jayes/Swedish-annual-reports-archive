@@ -1,0 +1,80 @@
+{
+  "company_name": "CORONAVERKEN AB",
+  "fiscal_year": 1969,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 265750.142,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3665.0,
+    "depreciation": 10.581,
+    "net_income": 3230.281
+  },
+  "balance_sheet": {
+    "total_assets": 221351.954,
+    "current_assets": 166912.081,
+    "fixed_assets": 50875.425,
+    "total_liabilities": 176281.43,
+    "current_liabilities": 90573.264,
+    "long_term_liabilities": 42999.489,
+    "shareholders_equity": 45070.524
+  },
+  "employees": {
+    "n_employees": 4501,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HILL-LINDQUIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "RISBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "SVANTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF TROLLE",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGCRANTZ",
+      "first_name": "SIGURD",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AHREN",
+      "first_name": null,
+      "initials": "C.E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "RILBY",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

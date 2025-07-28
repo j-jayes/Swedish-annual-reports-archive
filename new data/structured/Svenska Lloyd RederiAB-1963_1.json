@@ -1,0 +1,80 @@
+{
+  "company_name": "REDERIAKTIEBOLAGET SVENSKA LLOYD",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 103678000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 91556000.0,
+    "wages_expense": null,
+    "tax_expense": 1672000.0,
+    "depreciation": 9405000.0,
+    "net_income": 2002000.0
+  },
+  "balance_sheet": {
+    "total_assets": 61601000.0,
+    "current_assets": 21027000.0,
+    "fixed_assets": 40574000.0,
+    "total_liabilities": 33000000.0,
+    "current_liabilities": 21256000.0,
+    "long_term_liabilities": 9928000.0,
+    "shareholders_equity": 25676000.0
+  },
+  "employees": {
+    "n_employees": 1018,
+    "n_blue_collar_workers": 928,
+    "n_white_collar_workers": 188
+  },
+  "board": [
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K.",
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSÉN",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JANSON",
+      "first_name": "ORVAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ROHLIN",
+      "first_name": "SVEN-RUNE",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HÅKANSSON",
+      "first_name": "EDVIN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

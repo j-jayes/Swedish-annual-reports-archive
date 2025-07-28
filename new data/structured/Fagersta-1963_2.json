@@ -1,0 +1,80 @@
+{
+  "company_name": "FAGERSTA BRUKS AKTIEBOLAG",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 35261057.69,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3300000.0,
+    "depreciation": 24653449.2,
+    "net_income": 7891974.53
+  },
+  "balance_sheet": {
+    "total_assets": 289045730.83,
+    "current_assets": 151729206.26,
+    "fixed_assets": 137316524.57,
+    "total_liabilities": 124257330.05,
+    "current_liabilities": 55568836.14,
+    "long_term_liabilities": 68688000.0,
+    "shareholders_equity": 155014000.0
+  },
+  "employees": {
+    "n_employees": 6022,
+    "n_blue_collar_workers": 4869,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ODMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÄSELIUS",
+      "first_name": null,
+      "initials": "HJ.",
+      "position": null
+    },
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÄGGQVIST",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "ELFSTROM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "WIRSTROM",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NYLANDER",
+      "first_name": "RUNE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "company_name": "KOCKUMS JERNVERKSAKTIEBOLAG",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 10424.255,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1261.962,
+    "depreciation": 7808.199,
+    "net_income": 894.094
+  },
+  "balance_sheet": {
+    "total_assets": 76437.413,
+    "current_assets": 46388.394,
+    "fixed_assets": 28992.048,
+    "total_liabilities": 34517.473,
+    "current_liabilities": 15519.841,
+    "long_term_liabilities": 15069.2,
+    "shareholders_equity": 21984.409
+  },
+  "employees": {
+    "n_employees": 1321,
+    "n_blue_collar_workers": 985,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": null,
+      "initials": "S. L.",
+      "position": null
+    },
+    {
+      "surname": "FREDHOLM",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BELFRAGE",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KOCKUM",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "MÅNSSON",
+      "first_name": "EMIL",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "KOCKUM",
+      "first_name": "GOTTFRIED",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

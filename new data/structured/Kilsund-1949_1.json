@@ -1,0 +1,80 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 30849410.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 131927.75,
+    "net_income": 956704.17
+  },
+  "balance_sheet": {
+    "total_assets": 19875907.68,
+    "current_assets": 14826097.17,
+    "fixed_assets": 4919998.48,
+    "total_liabilities": 11200907.68,
+    "current_liabilities": 4183493.98,
+    "long_term_liabilities": 2558212.0,
+    "shareholders_equity": 8675000.0
+  },
+  "employees": {
+    "n_employees": 918,
+    "n_blue_collar_workers": 819,
+    "n_white_collar_workers": 99
+  },
+  "board": [
+    {
+      "surname": "HÖRSTADIUS",
+      "first_name": null,
+      "initials": "N. W.",
+      "position": null
+    },
+    {
+      "surname": "PFANNENSTILL",
+      "first_name": null,
+      "initials": "BO",
+      "position": null
+    },
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EDLUND",
+      "first_name": null,
+      "initials": "C. E.",
+      "position": null
+    },
+    {
+      "surname": "ODMARK",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSON",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Karlgren",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenström",
+      "first_name": "Miles",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

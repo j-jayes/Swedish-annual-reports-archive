@@ -1,0 +1,116 @@
+{
+  "company_name": "AB Cardo",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 1033.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 48.338,
+    "net_income": 76.426
+  },
+  "balance_sheet": {
+    "total_assets": 1149.266,
+    "current_assets": 698.4,
+    "fixed_assets": 416.628,
+    "total_liabilities": 550.024,
+    "current_liabilities": 175.614,
+    "long_term_liabilities": 140.787,
+    "shareholders_equity": 550.024
+  },
+  "employees": {
+    "n_employees": 2960,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Netzén",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Th.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Kennedy",
+      "first_name": "Douglas",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Kihlstedt",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ambassadör"
+    },
+    {
+      "surname": "Nordenskjöld",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "von Porat",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Dieden",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Jönsson",
+      "first_name": "Eric",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Faxe",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "N.A.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

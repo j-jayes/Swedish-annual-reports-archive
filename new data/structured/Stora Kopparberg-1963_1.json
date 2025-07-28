@@ -1,0 +1,98 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AB",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 780686000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 36862571.0
+  },
+  "balance_sheet": {
+    "total_assets": 1022243156.0,
+    "current_assets": 157826503.0,
+    "fixed_assets": 629406351.0,
+    "total_liabilities": 474500000.0,
+    "current_liabilities": 133123918.0,
+    "long_term_liabilities": 295942157.0,
+    "shareholders_equity": 547790081.0
+  },
+  "employees": {
+    "n_employees": 12500,
+    "n_blue_collar_workers": 10409,
+    "n_white_collar_workers": 2091
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wieslander",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Öbrink",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": "F.d. stadskamrer"
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "Friherre"
+    },
+    {
+      "surname": "Trolle",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Kammarherre"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,140 @@
+{
+  "company_name": "SANDVIK-KONCERNEN",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 4516.801,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -80.57,
+    "depreciation": 191.685,
+    "net_income": 207.145
+  },
+  "balance_sheet": {
+    "total_assets": 7284.442,
+    "current_assets": 4642.249,
+    "fixed_assets": 2605.791,
+    "total_liabilities": 3813.121,
+    "current_liabilities": 1608.178,
+    "long_term_liabilities": 2228.91,
+    "shareholders_equity": 1324.974
+  },
+  "employees": {
+    "n_employees": 27418,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SUNDEN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Edström",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan H.",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Docent"
+    },
+    {
+      "surname": "Bahrke",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Stake",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kvarfordh",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Silfverstolpe",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedborg",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Kammarrättspresident"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Alm",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "Verkmästare"
+    },
+    {
+      "surname": "Honkamäki",
+      "first_name": "Eino",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henrikson",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "KORAEN",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

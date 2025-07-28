@@ -1,0 +1,556 @@
+---
+title: "Technocrats to Tycoons"
+subtitle: The Shift in Swedish Corporate Leadership and Its Economic Consequences in the 20th century
+code-repo: "Access the code, data, and analysis at <https://github.com/j-jayes/who-is-who-etl> and <https://github.com/j-jayes/Swedish-annual-reports-archive>"
+author:
+  - name: Jonathan Jayes
+    email: jonathan.jayes@ekh.lu.se
+    orcid: 0000-0003-4967-4869
+    affiliations: 
+      - id: lu
+        name: Lund University Economic History Department
+abstract: |  
+    Causally identifying the impact of corporate leadership on firm and labor outcomes is a central challenge in economic history. This paper investigates this question by treating imported American management practices as a form of "technology" adopted by Swedish firms between 1873 and 1980. Using a newly compiled dataset of annual reports and director biographies, I employ an event-study design to analyze the impact of appointing the first U.S.-experienced engineer to a corporate board. The study tests, and finds support for, the hypothesis that the consequences of this management technology for labor were contingent on Sweden's prevailing corporate governance regime. In the pre-1945 "managerial capitalism" era, these appointments are associated with significant workforce expansion. In contrast, in the post-1945 "investor capitalism" era, the same event is linked to workforce rationalization and a decline in labor's share of revenue. Conversely, the appointment of directors with business/finance backgrounds shows no significant effect on labor outcomes in either period, challenging the universality of contemporary findings that link business education to reduced rent-sharing. The results demonstrate that the impact of managerial innovation on the capital-labor distribution is not technologically determined but is mediated by the institutional and ideological context of the firm.
+
+
+date: today
+
+format:
+  hikmah-pdf: default
+  hikmah-manuscript-pdf: default
+
+execute: 
+  echo: false
+  warning: false
+  message: false
+bibliography: bib.bib
+---
+
+<!-- {{< pagebreak >}} -->
+
+## I. Introduction
+
+Firms innovate not only by adopting new machinery but also by implementing new methods of management. A growing body of economic literature posits that certain management practices can be understood as a form of "technology"; a set of replicable processes that can raise firm productivity [@bloom2016management]. Just as physical technologies diffused across borders, so too did these organizational technologies. This paper investigates one such crucial transfer: the importation of American management and production techniques into Sweden during its primary industrial transformation from 1873 to 1980. I argue that this "management technology" was primarily transmitted by a specific group of individuals—engineers and directors with direct work experience in the United States—and that its ultimate impact on labor was critically dependent on the prevailing corporate governance regime in Sweden.
+
+During its industrial catch-up, Sweden looked to the technological and organizational frontier, particularly the United States. A distinctive feature of this era was the "brain gain" from returning engineers who, after stints at leading American firms, brought back not just technical skills but also new philosophies of industrial organization [@gronberg2003LearningReturningReturn]. These imported practices ranged from Taylorist scientific management, which began influencing major Swedish firms like Separator in the early 1900s [@mirsafian2023taylorism], to broader concepts of rationalization, corporate welfare, and mass production. This transfer represents the "adoption" of a new, intangible technology by Swedish firms, an event often marked by the appointment of a U.S.-experienced director to the board.
+
+However, the consequences of this technology for workers were not predetermined. This paper's central hypothesis is that the effect of American-style management on labor outcomes was contingent on the historical era in which it was introduced. I distinguish between two periods:
+
+- The "Managerial Capitalism" Era (pre-1945): A period characterized by technocratic leadership, concentrated ownership, and a stakeholder-oriented governance model where firms pursued long-term growth, often in cooperation with labor [@hogfeldt2005HistoryPoliticsCorporate; @degeer1992americanisation]. In this context, I hypothesize that the imported management technology was primarily deployed to expand production and would be associated with workforce growth.
+
+- The "Investor Capitalism" Era (post-1945): A period marked by a gradual shift towards prioritizing financial metrics and shareholder returns, a trend that accelerated globally in the latter half of the 20th century [@sluyterman2022changing]. Here, I hypothesize that the same management principles would be increasingly used for rationalization and labor productivity gains, potentially leading to workforce stagnation or reduction.
+
+This framework allows for a direct historical test of how corporate governance mediates the impact of an innovation on the distribution of its gains. It contrasts with recent findings by Acemoglu, He, and Le Maire (2023), who show that contemporary managers with business degrees tend to reduce wages and labor's share [@acemoglu2022EclipseRentSharingEffectsa]. My analysis explores whether this outcome is a universal feature of a specific management "technology" or a product of the modern shareholder-value paradigm. By examining a period before this paradigm was dominant, I can isolate whether the effect is inherent to the practice or contingent on the ideology.
+
+To test this, I employ an event-study methodology using a newly compiled dataset combining firm-level financial reports and detailed director biographies for 71 large Swedish firms from 1873 to 1980. I exploit the timing of the first appointment of directors with U.S. work experience to estimate the causal impact on key labor outcomes: total employment, labor productivity (revenue per worker), and a proxy for labor's share of income (wage bill to revenue). By analyzing the pre- and post-1945 periods separately, I assess how the impact of this "management technology" evolved alongside Sweden's corporate landscape.
+
+The findings reveal a historically contingent relationship. While the appointment of U.S.-experienced engineers shows a positive, though not always statistically significant, correlation with labor productivity, the impact on employment differs by era. This suggests that the same set of managerial skills was deployed with different objectives over time, shaped by the broader shift in corporate governance. The paper thus contributes to the "Labor and Innovation" debate by treating management as a crucial, transferable technology and demonstrating that its consequences for workers are not fixed, but are instead molded by the institutional and ideological context of the firm.
+
+The paper proceeds as follows: Section II reviews the literature on management as an imported technology and the evolution of Swedish corporate governance. Section III describes the novel dataset and digitization process. Section IV details the event-study methodology and identification strategy. Section V presents the main results testing my hypotheses across the two historical eras. Section VI concludes.
+
+
+## II. Literature Review
+
+### Management as an Imported Technology
+
+The transfer of technology is not limited to physical machinery; it critically includes the diffusion of organizational and managerial knowledge. In the late 19th and early 20th centuries, as Sweden sought to catch up with industrial leaders, its firms actively imported management practices, primarily from the United States. This imported knowledge can be understood as an intangible "technology" adopted by firms to enhance efficiency and rationalize production [@bloom2016management]. The primary conduits for this technology transfer were Swedish engineers who trained or worked abroad.
+
+A distinctive feature of Swedish industrialization was the influence of these returning engineers. Studies of return migration suggest a significant "brain gain" occurred: a majority of Swedish engineers who went to the U.S. for experience later returned home, bringing valuable knowledge [@gronberg2003LearningReturningReturn, p. 71]. Per-Olof Grönberg’s research shows these returnee engineers diffused not only advanced production techniques but also modern management practices during the country’s “second industrial breakthrough” [@gronberg2003LearningReturningReturn; @magnusson2014SverigesEkonomiskaHistoria]. The imported management technology was multifaceted. It included the principles of Scientific Management, or Taylorism, which focused on the scientific analysis of work processes, standardization, and incentive-based wages to boost productivity. Swedish firms were early adopters; Separator, for instance, began implementing Taylorist principles as early as 1902 after its chief engineer observed them in the United States [@mirsafian2023taylorism].
+
+Beyond the specifics of Taylorism, these engineers imported broader philosophies of rationalization, including "efficient workflows and corporate welfare programs learned in America" [@gronberg2003LearningReturningReturn, p. 15]. At firms like ASEA and Sandvik, this know-how was applied to reorganize production and improve productivity [@gronberg2003LearningReturningReturn, p. 113]. This "reverse technology transfer" was a key mechanism for Sweden’s industrial upgrading, as engineers brought back not just blueprints but also new organizational structures and quality control systems [@gronberg2003LearningReturningReturn]. American experience became a form of "symbolic capital" that boosted engineers’ influence within firms [@gronberg2003LearningReturningReturn, p. 24]. The appointment of a director with U.S. experience can thus be seen as a firm's decision to "adopt" this package of American managerial technology.
+
+### The Evolution of Swedish Corporate Governance: From Managerial to Investor Capitalism
+
+The environment into which this imported management technology was introduced was not static. The objectives and governance structures of Swedish corporations evolved significantly over the 20th century, creating a shifting context that likely mediated the impact of these new practices on labor. This evolution can be broadly characterized as a transition from an era of "managerial capitalism" to one of "investor capitalism" [@sluyterman2022changing, p. 711].
+
+For much of the period before World War II, Swedish corporate governance was defined by what could be termed "managerial capitalism." This era was characterized by highly concentrated ownership, often within powerful family and banking spheres like the Wallenbergs, who worked alongside a professionalized, technocratic management [@hogfeldt2005HistoryPoliticsCorporate]. Engineers, valued for their technical expertise, dominated executive positions in Sweden’s largest industrial firms [@henrekson2021SocialBackgroundElite, p. 15]. The prevailing model was stakeholder-oriented, with a focus on long-term stability and growth rather than immediate shareholder returns [@hogfeldt2005HistoryPoliticsCorporate]. Industrialist Marcus Wallenberg Sr.'s view that technically complex firms "lacked the competence to run the firms themselves," necessitating the installation of engineer-managers under the owners' financial oversight, epitomizes this approach [@hogfeldt2005HistoryPoliticsCorporate, p. 589]. This governance structure, focused on technical development and corporate longevity, created an environment where imported management techniques were likely deployed towards expansion and capacity-building.
+
+Following World War II, and accelerating from the 1970s onward, this model began to shift. The post-war period saw the increasing "Americanisation" of Swedish business culture, which gradually introduced a greater emphasis on marketing, finance, and shareholder value [@degeer1992americanisation]. This was part of a broader international trend away from the primacy of technical experts and towards "investor capitalism," where maximizing shareholder returns became the central objective [@sluyterman2022changing, p. 711]. While Sweden retained its concentrated ownership structure, the rise of directors with backgrounds in business and finance, as documented by @henrekson2021SocialBackgroundElite, signaled a change in corporate priorities. This shift aligns with the "shareholder value" paradigm that has been shown in contemporary studies to correlate with management decisions that suppress wages and labor's share of income [@acemoglu2022EclipseRentSharingEffectsa].
+
+This historical evolution is central to this paper's hypothesis. The same American management "technology"—focused on efficiency and rationalization—was introduced into two distinct corporate governance regimes. By examining the impact of U.S.-experienced directors before and after 1945, this study can test whether the consequences of this innovation for labor were inherent to the practices themselves or were contingent on the prevailing corporate ideology—be it the growth-oriented managerialism of the early period or the finance-focused investor capitalism of the latter.
+
+
+## III. Data and Source Criticism
+
+### Data sources
+
+This study draws on three interrelated data sources to examine the link between business-educated and U.S.-experienced engineers on Swedish corporate boards and firm-level outcomes; firm-level financials, board composition, and biographical details of directors. The first two come from company reports, while the third is extracted from two sets of biographical dictionaries that detail the lives of prominent Swedes in the 20th century.
+
+I access the annual reports for companies listed on the Stockholm Stock Exchange, collected from the online archives of the Swedish House of Finance at the Stockholm School of Economics (SSE). These reports span 1873–2006, and are provided in PDF form. For the present project, the focus is on data from 1873 to 1980. I extract from these reports income statement information including revenue, cost of goods sold, operating expenses, wages, taxes, depreciation, net income, as well as balance sheet line items; total assets, current assets, fixed assets, total liabilities, current liabilities, long-term liabilities, and shareholder equity. I also extract the number of workers (sometimes disaggregated into white-collar vs. blue-collar).
+
+I limit the sample to firms with at least 30 years of data between 1873 and 1980, resulting in 71 firms included. For these 71 firms, the annual reports list the names and positions of their board members (alongside auditors) near the balance sheet. @fig-crot displays the coverage by firm and year. The purpose of limiting the number of firms was to ensure sufficient time-series data per firm for robust panel data and event-study analysis.
+
+![Annual Report Coverage](images/company_reports_over_time.png){#fig-crot}
+
+To know about each director’s educational background, international experience, and broader career trajectory, information was gathered from Swedish biographical dictionaries *Vem är Vem?* and *Vem är Det?*. These references document education (e.g., engineering vs. business), overseas postings or study, and other notable career milestones. I detail the digitization of this data in the third paper of my thesis, and include a summary below.
+
+### Data Collection and Digitization
+
+The digitization process involved scraping the scanned archival annual reports from the Stockholm School of Economics Library - which along with drawing on their own archive, collected some reports from the Royal Library and Centrum för Näringslivshistoria to fill coverage gaps. This scraping script is available in the code repository linked above.
+
+A novel digitization process was needed to manage changes in financial reporting and layout over eight decades. Conventional Optical Character Recognition (OCR) methods proved insufficient due to inconsistent table structures, especially when reports extended over multiple pages to detail subsidiaries and international branches. Instead, the project used Large Language Models from Google’s “Gemini” family, combined with a custom pydantic data schema, to extract structured information from images. This approach sidestepped the need for traditional OCR by relying on multimodal image-processing capabilities, which improved accuracy and consistency. Nonetheless, certain complexities remain. Reporting language gradually shifted from Swedish to English for some companies, and the scope of financial disclosure expanded, with some early reports totaling only two pages and later ones exceeding one hundred. Although the main income statement and balance sheet items remained comparable, firm-level coverage of current assets, current liabilities, and subsidiary performance varied from year to year. The data is made accessible in the code repository linked above, as well as in an [interactive dashboard for exploration](https://swedish-annual-reports-archive-explorer.streamlit.app/), detailed in @fig-data-portal.
+
+Despite these technical advances, certain challenges remained. Variations in balance sheet reporting posed difficulties, as some firms presented multi-page breakdowns of assets or liabilities across subsidiaries or international branches, making it difficult to aggregate consistently. Additionally, language changes over time added complexity; reporting language shifted from Swedish to English in the mid-20th century for some companies. This issue was partially addressed by prompting the extraction models to recognize both Swedish and English terms, as evidenced in the reproduced PyDantic data schema in the appendix.
+
+{{< pagebreak >}}
+
+
+::: {#fig-reportsone layout-ncol=2}
+
+![1925](images/report-1.png){#fig-cri-1925}
+
+![1950](images/report-2.png){#fig-cri-1950}
+
+![1975](images/report-3.png){#fig-cri-1975}
+
+Profit and Loss Statements and Balalnce Sheets for Electrolux AB from 1925, 1950, and 1975. Souce: Swedish House of Finance at the Stockholm School of Economics Library Archives.
+
+:::
+
+{{< pagebreak >}}
+
+
+Board composition data were generally easier to extract, given that names and positions typically appeared in a standard location beneath the balance sheet. Individual directors’ surnames, initials, full names, and any listed title (e.g., Verkställande Direktör or Ordförande) were recorded.
+
+To supplement these board lists with directors’ backgrounds, a fuzzy string-matching algorithm was employed to match board members against the *Vem är Vem?* and *Vem är Det?* biographical dictionaries. Approximately 72% of board members were successfully matched using surname and initials; improving upon this match rate — potentially by incorporating mentions of employers or corporate affiliations into the matching routine — remains an area for future work. In the later periods towards 1980, the match rate drops slightly as I am drawing mainly on the *Vem är Det?* biographical dictionaries, which are published later and have less coverage than the *Vem är Vem?* volumes. It would be possible to improve the match rate by expanding the search to other biographical dictionaries such as the SBL, or company archives, but this is beyond the scope of the paper at present.
+
+An example of the biographical data is shown in @fig-vav-1, and the distribution of biographies across volumes and time period is shown in @fig-vav-2.
+
+### Source Criticism
+
+Although these biographical dictionaries offer a valuable repository of career information, they have certain limitations. Inclusion was partly self-selective, in that individuals could pay a nominal fee to appear, and the depth of information varies from one entry to another. A comparison with the Swedish Biographical Lexicon (SBL), which selects figures on broader historical grounds, revealed that fewer than one-fifth of the sampled individuals from *Vem är Vem?* also appear in the SBL. This discrepancy implies that *Vem är Vem?* may overrepresent socially prominent individuals, but that limitation is less consequential for studying board members of listed firms, who tend to hold influential positions by definition. Nonetheless, caution is warranted when interpreting patterns of foreign training or professional networking, since those who invested in a biographical listing may differ systematically from peers who did not.
+
+::: {#fig-vemarvem layout-ncol=2}
+
+![An example of a biogaphy from Karl Gustav Lund](images/vem_page-1.png){#fig-vav-1}
+
+![Number of biographies in each volume of 'Vem är Vem?' and 'Vem är Det?'](images/combined_biographies_plot.png){#fig-vav-2}
+
+Example of a biographical entry from *Vem är Vem?* and the number of biographies in each volume from *Vem är Vem?* and *Vem är Det?*. Source: Projekt Runeberg scans of *Vem är Vem?* and *Vem är Det?* volumes and author's own analysis.
+
+:::
+
+
+Another key limitation involves the composition of the 71 firms under study. The sample primarily includes the largest listed companies, many of which are finance and investment entities or engineering and industrial firms. According to internal categorization, finance and investment comprises 30.43 percent of the sample and engineering and industrial another 20.29 percent, with the remainder distributed across consumer goods, mining and metals, telecommunications, technology, automotive, and machinery. These proportions mean that the findings will not necessarily generalize to smaller, non-listed firms in other sectors. See @tbl-industry-distribution for a breakdown of the sample by broad industry classification.
+
+
+| Broad Industry               | Percentage (%) |
+|------------------------------|---------------|
+| Finance & Investment         | 30.43%        |
+| Engineering & Industrial     | 20.29%        |
+| Other                        | 18.84%        |
+| Consumer Goods               | 15.94%        |
+| Mining & Metals              | 7.25%         |
+| Telecommunications & Technology | 4.35%     |
+| Automotive & Machinery       | 2.90%         |
+
+: Distribution of firms in sample by broad industry classification. {#tbl-industry-distribution}
+
+### Constructing Variables
+
+To implement the event-study analysis, I construct the necessary variables at the firm-year level. This process involves defining the key labor outcomes, classifying the different types of directors based on their biographical data, and identifying the timing of their first appearance on a firm's board.
+
+### Dependent Variables: Labor Outcomes
+The primary dependent variables are derived from the digitized annual reports and are chosen to capture dimensions of firm-level labor outcomes:
+
+- Workforce Size: Measured as `log(Total Employees)`. This variable directly tests the hypothesis of whether the adoption of new management techniques led to workforce expansion or rationalization.
+
+- Labor Productivity: Measured as `log(Revenue / Employee)`. This serves as the main proxy for the productivity of the workforce.
+
+- Labor's Share of Revenue: Proxied by `log(Wage Bill / Revenue)`. This variable serves as a proxy for labor's share of firm income, an important metric in assessing the distributional consequences of managerial decisions. While this ratio can be influenced by factors like changes in capital intensity or the cost of intermediate inputs, it is the most consistently available measure in historical annual reports. The inclusion of firm fixed effects in the regression models helps to control for time-invariant differences in firms' production functions and capital structures, thus isolating changes in the wage bill relative to revenue over time.
+
+### Independent Variables: Director Types and "Adoption" Events
+
+The independent variables identify the "adoption" of a new management technology, proxied by the first appointment of a director with a specific background. Identifying these directors involves linking the annual board membership lists from company reports with the biographical details from the Vem är Vem? and Vem är Det? dictionaries, using the fuzzy matching process described earlier.
+
+
+Following a similar approach to Acemoglu, He and le Maire (2023) [@acemoglu2022EclipseRentSharingEffectsa], I classify directors' educational backgrounds by searching for specific keywords within the biographical entries describing their education.^[Keywords for engineering education include: 'tekniska', 'chalmers', 'kth', 'tekn', 'ingenjör', 'teknisk', 'teknolog', 'polytekn', 'engineering', 'technical'. Keywords for business/finance education include: 'handels', 'ekonom', 'handelshögskola', 'business', 'commerce', 'ekonomisk', 'handelsinstitut', 'handelsgymnasium'. Example of a Technical Director: Eric Andersson, born in 1902, serves as a clear example of this category. His biographical data indicates that `has_technical_education` is TRUE. This classification stems from his educational record, which lists a 'Diplom Ingenjör' (Master of Science in Engineering) from the 'Tekniska Högskolan i Berlin o Darmstadt' in 1928. This formal, high-level degree from a foreign technical university clearly places him in the technical category. Example of a Business/Finance Director: Carl ABEMAN, born in 1896, exemplifies the "Business/Finance Director" category. His data shows that has_business_education is TRUE. This is based on his biography, which, although not listing a university degree, explicitly notes his completion of 'Handelskurser' (business/commerce courses). In the context of the early 20th century, such specialized commercial training qualifies him for this classification, distinguishing him from directors with purely technical or general academic backgrounds.]
+
+Based on this linked data, I define two distinct director types:
+
+- U.S.-Experienced Engineer: An individual who meets two criteria: (1) holds a formal degree in engineering (e.g., from KTH or Chalmers), and (2) has documented work experience at a named company or institution in the United States. This definition is intended to capture the conduits of American managerial and technical practices, distinguishing them from individuals with only brief study visits or general travel. The geographical distribution of documented foreign work or study locations for directors in the sample is illustrated in Figure \ref{fig:intl-map}.
+
+- Business/Finance Director: An individual with either (1) a formal degree from a business school (e.g., Stockholm School of Economics), or (2) a career primarily in the financial sector, including roles in banking, investment firms, or as a director representing a major bank.
+
+![Map of international experience](data/assets/directors_international_experience_map.png){#fig:intl-map}
+
+The central "treatment" event for the analysis is the first year a director matching one of these profiles joins a firm's board, conditional on the board having no such director in any prior year in the dataset.
+
+@fig-director-shares plots the prevalence of these two director types across all board seats in the sample over the entire period. The figure visually demonstrates the "Technocrats to Tycoons" narrative. U.S.-experienced engineers have a notable, though small, presence from the early 20th century, consistent with their role in the second industrial breakthrough. In contrast, the share of directors with a business or finance background begins a marked ascent in the post-war period, reflecting the broader shift in corporate priorities towards financial metrics and the investor capitalism model.
+
+```{r}
+#| fig-cap: "Share of Director Types on Boards, 1873-1950 by birth year of director"
+#| label: fig-director-shares
+library(tidyverse)
+theme_set(theme_light())
+
+df_directors <- readxl::read_excel("data/directors_education_data_deduplicated.xlsx")
+
+df_directors %>%
+    # extract 4 digits from the birth_date column
+    mutate(
+        birth_year = str_extract(birth_date, "\\d{4}"),
+        birth_year = parse_number(birth_year)
+    ) %>%
+    mutate(
+        # create variable to smooth out the data, where birthyear is grouped by 5 years
+        birth_year_5 = floor(birth_year / 3) * 3,
+    ) %>%
+    group_by(birth_year_5) %>%
+    summarise(
+        mean_technical = mean(has_technical_education, na.rm = T),
+        mean_business = mean(has_business_education, na.rm = T),
+    ) %>%
+    filter(between(birth_year_5, 1860, 1950)) %>%
+    ggplot(aes(x = birth_year_5)) +
+    geom_line(aes(y = mean_technical, colour = "Technical"), lty = 1) +
+    geom_line(aes(y = mean_business, colour = "Business"), lty = 2) +
+    theme(legend.position = "bottom") +
+    labs(
+        colour = "Type of education of board members",
+        x = "Year of director's birth",
+        y = "Share of director's with specific education",
+        caption = "Smoothing by 3 year rolling mean"
+    ) +
+    scale_y_continuous(labels = scales::percent_format(scale = 100)) +
+    scale_colour_manual(values = c("blue", "red"), labels = c("Technical", "Business")) 
+
+
+ggsave("data/assets/directors_education_over_time.png", width = 8, height = 6, dpi = 300)
+```
+
+I limit the sample to the 15,301 biographies of individuals with an occupation classified as a director (HISCO code 21000 to 21999). 
+
+Here we see that the relative share of individuals with technical education is higher than the share of individuals with business education, at least for individuals born from 1880 to 1935.
+
+### Control Variables
+
+Finally, the control variables included in the regressions are also derived from the annual reports. Firm size is measured as the natural logarithm of total assets, while firm age is calculated as the number of years since the firm's first available annual report within the dataset. Constructing these outcome, treatment timing, and control variables enables the subsequent estimation of the dynamic effects associated with changes in board composition.
+
+## IV. Empirical Method
+
+My primary empirical strategy employs an event-study design to estimate the causal impact of appointing directors with specific backgrounds—engineering training combined with U.S. work experience, or alternatively, business/finance training—on firm performance and labor-related outcomes [@acemoglu2022EclipseRentSharingEffectsa, p. 10]. This approach leverages the longitudinal nature of my firm-level panel data spanning 1873–1980, allowing me to analyze changes within firms following specific board appointments while controlling for unobserved heterogeneity.
+
+### Event Definition and Sample
+
+The main events are defined as the first appointment of a director with a specific background profile to a firm's board, where the board previously lacked any director with that profile [@acemoglu2022EclipseRentSharingEffectsa, p. 10]. I focus on two key event types relevant to my hypotheses:
+
+- **First U.S.-Experienced Engineer**: The first year a director with both an engineering education and documented U.S. work experience joins the board.
+- **First Business/Finance Director**: The first year a director with a business or finance educational background joins the board.
+
+My *treated* group consists of firms experiencing one of these first-time appointments during the sample period. Following [@acemoglu2022EclipseRentSharingEffectsa, p. 10], I restrict the treated sample to firms experiencing only one such event type (or the first instance, if a firm experiences both) and that had no director of that specific type prior to the event year. The *control* group consists of firms that never appoint a director of the specific type being analyzed throughout my sample period. This setup forms an unbalanced panel, as firms enter and exit the sample based on data availability (@fig-crot).
+
+### Event Study Specification
+
+To test the central hypothesis that the impact of appointing these directors was contingent on the prevailing corporate governance era, I estimate an event-study model that allows the effects to differ before and after 1945. The specification is:
+
+$$
+Y_{i,t} = \alpha_i + \delta_t + \sum_{k=-m}^{q} \beta_k D_{i,t}^k (1 - \text{Post1945}_t) + \sum_{k=-m}^{q} \gamma_k D_{i,t}^k (\text{Post1945}_t) + \Gamma X_{i,t} + \varepsilon_{i,t}
+$$
+
+where $Y_{i,t}$ is the outcome variable for firm *i* in year *t*. The key outcomes are:
+
+- $\log(\text{Total Employees})$
+- $\log(\text{Revenue} / \text{Employee})$
+- $\log(\text{Wage Bill} / \text{Revenue})$
+
+$\alpha_i$ are firm fixed effects, absorbing time-invariant firm characteristics.
+
+$\delta_t$ are year fixed effects, capturing aggregate economic shocks and trends.
+
+$D_{i,t}^k$ are dummy variables indicating that firm *i* is *k* years away from its event year ($k=0$).
+
+$\text{Post1945}_t$ is an indicator variable equal to 1 for years 1945 and later.
+
+The coefficients of interest are the two sets of dynamic estimators. The $\beta_k$ coefficients capture the average effect of the appointment in the pre-1945 *Managerial Capitalism* era. The $\gamma_k$ coefficients capture the effect in the post-1945 *Investor Capitalism* era. This specification allows for a direct test of whether the impact of the imported management "technology" on labor outcomes changed after World War II. For both sets of coefficients, the pre-event dummies (for $k<0$) serve as a crucial test for parallel trends, with the normalization $\beta_{-1} = 0$ and $\gamma_{-1} = 0$ imposed.
+
+$X_{i,t}$ is a vector of time-varying control variables, including the log of total assets and firm age. Standard errors are clustered at the firm level to account for potential serial correlation. For estimation, I utilize the imputation-based estimator proposed by @borusyak2024RevisitingEventStudyDesignsa, which is robust to heterogeneous treatment effects.
+
+### Identification Strategy and Endogeneity
+
+The central identifying assumption of this event-study design is that, conditional on firm and year fixed effects, firms that appoint a specific type of director for the first time (the *treated* group) would have followed parallel trends in outcomes to firms that never do (the *control* group) in the absence of the appointment. I test this assumption directly by examining the coefficients on the pre-event dummies ($\beta_k$ and $\gamma_k$ for $k<0$). Statistically insignificant coefficients for these pre-event periods provide evidence against differential pre-trends and support the validity of the causal interpretation.
+
+A primary concern is that board appointments are not random events. Firms may appoint directors with specific skills in response to, or in anticipation of, changes in performance. For example, a firm facing declining productivity might seek out a U.S.-experienced engineer. While firm fixed effects control for time-invariant heterogeneity, this type of dynamic selection could bias the results. The examination of pre-trends is the main tool to address this concern.
+
+It is important to note that this study, unlike some contemporary analyses, lacks a clear instrumental variable for board appointments, such as director deaths or retirements. Therefore, while the event-study design with pre-trend analysis provides a robust framework for estimating dynamic effects, the causal interpretation of the results remains contingent on the parallel trends assumption holding.
+
+{{< pagebreak >}}
+
+## V. Analysis
+
+### Baseline regression results
+
+The event-study analysis reveals a nuanced and historically contingent relationship between board composition and firm-level labor outcomes. The impact of appointing directors with specific expertise appears to depend critically on the prevailing corporate governance era. The results for U.S.-experienced engineers and business/finance directors are examined in turn.
+
+### The Evolving Impact of U.S.-Experienced Engineers
+
+The appointment of the first U.S.-experienced engineer, the proxy for the adoption of American management technology, is associated with distinctly different labor outcomes before and after 1945, as shown in @fig-us-engineer-effects.
+
+In the pre-1945 *Managerial Capitalism* era, the arrival of a U.S.-trained engineer is followed by a positive and statistically significant increase in $\log(\text{Total Employees})$. This finding is consistent with the hypothesis that, during this period of industrial expansion and stakeholder-oriented governance, this imported management technology was deployed to scale up production and expand the workforce. In sharp contrast, in the post-1945 *Investor Capitalism* era, the same event is followed by a statistically significant decrease in total employment. This suggests a pivotal shift in how this management technology was utilized: away from expansion and towards rationalization and labor-saving efficiency.
+
+Crucially, the analysis of $\log(\text{Revenue} / \text{Employee})$ shows no statistically significant effect in either period. While the point estimates are positive, they are not precise enough to draw firm conclusions. This suggests that the primary impact of this management "technology" was on the scale and organization of labor rather than on immediate, measurable shifts in average labor productivity.
+
+The most telling results appear in the analysis of $\log(\text{Wage Bill} / \text{Revenue})$, the proxy for labor's share. In the pre-1945 era, there is no discernible effect, suggesting that as firms grew, the wage bill expanded in line with revenue; the gains were, at a minimum, not captured at labor's expense. After 1945, however, the appointment is followed by a statistically significant decline in labor's share. Taken together with the simultaneous decline in employment, this provides indicative evidence that in the latter era, the management technology was used to rationalize the workforce in a way that shifted income from labor to capital. The flat and insignificant pre-trends across all outcomes support the validity of the event-study design.
+
+
+```{r}
+#| label: fig-us-engineer-effects
+#| fig-cap: "Event-study estimates of the impact of appointing the first U.S.-experienced engineer on labor outcomes"
+knitr::include_graphics("data/assets/us_engineer_effects.png")
+```
+
+
+### The Limited Impact of Business/Finance Directors
+
+In contrast to the dynamic effects associated with U.S.-trained engineers, the appointment of the first director with a business or finance background appears to have had a limited and statistically insignificant impact on labor outcomes in either era (@fig-business-director-effects).
+
+Across all three outcome variables—$\log(\text{Total Employees})$, $\log(\text{Revenue} / \text{Employee})$, and $\log(\text{Wage Bill} / \text{Revenue})$—the event-study coefficients hover around zero and show no significant pre- or post-treatment effects in either the pre-1945 or post-1945 period.
+
+This pattern of null results is significant in itself. It suggests that, within the context of 20th-century Sweden, the rise of finance-oriented leadership did not immediately translate into the kind of measurable changes in labor productivity or workforce size seen with the "adoption" of U.S. management practices. Most importantly, the absence of a negative effect on labor's share of revenue, even in the post-1945 era, stands in stark contrast to the findings of @acemoglu2022EclipseRentSharingEffectsa for the contemporary period. This provides preliminary evidence that the negative association between business-educated managers and labor's share may be a more recent phenomenon, tied to the consolidation of the shareholder value paradigm rather than an inherent feature of business training itself.
+
+
+```{r}
+#| label: fig-business-director-effects
+#| fig-cap: "Event-study estimates of the impact of appointing the first business/finance director on labor outcomes"
+knitr::include_graphics("data/assets/business_director_effects.png")
+```
+
+
+## VI. Discussion and Conclusion
+
+This paper investigated how the adoption of a new "management technology," proxied by the appointment of U.S.-experienced engineers, influenced labor outcomes in large Swedish firms from 1873 to 1980. The central finding is that the impact of this innovation was not fixed; rather, it was contingent on the prevailing corporate governance regime. The results suggest a clear shift in how American-style management practices were deployed: in the pre-1945 era of *managerial capitalism*, they were associated with workforce expansion, while in the post-1945 era of *investor capitalism*, they were linked to workforce rationalization and a declining share of revenue going to labor.
+
+This historical contingency provides a powerful narrative. It suggests that a technology's effect on the capital-labor distribution is not solely determined by its intrinsic properties but is mediated by the objectives of the firms deploying it. During Sweden's expansionary, stakeholder-oriented phase, efficiency gains were channeled into growth. As corporate priorities shifted towards financial metrics in the post-war era, the same efficiency-oriented principles were used to cut labor costs and boost returns to capital. While the metrics used in this study are imperfect proxies, they are indicative of this underlying dynamic and warrant deeper investigation.
+
+Furthermore, the absence of a significant negative effect on labor's share following the appointment of business/finance directors challenges the universality of contemporary findings [@acemoglu2022EclipseRentSharingEffectsa]. This null result is consistent with the hypothesis that the shareholder-value-maximizing behavior observed in modern managers may be a product of a specific, late-20th-century ideology, rather than an inherent trait of business education across all historical contexts. It reinforces the idea that alternative, more stakeholder-inclusive models of capitalism have not only existed but have been practiced by directors with formal business training.
+
+Of course, these conclusions remain tentative. The analysis relies on proxies for key concepts, and the focus on large listed firms may not be representative. However, this study contributes by applying a causal inference framework to newly compiled historical data, demonstrating the value of treating management as a transferable technology. It complicates narratives of deterministic technological impacts and highlights the crucial role of corporate governance in shaping the distribution of innovation's gains. By showing that the "rules of the game" within the firm can fundamentally alter how a technology affects workers, this research offers a vital historical perspective for today's debates on labor and innovation.
+
+
+{{< pagebreak >}}
+
+
+## Appendix
+
+#### List of Companies in the Dataset
+
+| Company Name         | Classification/Industry                          |
+|----------------------|--------------------------------------------------|
+| AGA                  | Industrial gases & chemical technology           |
+| ASEA                 | Electrical engineering & industrial technology   |
+| Addo                 | Office machines & calculators                    |
+| AlfortCronholm       | Wholesale trade (hardware and tools)             |
+| Arvikaverken         | Heavy machinery / industrial engineering         |
+| Astra                | Pharmaceuticals & healthcare                     |
+| Atlantica            | Insurance services                               |
+| Bahco                | Hand tools & metalworking equipment              |
+| Baltic               | Shipping / maritime services                     |
+| Beckers              | Paints & coatings                                |
+| Beijerinvest         | Investment & holding company                     |
+| Billerud             | Pulp, paper & packaging                          |
+| Billman              | Engineering components (industrial valves)       |
+| Boxholm              | Steel production & metal fabrication             |
+| Coronaverken         | Iron & steel works                               |
+| Custos               | Investment & holding company                     |
+| Diamantbergborrning  | Mining & drilling (mining services)              |
+| Diligentia           | Real estate & property management                |
+| Drott                | Real estate & property management                |
+| Electrolux           | Home appliances & consumer electronics           |
+| Emissionsinstitutet  | Environmental research & consultancy             |
+| Ericsson             | Telecommunications & networking equipment        |
+| Esselte              | Office products & stationery                     |
+| Exportinvest         | Investment & export finance                      |
+| Fagersta             | Steel & metallurgical engineering                |
+| Fannyudde            | Engineering & manufacturing (marine equipment)   |
+| Ford                 | Automotive manufacturing (Swedish operations)    |
+| Forshaga             | Chemical industry (plastics and resins)          |
+| Heimdall             | Security services                                |
+| Hennes               | Fashion retail (origin of H&M)                   |
+| Hufvudstaden         | Real estate & property management                |
+| Iggesund             | Iron & steel, later pulp and paper               |
+| Incentive            | Investment & holding company                     |
+| Investor             | Investment & holding company                     |
+| Invik                | Investment & finance                             |
+| JW                   | Engineering & manufacturing (industrial equipment)|
+| Kilsund              | Maritime engineering & metal works               |
+| Kinnevik             | Investment & holding company                     |
+| Kopparfors           | Forestry & paper industry                        |
+| Kreditbanken         | Banking & finance                                |
+| Lux                  | Consumer goods (lighting/appliances)             |
+| Marabou              | Confectionery & food production                  |
+| Metallverken         | Metalworking & industrial manufacturing          |
+| Neptun               | Maritime services (tugboats and salvage)         |
+| Nessim               | Investment & finance                             |
+| Nordbanken           | Banking & finance                                |
+| Norrlandsbanken      | Banking & finance                                |
+| Optimus              | Portable stoves & heating equipment              |
+| PLM                  | Packaging & containers                           |
+| Papyrus              | Stationery & paper products                      |
+| Pripps               | Brewery & beverage production                    |
+| Providentia          | Investment & holding company                     |
+| Pumpseparator        | Industrial equipment (fluid handling)            |
+| Ratos                | Investment & holding company                     |
+| SEBanken             | Banking & finance                                |
+| Sandvik              | Engineering (materials technology & mining tools)|
+| Skandia              | Insurance & financial services                   |
+| Skaraborgsbanken     | Banking & finance                                |
+| Sonesson             | Consumer goods (food production)                 |
+| Stockholmsbryggerier | Brewery & beverage production                    |
+| Sulitelma            | Mining (zinc and copper)                         |
+| Sundsvallsbanken     | Banking & finance                                |
+| Tarkett              | Flooring & building materials                    |
+| Tjenstemannabanken   | Banking & finance (service bank)                 |
+| Trelleborg           | Industrial engineering (polymer-based products)  |
+| Uddeholm             | Tool steels & metallurgical production           |
+| Uplandsbanken        | Banking & finance                                |
+| Volta                | Electrical appliances (vacuum cleaners)          |
+| Volvo                | Automotive & heavy machinery manufacturing       |
+
+
+#### Summary of companies
+
+| Broad Industry               | Percentage (%) |
+|------------------------------|---------------|
+| Finance & Investment         | 30.43%        |
+| Engineering & Industrial     | 20.29%        |
+| Other                        | 18.84%        |
+| Consumer Goods               | 15.94%        |
+| Mining & Metals              | 7.25%         |
+| Telecommunications & Technology | 4.35%     |
+| Automotive & Machinery       | 2.90%         |
+
+{{< pagebreak >}}
+
+```{python}
+#| eval: false
+#| echo: true
+
+
+# --- Pydantic Models ---
+
+class IncomeStatement(BaseModel):
+    """
+    Standard representation of an Income Statement.
+    Note: In many older reports, board member names are listed below this statement.
+    """
+    revenue: Optional[float] = Field(
+        None, description="Total revenues or sales. (Swedish: Intäkter)"
+    )
+    cost_of_goods_sold: Optional[float] = Field(
+        None, description="Cost of goods sold. (Swedish: Kostnad såld vara)"
+    )
+    operating_expenses: Optional[float] = Field(
+        None, description="Total operating expenses. (Swedish: Rörelsekostnader)"
+    )
+    wages_expense: Optional[float] = Field(
+        None, description="Total wages and salaries expense. (Swedish: Lönekostnader)"
+    )
+    tax_expense: Optional[float] = Field(None, description="Tax expense. (Swedish: Skatt)")
+    depreciation: Optional[float] = Field(None, description="Depreciation (Swedish: Avskrivningar)")
+    net_income: Optional[float] = Field(
+        None, description="Net income (profit or loss) for the period. (Swedish: Årets resultat)"
+    )
+
+
+class BalanceSheet(BaseModel):
+    """
+    Standard representation of a Balance Sheet.
+    """
+    total_assets: Optional[float] = Field(
+        None, description="Total assets at period end. (Swedish: Tillgångar)"
+    )
+    current_assets: Optional[float] = Field(
+        None, description="Current assets. (Swedish: Omsättningstillgångar)"
+    )
+    fixed_assets: Optional[float] = Field(
+        None, description="Long-term or fixed assets. (Swedish: Anläggningstillgångar)"
+    )
+    total_liabilities: Optional[float] = Field(
+        None, description="Total liabilities. (Swedish: Skulder)"
+    )
+    current_liabilities: Optional[float] = Field(
+        None, description="Current liabilities. (Swedish: Kortfristiga skulder)"
+    )
+    long_term_liabilities: Optional[float] = Field(
+        None, description="Long-term liabilities. (Swedish: Långfristiga skulder)"
+    )
+    shareholders_equity: Optional[float] = Field(
+        None, description="Total shareholders' or owners' equity. (Swedish: Eget kapital)"
+    )
+
+
+class BoardMember(BaseModel):
+    """
+    Representation of a single board member.
+    Typically listed below the Income Statement in older reports.
+    """
+    surname: str = Field(..., description="The surname of the board member.")
+    first_name: Optional[str] = Field(None, description="The first name of the board member.")
+    initials: Optional[str] = Field(None, description="Initials of the board member.")
+    position: Optional[str] = Field(None, description="The board position held by the member.")
+
+
+class Auditor(BaseModel):
+    """
+    Representation of a single auditor.
+    Typically listed after the board members.
+    """
+    surname: str = Field(..., description="The surname of the auditor.")
+    first_name: Optional[str] = Field(None, description="The first name of the auditor.")
+    initials: Optional[str] = Field(None, description="Initials of the auditor.")
+    auditing_firm: Optional[str] = Field(None, description="The auditing firm, if specified.")
+
+
+class Employees(BaseModel):
+    """
+    Representation of the number of employees in a company.
+    """
+    n_employees: Optional[int] = Field(None, description="Total number of employees. (Swedish: Antal anställda)")
+    n_blue_collar_workers: Optional[int] = Field(None, description="Total number of blue collar workers. (Swedish: Antal arbetare)")
+    n_white_collar_workers: Optional[int] = Field(None, description="Total number of white collar workers. (Swedish: Antal tjänstemän)")
+
+
+class FinancialReport(BaseModel):
+    """
+    Comprehensive financial report model, including:
+    - Income Statement (with Swedish term references)
+    - Balance Sheet (with Swedish term references)
+    - Employees (with Swedish term references)
+    - Board members (often listed under the P&L statement)
+    - Auditors (often follow after the board list)
+    """
+    company_name: str = Field(..., description="The name of the company.")
+    fiscal_year: int = Field(..., description="Fiscal year of the report.")
+    income_statement: IncomeStatement = Field(..., description="Income statement details.")
+    balance_sheet: BalanceSheet = Field(..., description="Balance sheet details.")
+    employees: Optional[Employees] = Field(None, description="Employee details.")
+    board: Optional[List[BoardMember]] = Field(None, description="List of board members with details.")
+    auditors: Optional[List[Auditor]] = Field(None, description="List of auditors with details.")
+    additional_notes: Optional[str] = Field(None, description="Any extra commentary or notes from the report.")
+
+
+```
+
+{{< pagebreak >}}
+
+## Data portal to examine company report data
+
+I have created a Streamlit app to explore the company report data. The app allows users to select a set of companies, and view the extracted financial data. The second tab of the app allows users to calculate ratios of interest, such as revenue per employee, and view the development of these ratios across the selected companies and across time.
+
+The app is available at the following link: [https://swedish-annual-reports-archive-explorer.streamlit.app/](https://swedish-annual-reports-archive-explorer.streamlit.app/).
+
+::: {#fig-data-portal layout-ncol=1}
+
+
+![First tab](images/app-01.png){#fig-dp-1}
+
+![Second tab](images/app-02.png){#fig-dp-2}
+
+Screenshots of the Streamlit app interface. Source: Author's own work.
+
+:::
+
+
+{{< pagebreak >}}
+
+## Works Cited

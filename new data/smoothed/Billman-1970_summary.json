@@ -1,0 +1,86 @@
+{
+  "company_name": "BILLMAN regulator ab",
+  "fiscal_year": 1970,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 115759.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 105295.0,
+    "wages_expense": null,
+    "tax_expense": 1223.0,
+    "depreciation": 2111.0,
+    "net_income": 1576.0
+  },
+  "balance_sheet": {
+    "total_assets": 109727.0,
+    "current_assets": 81178.0,
+    "fixed_assets": 28059.0,
+    "total_liabilities": 31812.5,
+    "current_liabilities": 27459.333333333332,
+    "long_term_liabilities": 16083.666666666666,
+    "shareholders_equity": 33545.0
+  },
+  "employees": {
+    "n_employees": 1380,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SAVE",
+      "first_name": "CARL",
+      "initials": "T.",
+      "position": "direktör, ordförande"
+    },
+    {
+      "surname": "WALL",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "direktör, v. ordförande"
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "GOSTA",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "SJÖBORG",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "advokat"
+    },
+    {
+      "surname": "WEBER",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "de VITRY",
+      "first_name": "ARNAUD",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "UTTER",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "NYLANDER",
+      "first_name": "RUNE",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ]
+}

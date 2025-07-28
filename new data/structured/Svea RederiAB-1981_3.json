@@ -1,0 +1,92 @@
+{
+  "company_name": "STOCKHOLMS FÖRVALTNINGSAKTIEBOLAG SVEA",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 365.696,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 365.835,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6.839,
+    "net_income": 28.046
+  },
+  "balance_sheet": {
+    "total_assets": 512.415,
+    "current_assets": 71.025,
+    "fixed_assets": 441.367,
+    "total_liabilities": 342.455,
+    "current_liabilities": 96.252,
+    "long_term_liabilities": 246.203,
+    "shareholders_equity": 169.96
+  },
+  "employees": {
+    "n_employees": 267,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hallåker",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Gezelius",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmberg",
+      "first_name": "Klas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erling",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ödner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Eric",
+      "initials": "D",
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehnborg",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundvall",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

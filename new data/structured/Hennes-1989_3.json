@@ -1,0 +1,110 @@
+{
+  "company_name": "H&M Hennes & Mauritz AB",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 5561.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 46.0,
+    "depreciation": 66.3,
+    "net_income": 107.2
+  },
+  "balance_sheet": {
+    "total_assets": 1977.6,
+    "current_assets": 1468.1,
+    "fixed_assets": 503.0,
+    "total_liabilities": 622.0,
+    "current_liabilities": 109.6,
+    "long_term_liabilities": 433.5,
+    "shareholders_equity": 292.0
+  },
+  "employees": {
+    "n_employees": 5763,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ordförande H & M"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Koncernchef och VD"
+    },
+    {
+      "surname": "Hertzen",
+      "first_name": "Krister",
+      "initials": null,
+      "position": "VD Försäkringsbolaget SPP"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Finansdirektör H & M"
+    },
+    {
+      "surname": "Felixon",
+      "first_name": "Max",
+      "initials": null,
+      "position": "Inköpsdirektör H & M"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "VD Spiran Förvaltnings AB"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Vilumsons",
+      "first_name": "Anita",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Ella",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

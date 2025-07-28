@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET IGGESUNDS BRUK",
+  "fiscal_year": 1950,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 12552607.63,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6009738.7,
+    "net_income": 5048436.61
+  },
+  "balance_sheet": {
+    "total_assets": 88383150.23,
+    "current_assets": 12727002.79,
+    "fixed_assets": 19035999.83666667,
+    "total_liabilities": 58368170.095,
+    "current_liabilities": 16683258.113333333,
+    "long_term_liabilities": 5425376.78,
+    "shareholders_equity": 45353306.84666667
+  },
+  "employees": {
+    "n_employees": 5287.5,
+    "n_blue_collar_workers": 3481.6666666666665,
+    "n_white_collar_workers": 938
+  },
+  "board": [
+    {
+      "surname": "Bexelius",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "Sandvikens Jernverks Aktiebolag",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 30380877.22,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10614319.0,
+    "net_income": 5542267.04
+  },
+  "balance_sheet": {
+    "total_assets": 200168867.91,
+    "current_assets": 103661440.91,
+    "fixed_assets": 96507427.0,
+    "total_liabilities": 129077640.21,
+    "current_liabilities": 28082529.36,
+    "long_term_liabilities": 94133029.85,
+    "shareholders_equity": 71091227.7
+  },
+  "employees": {
+    "n_employees": 6888,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Göransson",
+      "first_name": null,
+      "initials": "K F",
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": null,
+      "initials": "Erik W",
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": null,
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Warn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sebardt",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sillén",
+      "first_name": null,
+      "initials": "O",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

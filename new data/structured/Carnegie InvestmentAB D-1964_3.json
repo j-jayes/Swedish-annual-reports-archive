@@ -1,0 +1,70 @@
+{
+  "company_name": "D. Carnegie & Co.",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 734641.08
+  },
+  "balance_sheet": {
+    "total_assets": 22978555.93,
+    "current_assets": null,
+    "fixed_assets": 19712680.89,
+    "total_liabilities": null,
+    "current_liabilities": 1217693.98,
+    "long_term_liabilities": 2257487.01,
+    "shareholders_equity": 18200000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SODERMAN",
+      "first_name": "H. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THULIN",
+      "first_name": "FOLKE G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LANGENSKIOLD",
+      "first_name": "C. G.",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GOSTA",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDGREN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

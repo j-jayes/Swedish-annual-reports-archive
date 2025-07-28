@@ -1,0 +1,39 @@
+{
+  "company_name": "Bolidens Gruvaktiebolag",
+  "fiscal_year": 1937,
+  "income_statement": {
+    "revenue": 16610003.38,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 561860.59,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6583716.48,
+    "net_income": 9464426.31
+  },
+  "balance_sheet": {
+    "total_assets": 104758780.01,
+    "current_assets": null,
+    "fixed_assets": 21066212.13,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 42000000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "WIJK",
+      "first_name": "HJALMAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WENDLER",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

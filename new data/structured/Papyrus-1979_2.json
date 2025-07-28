@@ -1,0 +1,88 @@
+{
+  "company_name": "AKTIEBOLAGET PAPYRUS",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 2056.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 128.1,
+    "net_income": 17.4
+  },
+  "balance_sheet": {
+    "total_assets": 3619.2,
+    "current_assets": 897.1,
+    "fixed_assets": 2594.0,
+    "total_liabilities": 2668.9,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 432.5
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Rudengren",
+      "first_name": "S.",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindquist",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Herry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijkström",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kjellman",
+      "first_name": "Sten",
+      "initials": "N.G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Leif",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

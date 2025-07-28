@@ -1,0 +1,116 @@
+{
+  "company_name": "Hennes & Mauritz",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 6606.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 78.8,
+    "net_income": 231.7
+  },
+  "balance_sheet": {
+    "total_assets": 2412.2,
+    "current_assets": 1927.7,
+    "fixed_assets": 214.9,
+    "total_liabilities": 851.5,
+    "current_liabilities": 851.5,
+    "long_term_liabilities": 111.7,
+    "shareholders_equity": 558.2
+  },
+  "employees": {
+    "n_employees": 6252,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Persson",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Felixon",
+      "first_name": "Max",
+      "initials": null,
+      "position": "Inköpsdirektör"
+    },
+    {
+      "surname": "Vilumsons",
+      "first_name": "Anita",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Koncernchef och VD"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "VD Pilen AB"
+    },
+    {
+      "surname": "Hertzen",
+      "first_name": "Krister",
+      "initials": null,
+      "position": "VD Försäkringsbolaget SPP"
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ordförande H&M"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Ella",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "Koncernchef Scandic Hotel AB"
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Finansdirektör H&M"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

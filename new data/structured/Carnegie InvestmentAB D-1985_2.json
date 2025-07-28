@@ -1,0 +1,104 @@
+{
+  "company_name": "Investment AB D. Carnegie & Co.",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 241297.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -112523.0,
+    "wages_expense": null,
+    "tax_expense": -27110.0,
+    "depreciation": -55226.0,
+    "net_income": 112834.0
+  },
+  "balance_sheet": {
+    "total_assets": 8733952.0,
+    "current_assets": 7395275.0,
+    "fixed_assets": 1332356.0,
+    "total_liabilities": 7086487.0,
+    "current_liabilities": 4784467.0,
+    "long_term_liabilities": 1148742.0,
+    "shareholders_equity": 583013.0
+  },
+  "employees": {
+    "n_employees": 85,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ekman",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Björkegren",
+      "first_name": "Carl-Eric",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Kaber",
+      "first_name": "Jaan",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "Civilekonom"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    },
+    {
+      "surname": "Finnhammar",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    },
+    {
+      "surname": "Ankerton",
+      "first_name": "Ove",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    },
+    {
+      "surname": "Björner",
+      "first_name": "Torbjörn",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

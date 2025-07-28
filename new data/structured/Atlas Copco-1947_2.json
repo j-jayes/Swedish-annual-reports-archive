@@ -1,0 +1,74 @@
+{
+  "company_name": "Aktiebolaget Atlas Diesel",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 7016066.17,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1780127.81,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2622287.0,
+    "net_income": 1505838.41
+  },
+  "balance_sheet": {
+    "total_assets": 39514095.56,
+    "current_assets": 25297488.56,
+    "fixed_assets": 5093000.0,
+    "total_liabilities": 19642900.8,
+    "current_liabilities": 4564930.1,
+    "long_term_liabilities": 15306264.76,
+    "shareholders_equity": 13191400.0
+  },
+  "employees": {
+    "n_employees": 632,
+    "n_blue_collar_workers": 1161,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Liljenroth",
+      "first_name": "F. G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sällfors",
+      "first_name": "C.",
+      "initials": "Tarras",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pyk",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Regnstrand",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 2592115.98,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 645906.8,
+    "net_income": 582680.29
+  },
+  "balance_sheet": {
+    "total_assets": 16373279.36,
+    "current_assets": 5007478.81,
+    "fixed_assets": 9116353.59,
+    "total_liabilities": 7293279.36,
+    "current_liabilities": 3693282.13,
+    "long_term_liabilities": 3600000.0,
+    "shareholders_equity": 9080000.0
+  },
+  "employees": {
+    "n_employees": 1192,
+    "n_blue_collar_workers": 1096,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ericsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Hakon",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Elis",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hult",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hultman",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare godkända granskningsmän."
+    },
+    {
+      "surname": "von Hofsten",
+      "first_name": "Sixten",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare godkända granskningsmän."
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare auktoriserad revisor."
+    }
+  ],
+  "additional_notes": null
+}

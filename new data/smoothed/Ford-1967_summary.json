@@ -1,0 +1,80 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1967,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 251969869.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 585484.0,
+    "net_income": 279000.0
+  },
+  "balance_sheet": {
+    "total_assets": 67429166.0,
+    "current_assets": 56176759.0,
+    "fixed_assets": 11252407.0,
+    "total_liabilities": 28943166.0,
+    "current_liabilities": 20987376.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 38486000.0
+  },
+  "employees": {
+    "n_employees": 407,
+    "n_blue_collar_workers": 162,
+    "n_white_collar_workers": 245
+  },
+  "board": [
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Ordförande - Chairman"
+    },
+    {
+      "surname": "FORD II",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": null,
+      "initials": "NILS K",
+      "position": null
+    },
+    {
+      "surname": "BORLIND",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINTON",
+      "first_name": "STELLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BAUM",
+      "first_name": null,
+      "initials": "HOWARD P",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ohrling",
+      "first_name": null,
+      "initials": "P O",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Witt",
+      "first_name": "Carl Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

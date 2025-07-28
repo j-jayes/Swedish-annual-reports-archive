@@ -1,0 +1,98 @@
+{
+  "company_name": "Ratos",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 2372.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 46.9
+  },
+  "balance_sheet": {
+    "total_assets": 2064.1,
+    "current_assets": 1101.5,
+    "fixed_assets": 953.9,
+    "total_liabilities": 1087.4,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 691.6
+  },
+  "employees": {
+    "n_employees": 3792,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilstein",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norin",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Tiblom",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Versteegh",
+      "first_name": "Arend",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Karl Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

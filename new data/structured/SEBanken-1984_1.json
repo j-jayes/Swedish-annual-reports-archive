@@ -1,0 +1,33 @@
+{
+  "company_name": "S-E-Banksgruppen",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2652.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 710.0,
+    "net_income": 468.0
+  },
+  "balance_sheet": {
+    "total_assets": 182097.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 9921.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "Styrelsens ordförande"
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

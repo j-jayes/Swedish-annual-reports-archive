@@ -1,0 +1,80 @@
+{
+  "company_name": "BERGVIK OCH ALA AKTIEBOLAG",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 17376117.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 7554580.0,
+    "net_income": 4586863.0
+  },
+  "balance_sheet": {
+    "total_assets": 204239357.0,
+    "current_assets": 60075410.0,
+    "fixed_assets": 115185396.0,
+    "total_liabilities": 123266168.0,
+    "current_liabilities": 25218411.0,
+    "long_term_liabilities": 98047757.0,
+    "shareholders_equity": 79110413.0
+  },
+  "employees": {
+    "n_employees": 2306,
+    "n_blue_collar_workers": 2026,
+    "n_white_collar_workers": 280
+  },
+  "board": [
+    {
+      "surname": "ÖDMARK",
+      "first_name": null,
+      "initials": "STIG",
+      "position": null
+    },
+    {
+      "surname": "FRANCKE",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "MELIN",
+      "first_name": null,
+      "initials": "HILDING",
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "SUNDFELDT",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhrling",
+      "first_name": null,
+      "initials": "P. O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": null,
+      "initials": "D.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ernsell",
+      "first_name": "Olov",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

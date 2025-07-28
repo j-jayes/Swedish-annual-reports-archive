@@ -1,0 +1,110 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1998,
+  "income_statement": {
+    "revenue": 57.187,
+    "cost_of_goods_sold": -12.185,
+    "operating_expenses": -31.142,
+    "wages_expense": null,
+    "tax_expense": -4.641,
+    "depreciation": null,
+    "net_income": 11.803
+  },
+  "balance_sheet": {
+    "total_assets": 76.138,
+    "current_assets": 39.567,
+    "fixed_assets": 36.571,
+    "total_liabilities": 31.283,
+    "current_liabilities": 15.819,
+    "long_term_liabilities": 5.313,
+    "shareholders_equity": 44.855
+  },
+  "employees": {
+    "n_employees": 24958,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BERGGREN",
+      "first_name": "BO",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "COONEY",
+      "first_name": "CHARLES L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DENNY",
+      "first_name": "JAMES M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAULKNER",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MÖLLER",
+      "first_name": "ERNA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RAMQVIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖRENSEN",
+      "first_name": "CARINA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNELL",
+      "first_name": "LARS H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOGREN",
+      "first_name": "HÅKAN",
+      "initials": null,
+      "position": "Verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "BJÖRNSON",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "MAGNUSSON",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Deloitte & Touche"
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "SVANTE",
+      "initials": null,
+      "auditing_firm": "Deloitte & Touche"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "Pripp & Lyckholm",
+  "fiscal_year": 1963,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 43638.43,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1442.0,
+    "depreciation": 3195.946,
+    "net_income": 5660.043
+  },
+  "balance_sheet": {
+    "total_assets": 78813.56,
+    "current_assets": 38671.908,
+    "fixed_assets": 31268.05,
+    "total_liabilities": 29530.289333333334,
+    "current_liabilities": 10817.469333333333,
+    "long_term_liabilities": 16549.02,
+    "shareholders_equity": 65427.15666666667
+  },
+  "employees": {
+    "n_employees": 1321,
+    "n_blue_collar_workers": 938,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmquist",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sverdrup",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ygge",
+      "first_name": "Birger",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

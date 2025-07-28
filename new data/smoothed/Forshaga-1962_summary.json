@@ -1,0 +1,86 @@
+{
+  "company_name": "LINOLEUM AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1962,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5808020.833333333,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1211333.939,
+    "net_income": 635333.651
+  },
+  "balance_sheet": {
+    "total_assets": 15329340.998,
+    "current_assets": 7382000.789,
+    "fixed_assets": 7852005.5,
+    "total_liabilities": 4329335.798,
+    "current_liabilities": 3024001.512,
+    "long_term_liabilities": 1305333.7236666668,
+    "shareholders_equity": 11000005.2
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 260,
+    "n_white_collar_workers": 160
+  },
+  "board": [
+    {
+      "surname": "Grönberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kaars Sypesteyn",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thornander",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zoelly",
+      "first_name": "Charles",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thomsen",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergbrant",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "Kopparfors Aktiebolag",
+  "fiscal_year": 1977,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 616.058,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 544.684,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 39.4,
+    "net_income": 11.217
+  },
+  "balance_sheet": {
+    "total_assets": 1337.726,
+    "current_assets": 344.1,
+    "fixed_assets": 978.944,
+    "total_liabilities": 667.7986666666667,
+    "current_liabilities": 258.096,
+    "long_term_liabilities": 378.82500000000005,
+    "shareholders_equity": 264.044
+  },
+  "employees": {
+    "n_employees": 2401,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HOLGERSSON",
+      "first_name": "Sigbjörn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MONTGOMERY",
+      "first_name": "Henry",
+      "initials": null,
+      "position": "Lagman"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "Teknologie Doktor"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Generalkonsul"
+    },
+    {
+      "surname": "RUDENGREN",
+      "first_name": "Sigge",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "ENGMAN",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "LINDBLAD",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Sågverksarbetare"
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Skogsarbetare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JANSSON",
+      "first_name": "Nils Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

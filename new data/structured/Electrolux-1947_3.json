@@ -1,0 +1,86 @@
+{
+  "company_name": "Aktiebolaget Elektrolux",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2547697.17,
+    "net_income": 6279963.66
+  },
+  "balance_sheet": {
+    "total_assets": 148879202.73,
+    "current_assets": 125647603.2,
+    "fixed_assets": 23231599.53,
+    "total_liabilities": 35196933.44,
+    "current_liabilities": 20409293.82,
+    "long_term_liabilities": 5575035.64,
+    "shareholders_equity": 113682269.29
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2178,
+    "n_white_collar_workers": 825
+  },
+  "board": [
+    {
+      "surname": "Siegbahn",
+      "first_name": "Manne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engberg",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wernher",
+      "first_name": "H.",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reinius",
+      "first_name": "Herman",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    }
+  ],
+  "additional_notes": null
+}

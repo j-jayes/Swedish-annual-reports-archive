@@ -1,0 +1,80 @@
+{
+  "company_name": "Aktiebolaget Iggesunds Bruk",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 29437000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2009000.0,
+    "depreciation": 21950000.0,
+    "net_income": 8224000.0
+  },
+  "balance_sheet": {
+    "total_assets": 269905000.0,
+    "current_assets": 42352000.0,
+    "fixed_assets": 211561000.0,
+    "total_liabilities": 75861000.0,
+    "current_liabilities": 25280000.0,
+    "long_term_liabilities": 29230000.0,
+    "shareholders_equity": 90000000.0
+  },
+  "employees": {
+    "n_employees": 2602,
+    "n_blue_collar_workers": 1352,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlström",
+      "first_name": null,
+      "initials": "S. L.",
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars G.",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

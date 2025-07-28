@@ -1,0 +1,43 @@
+{
+  "company_name": "Skandinaviska Enskilda Banken",
+  "fiscal_year": 1994,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 17170.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8427.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 418.0,
+    "net_income": 211.0
+  },
+  "balance_sheet": {
+    "total_assets": 411.1,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 387.561,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 23.503
+  },
+  "employees": {
+    "n_employees": 10514.666666666666,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Verkställande direktör och koncernchef"
+    }
+  ],
+  "auditors": []
+}

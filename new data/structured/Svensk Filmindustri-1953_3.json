@@ -1,0 +1,74 @@
+{
+  "company_name": "SVENSK FILMINDUSTRI",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 2696332.56,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 565557.58
+  },
+  "balance_sheet": {
+    "total_assets": 19635703.53,
+    "current_assets": 9038284.89,
+    "fixed_assets": 10597418.64,
+    "total_liabilities": 8952136.57,
+    "current_liabilities": 2622970.2,
+    "long_term_liabilities": 6329166.37,
+    "shareholders_equity": 8683566.96
+  },
+  "employees": {
+    "n_employees": 865,
+    "n_blue_collar_workers": 559,
+    "n_white_collar_workers": 306
+  },
+  "board": [
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JUBERG",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANÉR",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "CARL",
+      "initials": "A",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "VIFOT",
+      "first_name": "MALTE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

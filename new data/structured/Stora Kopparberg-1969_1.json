@@ -1,0 +1,98 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AB",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 1622.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 136.5,
+    "net_income": 48.7
+  },
+  "balance_sheet": {
+    "total_assets": 1804.1,
+    "current_assets": 478.6,
+    "fixed_assets": 981.9,
+    "total_liabilities": 806.2,
+    "current_liabilities": 401.8,
+    "long_term_liabilities": 633.1,
+    "shareholders_equity": 693.3
+  },
+  "employees": {
+    "n_employees": 13266,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Tekn dr, vice ordförande"
+    },
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": "Ståthållare"
+    },
+    {
+      "surname": "Malmfors",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Generaldirektör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Bruksdisponent, verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Essen",
+      "first_name": "Magnus",
+      "initials": "M.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Sven-Håkan",
+      "initials": "S.-H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Carl",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

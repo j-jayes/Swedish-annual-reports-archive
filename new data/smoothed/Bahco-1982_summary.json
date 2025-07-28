@@ -1,0 +1,98 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1982,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2595.5266666666666,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2518.374,
+    "wages_expense": null,
+    "tax_expense": 40.39,
+    "depreciation": 63.417,
+    "net_income": -73.78
+  },
+  "balance_sheet": {
+    "total_assets": 2329.668,
+    "current_assets": 1816.276,
+    "fixed_assets": 509.338,
+    "total_liabilities": 2159.201,
+    "current_liabilities": 1214.2783333333332,
+    "long_term_liabilities": 796.946,
+    "shareholders_equity": 182.676
+  },
+  "employees": {
+    "n_employees": 8060.333333333333,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Feinsilber",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": "ordförande, VD Investment AB Pro-motion"
+    },
+    {
+      "surname": "Belin",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "ingenjör"
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": "VD Sunds Defibrator AB"
+    },
+    {
+      "surname": "Ek",
+      "first_name": "Carl Olof",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "VD Svenska Handelsbanken"
+    },
+    {
+      "surname": "Hjalmar",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Krüger",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "industrielektriker"
+    },
+    {
+      "surname": "Lehto",
+      "first_name": "Sakari T.",
+      "initials": null,
+      "position": "VD Oy Partek Ab, Helsingfors"
+    },
+    {
+      "surname": "Mauritzon",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "VD Borås Invest AB"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "company_name": "FÖRVALTNINGSAKTIEBOLAGET PROVIDENTIA",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 18075249.38,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2272052.52,
+    "net_income": 14557161.54
+  },
+  "balance_sheet": {
+    "total_assets": 133854236.35,
+    "current_assets": 135018.29,
+    "fixed_assets": 125626650.0,
+    "total_liabilities": 98527115.5,
+    "current_liabilities": 2371515.5,
+    "long_term_liabilities": null,
+    "shareholders_equity": 35282720.85
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G.",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Anér",
+      "first_name": "Josef",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Sven",
+      "initials": "T.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Ohlson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Härtill kommer bolagets åtagande att utbetala pensioner uppgående till kr. 46.500:- per år."
+}

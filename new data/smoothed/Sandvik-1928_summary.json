@@ -1,0 +1,70 @@
+{
+  "company_name": "Sandvikens Jernverks Aktiebolag",
+  "fiscal_year": 1928,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3000397.61,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 33541814.64,
+    "current_assets": 9592623.23,
+    "fixed_assets": 2217663.76,
+    "total_liabilities": 7647157.09,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 18840964.935000002
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Yngström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sebardt",
+      "first_name": "Wilh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Göransson",
+      "first_name": "K. F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Koraen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnuson",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kronberg",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sehlberg",
+      "first_name": "J. H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

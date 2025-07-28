@@ -1,0 +1,58 @@
+{
+  "company_name": "Marabou",
+  "fiscal_year": 1941,
+  "income_statement": {
+    "revenue": 3844282.99,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 630518.0,
+    "net_income": 648673.75
+  },
+  "balance_sheet": {
+    "total_assets": 13674237.23,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7107581.22
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ALMSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DANNFELT",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLST",
+      "first_name": "J.",
+      "initials": "THRONE",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "SETH",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

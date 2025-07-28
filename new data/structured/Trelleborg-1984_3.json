@@ -1,0 +1,104 @@
+{
+  "company_name": "Trelleborg AB",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 1861.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -1691.0,
+    "wages_expense": null,
+    "tax_expense": 4.3,
+    "depreciation": null,
+    "net_income": 20.5
+  },
+  "balance_sheet": {
+    "total_assets": 1477.0,
+    "current_assets": 1101.3,
+    "fixed_assets": 375.2,
+    "total_liabilities": 1143.2,
+    "current_liabilities": 506.8,
+    "long_term_liabilities": 461.8,
+    "shareholders_equity": 333.8
+  },
+  "employees": {
+    "n_employees": 4466,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linders",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Grönberg",
+      "first_name": "Jarl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Peters & Co Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "Allmänna Telefonaktiebolaget L. M. Ericsson",
+  "fiscal_year": 1921,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 5935525.56,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 298891.73,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 718933.49,
+    "net_income": 2715950.15
+  },
+  "balance_sheet": {
+    "total_assets": 171604483.28,
+    "current_assets": 42010113.98,
+    "fixed_assets": 12906124.83,
+    "total_liabilities": 56640155.575,
+    "current_liabilities": null,
+    "long_term_liabilities": 32576947.21,
+    "shareholders_equity": 80703363.94
+  },
+  "employees": {
+    "n_employees": 1267,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindman",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pegelow",
+      "first_name": null,
+      "initials": "F. W. H.",
+      "position": null
+    },
+    {
+      "surname": "Klemming",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gerdhem",
+      "first_name": null,
+      "initials": "K. W.",
+      "position": null
+    },
+    {
+      "surname": "Wincrantz",
+      "first_name": null,
+      "initials": "K. F.",
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Piltz",
+      "first_name": "Gottlieb",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Frans",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Flodin",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bolinder",
+      "first_name": null,
+      "initials": "C. A. J.",
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "Coronaverken AB",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 170430000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4040000.0,
+    "net_income": 2480000.0
+  },
+  "balance_sheet": {
+    "total_assets": 143425000.0,
+    "current_assets": 64699000.0,
+    "fixed_assets": 78726000.0,
+    "total_liabilities": 61749000.0,
+    "current_liabilities": 34083000.0,
+    "long_term_liabilities": 26971000.0,
+    "shareholders_equity": 61676000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "Hill-Lindquist",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trolle",
+      "first_name": "Ulf",
+      "initials": "Ulf af",
+      "position": null
+    },
+    {
+      "surname": "Ljungcrantz",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Risberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjalmarson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ahrén",
+      "first_name": "Claes",
+      "initials": "Claes E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rilby",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

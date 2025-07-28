@@ -1,0 +1,92 @@
+{
+  "company_name": "SVENSKA OLJESLAGERI AKTIEBOLAGET",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 5517.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 14.0
+  },
+  "balance_sheet": {
+    "total_assets": 30541.0,
+    "current_assets": 9826.0,
+    "fixed_assets": 20715.0,
+    "total_liabilities": 16372.0,
+    "current_liabilities": 7174.0,
+    "long_term_liabilities": 5626.0,
+    "shareholders_equity": 14168.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 266,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ORRMELL",
+      "first_name": "ARON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGWALL",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSVALD",
+      "first_name": "G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGBLOM",
+      "first_name": "C",
+      "initials": "C.P.",
+      "position": null
+    },
+    {
+      "surname": "HÖGBERG",
+      "first_name": "EMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMGREN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELMERSON",
+      "first_name": "H",
+      "initials": "H.E.",
+      "position": null
+    },
+    {
+      "surname": "SKANSBERG",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLJEGREN",
+      "first_name": "PER",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "THEUVESSON",
+      "first_name": "H",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1977,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 413.249,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 388.556,
+    "wages_expense": null,
+    "tax_expense": 1.716,
+    "depreciation": 5.259,
+    "net_income": 3.279
+  },
+  "balance_sheet": {
+    "total_assets": 243.5,
+    "current_assets": 172.888,
+    "fixed_assets": 27.393666666666665,
+    "total_liabilities": 125.31766666666667,
+    "current_liabilities": 63.364999999999995,
+    "long_term_liabilities": 34.68666666666667,
+    "shareholders_equity": 32.24166666666667
+  },
+  "employees": {
+    "n_employees": 880,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Klercker",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Krokstedt",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Malmvik",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nelzén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Rynell",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Aman",
+      "first_name": "Karl E",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Rydholm",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "aukt, revisor"
+    }
+  ]
+}

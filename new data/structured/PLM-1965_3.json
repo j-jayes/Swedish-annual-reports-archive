@@ -1,0 +1,110 @@
+{
+  "company_name": "Aktiebolaget Plåtmanufaktur",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 253.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6.054,
+    "depreciation": null,
+    "net_income": 6.351
+  },
+  "balance_sheet": {
+    "total_assets": 162.428,
+    "current_assets": 60.373,
+    "fixed_assets": 102.055,
+    "total_liabilities": 73.628,
+    "current_liabilities": 28.812,
+    "long_term_liabilities": 14.509,
+    "shareholders_equity": 88.8
+  },
+  "employees": {
+    "n_employees": 3323,
+    "n_blue_collar_workers": 2557,
+    "n_white_collar_workers": 766
+  },
+  "board": [
+    {
+      "surname": "Lindskog",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Bertil T",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "C G",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karnéus",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Emblad",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Kistner",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

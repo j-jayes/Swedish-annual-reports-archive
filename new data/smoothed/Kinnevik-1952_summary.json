@@ -1,0 +1,82 @@
+{
+  "company_name": "AKTIEBOLAGET KINNEVIK",
+  "fiscal_year": 1952,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 664451.99,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6796.51,
+    "net_income": 593410.52
+  },
+  "balance_sheet": {
+    "total_assets": 11101684.04,
+    "current_assets": 30465.13,
+    "fixed_assets": 1969609.81,
+    "total_liabilities": null,
+    "current_liabilities": 13450.71,
+    "long_term_liabilities": 47808.66,
+    "shareholders_equity": 10329660.463333333
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilh.",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Erik",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Essen",
+      "first_name": "C.-R.",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Hans",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Horn",
+      "first_name": "Knut",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tallert",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

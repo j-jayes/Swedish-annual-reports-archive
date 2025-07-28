@@ -1,0 +1,94 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": 4281670.49,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1951942.69,
+    "wages_expense": null,
+    "tax_expense": 676380.17,
+    "depreciation": 219005.82,
+    "net_income": 3019362.64
+  },
+  "balance_sheet": {
+    "total_assets": 154473340.38,
+    "current_assets": 53305119.49,
+    "fixed_assets": 19212754.94,
+    "total_liabilities": 53342254.78,
+    "current_liabilities": 894222.81,
+    "long_term_liabilities": 10328000.0,
+    "shareholders_equity": 96810000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "RÅLAMB",
+      "first_name": "ERIK",
+      "initials": "E:SON",
+      "position": null
+    },
+    {
+      "surname": "JANSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "INGESTRÖM",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "ERIK",
+      "initials": "AUG.",
+      "position": null
+    },
+    {
+      "surname": "TRYGGER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WÄSTFELT",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FALKMAN",
+      "first_name": "LUDVIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LAMM",
+      "first_name": "CARL",
+      "initials": "ROBERT",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ELFBORG",
+      "first_name": "KURT",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare"
+    }
+  ],
+  "additional_notes": null
+}

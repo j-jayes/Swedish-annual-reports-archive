@@ -1,0 +1,128 @@
+{
+  "company_name": "ATLANTICA",
+  "fiscal_year": 1989,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 526.37,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 106.213,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 723.0
+  },
+  "balance_sheet": {
+    "total_assets": 820.416,
+    "current_assets": 329.216,
+    "fixed_assets": 31.752,
+    "total_liabilities": 671.178,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 333.3846666666667
+  },
+  "employees": {
+    "n_employees": 97,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Kvarnbäck",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VVD"
+    },
+    {
+      "surname": "Od\nén",
+      "first_name": "Kjell-\n\nÅke",
+      "initials": null,
+      "position": "ekonomidirektör"
+    },
+    {
+      "surname": "Ragnar",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan",
+      "initials": "H.",
+      "position": "ledamot"
+    },
+    {
+      "surname": "von Sydow",
+      "first_name": "Kristian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Dag",
+      "initials": null,
+      "position": "delägare"
+    },
+    {
+      "surname": "Wiss\nén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "styrelseledamot"
+    },
+    {
+      "surname": "Wrangel",
+      "first_name": "Otto",
+      "initials": null,
+      "position": "VVD"
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": "finansdirektör"
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "John-Gabriel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jolhed",
+      "first_name": "M\nårten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kruse",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Crafoord",
+      "first_name": "Leif",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nilausen",
+      "first_name": "Flemming",
+      "initials": null,
+      "auditing_firm": "aukt. revisor, förordnad av Försäkringsinspektionen."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8300793.33,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 235822292.03,
+    "current_assets": 46702169.56,
+    "fixed_assets": 17340380.75,
+    "total_liabilities": null,
+    "current_liabilities": 37903937.39,
+    "long_term_liabilities": 53615954.22,
+    "shareholders_equity": 104000000.0
+  },
+  "employees": {
+    "n_employees": 10380,
+    "n_blue_collar_workers": 8889,
+    "n_white_collar_workers": 1491
+  },
+  "board": [
+    {
+      "surname": "Cervin",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomquist",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gummeson",
+      "first_name": null,
+      "initials": "P. Eg.",
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielsen",
+      "first_name": null,
+      "initials": "N.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Biesèrt",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

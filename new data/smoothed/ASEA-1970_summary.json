@@ -1,0 +1,86 @@
+{
+  "company_name": "ASEA-GRUPPEN",
+  "fiscal_year": 1970,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3689.5846666666666,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3319.901,
+    "wages_expense": null,
+    "tax_expense": 83.4,
+    "depreciation": 117.928,
+    "net_income": 90.32666666666667
+  },
+  "balance_sheet": {
+    "total_assets": 4988.224,
+    "current_assets": 3453.186,
+    "fixed_assets": 1495.126,
+    "total_liabilities": 1923.937,
+    "current_liabilities": 1654.5733333333333,
+    "long_term_liabilities": 1033.042,
+    "shareholders_equity": 1061.3713333333333
+  },
+  "employees": {
+    "n_employees": 36591,
+    "n_blue_collar_workers": 10913,
+    "n_white_collar_workers": 7262
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": null,
+      "initials": "Dan-Axel",
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": null,
+      "initials": "\nAke T",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten S:son",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regelius",
+      "first_name": null,
+      "initials": "Karl-Erik",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Agnevall",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

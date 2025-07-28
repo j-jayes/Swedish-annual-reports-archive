@@ -1,0 +1,39 @@
+{
+  "company_name": "Maltesholms Cementaktiebolags",
+  "fiscal_year": 1912,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 112695.65
+  },
+  "balance_sheet": {
+    "total_assets": 4067821.8,
+    "current_assets": 664331.93,
+    "fixed_assets": 3199342.67,
+    "total_liabilities": 2668130.77,
+    "current_liabilities": null,
+    "long_term_liabilities": 577000.0,
+    "shareholders_equity": 1400000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "von Schwerin",
+      "first_name": "Werner",
+      "initials": "G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "D.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

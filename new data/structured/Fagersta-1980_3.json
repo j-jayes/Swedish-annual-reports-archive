@@ -1,0 +1,92 @@
+{
+  "company_name": "FAGERSTA",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 2146.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1859.2,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 77.3,
+    "net_income": 30.7
+  },
+  "balance_sheet": {
+    "total_assets": 2291.5,
+    "current_assets": 1404.1,
+    "fixed_assets": 887.4,
+    "total_liabilities": 1588.6,
+    "current_liabilities": 579.5,
+    "long_term_liabilities": 827.5,
+    "shareholders_equity": 702.9
+  },
+  "employees": {
+    "n_employees": 6110,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Hagström",
+      "first_name": "Tony",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan",
+      "initials": "H",
+      "position": null
+    },
+    {
+      "surname": "Åsberg",
+      "first_name": "Alvar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

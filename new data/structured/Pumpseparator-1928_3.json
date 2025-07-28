@@ -1,0 +1,58 @@
+{
+  "company_name": "Pump-Separator",
+  "fiscal_year": 1929,
+  "income_statement": {
+    "revenue": 1886417.74,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 901645.78
+  },
+  "balance_sheet": {
+    "total_assets": 18487274.84,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 10000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "HIRSCH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HILDEBRAND",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sjöåker",
+      "first_name": "T.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hult",
+      "first_name": "C. A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "Mo och Domsjö Aktiebolag",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 3807.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -3227.7,
+    "wages_expense": null,
+    "tax_expense": 17.7,
+    "depreciation": -160.3,
+    "net_income": 33.3
+  },
+  "balance_sheet": {
+    "total_assets": 4301.1,
+    "current_assets": 1846.6,
+    "fixed_assets": 2454.4,
+    "total_liabilities": 996.2,
+    "current_liabilities": 1132.5,
+    "long_term_liabilities": 1288.2,
+    "shareholders_equity": 882.5
+  },
+  "employees": {
+    "n_employees": 7585,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wegerfelt",
+      "first_name": "K",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerlund",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Verkst. dir"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

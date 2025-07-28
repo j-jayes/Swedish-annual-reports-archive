@@ -1,0 +1,88 @@
+{
+  "company_name": "Linoleum-Aktiebolaget Forshaga",
+  "fiscal_year": 1936,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 412961.69,
+    "depreciation": 750552.25,
+    "net_income": 381033.34
+  },
+  "balance_sheet": {
+    "total_assets": 13609083.03,
+    "current_assets": 9996304.74,
+    "fixed_assets": 1962335.29,
+    "total_liabilities": 9609083.03,
+    "current_liabilities": 3954021.86,
+    "long_term_liabilities": 2401000.0,
+    "shareholders_equity": 4000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BONER",
+      "first_name": "Franz",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "BORELL",
+      "first_name": "Th.",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "GRÖNBERG",
+      "first_name": "G.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SIJPESTEIJN",
+      "first_name": "Jan",
+      "initials": "J. C. K.",
+      "position": null
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": "Carl",
+      "initials": "C. A.",
+      "position": null
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": "C.",
+      "initials": "C. G.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KAHLM",
+      "first_name": "Gust.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ERLANDSSON",
+      "first_name": "Erl.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": "L.T.",
+      "initials": "L. T.",
+      "auditing_firm": "av Stockholms Handelskammare"
+    },
+    {
+      "surname": "LINDEGRÉN",
+      "first_name": "Claes",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

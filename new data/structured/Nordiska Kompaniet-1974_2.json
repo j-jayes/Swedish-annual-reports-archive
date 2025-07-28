@@ -1,0 +1,110 @@
+{
+  "company_name": "NK/Turitz",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 3262.908,
+    "cost_of_goods_sold": 2730.214,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 59.399,
+    "net_income": -14.229
+  },
+  "balance_sheet": {
+    "total_assets": 1416.338,
+    "current_assets": 712.364,
+    "fixed_assets": 699.165,
+    "total_liabilities": 1416.338,
+    "current_liabilities": 409.592,
+    "long_term_liabilities": 627.32,
+    "shareholders_equity": 249.575
+  },
+  "employees": {
+    "n_employees": 12309,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Kurt-Allan",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Franzén",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Munck af Røsenschöld",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Sachs",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "varuhuschef"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Solveig",
+      "initials": null,
+      "position": "docent"
+    },
+    {
+      "surname": "Damm",
+      "first_name": "Elise",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "auditing_firm": "bankdirektör"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

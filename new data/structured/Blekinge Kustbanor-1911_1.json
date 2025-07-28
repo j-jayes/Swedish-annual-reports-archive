@@ -1,0 +1,100 @@
+{
+  "company_name": "BLEKINGE KUSTBANOR",
+  "fiscal_year": 1911,
+  "income_statement": {
+    "revenue": 1283672.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 996151.65,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 287520.55
+  },
+  "balance_sheet": {
+    "total_assets": 6440575.67,
+    "current_assets": null,
+    "fixed_assets": 4872930.16,
+    "total_liabilities": 3051337.85,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 233700.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Lilienberg",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Swanlund",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "N. P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Siegbahn",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Bergen",
+      "first_name": "J. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tengvall",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Henrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Aug.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ekenman",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Borgström",
+      "first_name": "J. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": "Ombud å statens vägnar"
+    }
+  ],
+  "additional_notes": null
+}

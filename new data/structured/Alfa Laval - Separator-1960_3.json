@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 29674705.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 11409737.0
+  },
+  "balance_sheet": {
+    "total_assets": 290390837.0,
+    "current_assets": 140281946.0,
+    "fixed_assets": 150108891.0,
+    "total_liabilities": 152092178.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 138300000.0
+  },
+  "employees": {
+    "n_employees": 12769,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "DE GEER",
+      "first_name": null,
+      "initials": "GÖSTA",
+      "position": null
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": null,
+      "initials": "NILS",
+      "position": null
+    },
+    {
+      "surname": "GRANFORS",
+      "first_name": null,
+      "initials": "KARL",
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDSTRÖM",
+      "first_name": null,
+      "initials": "O. W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "MOBERG",
+      "first_name": "WILHELM",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "GUNNEBO BRUKS NYA AKTIEBOLAG",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": 765001.91,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 554312.83,
+    "wages_expense": null,
+    "tax_expense": 11161.44,
+    "depreciation": 125000.0,
+    "net_income": 74527.64
+  },
+  "balance_sheet": {
+    "total_assets": 7285634.05,
+    "current_assets": 1785559.36,
+    "fixed_assets": 5496800.0,
+    "total_liabilities": 3251258.55,
+    "current_liabilities": 414969.88,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4027500.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Gyllenstierna",
+      "first_name": "G.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Hansen",
+      "first_name": "Hans",
+      "initials": "Hans",
+      "position": null
+    },
+    {
+      "surname": "Sunström",
+      "first_name": "Rudolf",
+      "initials": "Rudolf",
+      "position": null
+    },
+    {
+      "surname": "Hellgren",
+      "first_name": "Rich.",
+      "initials": "Rich.",
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Allan",
+      "initials": "Allan",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jaede",
+      "first_name": "Carl",
+      "initials": "Carl",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": "Einar",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

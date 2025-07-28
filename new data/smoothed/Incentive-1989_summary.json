@@ -1,0 +1,140 @@
+{
+  "company_name": "Incentive",
+  "fiscal_year": 1989,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 9598.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8636.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 137.0
+  },
+  "balance_sheet": {
+    "total_assets": 7162.0,
+    "current_assets": 4316.0,
+    "fixed_assets": 1362.0,
+    "total_liabilities": 2929.0,
+    "current_liabilities": null,
+    "long_term_liabilities": 1161.0,
+    "shareholders_equity": 2162.0
+  },
+  "employees": {
+    "n_employees": 11826,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Eckeskog",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Linderoth",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "Bengt-Ola",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Bern",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Burström",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "ledamot"
+    },
+    {
+      "surname": "Mauritzson",
+      "first_name": "Inge",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Lekman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Gezelius",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "bankdirektör"
+    },
+    {
+      "surname": "Rudberg",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "bankdirektör"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 4972.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -4273.3,
+    "wages_expense": null,
+    "tax_expense": -129.3,
+    "depreciation": null,
+    "net_income": 91.9
+  },
+  "balance_sheet": {
+    "total_assets": 5667.8,
+    "current_assets": 2473.3,
+    "fixed_assets": 3186.2,
+    "total_liabilities": 4408.7,
+    "current_liabilities": 1490.4,
+    "long_term_liabilities": 1659.9,
+    "shareholders_equity": 1259.1
+  },
+  "employees": {
+    "n_employees": 11833,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "v ordf."
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Jarebo",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per VA",
+      "initials": null,
+      "auditing_firm": "REVEKO AB"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "SILLÉN & JACOBSSON AB"
+    }
+  ],
+  "additional_notes": null
+}

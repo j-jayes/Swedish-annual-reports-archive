@@ -1,0 +1,98 @@
+{
+  "company_name": "Iggesund",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 2456.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2081.3,
+    "wages_expense": null,
+    "tax_expense": 31.4,
+    "depreciation": null,
+    "net_income": 76.7
+  },
+  "balance_sheet": {
+    "total_assets": 4157.0,
+    "current_assets": 1597.4,
+    "fixed_assets": 1428.5,
+    "total_liabilities": 213.4,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1399.6
+  },
+  "employees": {
+    "n_employees": 2597,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "CARLGREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": "Direktör, Järna, f 1917. Styrelsens ordförande"
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": "Docent, Drottningholm, f 1920"
+    },
+    {
+      "surname": "DAHLSTRÖM",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Direktör, Bromma, f 1916"
+    },
+    {
+      "surname": "SUNDBLAD",
+      "first_name": "LARS",
+      "initials": "G",
+      "position": "Disponent, Hudiksvall, f 1923"
+    },
+    {
+      "surname": "KEMPE",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "Ekon dr hc, Örnsköldsvik, f 1939"
+    },
+    {
+      "surname": "LÖF",
+      "first_name": "BERNT",
+      "initials": null,
+      "position": "Direktör, Stockholm, f 1933"
+    },
+    {
+      "surname": "NORDIN",
+      "first_name": "JÖRGEN",
+      "initials": null,
+      "position": "Direktör, Iggesund, f 1930"
+    },
+    {
+      "surname": "BRÖNNHAGEN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Laboratoriechef, Iggesund, f 1922"
+    },
+    {
+      "surname": "FROHM",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": "Elektriker, Hudiksvall, f 1932"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PRAMHÄLL",
+      "first_name": "INGVAR",
+      "initials": null,
+      "auditing_firm": "OHRLINGS REVISIONSBYRÅ AB"
+    },
+    {
+      "surname": "GEIJER",
+      "first_name": "WILHELM",
+      "initials": null,
+      "auditing_firm": "OHRLINGS REVISIONSBYRÅ AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "Rederiaktiebolaget Svenska Lloyd",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 18.35037807,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1.48633555
+  },
+  "balance_sheet": {
+    "total_assets": 50.62113713,
+    "current_assets": 25.45563089,
+    "fixed_assets": 25.16550624,
+    "total_liabilities": 29.04048257,
+    "current_liabilities": 12.81250713,
+    "long_term_liabilities": 4.31356094,
+    "shareholders_equity": 21.58068
+  },
+  "employees": {
+    "n_employees": 1285,
+    "n_blue_collar_workers": 1059,
+    "n_white_collar_workers": 226
+  },
+  "board": [
+    {
+      "surname": "LUNDBERG",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEIBULL",
+      "first_name": "CURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PETTERSON",
+      "first_name": "TORSTEN",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "CHRISTOFFERSEN",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BEYER",
+      "first_name": "ROB.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HYGRELL",
+      "first_name": "ERIC",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

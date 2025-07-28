@@ -1,0 +1,86 @@
+{
+  "company_name": "DAGENS NYHETERS AB",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 392.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 322.0,
+    "wages_expense": null,
+    "tax_expense": 17.0,
+    "depreciation": null,
+    "net_income": 14.0
+  },
+  "balance_sheet": {
+    "total_assets": 241.0,
+    "current_assets": 107.0,
+    "fixed_assets": 128.0,
+    "total_liabilities": null,
+    "current_liabilities": 62.0,
+    "long_term_liabilities": 17.0,
+    "shareholders_equity": 82.0
+  },
+  "employees": {
+    "n_employees": 3130,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonnier jr",
+      "first_name": "Albert",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wrigstad",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "\"\nar\nÅke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

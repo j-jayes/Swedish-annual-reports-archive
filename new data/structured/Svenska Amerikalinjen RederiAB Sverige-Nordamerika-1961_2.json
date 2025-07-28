@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSKA AMERIKA LINIEN",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 156955843.0,
+    "cost_of_goods_sold": 128903972.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3362998.0,
+    "depreciation": 16619663.0,
+    "net_income": 3055751.0
+  },
+  "balance_sheet": {
+    "total_assets": 137609901.0,
+    "current_assets": 45211186.0,
+    "fixed_assets": 73116550.0,
+    "total_liabilities": 67221560.0,
+    "current_liabilities": 39046.0,
+    "long_term_liabilities": 26086518.0,
+    "shareholders_equity": 70388341.0
+  },
+  "employees": {
+    "n_employees": 1923,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAGERBERG",
+      "first_name": "J A",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "M",
+      "position": null
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "NORDELÖF",
+      "first_name": "IVAR",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

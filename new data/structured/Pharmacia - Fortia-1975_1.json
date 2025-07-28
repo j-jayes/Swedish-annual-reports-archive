@@ -1,0 +1,92 @@
+{
+  "company_name": "FORTIA",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 491.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 442.9,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 13.5,
+    "net_income": 33.2
+  },
+  "balance_sheet": {
+    "total_assets": 437.7,
+    "current_assets": 250.1,
+    "fixed_assets": 178.3,
+    "total_liabilities": 136.8,
+    "current_liabilities": 109.5,
+    "long_term_liabilities": 31.6,
+    "shareholders_equity": 133.6
+  },
+  "employees": {
+    "n_employees": 2203,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindblad",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Malmsten",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "jourhavande styrelseledamot"
+    },
+    {
+      "surname": "Ekemark",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "anställdas representant"
+    },
+    {
+      "surname": "Mark",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mossberg",
+      "first_name": "John",
+      "initials": null,
+      "position": "anställdas representant"
+    },
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wessman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Virding",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hultgren",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Göteborg"
+    },
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Stockholm"
+    }
+  ],
+  "additional_notes": null
+}

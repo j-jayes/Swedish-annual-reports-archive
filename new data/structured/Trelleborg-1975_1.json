@@ -1,0 +1,104 @@
+{
+  "company_name": "Trelleborgs Gummifabriks AB",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 950.892,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 823.599,
+    "wages_expense": null,
+    "tax_expense": 8.727,
+    "depreciation": 35.623,
+    "net_income": 8.773
+  },
+  "balance_sheet": {
+    "total_assets": 888.67,
+    "current_assets": 530.103,
+    "fixed_assets": 310.782,
+    "total_liabilities": 371.47,
+    "current_liabilities": 213.598,
+    "long_term_liabilities": 157.114,
+    "shareholders_equity": 184.548
+  },
+  "employees": {
+    "n_employees": 6881,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ohlsson",
+      "first_name": "Lars Gunnar",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Herrlin",
+      "first_name": "Karl-Magnus",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto P.",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Gorthon",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Skeppsredare"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "Gummiarbetare"
+    },
+    {
+      "surname": "Rydsbo",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Laboratorietekniker"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

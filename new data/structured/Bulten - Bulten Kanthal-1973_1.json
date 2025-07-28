@@ -1,0 +1,98 @@
+{
+  "company_name": "Bulten-Kanthal AB",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 487.892,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 446.051,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 27.847,
+    "net_income": 12.611
+  },
+  "balance_sheet": {
+    "total_assets": 462.684,
+    "current_assets": 176.448,
+    "fixed_assets": 155.871,
+    "total_liabilities": 241.97,
+    "current_liabilities": 90.383,
+    "long_term_liabilities": 144.594,
+    "shareholders_equity": 130.714
+  },
+  "employees": {
+    "n_employees": 4740,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Nathorst",
+      "first_name": "Helmer",
+      "initials": "H",
+      "position": "Ledamöter"
+    },
+    {
+      "surname": "Ehrner",
+      "first_name": "Bo",
+      "initials": "B",
+      "position": "Ledamöter"
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Berth",
+      "initials": "B",
+      "position": "Ledamöter"
+    },
+    {
+      "surname": "Ugglas",
+      "first_name": "Margaretha",
+      "initials": "M",
+      "position": "Ledamöter"
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": "H",
+      "position": "Ledamöter"
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Louis",
+      "initials": "L",
+      "position": "Ledamöter"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Nils-Georg",
+      "initials": "N",
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Lars",
+      "initials": "L",
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "\nÖiar",
+      "initials": null,
+      "auditing_firm": "Revisionsbyrå AB"
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

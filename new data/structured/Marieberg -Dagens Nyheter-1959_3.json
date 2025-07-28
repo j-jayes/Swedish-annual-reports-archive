@@ -1,0 +1,86 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 138.913,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 122.153,
+    "wages_expense": null,
+    "tax_expense": 2.075,
+    "depreciation": 1.901,
+    "net_income": 2.535
+  },
+  "balance_sheet": {
+    "total_assets": 83.285,
+    "current_assets": 48.552,
+    "fixed_assets": 34.733,
+    "total_liabilities": 60.095,
+    "current_liabilities": 13.278,
+    "long_term_liabilities": 42.817,
+    "shareholders_equity": 23.19
+  },
+  "employees": {
+    "n_employees": 3601,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Tor",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "\"\"\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Harrie",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heilborn",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tingsten",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "\"\nÅke von",
+      "initials": null,
+      "auditing_firm": "Generaldirektör"
+    }
+  ],
+  "additional_notes": null
+}

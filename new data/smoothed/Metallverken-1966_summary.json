@@ -1,0 +1,110 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSKA METALLVERKEN",
+  "fiscal_year": 1966,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 887.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 128.1,
+    "tax_expense": 11.3,
+    "depreciation": 24.8,
+    "net_income": 11.9
+  },
+  "balance_sheet": {
+    "total_assets": 627.2,
+    "current_assets": 347.7,
+    "fixed_assets": 279.5,
+    "total_liabilities": 426.4,
+    "current_liabilities": 209.6,
+    "long_term_liabilities": 210.8,
+    "shareholders_equity": 200.8
+  },
+  "employees": {
+    "n_employees": 5453,
+    "n_blue_collar_workers": 3525,
+    "n_white_collar_workers": 1928
+  },
+  "board": [
+    {
+      "surname": "BROWALDH",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOSSBERG",
+      "first_name": "EIJE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGGLOF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "CA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SERRANDER",
+      "first_name": "STAFFAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WARN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JENSEN",
+      "first_name": "CEV",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "GORAN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HEDBERG",
+      "first_name": "THJELVAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LILLIESTROM-TJUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ASTROM",
+      "first_name": "LENART",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

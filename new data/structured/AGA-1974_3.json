@@ -1,0 +1,98 @@
+{
+  "company_name": "AGA Aktiebolag",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 1655.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1442.8,
+    "wages_expense": null,
+    "tax_expense": 48.6,
+    "depreciation": null,
+    "net_income": 31.0
+  },
+  "balance_sheet": {
+    "total_assets": 1833.9,
+    "current_assets": 960.9,
+    "fixed_assets": 508.7,
+    "total_liabilities": 1325.2,
+    "current_liabilities": 490.1,
+    "long_term_liabilities": 517.5,
+    "shareholders_equity": 508.7
+  },
+  "employees": {
+    "n_employees": 12860,
+    "n_blue_collar_workers": 7095,
+    "n_white_collar_workers": 5765
+  },
+  "board": [
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Agrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": null,
+      "initials": "Per V A",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "Ahlsell AB",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 2166.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2064.7,
+    "wages_expense": null,
+    "tax_expense": 15.3,
+    "depreciation": 20.2,
+    "net_income": 12.8
+  },
+  "balance_sheet": {
+    "total_assets": 1389.2,
+    "current_assets": 1027.5,
+    "fixed_assets": 325.8,
+    "total_liabilities": 1138.7,
+    "current_liabilities": 510.3,
+    "long_term_liabilities": 219.5,
+    "shareholders_equity": 250.5
+  },
+  "employees": {
+    "n_employees": 2592,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sunne",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "koncernchef och vd"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "representant"
+    },
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "vd"
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "tjänsteman"
+    },
+    {
+      "surname": "Rehnberg",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wirsäll",
+      "first_name": "Nils-Erik",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Östling",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "koncernchef och vd"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

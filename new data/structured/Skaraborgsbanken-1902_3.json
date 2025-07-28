@@ -1,0 +1,70 @@
+{
+  "company_name": "SKARABORGS LÄNS ENSKILDA BANK.",
+  "fiscal_year": 1902,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 255216.85
+  },
+  "balance_sheet": {
+    "total_assets": 30704155.44,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2250000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Follin",
+      "first_name": "C",
+      "initials": null,
+      "position": "Öfversten"
+    },
+    {
+      "surname": "Hedenstierna",
+      "first_name": "E",
+      "initials": null,
+      "position": "Borgmästaren"
+    },
+    {
+      "surname": "Ewert",
+      "first_name": "A",
+      "initials": null,
+      "position": "Godsegaren"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beckman",
+      "first_name": "Cl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Uggla",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundell",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rodhe",
+      "first_name": "M",
+      "initials": "F",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

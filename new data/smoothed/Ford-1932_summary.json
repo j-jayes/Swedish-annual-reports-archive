@@ -1,0 +1,82 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1932,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 783855.58,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1729275.44,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 84349.39,
+    "net_income": -1029769.25
+  },
+  "balance_sheet": {
+    "total_assets": 8951814.71,
+    "current_assets": null,
+    "fixed_assets": 2394248.67,
+    "total_liabilities": null,
+    "current_liabilities": 2184652.88,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5000000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "FORD",
+      "first_name": "EDSEL",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "PERRY",
+      "first_name": "PERCIVAL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "ELIEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÉN",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLBERG",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ROOTH",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBLAD",
+      "first_name": "GUST.",
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

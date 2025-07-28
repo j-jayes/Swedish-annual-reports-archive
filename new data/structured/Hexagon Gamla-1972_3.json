@@ -1,0 +1,128 @@
+{
+  "company_name": "Hexagon AB",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 164.31,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 147.795,
+    "wages_expense": null,
+    "tax_expense": 2.234,
+    "depreciation": 5.038,
+    "net_income": 3.543
+  },
+  "balance_sheet": {
+    "total_assets": 135.031,
+    "current_assets": 45.16,
+    "fixed_assets": 72.556,
+    "total_liabilities": 59.101,
+    "current_liabilities": 37.149,
+    "long_term_liabilities": 50.854,
+    "shareholders_equity": 36.534
+  },
+  "employees": {
+    "n_employees": 1341,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Haeggström",
+      "first_name": "Göran",
+      "initials": "Z.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Nerman",
+      "first_name": "Måns",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": "G.",
+      "position": "Kapten"
+    },
+    {
+      "surname": "Sjöström",
+      "first_name": "Carl-Eric",
+      "initials": null,
+      "position": "Civilingenjör, verkst. dir."
+    },
+    {
+      "surname": "Bouveng",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Direktör Suppleant"
+    },
+    {
+      "surname": "Brodin",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Advokat Suppleant"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Disponent Suppleant"
+    },
+    {
+      "surname": "Gahn",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Konsul Suppleant"
+    },
+    {
+      "surname": "Hemmingson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Direktör Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor Suppleant"
+    },
+    {
+      "surname": "Mossberg",
+      "first_name": "Sture",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor Suppleant"
+    }
+  ],
+  "additional_notes": null
+}

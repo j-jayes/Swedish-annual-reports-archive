@@ -1,0 +1,82 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1930,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7255866.18,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2900739.66
+  },
+  "balance_sheet": {
+    "total_assets": 136264118.23,
+    "current_assets": null,
+    "fixed_assets": 92874871.66,
+    "total_liabilities": 64463000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 56000000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Mannheimer",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Cervin",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Grust.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Troili",
+      "first_name": null,
+      "initials": "E. U.",
+      "position": "P:son"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lennarison",
+      "first_name": null,
+      "initials": "C. E.",
+      "auditing_firm": "L."
+    },
+    {
+      "surname": "Natt och Dag",
+      "first_name": "Knut",
+      "initials": "H:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenius",
+      "first_name": "Elias",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

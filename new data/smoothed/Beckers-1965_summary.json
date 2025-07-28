@@ -1,0 +1,56 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 123.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.591,
+    "net_income": 1.854
+  },
+  "balance_sheet": {
+    "total_assets": 90.862,
+    "current_assets": 44.51166666666667,
+    "fixed_assets": 46.35,
+    "total_liabilities": 52.8,
+    "current_liabilities": 18.134666666666668,
+    "long_term_liabilities": 13.671666666666667,
+    "shareholders_equity": 38.062
+  },
+  "employees": {
+    "n_employees": 1330,
+    "n_blue_collar_workers": 452,
+    "n_white_collar_workers": 579
+  },
+  "board": [
+    {
+      "surname": "Ericsion",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hulten",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hjerne",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

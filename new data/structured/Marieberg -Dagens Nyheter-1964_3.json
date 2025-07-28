@@ -1,0 +1,86 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 252.162,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 219.474,
+    "wages_expense": null,
+    "tax_expense": 675.0,
+    "depreciation": 16.576,
+    "net_income": 4.711
+  },
+  "balance_sheet": {
+    "total_assets": 174.184941,
+    "current_assets": 48.186105,
+    "fixed_assets": 125.998836,
+    "total_liabilities": 76.742186,
+    "current_liabilities": 36.920697,
+    "long_term_liabilities": 69.692811,
+    "shareholders_equity": 49.708858
+  },
+  "employees": {
+    "n_employees": 4411,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": "j:r",
+      "position": null
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "Fil. dr"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "Chefredaktör"
+    },
+    {
+      "surname": "Wrigstad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Chefredaktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Generaldirektör"
+    }
+  ],
+  "additional_notes": null
+}

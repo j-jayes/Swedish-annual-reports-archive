@@ -1,0 +1,98 @@
+{
+  "company_name": "AB NORDISKA KOMPANIET",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 4418104.44,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 866718.0,
+    "depreciation": 2668820.24,
+    "net_income": 3633157.04
+  },
+  "balance_sheet": {
+    "total_assets": 143440262.36,
+    "current_assets": 60830518.1,
+    "fixed_assets": 82609744.26,
+    "total_liabilities": 65608169.85,
+    "current_liabilities": 24199089.73,
+    "long_term_liabilities": 41575388.12,
+    "shareholders_equity": 77665784.51
+  },
+  "employees": {
+    "n_employees": 2946,
+    "n_blue_collar_workers": 745,
+    "n_white_collar_workers": 2201
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "BRUSEWITZ",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "RYDMAN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WARN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KALDERÉN",
+      "first_name": null,
+      "initials": "R.",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "GRUMME",
+      "first_name": null,
+      "initials": "C. ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "SETTERWALL",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

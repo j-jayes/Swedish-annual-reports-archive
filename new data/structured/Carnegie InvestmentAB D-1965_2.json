@@ -1,0 +1,80 @@
+{
+  "company_name": "Investmentaktiebolaget D. Carnegie & Co.",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 3735808.98,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 74040.87,
+    "depreciation": null,
+    "net_income": 1154244.42
+  },
+  "balance_sheet": {
+    "total_assets": 24658033.51,
+    "current_assets": 2581129.18,
+    "fixed_assets": 19627004.0,
+    "total_liabilities": 4661633.18,
+    "current_liabilities": 1159641.67,
+    "long_term_liabilities": 3501996.48,
+    "shareholders_equity": 19996395.36
+  },
+  "employees": {
+    "n_employees": 4,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SODERMAN",
+      "first_name": "H.",
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THULIN",
+      "first_name": "FOLKE",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MELIN",
+      "first_name": "HILDING",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LANGENSKIOLD",
+      "first_name": null,
+      "initials": "C. G.",
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GOSTA",
+      "initials": null,
+      "auditing_firm": "auktoriserade revisorer"
+    },
+    {
+      "surname": "LINDGREN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": "auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

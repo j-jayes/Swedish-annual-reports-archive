@@ -1,0 +1,110 @@
+{
+  "company_name": "Holmens Bruk Aktiebolag",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 2821.392,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2442.901,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 117.678,
+    "net_income": 43.034
+  },
+  "balance_sheet": {
+    "total_assets": 2724.094,
+    "current_assets": 1563.366,
+    "fixed_assets": 1160.728,
+    "total_liabilities": 2329.952,
+    "current_liabilities": 676.564,
+    "long_term_liabilities": 1653.388,
+    "shareholders_equity": 394.144
+  },
+  "employees": {
+    "n_employees": 4079,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": "Mison",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Gripenstedt",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Clas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Trolle-Löwen",
+      "first_name": "August",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl",
+      "initials": "Erik",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Weine",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Staf",
+      "first_name": "Ellert",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Oiar",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    },
+    {
+      "surname": "Pihlström",
+      "first_name": "Herbert",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

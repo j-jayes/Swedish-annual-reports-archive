@@ -1,0 +1,45 @@
+{
+  "company_name": "Telefonaktiebolaget L. M. Ericsson",
+  "fiscal_year": 1929,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 2403891.52,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 7107002.7
+  },
+  "balance_sheet": {
+    "total_assets": 118094705.95,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 20618608.15,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 65302128.34
+  },
+  "employees": {},
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Flodin",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bolinder",
+      "first_name": null,
+      "initials": "C. A. J.",
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "company_name": "Atlantica",
+  "fiscal_year": 1993,
+  "income_statement": {
+    "revenue": 531.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 106.2,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 0.4
+  },
+  "balance_sheet": {
+    "total_assets": 687.3,
+    "current_assets": null,
+    "fixed_assets": 18.7,
+    "total_liabilities": 601.9,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 85.4
+  },
+  "employees": {
+    "n_employees": 82,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wissén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Clarkson",
+      "first_name": "Holger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmberg",
+      "first_name": "Mikael",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ragnar",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan",
+      "initials": "H",
+      "position": null
+    },
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Dag",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "John-Gabriel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thoren",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Henriksson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kruse",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mikulandra",
+      "first_name": "Yvonne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\"",
+      "first_name": "Åkesson",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Crafoord",
+      "first_name": "Leif",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nilausen",
+      "first_name": "Flemming",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

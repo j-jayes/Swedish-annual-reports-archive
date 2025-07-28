@@ -1,0 +1,110 @@
+{
+  "company_name": "Pharmacia",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 7541.0,
+    "cost_of_goods_sold": 2435.0,
+    "operating_expenses": 4082.0,
+    "wages_expense": 2051.0,
+    "tax_expense": 213.0,
+    "depreciation": 435.0,
+    "net_income": 511.0
+  },
+  "balance_sheet": {
+    "total_assets": 8734.0,
+    "current_assets": 4967.0,
+    "fixed_assets": 3734.0,
+    "total_liabilities": 3467.0,
+    "current_liabilities": 2117.0,
+    "long_term_liabilities": 1488.0,
+    "shareholders_equity": 2981.0
+  },
+  "employees": {
+    "n_employees": 10250,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G",
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Lanneberg",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindgren",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Danielsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Hans-Olof",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Lindell",
+      "first_name": "Inger",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Holmdahl",
+      "first_name": "Martin",
+      "initials": "H:son",
+      "position": null
+    },
+    {
+      "surname": "Westling",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Barnden",
+      "first_name": "Robert",
+      "initials": null,
+      "auditing_firm": "COOPERS & LYBRAND AB"
+    },
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "COOPERS & LYBRAND AB"
+    }
+  ],
+  "additional_notes": null
+}

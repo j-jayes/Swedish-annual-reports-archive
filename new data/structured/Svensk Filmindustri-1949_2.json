@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSK FILMINDUSTRI",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 2352367.34,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 151336.31,
+    "depreciation": 306906.46,
+    "net_income": 421174.69
+  },
+  "balance_sheet": {
+    "total_assets": 13420502.57,
+    "current_assets": 6459144.65,
+    "fixed_assets": 6961357.92,
+    "total_liabilities": 2760823.89,
+    "current_liabilities": 1398590.85,
+    "long_term_liabilities": 1362233.04,
+    "shareholders_equity": 1065966.68
+  },
+  "employees": {
+    "n_employees": 834,
+    "n_blue_collar_workers": 58,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ANÉR",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUNDELL",
+      "first_name": null,
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "JUBERG",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "SILJESTRÖM",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROMS",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "CARL ANDERS",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Vifot",
+      "first_name": "Malte",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

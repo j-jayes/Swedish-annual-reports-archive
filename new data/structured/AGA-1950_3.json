@@ -1,0 +1,92 @@
+{
+  "company_name": "SVENSKΑ ΑΚΤΙΕBOLAGET GASACCUMULATOR",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 4317817.17,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1130339.3,
+    "net_income": 2477042.09
+  },
+  "balance_sheet": {
+    "total_assets": 89133849.58,
+    "current_assets": 38485826.85,
+    "fixed_assets": 50648022.73,
+    "total_liabilities": 40833849.58,
+    "current_liabilities": null,
+    "long_term_liabilities": 23701971.91,
+    "shareholders_equity": 48300000.0
+  },
+  "employees": {
+    "n_employees": 2151,
+    "n_blue_collar_workers": 1202,
+    "n_white_collar_workers": 949
+  },
+  "board": [
+    {
+      "surname": "Heidenstam",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "E.",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "John",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Hans",
+      "initials": "Th.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Zethelius",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Banck",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Westberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Befrits",
+      "first_name": "R.",
+      "initials": null,
+      "auditing_firm": "direktör"
+    }
+  ],
+  "additional_notes": null
+}

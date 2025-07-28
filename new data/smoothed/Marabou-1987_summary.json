@@ -1,0 +1,33 @@
+{
+  "company_name": "DN",
+  "fiscal_year": 1987,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 520333854.187,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 475333809.142,
+    "wages_expense": null,
+    "tax_expense": 41000041.0,
+    "depreciation": 4000008.0,
+    "net_income": 17666702.0
+  },
+  "balance_sheet": {
+    "total_assets": null,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Tingmalm",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": null
+}

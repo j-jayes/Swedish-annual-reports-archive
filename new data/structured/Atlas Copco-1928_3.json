@@ -1,0 +1,64 @@
+{
+  "company_name": "ATIAS DIESEL",
+  "fiscal_year": 1928,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 315817.02
+  },
+  "balance_sheet": {
+    "total_assets": 21000194.02,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 21000194.02,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 356541.42
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Lamm",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kinander",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Henry",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Harleman",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

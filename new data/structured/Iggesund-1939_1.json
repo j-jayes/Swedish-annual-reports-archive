@@ -1,0 +1,70 @@
+{
+  "company_name": "Aktiebolaget Iggesunds Bruk",
+  "fiscal_year": 1939,
+  "income_statement": {
+    "revenue": 2623825.77,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1088539.77,
+    "depreciation": null,
+    "net_income": 1262857.73
+  },
+  "balance_sheet": {
+    "total_assets": 33228284.65,
+    "current_assets": 3378099.39,
+    "fixed_assets": 8636773.79,
+    "total_liabilities": 13347726.32,
+    "current_liabilities": 4245879.82,
+    "long_term_liabilities": 7200000.0,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westermark",
+      "first_name": "Frans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hallgren",
+      "first_name": "Hugo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Weinberg",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

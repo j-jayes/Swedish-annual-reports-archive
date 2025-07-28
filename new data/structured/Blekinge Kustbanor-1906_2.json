@@ -1,0 +1,51 @@
+{
+  "company_name": "Blekinge Kustbanor",
+  "fiscal_year": 1906,
+  "income_statement": {
+    "revenue": 1020905.29,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 688345.79,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 6152711.66,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3107172.44,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Ekenman",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Albert",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

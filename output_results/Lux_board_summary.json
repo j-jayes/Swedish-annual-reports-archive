@@ -1,0 +1,71 @@
+{
+  "company_name": "Lux",
+  "years_covered": "1908-1916",
+  "total_years": 9,
+  "total_members": 17,
+  "avg_board_size": 0.0,
+  "avg_tenure": 1.8235294117647058,
+  "median_tenure": 1.0,
+  "avg_turnover_rate": 0.0,
+  "board_size_by_year": {
+    "1908": 0,
+    "1909": 0,
+    "1910": 0,
+    "1911": 0,
+    "1912": 0,
+    "1913": 0,
+    "1914": 0,
+    "1915": 0,
+    "1916": 0
+  },
+  "turnover_by_period": {
+    "1908-1909": {
+      "joined": 2,
+      "left": 1,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1909-1910": {
+      "joined": 1,
+      "left": 2,
+      "stayed": 4,
+      "turnover_rate": 0
+    },
+    "1910-1911": {
+      "joined": 0,
+      "left": 5,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1911-1912": {
+      "joined": 4,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1912-1913": {
+      "joined": 2,
+      "left": 3,
+      "stayed": 1,
+      "turnover_rate": 0
+    },
+    "1913-1914": {
+      "joined": 0,
+      "left": 3,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1914-1915": {
+      "joined": 5,
+      "left": 0,
+      "stayed": 0,
+      "turnover_rate": 0
+    },
+    "1915-1916": {
+      "joined": 2,
+      "left": 4,
+      "stayed": 1,
+      "turnover_rate": 0
+    }
+  }
+}

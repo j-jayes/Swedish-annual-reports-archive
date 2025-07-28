@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET GARPHYTTE BRUK",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 2746381.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 503267.38,
+    "net_income": 1243985.48
+  },
+  "balance_sheet": {
+    "total_assets": 13852657.67,
+    "current_assets": 9355996.47,
+    "fixed_assets": 4496661.2,
+    "total_liabilities": 2198874.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8500000.0
+  },
+  "employees": {
+    "n_employees": 469,
+    "n_blue_collar_workers": 469,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Calissendorff",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "C-R.",
+      "position": null
+    },
+    {
+      "surname": "Helmer",
+      "first_name": "Govert",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": null,
+      "initials": "G.A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": null,
+      "initials": "G.A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

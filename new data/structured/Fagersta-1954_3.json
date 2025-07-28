@@ -1,0 +1,74 @@
+{
+  "company_name": "Fagersta Bruks Aktiebolag",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 174709000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7897149.0,
+    "depreciation": null,
+    "net_income": 9893005.39
+  },
+  "balance_sheet": {
+    "total_assets": 150870720.6,
+    "current_assets": 83139130.9,
+    "fixed_assets": 67731589.7,
+    "total_liabilities": 61316272.64,
+    "current_liabilities": 23257240.65,
+    "long_term_liabilities": 39582896.08,
+    "shareholders_equity": 89554447.96
+  },
+  "employees": {
+    "n_employees": 5562,
+    "n_blue_collar_workers": 4662,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖBERG",
+      "first_name": "THURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅSELIUS",
+      "first_name": null,
+      "initials": "HJ.",
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BOHLIN",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

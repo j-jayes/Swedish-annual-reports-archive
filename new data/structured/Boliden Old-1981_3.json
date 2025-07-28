@@ -1,0 +1,100 @@
+{
+  "company_name": "Boliden",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 5773.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 36.3,
+    "depreciation": null,
+    "net_income": 84.7
+  },
+  "balance_sheet": {
+    "total_assets": 4579.8,
+    "current_assets": 2133.2,
+    "fixed_assets": 2630.5,
+    "total_liabilities": 2141.0,
+    "current_liabilities": 1186.7,
+    "long_term_liabilities": 872.8,
+    "shareholders_equity": 2438.8
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Åkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Bankdirektör, ordförande"
+    },
+    {
+      "surname": "Brynielsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "af Ugglas",
+      "first_name": "Margaretha",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": "Bruksdisponent, vice ordf."
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Bergarbetare"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Speditör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Glenngård",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Hagströms\nRevisionsbyrå AB"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": "Hagströms\nRevisionsbyrå AB"
+    },
+    {
+      "surname": "Näslund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Hagströms\nRevisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

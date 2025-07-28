@@ -1,0 +1,98 @@
+{
+  "company_name": "Mo och Domsjö Aktiebolag",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 1055.956,
+    "cost_of_goods_sold": 927.936,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 11.359,
+    "depreciation": 64.809,
+    "net_income": 16.7
+  },
+  "balance_sheet": {
+    "total_assets": 1431.352,
+    "current_assets": 649.267,
+    "fixed_assets": 775.518,
+    "total_liabilities": 1075.51,
+    "current_liabilities": 462.479,
+    "long_term_liabilities": 523.072,
+    "shareholders_equity": 321.616
+  },
+  "employees": {
+    "n_employees": 8470,
+    "n_blue_collar_workers": 6232,
+    "n_white_collar_workers": 2238
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Peppler",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Andrén",
+      "first_name": "Thorsten",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Påhlgren",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hernmarck",
+      "first_name": "Michaël",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

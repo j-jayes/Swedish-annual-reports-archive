@@ -1,0 +1,82 @@
+{
+  "company_name": "FAGERSTA BRUKS AKTIEBOLAG",
+  "fiscal_year": 1962,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 19110461.21,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 11853818.333333334,
+    "net_income": 5149809.1866666665
+  },
+  "balance_sheet": {
+    "total_assets": 195837842.28,
+    "current_assets": 82540795.805,
+    "fixed_assets": 53873769.6,
+    "total_liabilities": 85302738.34666666,
+    "current_liabilities": 23883256.42,
+    "long_term_liabilities": 40124201.09,
+    "shareholders_equity": 106397708.88666667
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "ODMARK",
+      "first_name": null,
+      "initials": "STIG",
+      "position": null
+    },
+    {
+      "surname": "HÄGGQVIST",
+      "first_name": null,
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "ÖBERG",
+      "first_name": null,
+      "initials": "THURE",
+      "position": null
+    },
+    {
+      "surname": "ASELIUS",
+      "first_name": null,
+      "initials": "HJ.",
+      "position": null
+    },
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELFSTROM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOFLUND",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

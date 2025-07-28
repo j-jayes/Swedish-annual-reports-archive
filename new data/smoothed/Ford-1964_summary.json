@@ -1,0 +1,80 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1964,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 343619631.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 328888041.0,
+    "wages_expense": null,
+    "tax_expense": 5308779.0,
+    "depreciation": 463640.0,
+    "net_income": 5081511.0
+  },
+  "balance_sheet": {
+    "total_assets": 104877249.0,
+    "current_assets": 52059673.0,
+    "fixed_assets": 7198229.0,
+    "total_liabilities": 66543344.0,
+    "current_liabilities": 61715453.666666664,
+    "long_term_liabilities": null,
+    "shareholders_equity": 38333905.0
+  },
+  "employees": {
+    "n_employees": 419,
+    "n_blue_collar_workers": 190,
+    "n_white_collar_workers": 229
+  },
+  "board": [
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Ordförande - Chairman"
+    },
+    {
+      "surname": "FORD II",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS",
+      "initials": "K.",
+      "position": null
+    },
+    {
+      "surname": "BORLIND",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "SVEN",
+      "initials": "RUNE",
+      "position": null
+    },
+    {
+      "surname": "FOLEY",
+      "first_name": "ROBERT",
+      "initials": "P.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OHRLING",
+      "first_name": "P.",
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "WITT",
+      "first_name": "CARL",
+      "initials": "HENRIK",
+      "auditing_firm": null
+    }
+  ]
+}

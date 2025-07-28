@@ -1,0 +1,82 @@
+{
+  "company_name": "BOLIDENS GRUVAKTIEBOLAG",
+  "fiscal_year": 1944,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6301920.35,
+    "net_income": 5158767.97
+  },
+  "balance_sheet": {
+    "total_assets": 123696532.8,
+    "current_assets": null,
+    "fixed_assets": 46319593.45,
+    "total_liabilities": 114722866.96,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 42000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "HERSLOW",
+      "first_name": "E.",
+      "initials": "C:SON",
+      "position": null
+    },
+    {
+      "surname": "MALM",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BELFRAGE",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLOMQUIST",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FALKMAN",
+      "first_name": "OSCAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BENGTSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WIJK",
+      "first_name": "HJALMAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WENDLER",
+      "first_name": "JOHN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

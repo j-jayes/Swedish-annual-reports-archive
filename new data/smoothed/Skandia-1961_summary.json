@@ -1,0 +1,158 @@
+{
+  "company_name": "SKANDIA",
+  "fiscal_year": 1961,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 80.66430666666666,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 11332.467,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2131.931
+  },
+  "balance_sheet": {
+    "total_assets": 427.0532156666667,
+    "current_assets": null,
+    "fixed_assets": 24.34432066666667,
+    "total_liabilities": 215.001,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 90.56233333333333
+  },
+  "employees": {
+    "n_employees": 5874,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 983
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "ERNFRID",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "STRÖM",
+      "first_name": "MALTE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Generalkonsul"
+    },
+    {
+      "surname": "BERGER",
+      "first_name": "KURT",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "ROOS",
+      "first_name": "CARL-SIGVARD",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Ros",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": "Assuransdirektör"
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "ERIC",
+      "initials": null,
+      "position": "Assuransdirektör"
+    },
+    {
+      "surname": "PETRI",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Universitetskansler"
+    },
+    {
+      "surname": "GYLLENHAMMAR",
+      "first_name": "PEHR",
+      "initials": null,
+      "position": "Assuransdirektör"
+    },
+    {
+      "surname": "WIKLUND",
+      "first_name": "HOLGER",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "GRUNDSTRÖM",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDMAN",
+      "first_name": "ROLF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BJÖRFORS",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RUNDQUIST",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": "Av Kungl Försäkringsinspektionen förordnad revisor"
+    }
+  ]
+}

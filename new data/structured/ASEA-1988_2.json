@@ -1,0 +1,122 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1988,
+  "income_statement": {
+    "revenue": 112372.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 103464.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3272.0,
+    "net_income": 1580.0
+  },
+  "balance_sheet": {
+    "total_assets": 117601.0,
+    "current_assets": 89699.0,
+    "fixed_assets": 31510.0,
+    "total_liabilities": 21143.0,
+    "current_liabilities": 56224.0,
+    "long_term_liabilities": 18519.0,
+    "shareholders_equity": 12750.0
+  },
+  "employees": {
+    "n_employees": 173918,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Ehrnrooth",
+      "first_name": "Casimir",
+      "initials": null,
+      "position": "Ordinarie ledamot valda av bolagsstämman"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ordinarie ledamot valda av bolagsstämman"
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Ordinarie ledamot valda av bolagsstämman"
+    },
+    {
+      "surname": "Norgren",
+      "first_name": "Christian",
+      "initials": null,
+      "position": "Ordinarie ledamot valda av bolagsstämman"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordinarie ledamot valda av bolagsstämman"
+    },
+    {
+      "surname": "Högfelt",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Ordinarie arbetstagarrepresentanter"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ordinarie arbetstagarrepresentanter"
+    },
+    {
+      "surname": "Wedin",
+      "first_name": "Thord",
+      "initials": null,
+      "position": "Ordinarie arbetstagarrepresentanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "Ordförande i Revisorskollegiet"
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

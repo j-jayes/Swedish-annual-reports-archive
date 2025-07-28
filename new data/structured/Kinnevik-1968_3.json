@@ -1,0 +1,82 @@
+{
+  "company_name": "KINNEVIK",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 5793295.14,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2482.68,
+    "net_income": 3121964.0
+  },
+  "balance_sheet": {
+    "total_assets": 77362240.74,
+    "current_assets": 1075240.74,
+    "fixed_assets": 76287000.0,
+    "total_liabilities": 3656607.17,
+    "current_liabilities": 26701733.57,
+    "long_term_liabilities": 8003900.0,
+    "shareholders_equity": 77362240.74
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Essen",
+      "first_name": null,
+      "initials": "C.-R",
+      "position": null
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Horn",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": null,
+      "initials": "C.-G.",
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck jr",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Morling",
+      "first_name": null,
+      "initials": "P.M.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

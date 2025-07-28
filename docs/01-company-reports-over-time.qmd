@@ -135,3 +135,191 @@ board_members %>%
 ggsave(here::here("images", "board_members_over_time.png"), width = 10, height = 10, dpi = 300)
 
 ```
+
+
+
+
+### Read in data from Excel about the share of technical and non-technical board members
+
+
+```{r}
+library(readxl)
+library(tidyverse)
+
+df <- readxl::read_excel(here::here("data/director_education_summaries/director_education_shares.xlsx"))
+
+df %>% select(company, year, share_technical, share_business) %>%
+    pivot_longer(cols = c(share_technical, share_business), names_to = "type", values_to = "value") %>%
+    ggplot(aes(x = year, y = value, colour = type)) +
+    geom_line() +
+    facet_wrap(~ company) +
+    theme(legend.position = "bottom") +
+    labs(colour = "Type of education")
+
+
+df %>% select(company, year, share_non_swedish, share_usa) %>%
+    pivot_longer(cols = c(share_non_swedish, share_usa), names_to = "type", values_to = "value") %>%
+    ggplot(aes(x = year, y = value, colour = type)) +
+    geom_line() +
+    facet_wrap(~ company) +
+    theme(legend.position = "bottom") +
+    labs(colour = "Type of education")
+```
+
+Contrast ASEA and Electrolux
+
+
+```{r}
+df %>%
+    select(company, year, share_technical, share_business) %>%
+    filter(company %in% c("ASEA", "Electrolux")) %>%
+    pivot_longer(cols = c(share_technical, share_business), names_to = "type", values_to = "value") %>%
+    ggplot(aes(x = year, y = value, colour = type, lty = type)) +
+    geom_line() +
+    facet_wrap(~company) +
+    theme(legend.position = "bottom") +
+    labs(
+        colour = "Type of education of board members",
+        lty = "Type of education of board members"
+    ) +
+    scale_y_continuous(labels = scales::percent_format(scale = 100)) +
+    scale_colour_manual(values = c("blue", "red"), labels = c("Technical", "Business")) +
+    labs(
+        title = "Share of technical and business education on board over time",
+        x = "Year",
+        y = "Share of board members with specific education"
+    )
+
+
+df %>%
+    select(company, year, share_non_swedish, share_usa) %>%
+    filter(company %in% c("ASEA", "Electrolux")) %>%
+    pivot_longer(cols = c(share_non_swedish, share_usa), names_to = "type", values_to = "value") %>%
+    ggplot(aes(x = year, y = value, colour = type)) +
+    geom_line() +
+    facet_wrap(~company) +
+    theme(legend.position = "bottom") +
+    labs(colour = "Type of foreign experience of board members") +
+    scale_y_continuous(labels = scales::percent_format(scale = 100)) +
+    scale_colour_manual(values = c("blue", "red"), labels = c("Outside of Sweden", "USA")) 
+```
+
+
+
+Plot of share of firms with technical education on board over time, and share of firms with business education on board over time
+
+```{r}
+df %>%
+    filter(between(year, 1900, 1990)) %>%
+    group_by(year) %>%
+    summarise(
+        share_technical = mean(share_technical),
+        share_business = mean(share_business)
+    ) %>%
+    ggplot(aes(x = year)) +
+    geom_line(aes(y = share_technical, colour = "Technical")) +
+    geom_line(aes(y = share_business, colour = "Business")) +
+    theme(legend.position = "bottom") +
+    labs(colour = "Type of education of board members") +
+    scale_y_continuous(labels = scales::percent_format(scale = 100)) +
+    scale_colour_manual(values = c("blue", "red"), labels = c("Technical", "Business"))
+
+```
+
+
+Do the shares of technical education increase over time?
+
+```{r}
+df_directors <- readxl::read_excel("data/directors_education_data_deduplicated.xlsx")
+
+df_directors %>%
+    # extract 4 digits from the birth_date column
+    mutate(
+        birth_year = str_extract(birth_date, "\\d{4}"),
+        birth_year = parse_number(birth_year)
+    ) %>%
+    mutate(
+        # create variable to smooth out the data, where birthyear is grouped by 5 years
+        birth_year_5 = floor(birth_year / 3) * 3,
+    ) %>%
+    group_by(birth_year_5) %>%
+    summarise(
+        mean_technical = mean(has_technical_education, na.rm = T),
+        mean_business = mean(has_business_education, na.rm = T),
+    ) %>%
+    filter(between(birth_year_5, 1860, 1950)) %>%
+    ggplot(aes(x = birth_year_5)) +
+    geom_line(aes(y = mean_technical, colour = "Technical"), lty = 1) +
+    geom_line(aes(y = mean_business, colour = "Business"), lty = 2) +
+    theme(legend.position = "bottom") +
+    labs(
+        colour = "Type of education of board members",
+        x = "Year of director's birth",
+        y = "Share of director's with specific education",
+        caption = "Smoothing by 3 year rolling mean"
+    ) +
+    scale_y_continuous(labels = scales::percent_format(scale = 100)) +
+    scale_colour_manual(values = c("blue", "red"), labels = c("Technical", "Business")) 
+
+```
+
+
+
+
+```{r}
+df_directors %>%
+    select(id, education) %>%
+    mutate(institution = str_extract_all(education, "institution':\\s*'([^']+)")) %>%
+    unnest(institution) %>%
+    mutate(
+        institution = str_remove_all(institution, "institution': '")
+    ) %>%
+    view()
+```
+
+
+
+## Now with the entire sample
+
+
+```{r}
+df_exper <- readxl::read_excel("data/all_education_data_deduplicated.xlsx")
+
+
+
+df_exper_plot <- df_exper %>%
+    # extract 4 digits from the birth_date column
+    mutate(
+        birth_year = str_extract(birth_date, "\\d{4}"),
+        birth_year = parse_number(birth_year)
+    ) %>%
+    mutate(
+        # create variable to smooth out the data, where birthyear is grouped by 5 years
+        birth_year_5 = floor(birth_year / 3) * 3,
+    ) %>%
+    group_by(birth_year_5) %>%
+    summarise(
+        mean_technical = mean(has_technical_education, na.rm = T),
+        mean_business = mean(has_business_education, na.rm = T),
+    ) %>%
+    filter(between(birth_year_5, 1860, 1950))
+
+
+
+df_exper_plot %>%
+    ggplot(aes(x = birth_year_5)) +
+    geom_line(aes(y = mean_technical, colour = "Technical"), lty = 1) +
+    geom_line(aes(y = mean_business, colour = "Business"), lty = 2) +
+    theme(legend.position = "bottom") +
+    labs(
+        colour = "Type of education of board members",
+        x = "Year of director's birth",
+        y = "Share of director's with specific education",
+        caption = "Smoothing by 3 year rolling mean"
+    ) +
+    scale_y_continuous(labels = scales::percent_format(scale = 100)) +
+    scale_colour_manual(values = c("blue", "red"), labels = c("Technical", "Business")) 
+```
+
+
+

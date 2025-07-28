@@ -1,0 +1,116 @@
+{
+  "company_name": "Trelleborg AB",
+  "fiscal_year": 1978,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 969.7333333333333,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -310.7,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 42.5,
+    "net_income": 25.2
+  },
+  "balance_sheet": {
+    "total_assets": 991.5,
+    "current_assets": 626.0,
+    "fixed_assets": 341.6,
+    "total_liabilities": 468.4,
+    "current_liabilities": 242.9,
+    "long_term_liabilities": 280.6666666666667,
+    "shareholders_equity": 224.8
+  },
+  "employees": {
+    "n_employees": 5296,
+    "n_blue_collar_workers": 3487,
+    "n_white_collar_workers": 1809
+  },
+  "board": [
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Herrlin",
+      "first_name": "Karl-Magnus",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Fd bankdirektör"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst direktör, AB Cardo"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto P",
+      "initials": null,
+      "position": "Verkst direktör, AB P Olsson & Co"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Verkst direktör, Skandinaviska Enskilda Banken"
+    },
+    {
+      "surname": "Mörck",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "Fd v verkst direktör, Trelleborg AB"
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Verkst direktör, AB Hevea"
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Utredningschef, Svenska Fabriksarbetareförbundet"
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Verkst direktör, Trelleborg AB"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "Gummiarbetare"
+    },
+    {
+      "surname": "Harvidsson",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "Produktchef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ]
+}

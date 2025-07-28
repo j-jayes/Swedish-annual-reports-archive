@@ -1,0 +1,86 @@
+{
+  "company_name": "CORONAVERKEN AKTIEBOLAG",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 1865.485,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 37.183,
+    "depreciation": null,
+    "net_income": 1759.601
+  },
+  "balance_sheet": {
+    "total_assets": 32950.717,
+    "current_assets": null,
+    "fixed_assets": 30900.0,
+    "total_liabilities": 1832.36,
+    "current_liabilities": 47163.0,
+    "long_term_liabilities": 25683.0,
+    "shareholders_equity": 32235.0
+  },
+  "employees": {
+    "n_employees": 2739,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hartmann",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hill-Lindquist",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Corenius",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sanden",
+      "first_name": "David",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Risberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "E.",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ahrén",
+      "first_name": "Claes",
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rilby",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

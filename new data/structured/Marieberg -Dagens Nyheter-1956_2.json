@@ -1,0 +1,86 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 97.897,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 91.038,
+    "wages_expense": null,
+    "tax_expense": 1.666,
+    "depreciation": 1.808,
+    "net_income": 1319.224
+  },
+  "balance_sheet": {
+    "total_assets": 40.508,
+    "current_assets": 20.859,
+    "fixed_assets": 19.649,
+    "total_liabilities": 13.783,
+    "current_liabilities": 9.922,
+    "long_term_liabilities": 1.629,
+    "shareholders_equity": 16.803
+  },
+  "employees": {
+    "n_employees": 3124,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Tor",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Yngve",
+      "initials": "dr.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Kaj",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "\"\":: Bonnier",
+      "initials": "\":: Bonnier",
+      "position": "\":: Bonnier"
+    },
+    {
+      "surname": "Heilborn",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "\"\":: Zweigbergk",
+      "initials": "\":: Zweigbergk",
+      "auditing_firm": "\":: Zweigbergk"
+    },
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Arkitekt"
+    }
+  ],
+  "additional_notes": null
+}

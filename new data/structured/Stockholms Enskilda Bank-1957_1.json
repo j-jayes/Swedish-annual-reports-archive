@@ -1,0 +1,134 @@
+{
+  "company_name": "Stockholms Enskilda Bank",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 69260442.73,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 25300000.0,
+    "depreciation": 9056987.0,
+    "net_income": 15671252.89
+  },
+  "balance_sheet": {
+    "total_assets": 1644374534.95,
+    "current_assets": 562353112.77,
+    "fixed_assets": 1000000.0,
+    "total_liabilities": 1484374534.95,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 160000000.0
+  },
+  "employees": {
+    "n_employees": 547,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "Ax.",
+      "initials": "AX.",
+      "position": null
+    },
+    {
+      "surname": "JOHNSON JR",
+      "first_name": "Axel Ax:son",
+      "initials": "AXEL AX:SON",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "Ragnar",
+      "initials": "RAGNAR",
+      "position": null
+    },
+    {
+      "surname": "WIKSTRÖM",
+      "first_name": "Carl",
+      "initials": "CARL",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "Tor",
+      "initials": "TOR",
+      "position": null
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "Rich.",
+      "initials": "RICH.",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG JR",
+      "first_name": "Marc",
+      "initials": "MARC",
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "Göte",
+      "initials": "GÖTE",
+      "position": null
+    },
+    {
+      "surname": "STEYERN",
+      "first_name": "Nils von",
+      "initials": "NILS VON",
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "Walter",
+      "initials": "WALTER",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FORSGRÉN",
+      "first_name": "Berndt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HAMILTON",
+      "first_name": "Hugo",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "Iwar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NACKSTAD",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

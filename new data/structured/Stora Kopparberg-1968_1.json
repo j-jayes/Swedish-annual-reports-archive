@@ -1,0 +1,104 @@
+{
+  "company_name": "STORA KOPPARBERGS BERGSLAGS AB",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 1219.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1023.57,
+    "wages_expense": null,
+    "tax_expense": 26.24,
+    "depreciation": 120.3,
+    "net_income": 42.0
+  },
+  "balance_sheet": {
+    "total_assets": 1514.56,
+    "current_assets": 388.51,
+    "fixed_assets": 967.53,
+    "total_liabilities": 663.99,
+    "current_liabilities": 322.8,
+    "long_term_liabilities": 422.97,
+    "shareholders_equity": 663.07
+  },
+  "employees": {
+    "n_employees": 12651,
+    "n_blue_collar_workers": 10150,
+    "n_white_collar_workers": 2501
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": "Ståthållare"
+    },
+    {
+      "surname": "Malmfors",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Generaldirektör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Disponent, verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "von Essen",
+      "first_name": "Magnus",
+      "initials": "M.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Sven-Håkan",
+      "initials": "S-H.",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Carl Axel",
+      "initials": "C. A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr G.",
+      "initials": "P. G.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

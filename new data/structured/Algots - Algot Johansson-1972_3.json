@@ -1,0 +1,86 @@
+{
+  "company_name": "ALGOT JOHANSSON AKTIEBOLAG",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 190.948,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 182.249,
+    "wages_expense": null,
+    "tax_expense": 1.858,
+    "depreciation": 499.0,
+    "net_income": 1.733
+  },
+  "balance_sheet": {
+    "total_assets": 71.815,
+    "current_assets": 64.91,
+    "fixed_assets": 6.319,
+    "total_liabilities": 16.366,
+    "current_liabilities": 16.366,
+    "long_term_liabilities": 3.541,
+    "shareholders_equity": 26.538
+  },
+  "employees": {
+    "n_employees": 4115,
+    "n_blue_collar_workers": 3886,
+    "n_white_collar_workers": 229
+  },
+  "board": [
+    {
+      "surname": "Johansson",
+      "first_name": "Algot",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Curtman",
+      "first_name": "C. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wennerberg",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte D.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

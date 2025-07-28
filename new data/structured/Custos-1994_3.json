@@ -1,0 +1,76 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1994,
+  "income_statement": {
+    "revenue": 196.606,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 157.985
+  },
+  "balance_sheet": {
+    "total_assets": 5.660966,
+    "current_assets": 46.699,
+    "fixed_assets": 5.614267,
+    "total_liabilities": null,
+    "current_liabilities": 1.814627,
+    "long_term_liabilities": 327.936,
+    "shareholders_equity": 3.518403
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyll",
+      "first_name": "Sören",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiking",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "SET-Svensson, Erikson & Tjus Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "Kreuger & Toll",
+  "fiscal_year": 1928,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 21537814.78
+  },
+  "balance_sheet": {
+    "total_assets": 363284033.15,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 363284033.15,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 65000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Kreuger",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Toll",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöström",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dannfelt",
+      "first_name": null,
+      "initials": "C. Juhlin",
+      "position": null
+    },
+    {
+      "surname": "Kreuger",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andrén",
+      "first_name": null,
+      "initials": "C. W.",
+      "position": null
+    },
+    {
+      "surname": "Ahlström",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindencrona",
+      "first_name": null,
+      "initials": "G. C. A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergström",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

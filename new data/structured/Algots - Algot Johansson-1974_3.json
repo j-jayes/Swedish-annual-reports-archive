@@ -1,0 +1,100 @@
+{
+  "company_name": "Algot Johansson AB",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 247.324,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 233.557,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3.745,
+    "net_income": 1.975
+  },
+  "balance_sheet": {
+    "total_assets": 136.901,
+    "current_assets": 122.174,
+    "fixed_assets": 12.257,
+    "total_liabilities": 70.702,
+    "current_liabilities": 70.702,
+    "long_term_liabilities": 5.174,
+    "shareholders_equity": 28.284
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Johansson",
+      "first_name": "Algot",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Aasa",
+      "first_name": "Johannes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Curtman",
+      "first_name": "C W",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hernqvist",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Göte D",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wennerberg",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiking",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

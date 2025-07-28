@@ -1,0 +1,88 @@
+{
+  "company_name": "SKANDIA",
+  "fiscal_year": 1950,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 62341271.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 21176461.15,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4628843.89
+  },
+  "balance_sheet": {
+    "total_assets": 176037307.7,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 32007930.740000002
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ULMGREN",
+      "first_name": null,
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBOHM",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KOCH",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDMAN",
+      "first_name": "ROLF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MEURK",
+      "first_name": null,
+      "initials": "B. E.",
+      "auditing_firm": "Av Kungl. Förs.insp. förordnad revisor"
+    }
+  ]
+}

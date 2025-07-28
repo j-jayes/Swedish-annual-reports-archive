@@ -1,0 +1,92 @@
+{
+  "company_name": "STOCKHOLMS SUPERFOSFAT FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 8018747.87,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1700000.0,
+    "depreciation": 3507581.67,
+    "net_income": 2222683.27
+  },
+  "balance_sheet": {
+    "total_assets": 54612461.27,
+    "current_assets": 8813931.72,
+    "fixed_assets": 22600000.0,
+    "total_liabilities": 36651872.96,
+    "current_liabilities": 52427700.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 18000000.0
+  },
+  "employees": {
+    "n_employees": 1513,
+    "n_blue_collar_workers": 1184,
+    "n_white_collar_workers": 329
+  },
+  "board": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Joh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heidenstam",
+      "first_name": "R. v.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljunglof",
+      "first_name": "Rob.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Söderbäck",
+      "first_name": "Fritiof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "MARIEBERG",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 7307.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 6524.8,
+    "wages_expense": null,
+    "tax_expense": 99.1,
+    "depreciation": null,
+    "net_income": 252.4
+  },
+  "balance_sheet": {
+    "total_assets": 5315.4,
+    "current_assets": 3366.6,
+    "fixed_assets": 1942.2,
+    "total_liabilities": 2817.3,
+    "current_liabilities": 1216.6,
+    "long_term_liabilities": 1000.3,
+    "shareholders_equity": 2487.9
+  },
+  "employees": {
+    "n_employees": 8275,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "MÅBERG",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "TOMAS",
+      "initials": null,
+      "position": "2:e vice ordförande"
+    },
+    {
+      "surname": "BRAUN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "AHRSJÖ",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "INGVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BARNÉUS",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BONNIER",
+      "first_name": "PONTUS",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "BÄCKSTRÖM",
+      "first_name": "BERNDT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MUNDEBO",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYLANDER",
+      "first_name": "CARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUTH",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AKERMAN",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EDLUND",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

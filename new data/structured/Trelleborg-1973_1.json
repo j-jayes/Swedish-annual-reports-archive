@@ -1,0 +1,110 @@
+{
+  "company_name": "Trelleborgs Gummifabriks AB",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 628.864,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 543.256,
+    "wages_expense": null,
+    "tax_expense": 2.962,
+    "depreciation": null,
+    "net_income": 9.914
+  },
+  "balance_sheet": {
+    "total_assets": 512.102,
+    "current_assets": 240.421,
+    "fixed_assets": 271.681,
+    "total_liabilities": 370.15,
+    "current_liabilities": 148.539,
+    "long_term_liabilities": 167.077,
+    "shareholders_equity": 141.952
+  },
+  "employees": {
+    "n_employees": 6130,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ohlsson",
+      "first_name": "Lars",
+      "initials": "Gunnar",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Herrlin",
+      "first_name": "Karl",
+      "initials": "Magnus",
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst direktör, AB Cardo"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": "P.",
+      "position": "Verkst direktör, AB P Olsson & Co"
+    },
+    {
+      "surname": "Gorthon",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Skeppsredare, verkst direktör, Rederi AB Gylfe"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Verkst direktör Skandinaviska Enskilda Banken"
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Verkst direktör, Trelleborgs Gummifabriks AB"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "Gummiarbetare"
+    },
+    {
+      "surname": "Rydsbo",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Laboratorietekniker"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "S",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric",
+      "initials": "A.",
+      "auditing_firm": "Advokat"
+    }
+  ],
+  "additional_notes": null
+}

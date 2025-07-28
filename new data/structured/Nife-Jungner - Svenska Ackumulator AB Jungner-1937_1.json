@@ -1,0 +1,45 @@
+{
+  "company_name": "Svenska Ackumulator Aktiebolaget Jungner",
+  "fiscal_year": 1937,
+  "income_statement": {
+    "revenue": 884122.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 58684.81,
+    "depreciation": 251584.92,
+    "net_income": 573853.07
+  },
+  "balance_sheet": {
+    "total_assets": 12437607.42,
+    "current_assets": null,
+    "fixed_assets": 2964000.0,
+    "total_liabilities": null,
+    "current_liabilities": 2737705.9,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5038800.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Forssberg",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wijkström",
+      "first_name": "Gustaf",
+      "initials": "L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

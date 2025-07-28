@@ -1,0 +1,106 @@
+{
+  "company_name": "STOCKHOLMS BRYGGERIER",
+  "fiscal_year": 1944,
+  "income_statement": {
+    "revenue": 17021354.22,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2781098.46,
+    "depreciation": null,
+    "net_income": 5051737.23
+  },
+  "balance_sheet": {
+    "total_assets": 67801059.35,
+    "current_assets": null,
+    "fixed_assets": 24410173.3,
+    "total_liabilities": null,
+    "current_liabilities": 9276128.3,
+    "long_term_liabilities": null,
+    "shareholders_equity": 46943225.05
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Engström",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heiss",
+      "first_name": "Fr.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Setterwall",
+      "first_name": "Albin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallin",
+      "first_name": "Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljunglöf",
+      "first_name": "Rob.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schwartz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Riben",
+      "first_name": "C.",
+      "initials": "F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lamby",
+      "first_name": "Henrik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sellmann",
+      "first_name": "C.",
+      "initials": "G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wallfelt",
+      "first_name": "Manne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Arthur",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

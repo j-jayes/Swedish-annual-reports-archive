@@ -1,0 +1,128 @@
+{
+  "company_name": "KOPPARFORS",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 406.159,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7.7,
+    "depreciation": null,
+    "net_income": 12.062
+  },
+  "balance_sheet": {
+    "total_assets": 417.395,
+    "current_assets": 161.941,
+    "fixed_assets": 255.014,
+    "total_liabilities": 252.57,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 164.825
+  },
+  "employees": {
+    "n_employees": 1870,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HOLGERSSON",
+      "first_name": "SIGBJÖRN",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "MONTGOMERY",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": "Lagman"
+    },
+    {
+      "surname": "GRIPENSTEDT",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "Jägmästare"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": "Tekn, doktor"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": "Direktor"
+    },
+    {
+      "surname": "ENGMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Disponent, verkst. direktör"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Snickare"
+    },
+    {
+      "surname": "LINDBLAD",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Sågverksarbetare"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Generalkonsul"
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Skogsarbetare"
+    },
+    {
+      "surname": "WIKBERG",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Elektriker"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "BRUNO",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

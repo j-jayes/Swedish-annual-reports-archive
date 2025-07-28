@@ -1,0 +1,80 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolagets",
+  "fiscal_year": 1902,
+  "income_statement": {
+    "revenue": 3205000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -315125.17
+  },
+  "balance_sheet": {
+    "total_assets": 8761383.56,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 6249728.61,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5511654.95
+  },
+  "employees": {
+    "n_employees": 863,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WIJKMAN",
+      "first_name": null,
+      "initials": "O. FR.",
+      "position": null
+    },
+    {
+      "surname": "GRANSTÖM",
+      "first_name": null,
+      "initials": "G. A.",
+      "position": null
+    },
+    {
+      "surname": "HEILBORN",
+      "first_name": null,
+      "initials": "OTTO",
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": null,
+      "initials": "V.",
+      "position": null
+    },
+    {
+      "surname": "WENSTRÖM",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "VOUGT",
+      "first_name": "C. F.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CLEOPHAS",
+      "first_name": null,
+      "initials": "ER.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSELLI",
+      "first_name": null,
+      "initials": "J. H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Styrelsen föreslår, att till betäckande af årets förlust..Dispositionsfonden samt af Reservfonden"
+}

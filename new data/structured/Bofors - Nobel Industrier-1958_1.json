@@ -1,0 +1,88 @@
+{
+  "company_name": "Aktiebolaget Bofors",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 406.069053,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8.91466,
+    "depreciation": 25.692293,
+    "net_income": 8.432
+  },
+  "balance_sheet": {
+    "total_assets": 476.159,
+    "current_assets": 252.821,
+    "fixed_assets": 179.127,
+    "total_liabilities": 223.338,
+    "current_liabilities": 111.063,
+    "long_term_liabilities": 111.7,
+    "shareholders_equity": 121.09
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "Evert",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre",
+      "initials": "R:son",
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlsteen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Boblin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Strömbäck",
+      "first_name": "Helge",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

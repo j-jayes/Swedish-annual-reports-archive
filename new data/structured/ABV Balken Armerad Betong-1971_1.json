@@ -1,0 +1,74 @@
+{
+  "company_name": "Byggnadsaktiebolaget Balken",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 642.265,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 538.777,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10.353,
+    "net_income": 2.421
+  },
+  "balance_sheet": {
+    "total_assets": 644.2,
+    "current_assets": 321.528,
+    "fixed_assets": 234.355,
+    "total_liabilities": 596.431,
+    "current_liabilities": 193.87,
+    "long_term_liabilities": 179.445,
+    "shareholders_equity": 47.769
+  },
+  "employees": {
+    "n_employees": 8715,
+    "n_blue_collar_workers": 6397,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindencrona",
+      "first_name": "Alvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lewenhaupt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "R. Peters, Revisionsbyrå AB."
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

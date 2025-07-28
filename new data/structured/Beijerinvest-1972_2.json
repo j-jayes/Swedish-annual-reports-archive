@@ -1,0 +1,104 @@
+{
+  "company_name": "Beijerinvest",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 1190.734,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1023.293,
+    "wages_expense": null,
+    "tax_expense": 5.415,
+    "depreciation": null,
+    "net_income": 13.615
+  },
+  "balance_sheet": {
+    "total_assets": 219.591,
+    "current_assets": 123.233,
+    "fixed_assets": 88.552,
+    "total_liabilities": 102.633,
+    "current_liabilities": 37.548,
+    "long_term_liabilities": 65.231,
+    "shareholders_equity": 35.827
+  },
+  "employees": {
+    "n_employees": 2565,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Beijer",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "styrelsens ordförande"
+    },
+    {
+      "surname": "Jörgensen",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kruse",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lönnegårdh",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Christian",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Göteborg auktoriserad revisor"
+    },
+    {
+      "surname": "Morling",
+      "first_name": "Pehr",
+      "initials": "M",
+      "auditing_firm": "Stockholm auktoriserad revisor"
+    },
+    {
+      "surname": "Nissbrandt",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Göteborg auktoriserad revisor"
+    },
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Stockholm auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

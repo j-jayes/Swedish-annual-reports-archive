@@ -1,0 +1,68 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 134251000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 336614.94,
+    "net_income": 1345667.83
+  },
+  "balance_sheet": {
+    "total_assets": 51902975.22,
+    "current_assets": 25158335.56,
+    "fixed_assets": 18997300.0,
+    "total_liabilities": 42982134.93,
+    "current_liabilities": 14774503.87,
+    "long_term_liabilities": 10441656.91,
+    "shareholders_equity": 8920840.29
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 309,
+    "n_white_collar_workers": 475
+  },
+  "board": [
+    {
+      "surname": "Alfort",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Plomgren",
+      "first_name": "Carl von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rynell",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Carl-Axel",
+      "initials": "CA",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "company_name": "PROVIDENTIA",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": 2273308.26,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1210816.35
+  },
+  "balance_sheet": {
+    "total_assets": 38310107.27,
+    "current_assets": 362220.26,
+    "fixed_assets": 35221460.0,
+    "total_liabilities": null,
+    "current_liabilities": 9448498.08,
+    "long_term_liabilities": null,
+    "shareholders_equity": 27000792.84
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Markdahl",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

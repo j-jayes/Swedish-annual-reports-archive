@@ -1,0 +1,110 @@
+{
+  "company_name": "AGA AKTIEBOLAG",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 801.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 709.578,
+    "wages_expense": null,
+    "tax_expense": 28.631,
+    "depreciation": 48.4,
+    "net_income": 22.774
+  },
+  "balance_sheet": {
+    "total_assets": 786.593,
+    "current_assets": 424.351,
+    "fixed_assets": 357.059,
+    "total_liabilities": 451.151,
+    "current_liabilities": 217.412,
+    "long_term_liabilities": 206.198,
+    "shareholders_equity": 335.442
+  },
+  "employees": {
+    "n_employees": 13100,
+    "n_blue_collar_workers": 2018,
+    "n_white_collar_workers": 1528
+  },
+  "board": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Carl",
+      "initials": "A",
+      "position": "direktör, Stockholm ordförande"
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "bankdirektör, Stockholm vice ordförande"
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "disponent, Örebro"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "professor, Uppsala"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "direktör, Lidingö"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "direktör, Stockholm"
+    },
+    {
+      "surname": "Rosén",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "direktör, Sandviken"
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör, Lidingö Suppleant"
+    },
+    {
+      "surname": "Silfverstolpe",
+      "first_name": "Gudmund",
+      "initials": null,
+      "position": "direktör, Lidingö"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenberg",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wallin",
+      "first_name": "Per-Gustav",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

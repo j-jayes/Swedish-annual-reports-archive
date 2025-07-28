@@ -1,0 +1,98 @@
+{
+  "company_name": "KOPPARFORS AKTIEBOLAG",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 22952000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 36737000.0,
+    "tax_expense": 14558000.0,
+    "depreciation": 990000.0,
+    "net_income": 4593000.0
+  },
+  "balance_sheet": {
+    "total_assets": 85947000.0,
+    "current_assets": 32700000.0,
+    "fixed_assets": 77393000.0,
+    "total_liabilities": 47597000.0,
+    "current_liabilities": 30799000.0,
+    "long_term_liabilities": 16798000.0,
+    "shareholders_equity": 40050000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2677,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgersson",
+      "first_name": "S.",
+      "initials": null,
+      "position": "Verkst. direktör."
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Auktoriserade revisorer."
+    },
+    {
+      "surname": "Bergström",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Auktoriserade revisorer."
+    },
+    {
+      "surname": "Julin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergström",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Julin",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

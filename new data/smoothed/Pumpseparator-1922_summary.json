@@ -1,0 +1,62 @@
+{
+  "company_name": "PUMP-SEPARATOR",
+  "fiscal_year": 1923,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 769262.16,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7510.95,
+    "depreciation": 213170.05,
+    "net_income": 3903.64
+  },
+  "balance_sheet": {
+    "total_assets": 10891221.21,
+    "current_assets": 6494346.345,
+    "fixed_assets": 2310637.2,
+    "total_liabilities": 4955127.88,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 11250000.0
+  },
+  "employees": {
+    "n_employees": 450,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sjöstedt",
+      "first_name": "C. H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ivan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hirsch",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Regnstrand",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hult",
+      "first_name": "C. A.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

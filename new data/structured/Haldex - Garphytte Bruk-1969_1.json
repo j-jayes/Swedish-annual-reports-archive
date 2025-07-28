@@ -1,0 +1,74 @@
+{
+  "company_name": "Aktiebolaget Garphytte Bruk",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 69.6968,
+    "cost_of_goods_sold": 59.093743,
+    "operating_expenses": 2.269254,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1.758476,
+    "net_income": 2.060656
+  },
+  "balance_sheet": {
+    "total_assets": 45.39948,
+    "current_assets": 23.973307,
+    "fixed_assets": 18.905373,
+    "total_liabilities": 27.79948,
+    "current_liabilities": 8.564631,
+    "long_term_liabilities": 7.655,
+    "shareholders_equity": 17.6
+  },
+  "employees": {
+    "n_employees": 639,
+    "n_blue_collar_workers": 536,
+    "n_white_collar_workers": 103
+  },
+  "board": [
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Essen",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmer",
+      "first_name": "Govert",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bäcker",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

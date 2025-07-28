@@ -1,0 +1,110 @@
+{
+  "company_name": "Atlas Copco",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 7488.4,
+    "cost_of_goods_sold": 6451.8,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 148.8,
+    "net_income": 256.5
+  },
+  "balance_sheet": {
+    "total_assets": 7077.7,
+    "current_assets": 5544.9,
+    "fixed_assets": 1501.0,
+    "total_liabilities": 4457.3,
+    "current_liabilities": 2655.6,
+    "long_term_liabilities": 1801.7,
+    "shareholders_equity": 1820.7
+  },
+  "employees": {
+    "n_employees": 19538,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "BELFRAGE",
+      "first_name": "K-A",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "SPORBORG",
+      "first_name": null,
+      "initials": "H N",
+      "position": null
+    },
+    {
+      "surname": "HELLNER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖDNER",
+      "first_name": "STURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHNSSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "IVEROTH",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": null,
+      "initials": "CURT G",
+      "position": null
+    },
+    {
+      "surname": "WACHTMEISTER",
+      "first_name": "TOM",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "HENNING",
+      "first_name": "BO",
+      "initials": null,
+      "position": "Employee Representatives"
+    },
+    {
+      "surname": "NYHOLM",
+      "first_name": "PER-ERIK",
+      "initials": null,
+      "position": "Employee Representatives"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SONESSON",
+      "first_name": "BIRGER",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "BERTIL E",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    }
+  ],
+  "additional_notes": null
+}

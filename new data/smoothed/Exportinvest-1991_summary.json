@@ -1,0 +1,94 @@
+{
+  "company_name": "EXPORT INVEST",
+  "fiscal_year": 1991,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 67.9915,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -8.572,
+    "wages_expense": null,
+    "tax_expense": -7.579000000000001,
+    "depreciation": null,
+    "net_income": 517.9436666666667
+  },
+  "balance_sheet": {
+    "total_assets": 1547.4706666666666,
+    "current_assets": 344.373,
+    "fixed_assets": 1203.083,
+    "total_liabilities": 36.53,
+    "current_liabilities": 31.75,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1510.9173333333333
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Trolle-Wachtmeister",
+      "first_name": "Hans",
+      "initials": "G",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Wallenberg jr",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Giertz",
+      "first_name": "Karl",
+      "initials": "G",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Herlitz",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Callerström",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

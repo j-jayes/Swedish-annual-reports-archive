@@ -1,0 +1,43 @@
+{
+  "company_name": "AKTIEBOLAGET CUSTOS",
+  "fiscal_year": 1955,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 11278880.87277095,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 10759573.119783869
+  },
+  "balance_sheet": {
+    "total_assets": 47160127.59338534,
+    "current_assets": 29.40502,
+    "fixed_assets": 47140524.25025033,
+    "total_liabilities": 53.18956931,
+    "current_liabilities": 169920.41775,
+    "long_term_liabilities": 170.51606,
+    "shareholders_equity": 10349621.278099999
+  },
+  "employees": {
+    "n_employees": 5,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "EGNELL",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FAGERLUND",
+      "first_name": "ADOLF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

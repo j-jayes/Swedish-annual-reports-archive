@@ -1,0 +1,86 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 315.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 78.6,
+    "depreciation": null,
+    "net_income": 219.7
+  },
+  "balance_sheet": {
+    "total_assets": 1773.9,
+    "current_assets": 456.1,
+    "fixed_assets": 1315.3,
+    "total_liabilities": 515.6,
+    "current_liabilities": 313.8,
+    "long_term_liabilities": 534.0,
+    "shareholders_equity": 563.9
+  },
+  "employees": {
+    "n_employees": 107,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "ordförande, styrelseordförande"
+    },
+    {
+      "surname": "Giesecke",
+      "first_name": "Curt-Steffan",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ando",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt G",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "Erikson & Tjus Revisionsbyrå AB"
+    },
+    {
+      "surname": "Tjus",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "Erikson & Tjus Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

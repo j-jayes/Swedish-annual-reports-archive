@@ -1,0 +1,98 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1970,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 48534870.322,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 46110885.696,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1142280.0,
+    "net_income": 652621.304
+  },
+  "balance_sheet": {
+    "total_assets": 33503967.52,
+    "current_assets": 13728786.768,
+    "fixed_assets": 19775180.752,
+    "total_liabilities": 30933735.3325,
+    "current_liabilities": 6434915.142,
+    "long_term_liabilities": 14151396.968,
+    "shareholders_equity": 12860875.41
+  },
+  "employees": {
+    "n_employees": 1071.3333333333333,
+    "n_blue_collar_workers": 389,
+    "n_white_collar_workers": 667
+  },
+  "board": [
+    {
+      "surname": "OLSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "CARLGREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DEGEFORS",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDQVIST",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAKANSON",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALL",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DILLÉN",
+      "first_name": "BjJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HULTÉN",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FEINSTEIN",
+      "first_name": "STEN ERIK",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "TÖNNERVIK",
+      "first_name": "HENRY",
+      "initials": null,
+      "auditing_firm": "Revisor SRS"
+    }
+  ]
+}

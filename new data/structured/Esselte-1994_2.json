@@ -1,0 +1,104 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1994,
+  "income_statement": {
+    "revenue": 12.123,
+    "cost_of_goods_sold": 8.064,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 230.0
+  },
+  "balance_sheet": {
+    "total_assets": 7360.0,
+    "current_assets": 4473.0,
+    "fixed_assets": 2647.0,
+    "total_liabilities": 4998.0,
+    "current_liabilities": 2215.0,
+    "long_term_liabilities": 1397.0,
+    "shareholders_equity": 2362.0
+  },
+  "employees": {
+    "n_employees": 10166,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Bennet",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöberg",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunell",
+      "first_name": "Lars H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundén",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rohrbeck",
+      "first_name": "Gerhard",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen AB"
+    }
+  ],
+  "additional_notes": null
+}

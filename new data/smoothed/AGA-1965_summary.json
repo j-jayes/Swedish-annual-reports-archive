@@ -1,0 +1,92 @@
+{
+  "company_name": "AGA AKTIEBOLAG",
+  "fiscal_year": 1965,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 201.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 943.0,
+    "depreciation": null,
+    "net_income": 7.576
+  },
+  "balance_sheet": {
+    "total_assets": 274.56,
+    "current_assets": 121.113,
+    "fixed_assets": 152.693,
+    "total_liabilities": 134.071,
+    "current_liabilities": 46.226,
+    "long_term_liabilities": 61.223,
+    "shareholders_equity": 136.52
+  },
+  "employees": {
+    "n_employees": 3637,
+    "n_blue_collar_workers": 2201,
+    "n_white_collar_workers": 1436
+  },
+  "board": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HÖGLUND",
+      "first_name": "RUNE",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "HEDIN",
+      "first_name": "TORE",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "CARLSON",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "STYREN",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "WIRSTRÖM",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "DALÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "SILFVERSTOLPE",
+      "first_name": "GUDMUND",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HANNER",
+      "first_name": "PER",
+      "initials": "V. A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGLUND",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

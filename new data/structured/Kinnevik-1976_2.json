@@ -1,0 +1,100 @@
+{
+  "company_name": "KINNEVIK",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 0.105,
+    "depreciation": null,
+    "net_income": 12.461
+  },
+  "balance_sheet": {
+    "total_assets": 129.38,
+    "current_assets": 19.512,
+    "fixed_assets": 109.868,
+    "total_liabilities": null,
+    "current_liabilities": 7.77,
+    "long_term_liabilities": 29.355,
+    "shareholders_equity": 88.8
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Klingspor",
+      "first_name": "Carl-Gustaf",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Hans von",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Horn",
+      "first_name": "Knut von",
+      "initials": null,
+      "position": "Överintendent"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Friherre"
+    },
+    {
+      "surname": "Landqvist",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Docent"
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan Hugo",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Bruksdisponent, verkställande direktör"
+    },
+    {
+      "surname": "Ekevärn",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Generaldirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Morling",
+      "first_name": "P.",
+      "initials": "M.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ranby",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ernfridsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

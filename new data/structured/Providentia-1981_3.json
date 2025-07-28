@@ -1,0 +1,94 @@
+{
+  "company_name": "Förvaltnings AB Providentia",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 157.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3.941,
+    "wages_expense": null,
+    "tax_expense": 2.016,
+    "depreciation": null,
+    "net_income": 141.506
+  },
+  "balance_sheet": {
+    "total_assets": 615.039,
+    "current_assets": 59.34,
+    "fixed_assets": 555.699,
+    "total_liabilities": 20.372,
+    "current_liabilities": 6.273,
+    "long_term_liabilities": 0.298,
+    "shareholders_equity": 594.667
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagergren",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "förordnad av Regeringen"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": "A.",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "KINNEVIK",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 2491183.15,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2756.84,
+    "net_income": 2007850.82
+  },
+  "balance_sheet": {
+    "total_assets": 34560324.51,
+    "current_assets": 2215324.17,
+    "fixed_assets": 29842660.34,
+    "total_liabilities": 7522964.47,
+    "current_liabilities": 162106.88,
+    "long_term_liabilities": 7359416.59,
+    "shareholders_equity": 27037360.04
+  },
+  "employees": {
+    "n_employees": 2,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Klingspor",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Erik",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Essen",
+      "first_name": "C.-R.",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kantzow",
+      "first_name": "Hans",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Horn",
+      "first_name": "Knut",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjorthén",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Morling",
+      "first_name": "P. M.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    },
+    {
+      "surname": "Hjorthén",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    },
+    {
+      "surname": "Morling",
+      "first_name": "P.",
+      "initials": "M.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

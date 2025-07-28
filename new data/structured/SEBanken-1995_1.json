@@ -1,0 +1,134 @@
+{
+  "company_name": "Skandinaviska Enskilda Banken",
+  "fiscal_year": 1995,
+  "income_statement": {
+    "revenue": 15222.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8569.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2531.0
+  },
+  "balance_sheet": {
+    "total_assets": 439.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 24569.0
+  },
+  "employees": {
+    "n_employees": 10290,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Vice Ordförande"
+    },
+    {
+      "surname": "Sahlberg",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "position": "Vice Ordförande"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Vice VD, Investor AB"
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Verkställande Direktör"
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Vice VD och ställföreträdande koncernchef samt chef division S-E-Banken"
+    },
+    {
+      "surname": "Blom",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Förbundsordförande, Finansförbundet"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Chefstjänsteman"
+    },
+    {
+      "surname": "Jensen",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Bankkamrer"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Bankkamrer"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Öhrlings Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Blix",
+      "first_name": "Clas",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "KPMG Bohlins AB"
+    }
+  ],
+  "additional_notes": null
+}

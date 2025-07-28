@@ -1,0 +1,88 @@
+{
+  "company_name": "Försäkringsaktiebolaget Atlantica",
+  "fiscal_year": 1939,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 6519852.62,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 363285.03
+  },
+  "balance_sheet": {
+    "total_assets": 11906082.21,
+    "current_assets": null,
+    "fixed_assets": 600000.0,
+    "total_liabilities": 6180597.943333333,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1500000.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "HERBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K.",
+      "initials": "K.R.",
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "GUSTAF",
+      "initials": "GUSTAF E.",
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": "E.",
+      "initials": "E.W.",
+      "position": null
+    },
+    {
+      "surname": "LJUNGLÖF",
+      "first_name": "ROB.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL.",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG.",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

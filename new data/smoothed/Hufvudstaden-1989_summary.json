@@ -1,0 +1,86 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1989,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 746.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 61.4,
+    "net_income": 149.9
+  },
+  "balance_sheet": {
+    "total_assets": 4254.5,
+    "current_assets": 646.2,
+    "fixed_assets": 3608.3,
+    "total_liabilities": 1436.3333333333335,
+    "current_liabilities": 729.0,
+    "long_term_liabilities": 963.5666666666667,
+    "shareholders_equity": 1422.6333333333332
+  },
+  "employees": {
+    "n_employees": 388,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ÖBERG",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "GIESECKE",
+      "first_name": "CURT-STEFFAN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "CURT",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AGRI",
+      "first_name": "OLOV",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "HALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RYDÉ",
+      "first_name": "KURT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SET-SVENSSON",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "ERIKSON & TJUS REVISIONSBYRÅ HB"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

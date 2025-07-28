@@ -1,0 +1,92 @@
+{
+  "company_name": "UDDEHOLMS AKTIEBOLAG",
+  "fiscal_year": 1945,
+  "income_statement": {
+    "revenue": 126667725.72,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 9136000.28
+  },
+  "balance_sheet": {
+    "total_assets": 192068954.65,
+    "current_assets": null,
+    "fixed_assets": 54772871.37,
+    "total_liabilities": null,
+    "current_liabilities": 44748793.12,
+    "long_term_liabilities": null,
+    "shareholders_equity": 76196914.37
+  },
+  "employees": {
+    "n_employees": 9539,
+    "n_blue_collar_workers": 8328,
+    "n_white_collar_workers": 1211
+  },
+  "board": [
+    {
+      "surname": "Cervin",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomquist",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tiblom",
+      "first_name": "Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlson",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielsen",
+      "first_name": null,
+      "initials": "N.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": null,
+      "initials": "H. G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

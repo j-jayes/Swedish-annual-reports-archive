@@ -1,0 +1,68 @@
+{
+  "company_name": "Mexikanska Telefonaktiebolaget Ericsson",
+  "fiscal_year": 1909,
+  "income_statement": {
+    "revenue": 212290.72,
+    "cost_of_goods_sold": 118123.77,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9375.23,
+    "net_income": 65493.89
+  },
+  "balance_sheet": {
+    "total_assets": 2230823.96,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2165330.07,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 161,
+    "n_blue_collar_workers": 84,
+    "n_white_collar_workers": 77
+  },
+  "board": [
+    {
+      "surname": "Montelius",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klemming",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hallén",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jakobson",
+      "first_name": "Frans",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

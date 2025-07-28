@@ -1,0 +1,88 @@
+{
+  "company_name": "HEVEA",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 3606578.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9.0,
+    "depreciation": null,
+    "net_income": 2811104.0
+  },
+  "balance_sheet": {
+    "total_assets": 38229447.0,
+    "current_assets": 2099727.0,
+    "fixed_assets": 36129720.0,
+    "total_liabilities": null,
+    "current_liabilities": 6667959.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 38162488.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ohlsson",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Borgmästare, ordf."
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Tekn. Dr."
+    },
+    {
+      "surname": "Lewenhaupt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": "P",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar",
+      "initials": null,
+      "position": "Direktör, verkst. dir."
+    },
+    {
+      "surname": "Antonsson",
+      "first_name": "Johannes",
+      "initials": null,
+      "position": "Riksdagsledamoten"
+    },
+    {
+      "surname": "Björk",
+      "first_name": "Villiam",
+      "initials": null,
+      "position": "Kommunalrådet, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brane",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Bankdirektör"
+    }
+  ],
+  "additional_notes": null
+}

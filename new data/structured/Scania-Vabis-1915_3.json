@@ -1,0 +1,70 @@
+{
+  "company_name": "AKTIEBOLAGET SCANIA-VABIS",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": 1271142.77,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 192661.89,
+    "net_income": 1113509.1
+  },
+  "balance_sheet": {
+    "total_assets": 7211407.44,
+    "current_assets": null,
+    "fixed_assets": 1381865.74,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": 704000.0,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "RIBBING",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖHMAN",
+      "first_name": "K. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ZETHELIUS",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDEMAN",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CASSEL",
+      "first_name": "E. M.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BEFRITS",
+      "first_name": "R.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "C.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

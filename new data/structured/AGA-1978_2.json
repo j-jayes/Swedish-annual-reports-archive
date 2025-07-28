@@ -1,0 +1,104 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 3634.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3205.8,
+    "wages_expense": 1180.9,
+    "tax_expense": 90.4,
+    "depreciation": 191.2,
+    "net_income": 103.8
+  },
+  "balance_sheet": {
+    "total_assets": 3681.2,
+    "current_assets": 1720.3,
+    "fixed_assets": 1956.8,
+    "total_liabilities": 2861.3,
+    "current_liabilities": 958.1,
+    "long_term_liabilities": 1419.1,
+    "shareholders_equity": 819.9
+  },
+  "employees": {
+    "n_employees": 15374,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Höglund",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Carlson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Revisionsbyrå AB"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "Sillén & Jacobsson AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "Aktiebolaget Volvo",
+  "fiscal_year": 1956,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 613.912,
+    "cost_of_goods_sold": 572.888,
+    "operating_expenses": 395.6,
+    "wages_expense": null,
+    "tax_expense": 3.6854999999999998,
+    "depreciation": null,
+    "net_income": 7.167
+  },
+  "balance_sheet": {
+    "total_assets": 695.061,
+    "current_assets": 563.184,
+    "fixed_assets": 68.652,
+    "total_liabilities": 409.556,
+    "current_liabilities": 175.39,
+    "long_term_liabilities": 34.366,
+    "shareholders_equity": 108.058
+  },
+  "employees": {
+    "n_employees": 12628,
+    "n_blue_collar_workers": 8679,
+    "n_white_collar_workers": 3949
+  },
+  "board": [
+    {
+      "surname": "PRYTZ",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HALLSTRÖM",
+      "first_name": "HADAR HISON",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "TÖRNEBOHM",
+      "first_name": "HILDING",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "ASSAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSON",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "AHRÉN",
+      "first_name": null,
+      "initials": "CLAES E.",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "FRYKLUND",
+      "first_name": null,
+      "initials": "ÅKE",
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "company_name": "SUNDSVALLS BANKEN",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 39.992,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 12.308,
+    "tax_expense": 5.9,
+    "depreciation": 5.976,
+    "net_income": 5.2
+  },
+  "balance_sheet": {
+    "total_assets": 1212.858,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1001.219,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 59.616
+  },
+  "employees": {
+    "n_employees": 470,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "disponent, Sundsvall, ordförande"
+    },
+    {
+      "surname": "Rogberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "civilingenjör, Stockholm, vice ordförande"
+    },
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "direktör, Östersund"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "direktör, Djursholm"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "K. G.",
+      "initials": null,
+      "position": "direktör, Bureå"
+    },
+    {
+      "surname": "Appeltofft",
+      "first_name": "Olof",
+      "initials": "H.",
+      "position": "direktör, Stockholm"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "jur, dr, Rådom"
+    },
+    {
+      "surname": "Huss",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "direktör, Stockholm"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "direktör, Strömsbruk"
+    },
+    {
+      "surname": "Skoglund",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "odont. dr, Umeå"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": null,
+      "initials": "A. G.",
+      "position": "bankdirektör, Stockholm"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Sundsvall, verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Abersten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "advokat, Sundsvall"
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Reinh.",
+      "initials": null,
+      "auditing_firm": "aukt. revisor, Sundsvall"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "aukt. revisor, Stockholm"
+    },
+    {
+      "surname": "Björfors",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "aukt. revisor, Stockholm"
+    }
+  ],
+  "additional_notes": null
+}

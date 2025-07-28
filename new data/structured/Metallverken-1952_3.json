@@ -1,0 +1,92 @@
+{
+  "company_name": "SVENSKA METALLVERKEN",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4476692.25
+  },
+  "balance_sheet": {
+    "total_assets": 151591307.77,
+    "current_assets": 36507185.58,
+    "fixed_assets": 146829825.3,
+    "total_liabilities": 65418704.78,
+    "current_liabilities": null,
+    "long_term_liabilities": 57659405.96,
+    "shareholders_equity": 64817969.87
+  },
+  "employees": {
+    "n_employees": 4624,
+    "n_blue_collar_workers": 3304,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Früs",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Serrander",
+      "first_name": "Staffan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": null,
+      "initials": "B. G.",
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hedberg",
+      "first_name": "Thjelvar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

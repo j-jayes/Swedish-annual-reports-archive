@@ -1,0 +1,76 @@
+{
+  "company_name": "KILSUNDS AKTIEBOLAG",
+  "fiscal_year": 1943,
+  "income_statement": {
+    "revenue": 1880633.61,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 929885.55,
+    "depreciation": null,
+    "net_income": 598789.48
+  },
+  "balance_sheet": {
+    "total_assets": 11735080.15,
+    "current_assets": null,
+    "fixed_assets": 1547214.48,
+    "total_liabilities": 6655175.59,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Eiserman",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hörstadius",
+      "first_name": "N. W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergengren",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "C. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olander",
+      "first_name": "Daniel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Anderson",
+      "first_name": "Arthur",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björck",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Westfeldt",
+      "first_name": "I.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

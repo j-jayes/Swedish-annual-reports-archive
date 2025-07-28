@@ -1,0 +1,152 @@
+{
+  "company_name": "BOLIDEN",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 707.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 36.0,
+    "depreciation": 42.309,
+    "net_income": 51.0
+  },
+  "balance_sheet": {
+    "total_assets": 537.586,
+    "current_assets": 258.934,
+    "fixed_assets": 270.332,
+    "total_liabilities": 285.791,
+    "current_liabilities": 96.156,
+    "long_term_liabilities": 132.49,
+    "shareholders_equity": 251.795
+  },
+  "employees": {
+    "n_employees": 5503,
+    "n_blue_collar_workers": 3846,
+    "n_white_collar_workers": 1657
+  },
+  "board": [
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "BEXELIUS",
+      "first_name": "HERBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JARRE",
+      "first_name": "FRITZ",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "DAHL",
+      "first_name": "C.",
+      "initials": "O.",
+      "position": null
+    },
+    {
+      "surname": "NORÉN",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AGRI",
+      "first_name": "FRED",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSSON",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELLESTAM",
+      "first_name": "SIGVARD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALM",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖRRESEN",
+      "first_name": "TOM",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": "F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELFSTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LALOUX",
+      "first_name": "PAUL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": "K-G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": "S.",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "TALLBERG",
+      "first_name": "S.L.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jarre",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dahl",
+      "first_name": "C.",
+      "initials": "O.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

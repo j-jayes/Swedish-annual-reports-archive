@@ -1,0 +1,92 @@
+{
+  "company_name": "STOCKHOLMS SUPERFOSFAT FABRIKS AKTIEBOLAG",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 20290797.34,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5000000.0,
+    "depreciation": 8367991.11,
+    "net_income": 5437773.53
+  },
+  "balance_sheet": {
+    "total_assets": 100885967.94,
+    "current_assets": 22230263.58,
+    "fixed_assets": 50000000.0,
+    "total_liabilities": 64822276.73,
+    "current_liabilities": 9276743.72,
+    "long_term_liabilities": null,
+    "shareholders_equity": 36063691.21
+  },
+  "employees": {
+    "n_employees": 1691,
+    "n_blue_collar_workers": 1285,
+    "n_white_collar_workers": 406
+  },
+  "board": [
+    {
+      "surname": "Nordenson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nauckhoff",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Joh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heidenstam",
+      "first_name": "R.",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Westerdahl",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Söderbäck",
+      "first_name": "Fritiof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

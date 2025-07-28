@@ -1,0 +1,110 @@
+{
+  "company_name": "Telefonaktiebolaget LM Ericsson",
+  "fiscal_year": 1952,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 19035635.254666667,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3450148.9,
+    "depreciation": 8.896,
+    "net_income": 3876700.8833333333
+  },
+  "balance_sheet": {
+    "total_assets": 118908700.59666666,
+    "current_assets": 52546032.278,
+    "fixed_assets": 8173004.249,
+    "total_liabilities": 62275615.654,
+    "current_liabilities": 21650937.161666665,
+    "long_term_liabilities": 27403607.53366667,
+    "shareholders_equity": 56633084.94233333
+  },
+  "employees": {
+    "n_employees": 8389,
+    "n_blue_collar_workers": 5796,
+    "n_white_collar_workers": 2593
+  },
+  "board": [
+    {
+      "surname": "Borgquist",
+      "first_name": "Waldemar",
+      "initials": null,
+      "position": "Generaldirektör ordf."
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Bankdirektör v. ordf."
+    },
+    {
+      "surname": "Behn",
+      "first_name": "Sosthenes",
+      "initials": null,
+      "position": "Överste"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Ernfrid",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Harrison",
+      "first_name": "William",
+      "initials": "H.",
+      "position": "General"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Wicander",
+      "first_name": "Carl",
+      "initials": "Aug.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Woxén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Helge",
+      "initials": null,
+      "position": "Direktör, verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cooke",
+      "first_name": "Edward",
+      "initials": null,
+      "auditing_firm": "Chartered Accountant"
+    }
+  ]
+}

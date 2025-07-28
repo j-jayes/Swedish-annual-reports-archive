@@ -1,0 +1,122 @@
+{
+  "company_name": "Skandinaviska Enskilda Banken",
+  "fiscal_year": 1997,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4042.0,
+    "wages_expense": 1572.0,
+    "tax_expense": 1077.0,
+    "depreciation": null,
+    "net_income": 2437.0
+  },
+  "balance_sheet": {
+    "total_assets": 669086.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 573252.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 27967.0
+  },
+  "employees": {
+    "n_employees": 13190,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiking",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Urban",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johannesson",
+      "first_name": "Tuve",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ottosson",
+      "first_name": "Tommy",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\")berg",
+      "first_name": "Carl",
+      "initials": "Johan",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Blix",
+      "first_name": "Clas",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Ohrlings Coopers & Lybrand"
+    },
+    {
+      "surname": "Bonnevier",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Clemedtson",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Ohrlings Coopers & Lybrand"
+    },
+    {
+      "surname": "Buisman",
+      "first_name": "Ulla",
+      "initials": "Nordin",
+      "auditing_firm": "Price Waterhouse"
+    }
+  ],
+  "additional_notes": null
+}

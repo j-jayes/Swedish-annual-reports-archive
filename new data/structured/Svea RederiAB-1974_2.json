@@ -1,0 +1,100 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 542.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 131.252,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 28.157,
+    "net_income": 1.334
+  },
+  "balance_sheet": {
+    "total_assets": 589.51,
+    "current_assets": 114.767,
+    "fixed_assets": 432.336,
+    "total_liabilities": 256.67,
+    "current_liabilities": 212.029,
+    "long_term_liabilities": 292.04,
+    "shareholders_equity": 323.557
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wettermark",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Direktör, vice ordförande"
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Rodin",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Rektor"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W.",
+      "position": "Direktör, verkställande direktör"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Berndt",
+      "initials": null,
+      "position": "Inspektör"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Gustavsson",
+      "first_name": "Thure",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ehnborg",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,64 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Providentia",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 8954501.54,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 378073.34,
+    "depreciation": 331822.04,
+    "net_income": 7222147.23
+  },
+  "balance_sheet": {
+    "total_assets": 64663380.86,
+    "current_assets": 259756.06,
+    "fixed_assets": 5805000.0,
+    "total_liabilities": 10503334.06,
+    "current_liabilities": 3182473.57,
+    "long_term_liabilities": null,
+    "shareholders_equity": 48655481.29
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Anér",
+      "first_name": "Josef",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rodling",
+      "first_name": "Ejnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G. A.",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ohlson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

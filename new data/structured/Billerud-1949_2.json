@@ -1,0 +1,98 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 101361297.64,
+    "cost_of_goods_sold": 73281734.8,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 11200000.0,
+    "depreciation": null,
+    "net_income": 7879449.28
+  },
+  "balance_sheet": {
+    "total_assets": 130482646.66,
+    "current_assets": 70694838.47,
+    "fixed_assets": 59787808.19,
+    "total_liabilities": 27576406.51,
+    "current_liabilities": 19543408.02,
+    "long_term_liabilities": 27576406.51,
+    "shareholders_equity": 83362832.13
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 4068,
+    "n_white_collar_workers": 469
+  },
+  "board": [
+    {
+      "surname": "Storjohann",
+      "first_name": null,
+      "initials": "Chr.",
+      "position": null
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Klaveness",
+      "first_name": null,
+      "initials": "A. F.",
+      "position": null
+    },
+    {
+      "surname": "Hammarskjöld",
+      "first_name": null,
+      "initials": "Bo",
+      "position": null
+    },
+    {
+      "surname": "Simonsson",
+      "first_name": null,
+      "initials": "Y.",
+      "position": null
+    },
+    {
+      "surname": "Börjeson",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Almquist",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Börjeson",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Almquist",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

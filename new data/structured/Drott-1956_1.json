@@ -1,0 +1,86 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 3214611.08,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 363991.25
+  },
+  "balance_sheet": {
+    "total_assets": 24544512.08,
+    "current_assets": 1200606.35,
+    "fixed_assets": 23343905.73,
+    "total_liabilities": 15517886.39,
+    "current_liabilities": 539345.45,
+    "long_term_liabilities": 8900000.0,
+    "shareholders_equity": 8414501.07
+  },
+  "employees": {
+    "n_employees": 44,
+    "n_blue_collar_workers": 30,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Simonsson",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Plomgren",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nessen",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tengbom",
+      "first_name": "IVAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ossbahr",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": null,
+      "initials": "G. A.",
+      "position": null
+    },
+    {
+      "surname": "Hemstad",
+      "first_name": "TORD",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Flogner",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Theodor",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "Skandia",
+  "fiscal_year": 1998,
+  "income_statement": {
+    "revenue": 90.003,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1.235
+  },
+  "balance_sheet": {
+    "total_assets": 374.713,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 75.982,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 24.833
+  },
+  "employees": {
+    "n_employees": 4282,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Ramqvist",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Styrelsens vice ordförande"
+    },
+    {
+      "surname": "Alitalo",
+      "first_name": "Pirkko",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Odfjell",
+      "first_name": "Johan",
+      "initials": "Fr.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Flodgren",
+      "first_name": "Boel",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Hagelin",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Styrelsens vice ordförande"
+    },
+    {
+      "surname": "Petersson",
+      "first_name": "Lars-Eric",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Augustson",
+      "first_name": "Kurth",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Ingolf",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "Siw",
+      "initials": null,
+      "position": "Styrelseledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fernström",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "KPMG AB"
+    },
+    {
+      "surname": "Mårtensson",
+      "first_name": "Tommy",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen AB"
+    }
+  ],
+  "additional_notes": null
+}

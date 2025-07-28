@@ -1,0 +1,116 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET LM ERICSSON",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 7311.533,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 140.297,
+    "depreciation": null,
+    "net_income": 144.98
+  },
+  "balance_sheet": {
+    "total_assets": 11161.858,
+    "current_assets": 7486.097,
+    "fixed_assets": 2014.46,
+    "total_liabilities": 3454.506,
+    "current_liabilities": 3454.506,
+    "long_term_liabilities": 2460.84,
+    "shareholders_equity": 2593.584
+  },
+  "employees": {
+    "n_employees": 71100,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "\nAKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLSTRÖM",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERGREN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SUNDELL",
+      "first_name": "WERNER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDVALL",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eskilson",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "firma Price Waterhouse & Co."
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jones",
+      "first_name": "David",
+      "initials": null,
+      "auditing_firm": "firma Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

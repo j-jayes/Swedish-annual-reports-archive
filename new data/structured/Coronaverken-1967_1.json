@@ -1,0 +1,110 @@
+{
+  "company_name": "CORONAVERKEN AB",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.759,
+    "depreciation": null,
+    "net_income": 14.067
+  },
+  "balance_sheet": {
+    "total_assets": 286.075,
+    "current_assets": 228.451,
+    "fixed_assets": 55.495,
+    "total_liabilities": 71.665,
+    "current_liabilities": 109.277,
+    "long_term_liabilities": 46.066,
+    "shareholders_equity": 40.7
+  },
+  "employees": {
+    "n_employees": 4008,
+    "n_blue_collar_workers": 1341,
+    "n_white_collar_workers": 771
+  },
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HILL-LINDQUIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "CORENIUS",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RISBERG",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "SVANTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF TROLLE",
+      "first_name": "ULF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÅKANSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGCRANTZ",
+      "first_name": "SIGURD",
+      "initials": null,
+      "position": "suppleant, verkställande direktör"
+    },
+    {
+      "surname": "LUNDQUIST",
+      "first_name": "RING",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AHRÉN",
+      "first_name": "CLAES",
+      "initials": "E.",
+      "auditing_firm": "(koncernrevisor)"
+    },
+    {
+      "surname": "RILBY",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EKвом",
+      "first_name": "CARL",
+      "initials": "ERIK",
+      "auditing_firm": "suppleant"
+    },
+    {
+      "surname": "ELVSTAD",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": "suppleant"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "Fastighetsaktiebolaget Hufvudstaden",
+  "fiscal_year": 1939,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 679763.0,
+    "net_income": 1316073.92
+  },
+  "balance_sheet": {
+    "total_assets": 42420456.75,
+    "current_assets": null,
+    "fixed_assets": 25557279.14,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Zethelius",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dunker",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Krusenstjerna",
+      "first_name": "F.",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "Celsing",
+      "first_name": "F.",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "Hintze",
+      "first_name": "Hugo",
+      "initials": "B.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fessé",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

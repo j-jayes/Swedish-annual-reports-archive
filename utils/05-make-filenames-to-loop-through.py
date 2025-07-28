@@ -9,7 +9,6 @@ filenames = [f for f in os.listdir("/Volumes/Lenovo PS8/company-reports/processe
 filenames.sort()
 
 # create a DataFrame with the filenames
-filenames = pd.DataFrame(filenames, columns=["filename"])
 
 # write to excel file at data/temp/filenames_to_loop_through.xlsx
 filenames.to_excel("data/temp/filenames_to_loop_through.xlsx", index=False)

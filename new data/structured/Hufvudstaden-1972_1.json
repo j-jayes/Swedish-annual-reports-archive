@@ -1,0 +1,76 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 133.626,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 101.001,
+    "wages_expense": null,
+    "tax_expense": 10.696,
+    "depreciation": 5.871,
+    "net_income": 8.634
+  },
+  "balance_sheet": {
+    "total_assets": 270.188,
+    "current_assets": 66.17,
+    "fixed_assets": 203.235,
+    "total_liabilities": 155.514,
+    "current_liabilities": 33.272,
+    "long_term_liabilities": 120.286,
+    "shareholders_equity": 114.674
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BERGQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BOHMAN",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "RYDÉ",
+      "first_name": "KURT",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SCHMIDT",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLIESTRÖM-TJUS",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "AUKTORISERADE REVISORN"
+    },
+    {
+      "surname": "LINDHOLM",
+      "first_name": "STIG",
+      "initials": "HJ:SON",
+      "auditing_firm": "DIREKTÖR"
+    }
+  ],
+  "additional_notes": null
+}

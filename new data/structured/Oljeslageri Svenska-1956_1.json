@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSKA OLJESLAGERI AKTIEBOLAGET",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 53356000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 5396710.0,
+    "tax_expense": 295964.0,
+    "depreciation": 1313628.0,
+    "net_income": 10120.46
+  },
+  "balance_sheet": {
+    "total_assets": 12998930.63,
+    "current_assets": 5208941.63,
+    "fixed_assets": 7721695.52,
+    "total_liabilities": 3332596.25,
+    "current_liabilities": 3332596.25,
+    "long_term_liabilities": 1066896.89,
+    "shareholders_equity": 9927944.21
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 250,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Högberg",
+      "first_name": "Eman.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Osvald",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Orrmell",
+      "first_name": "Aron",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engblom",
+      "first_name": "C. P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sörensen",
+      "first_name": "S. H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmgren",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Helmerson",
+      "first_name": "H. E.",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Thufvesson",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

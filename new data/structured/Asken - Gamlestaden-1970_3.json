@@ -1,0 +1,88 @@
+{
+  "company_name": "Investment Aktiebolaget Asken",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 13285.499,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 195.0,
+    "depreciation": null,
+    "net_income": 1169.791
+  },
+  "balance_sheet": {
+    "total_assets": 69136.419,
+    "current_assets": 5253.846,
+    "fixed_assets": null,
+    "total_liabilities": 15629.399,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 53507.02
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Simonsson",
+      "first_name": "Svante",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Carlander",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K:son",
+      "position": null
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Arvidsson",
+      "first_name": "Gunnar",
+      "initials": "L.",
+      "position": "Styrelsens ombudsman och sekreterare"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kellgren",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Kjellman",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "Upsala-Ekeby AB",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 464862.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5206.0
+  },
+  "balance_sheet": {
+    "total_assets": 555907.0,
+    "current_assets": 324225.0,
+    "fixed_assets": 130785.0,
+    "total_liabilities": 171917.0,
+    "current_liabilities": 120582.0,
+    "long_term_liabilities": 349611.0,
+    "shareholders_equity": 387542.0
+  },
+  "employees": {
+    "n_employees": 1470,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Alfredson",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Josephson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "finansdirektör"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Lars-Gösta",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "Rosén",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Skoog",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "Weil",
+      "first_name": "Robert",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Ericsson",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Andreasson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "Synnerdahl",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "personalrepresentant"
+    },
+    {
+      "surname": "Urwitz",
+      "first_name": "Gabriel",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Börje",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Hedefalk",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

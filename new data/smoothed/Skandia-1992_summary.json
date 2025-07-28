@@ -1,0 +1,116 @@
+{
+  "company_name": "Skandia Group",
+  "fiscal_year": 1992,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 12444.506333333333,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -791.246
+  },
+  "balance_sheet": {
+    "total_assets": 37065.65,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 83.628,
+    "current_liabilities": 8596.0,
+    "long_term_liabilities": 12226.0,
+    "shareholders_equity": 1339.674
+  },
+  "employees": {
+    "n_employees": 11335,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Niskanen",
+      "first_name": "Yrjö",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Fahlin",
+      "first_name": "Roland",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Wolrath",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Kronblad",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Tobisson",
+      "first_name": "Lars",
+      "initials": "F",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Ingolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Weise",
+      "first_name": "Barbara",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindén",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "Swarting",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "Lekman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ]
+}

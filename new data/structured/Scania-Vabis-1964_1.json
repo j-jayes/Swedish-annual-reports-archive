@@ -1,0 +1,80 @@
+{
+  "company_name": "AB SCANIA-VABIS",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 827.402,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10.898,
+    "net_income": 36.507
+  },
+  "balance_sheet": {
+    "total_assets": 489.453,
+    "current_assets": 231.222,
+    "fixed_assets": 226.96,
+    "total_liabilities": 285.0,
+    "current_liabilities": 170.269,
+    "long_term_liabilities": 47.352,
+    "shareholders_equity": 204.494
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2418,
+    "n_white_collar_workers": 1553
+  },
+  "board": [
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "N.-F.",
+      "position": null
+    },
+    {
+      "surname": "Throne-Holst",
+      "first_name": "Henning",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlin",
+      "first_name": "Karl-Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Swedlund",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Godin",
+      "first_name": "V.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

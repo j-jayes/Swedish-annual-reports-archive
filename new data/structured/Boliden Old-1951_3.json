@@ -1,0 +1,82 @@
+{
+  "company_name": "BOLIDENS GRUVAKTIEBOLAG",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 23980197.02,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 9000000.0
+  },
+  "balance_sheet": {
+    "total_assets": 177337485.0,
+    "current_assets": 102052699.29,
+    "fixed_assets": 75284785.71,
+    "total_liabilities": 58120000.65,
+    "current_liabilities": 43974945.65,
+    "long_term_liabilities": 14145000.0,
+    "shareholders_equity": 119217539.35
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljungdahl",
+      "first_name": "K-G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schwartz",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Fessé",
+      "first_name": "Folke",
+      "initials": "F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fagerlund",
+      "first_name": "Adolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wendler",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

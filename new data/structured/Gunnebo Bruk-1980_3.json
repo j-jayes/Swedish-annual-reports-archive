@@ -1,0 +1,98 @@
+{
+  "company_name": "Gunnebo Bruks Aktiebolag",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 507.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 468.7,
+    "wages_expense": null,
+    "tax_expense": 1.3,
+    "depreciation": 16.9,
+    "net_income": 0.1
+  },
+  "balance_sheet": {
+    "total_assets": 541.0,
+    "current_assets": 347.3,
+    "fixed_assets": 166.7,
+    "total_liabilities": 254.7,
+    "current_liabilities": 84.9,
+    "long_term_liabilities": 73.0,
+    "shareholders_equity": 61.3
+  },
+  "employees": {
+    "n_employees": 1697,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenstierna",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wiklund",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hising",
+      "first_name": "Lars Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjalmar",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Loftén",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stålbrand",
+      "first_name": "Bert",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ranby",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wennström",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

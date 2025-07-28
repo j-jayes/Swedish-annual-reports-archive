@@ -1,0 +1,76 @@
+{
+  "company_name": "KINNEVIK",
+  "fiscal_year": 2015,
+  "income_statement": {
+    "revenue": 1129.0,
+    "cost_of_goods_sold": 513.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1129.0
+  },
+  "balance_sheet": {
+    "total_assets": 85256.0,
+    "current_assets": 9567.0,
+    "fixed_assets": 75689.0,
+    "total_liabilities": 1802.0,
+    "current_liabilities": 9567.0,
+    "long_term_liabilities": 1315.0,
+    "shareholders_equity": 83454.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Stenbeck",
+      "first_name": "Cristina",
+      "initials": null,
+      "position": "Chairman of the Board"
+    },
+    {
+      "surname": "Borg",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Deputy Chairman of the Board"
+    },
+    {
+      "surname": "Fawcett",
+      "first_name": "Amelia",
+      "initials": null,
+      "position": "Deputy Chairman of the Board"
+    },
+    {
+      "surname": "Boardman",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Board Director"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Board Director"
+    },
+    {
+      "surname": "Mitteregger",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Board Director"
+    },
+    {
+      "surname": "Shakeshaft",
+      "first_name": "John",
+      "initials": null,
+      "position": "Board Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berntsson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Deloitte AB"
+    }
+  ],
+  "additional_notes": null
+}

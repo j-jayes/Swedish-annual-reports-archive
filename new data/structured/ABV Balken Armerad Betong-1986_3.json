@@ -1,0 +1,110 @@
+{
+  "company_name": "ABV",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 9661.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -16.9
+  },
+  "balance_sheet": {
+    "total_assets": 6238.2,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": 2388.3,
+    "long_term_liabilities": 1532.2,
+    "shareholders_equity": 283.8
+  },
+  "employees": {
+    "n_employees": 12519,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GIESECKE",
+      "first_name": "CURT-STEFFAN",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BRASAR",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "DALBORG",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "DAUN",
+      "first_name": "STELLAN",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "GYLL",
+      "first_name": "SÖREN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "ÖNNESJÖ",
+      "first_name": "KARL ERIK",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "PETTERSSON",
+      "first_name": "KARL-AXEL",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "BERTIL E",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

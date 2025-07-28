@@ -1,0 +1,80 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1993,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1177.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1062.5,
+    "wages_expense": null,
+    "tax_expense": 12.3,
+    "depreciation": null,
+    "net_income": 16.8
+  },
+  "balance_sheet": {
+    "total_assets": 1089.2,
+    "current_assets": 463.1,
+    "fixed_assets": 587.2,
+    "total_liabilities": 549.5666666666666,
+    "current_liabilities": 395.9,
+    "long_term_liabilities": 459.0,
+    "shareholders_equity": 232.3
+  },
+  "employees": {
+    "n_employees": 1871,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Irstad",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Levin",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Petersson",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Vice VD i Investor AB"
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Copoví-Mena",
+      "first_name": "Juan",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johanson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Revisor ICS Öhrlings Reveko AB"
+    },
+    {
+      "surname": "Danielsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ]
+}

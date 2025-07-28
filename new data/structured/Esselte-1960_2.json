@@ -1,0 +1,74 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 357.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8.9,
+    "net_income": 5.2
+  },
+  "balance_sheet": {
+    "total_assets": 196.712,
+    "current_assets": null,
+    "fixed_assets": 56.907,
+    "total_liabilities": null,
+    "current_liabilities": 29.75,
+    "long_term_liabilities": null,
+    "shareholders_equity": 80.011
+  },
+  "employees": {
+    "n_employees": 5982,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "AHRÉN",
+      "first_name": "F",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "I",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "K",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SUNDÉN",
+      "first_name": "R",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "J",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "S",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

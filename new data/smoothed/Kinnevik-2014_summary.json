@@ -1,0 +1,82 @@
+{
+  "company_name": "Investment AB Kinnevik",
+  "fiscal_year": 2014,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 20863.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 20863.0
+  },
+  "balance_sheet": {
+    "total_assets": 86065.0,
+    "current_assets": 2152.0,
+    "fixed_assets": 83913.0,
+    "total_liabilities": 1331.0,
+    "current_liabilities": 528.0,
+    "long_term_liabilities": 1255.0,
+    "shareholders_equity": 84206.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Stenbeck",
+      "first_name": "Cristina",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Fawcett",
+      "first_name": "Amelia",
+      "initials": null,
+      "position": "Vice styrelseordförande"
+    },
+    {
+      "surname": "Boardman",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Carlund",
+      "first_name": "Vigo",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Mitteregger",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Shakeshaft",
+      "first_name": "John",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Grabau",
+      "first_name": "Lorenzo",
+      "initials": null,
+      "position": "Verkställande direktör & Koncernchef"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berntsson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Deloitte AB"
+    }
+  ]
+}

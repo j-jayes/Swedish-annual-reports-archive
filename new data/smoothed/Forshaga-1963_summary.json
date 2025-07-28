@@ -1,0 +1,92 @@
+{
+  "company_name": "LINOLEUM AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1963,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 10.179,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 953.0
+  },
+  "balance_sheet": {
+    "total_assets": 29.28,
+    "current_assets": 10.922,
+    "fixed_assets": 17.796,
+    "total_liabilities": 16.5,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8.285
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 271,
+    "n_white_collar_workers": 165
+  },
+  "board": [
+    {
+      "surname": "Grönberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kaars Sypesteyn",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thornander",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Zoelly",
+      "first_name": "Charles",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thomsen",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergbrant",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": "Ekonomidirektören"
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Aukt. revisorn"
+    },
+    {
+      "surname": "Bökman",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "Bankkamrer"
+    },
+    {
+      "surname": "Lilljegren",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": "Aukt, revisorn"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1984,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3911.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 283.1,
+    "depreciation": 166.8,
+    "net_income": 429.29999999999995
+  },
+  "balance_sheet": {
+    "total_assets": 4968.9,
+    "current_assets": 3256.4,
+    "fixed_assets": 1408.6,
+    "total_liabilities": 1642.0,
+    "current_liabilities": 1334.1,
+    "long_term_liabilities": 486.96666666666664,
+    "shareholders_equity": 602.2333333333333
+  },
+  "employees": {
+    "n_employees": 6314,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "BERGSTROM",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGSTROM",
+      "first_name": "TONY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RINGKVIST",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TILLANDER",
+      "first_name": "BARBRO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WERKO",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDENGREN",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDEN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "Einar Larssons Revisionsbyrå AB"
+    }
+  ]
+}

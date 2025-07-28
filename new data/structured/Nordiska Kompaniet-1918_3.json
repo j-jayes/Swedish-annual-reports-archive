@@ -1,0 +1,104 @@
+{
+  "company_name": "AKTIEBOLAGET NORDISKA KOMPANIET",
+  "fiscal_year": 1918,
+  "income_statement": {
+    "revenue": 15332215.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 5255842.08
+  },
+  "balance_sheet": {
+    "total_assets": 66025421.98,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 32024404.87,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 34001017.11
+  },
+  "employees": {
+    "n_employees": 3047,
+    "n_blue_collar_workers": 416,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "THIEL",
+      "first_name": "ARTHUR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PEGELOW",
+      "first_name": "F.",
+      "initials": "W. H.",
+      "position": null
+    },
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAMMARSKJÖLD",
+      "first_name": "C.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WENNBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDEBECK",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MODIG",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRÖNWALL",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ALMSTRÖM",
+      "first_name": "HARALD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MAY",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SANDEBERG",
+      "first_name": "F.",
+      "initials": "AF",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGET",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 906.572882,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 770.028328,
+    "wages_expense": null,
+    "tax_expense": 46.0,
+    "depreciation": null,
+    "net_income": 43.4597
+  },
+  "balance_sheet": {
+    "total_assets": 1193.407791,
+    "current_assets": 651.183149,
+    "fixed_assets": 522.562082,
+    "total_liabilities": 589.84642,
+    "current_liabilities": 354.336361,
+    "long_term_liabilities": 184.944032,
+    "shareholders_equity": 589.84642
+  },
+  "employees": {
+    "n_employees": 18571,
+    "n_blue_collar_workers": 11066,
+    "n_white_collar_workers": 7754
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke",
+      "initials": "T",
+      "position": "koncernchef"
+    },
+    {
+      "surname": "Rausing",
+      "first_name": "Ruben",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Edström",
+      "first_name": "Johan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lilliecreutz",
+      "first_name": "Fritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc",
+      "initials": "Jr",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Häri ingår allmänna förvaltningskostnader med 18.758.521"
+}

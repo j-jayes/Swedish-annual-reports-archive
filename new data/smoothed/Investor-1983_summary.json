@@ -1,0 +1,88 @@
+{
+  "company_name": "Investor",
+  "fiscal_year": 1983,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 4144000075.04,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4.14,
+    "wages_expense": null,
+    "tax_expense": 47085094.17,
+    "depreciation": null,
+    "net_income": 246590493.18
+  },
+  "balance_sheet": {
+    "total_assets": 535097070.192,
+    "current_assets": 63125459.584,
+    "fixed_assets": 471971610.608,
+    "total_liabilities": 130.962,
+    "current_liabilities": 67829565.481,
+    "long_term_liabilities": 6600000.0,
+    "shareholders_equity": 492576318.484
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": null,
+      "initials": "N-A.",
+      "auditing_firm": null
+    }
+  ]
+}

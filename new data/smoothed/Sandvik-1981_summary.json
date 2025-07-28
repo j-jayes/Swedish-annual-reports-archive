@@ -1,0 +1,104 @@
+{
+  "company_name": "Sandvik",
+  "fiscal_year": 1981,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 8868.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 141.0,
+    "depreciation": null,
+    "net_income": 55.0
+  },
+  "balance_sheet": {
+    "total_assets": 11953.0,
+    "current_assets": 8183.0,
+    "fixed_assets": 3740.0,
+    "total_liabilities": 3338.0,
+    "current_liabilities": 3492.0,
+    "long_term_liabilities": 3338.0,
+    "shareholders_equity": 1802.0
+  },
+  "employees": {
+    "n_employees": 32820,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WESTERBERG",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "JAN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BAHRKE",
+      "first_name": "SIGVARD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KLINGSPOR",
+      "first_name": "CARL-GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KVARFORDH",
+      "first_name": "BÖRJE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LANDQVIST",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLLEN",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LOFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SCHILLER",
+      "first_name": "MAGNUS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

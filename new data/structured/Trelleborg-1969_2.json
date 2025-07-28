@@ -1,0 +1,98 @@
+{
+  "company_name": "Trelleborggruppen",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 501.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 145.9,
+    "tax_expense": 5.3,
+    "depreciation": 25.4,
+    "net_income": 8.0
+  },
+  "balance_sheet": {
+    "total_assets": 397.118,
+    "current_assets": 288.877,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": 114.827,
+    "long_term_liabilities": 79.284,
+    "shareholders_equity": 150.007
+  },
+  "employees": {
+    "n_employees": 6341,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Nedström",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ekblom",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Otto",
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "Gorthon",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": null,
+      "initials": "S.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

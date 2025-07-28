@@ -1,0 +1,82 @@
+{
+  "company_name": "Aktiebolaget Svenska Metallverken",
+  "fiscal_year": 1943,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7794768.54,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4246303.0,
+    "depreciation": 4148091.0,
+    "net_income": 1714167.44
+  },
+  "balance_sheet": {
+    "total_assets": 64339506.6,
+    "current_assets": 34875841.69,
+    "fixed_assets": 24901063.543333333,
+    "total_liabilities": 40255707.25,
+    "current_liabilities": 17234859.433333334,
+    "long_term_liabilities": 17951521.98,
+    "shareholders_equity": 20314237.6
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "HJORTH",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRABE",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLBERG",
+      "first_name": "C. K.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ÖBERG",
+      "first_name": "THEOFIL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FREDHOLM",
+      "first_name": "I.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

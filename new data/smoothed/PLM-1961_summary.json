@@ -1,0 +1,80 @@
+{
+  "company_name": "Aktiebolaget Plåtmanufaktur",
+  "fiscal_year": 1961,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 18504666.666666668,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2759000.0,
+    "depreciation": null,
+    "net_income": 3001000.0
+  },
+  "balance_sheet": {
+    "total_assets": 108332000.0,
+    "current_assets": 44711000.0,
+    "fixed_assets": 63621000.0,
+    "total_liabilities": 55631000.0,
+    "current_liabilities": 27750666.666666668,
+    "long_term_liabilities": 17110000.0,
+    "shareholders_equity": 52201000.0
+  },
+  "employees": {
+    "n_employees": 2918,
+    "n_blue_collar_workers": 2240,
+    "n_white_collar_workers": 678
+  },
+  "board": [
+    {
+      "surname": "Lindskog",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ORDFÖRANDE"
+    },
+    {
+      "surname": "Karnéus",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "VICE ORDFÖRANDE"
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Bertil",
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ]
+}

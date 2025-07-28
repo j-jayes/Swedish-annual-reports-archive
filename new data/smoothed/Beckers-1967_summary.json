@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1967,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 44208742.0312,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 125580.719,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 874321.320447,
+    "net_income": 485730.396578
+  },
+  "balance_sheet": {
+    "total_assets": 30021461.09572467,
+    "current_assets": 14641597.109574666,
+    "fixed_assets": 15379863.98615,
+    "total_liabilities": 17571442.422489334,
+    "current_liabilities": 4137.740607,
+    "long_term_liabilities": 2242.4880765,
+    "shareholders_equity": 12450018.672902
+  },
+  "employees": {
+    "n_employees": 1167,
+    "n_blue_collar_workers": 339,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "OLSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "CARLGREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DEGEFORS",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÅKANSON",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HJERNE",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTLING",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JELF",
+      "first_name": "OSCAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "FEINSTEIN",
+      "first_name": "STEN",
+      "initials": "ERIK",
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "TÖNNERVIK",
+      "first_name": "HENRY",
+      "initials": null,
+      "auditing_firm": "Revisor SRS"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "BERGVIK OCH ALA AKTIEBOLAG",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 36510778.87,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 16144173.72,
+    "net_income": 9537051.72
+  },
+  "balance_sheet": {
+    "total_assets": 50335276.35,
+    "current_assets": 20418799.94,
+    "fixed_assets": 58188576.37,
+    "total_liabilities": 32015447.4,
+    "current_liabilities": 9249939.1,
+    "long_term_liabilities": 22024000.0,
+    "shareholders_equity": 17156131.29
+  },
+  "employees": {
+    "n_employees": 2343,
+    "n_blue_collar_workers": 2098,
+    "n_white_collar_workers": 245
+  },
+  "board": [
+    {
+      "surname": "Öhrling",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "D.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odmark",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Francke",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderman",
+      "first_name": "H.",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Sundfeldt",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhrling",
+      "first_name": "P.",
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "D.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

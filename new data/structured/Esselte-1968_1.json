@@ -1,0 +1,92 @@
+{
+  "company_name": "SLT-KONCERNEN",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 705.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 27.8,
+    "net_income": 9.2
+  },
+  "balance_sheet": {
+    "total_assets": null,
+    "current_assets": 258.946,
+    "fixed_assets": 213.882,
+    "total_liabilities": 321.275,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 153.25
+  },
+  "employees": {
+    "n_employees": 7541,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "BLENNOW",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "VON HORN",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": "Överintendent"
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "LASSEN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "f. d. Hovrättsrådet"
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": "f. d. Hovrättsrådet"
+    },
+    {
+      "surname": "SUNDÉN",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "MANNERFELT",
+      "first_name": "CARL",
+      "initials": "M:SON",
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

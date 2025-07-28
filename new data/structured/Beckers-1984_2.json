@@ -1,0 +1,104 @@
+{
+  "company_name": "Beckers",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 1947.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 52.8
+  },
+  "balance_sheet": {
+    "total_assets": 1379.3,
+    "current_assets": 820.0,
+    "fixed_assets": 556.7,
+    "total_liabilities": 493.3,
+    "current_liabilities": 573.8,
+    "long_term_liabilities": 493.3,
+    "shareholders_equity": 224.9
+  },
+  "employees": {
+    "n_employees": 3237,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Christensen",
+      "first_name": "Ejner",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eliasson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Mivér",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Viksten",
+      "first_name": "Roland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lauri",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norberg",
+      "first_name": "Per-Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stellmar",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Frej",
+      "first_name": "Gert",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "AB Jacobson & Widmark",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 274880.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5246.0,
+    "net_income": 7339.0
+  },
+  "balance_sheet": {
+    "total_assets": 285808.0,
+    "current_assets": 155395.0,
+    "fixed_assets": 130325.0,
+    "total_liabilities": 243870.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 41938.0
+  },
+  "employees": {
+    "n_employees": 1049,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wettergren",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ödlund",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Tjeder",
+      "first_name": "Carl Johan",
+      "initials": null,
+      "position": "vd"
+    },
+    {
+      "surname": "Sandh",
+      "first_name": "Zerny",
+      "initials": null,
+      "position": "vd"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "vvd"
+    },
+    {
+      "surname": "Forsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Hansbo",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "professor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Börje",
+      "initials": null,
+      "position": "ingenjör, arbetstagarrepresentant"
+    },
+    {
+      "surname": "Pauli",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "civilingenjör"
+    },
+    {
+      "surname": "Victorsson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ingenjör, arbetstagarrepresentant"
+    },
+    {
+      "surname": "Zetterberg",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "civilingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": "Godk revisor"
+    }
+  ],
+  "additional_notes": null
+}

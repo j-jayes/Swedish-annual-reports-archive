@@ -1,0 +1,43 @@
+{
+  "company_name": "Aktiebolaget Elektrolux",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2547697.17,
+    "net_income": 6279963.66
+  },
+  "balance_sheet": {
+    "total_assets": 112217248.82,
+    "current_assets": 75353907.11,
+    "fixed_assets": 36863341.71,
+    "total_liabilities": 55217248.82,
+    "current_liabilities": 8678855.86,
+    "long_term_liabilities": 16898647.02,
+    "shareholders_equity": 57000000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2178,
+    "n_white_collar_workers": 825
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

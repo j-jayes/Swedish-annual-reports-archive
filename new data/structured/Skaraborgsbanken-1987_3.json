@@ -1,0 +1,122 @@
+{
+  "company_name": "SKARABORGSBANKEN",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 361.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 214.8,
+    "wages_expense": null,
+    "tax_expense": 21.466,
+    "depreciation": null,
+    "net_income": 42.015
+  },
+  "balance_sheet": {
+    "total_assets": 9.094,
+    "current_assets": 7.426,
+    "fixed_assets": null,
+    "total_liabilities": 8.382,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 712.1
+  },
+  "employees": {
+    "n_employees": 533,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nyström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Pålsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Davidsson",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Erik-V.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahl",
+      "first_name": "Rigmor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Arvidsson",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Demitz-Helin",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Av Bankinspektionen förordnad revisor"
+    }
+  ],
+  "additional_notes": null
+}

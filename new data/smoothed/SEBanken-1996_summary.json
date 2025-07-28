@@ -1,0 +1,58 @@
+{
+  "company_name": "Skandinaviska Enskilda Banken",
+  "fiscal_year": 1996,
+  "additional_notes": "Rörelseresultatet ökade med 68 procent. Rörelseresultatet på 5 870 miljoner kronor är det högsta i S-E-Bankens historia. Resultatet per aktie steg till 8,91 (4,80) kr. Utdelningen föreslås bli 2,75 kr/aktie.",
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4696.0
+  },
+  "balance_sheet": {
+    "total_assets": 550628.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 507712.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 21300.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Sahlberg",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "position": "STYRELSENS ORDFÖRANDE"
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "VERKSTÄLLANDE DIREKTÖR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Blix",
+      "first_name": "Clas",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Nordin",
+      "first_name": "Ulla-Britt",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse"
+    }
+  ]
+}

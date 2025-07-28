@@ -1,0 +1,64 @@
+{
+  "company_name": "Aktiebolaget Emissionsinstitutet",
+  "fiscal_year": 1930,
+  "income_statement": {
+    "revenue": 275512.31,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 104777.41,
+    "depreciation": null,
+    "net_income": 170734.9
+  },
+  "balance_sheet": {
+    "total_assets": 2694871.72,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2694871.72,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Joh.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gullander",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Aug.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Dickson",
+      "first_name": "Charles",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ekholm",
+      "first_name": "Josef",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

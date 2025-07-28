@@ -1,0 +1,94 @@
+{
+  "company_name": "Aktiebolaget Papyrus",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 4909.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -147.4,
+    "depreciation": null,
+    "net_income": 181.4
+  },
+  "balance_sheet": {
+    "total_assets": 2789.3,
+    "current_assets": 2091.9,
+    "fixed_assets": 416.5,
+    "total_liabilities": 1572.3,
+    "current_liabilities": 872.7,
+    "long_term_liabilities": 545.6,
+    "shareholders_equity": 1217.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Harrison",
+      "first_name": "Per Åke",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Torkel",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Trolle",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Alf",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Bäckberg",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Pappersarbetare"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Herry",
+      "initials": null,
+      "position": "Ombudsman"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jansson",
+      "first_name": "N.G.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gustavsson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

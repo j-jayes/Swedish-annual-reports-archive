@@ -1,0 +1,74 @@
+{
+  "company_name": "AKTIEBOLAGET NORDISKA ARMATURFABRIKERNA",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 4709668.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1100000.0,
+    "depreciation": 1335859.0,
+    "net_income": 1503883.3
+  },
+  "balance_sheet": {
+    "total_assets": 46465549.55,
+    "current_assets": null,
+    "fixed_assets": 15174157.0,
+    "total_liabilities": null,
+    "current_liabilities": 15259617.91,
+    "long_term_liabilities": null,
+    "shareholders_equity": 23765000.0
+  },
+  "employees": {
+    "n_employees": 956,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "\n\nÅge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Roslund",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Berlin",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

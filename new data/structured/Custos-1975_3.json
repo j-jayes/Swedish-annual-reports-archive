@@ -1,0 +1,112 @@
+{
+  "company_name": "CUSTOS",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 36.161,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.863,
+    "depreciation": null,
+    "net_income": 81.784
+  },
+  "balance_sheet": {
+    "total_assets": 415.011,
+    "current_assets": 9.417,
+    "fixed_assets": 405.594,
+    "total_liabilities": null,
+    "current_liabilities": 19.26,
+    "long_term_liabilities": null,
+    "shareholders_equity": 392.391
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BERGQVIST",
+      "first_name": "\nAke",
+      "initials": null,
+      "position": "Direktör, Lidingö, ordf."
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Direktör, Goteborg"
+    },
+    {
+      "surname": "GYLLENHAMMAR",
+      "first_name": "Pehr",
+      "initials": "G.",
+      "position": "Direktör, Goteborg"
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Direktör, Malmo"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "Direktör, Stockholm"
+    },
+    {
+      "surname": "VON SYDOW",
+      "first_name": "Kristian",
+      "initials": null,
+      "position": "Direktör, Goteborg"
+    },
+    {
+      "surname": "OHMAN",
+      "first_name": "Anders",
+      "initials": "R.",
+      "position": "Advokat, Stockholm"
+    },
+    {
+      "surname": "ANDO",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "Direktör, Stockholm, verkst. direktör"
+    },
+    {
+      "surname": "LEKSELL",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Direktör, Sollentuna, vice verkst. direktör, suppleant"
+    },
+    {
+      "surname": "GREBACK",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Agronom"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "Tyra",
+      "initials": null,
+      "position": "Riksdagsledamot, Uddevalla, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PAHLGREN",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor Stockholm"
+    },
+    {
+      "surname": "SORENSEN",
+      "first_name": "Christian",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor Stockholm"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "Sandvik",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 1691.509,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1380.779,
+    "wages_expense": null,
+    "tax_expense": 32.79,
+    "depreciation": 100.55,
+    "net_income": 22.9
+  },
+  "balance_sheet": {
+    "total_assets": 2411.277,
+    "current_assets": 1572.425,
+    "fixed_assets": 838.617,
+    "total_liabilities": 1942.515,
+    "current_liabilities": 705.77,
+    "long_term_liabilities": 760.481,
+    "shareholders_equity": 468.762
+  },
+  "employees": {
+    "n_employees": 18809,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": "Jr.",
+      "position": null
+    },
+    {
+      "surname": "LANDQVIST",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BAHRKE",
+      "first_name": "SIGVARD",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KORAEN",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

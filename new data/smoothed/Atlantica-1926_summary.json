@@ -1,0 +1,70 @@
+{
+  "company_name": "FÖRSÄKRINGSAKTIEBOLAGET ATLANTICA",
+  "fiscal_year": 1926,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1978826.76,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 51191.2,
+    "net_income": 222268.51
+  },
+  "balance_sheet": {
+    "total_assets": 10456479.01,
+    "current_assets": null,
+    "fixed_assets": 1500000.0,
+    "total_liabilities": 3780594.3366666664,
+    "current_liabilities": 1104152.64,
+    "long_term_liabilities": 4700309.16,
+    "shareholders_equity": 3501278.4933333336
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "CARLSSON",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "GUSTAF",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    },
+    {
+      "surname": "METCALFE",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ADAMSON",
+      "first_name": "C.",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "PRIPP & LYCKHOLM",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 19288.113,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 15009.843,
+    "depreciation": null,
+    "net_income": 5453.359
+  },
+  "balance_sheet": {
+    "total_assets": 78667.577,
+    "current_assets": 25697.512,
+    "fixed_assets": 36000.73,
+    "total_liabilities": 71191.134,
+    "current_liabilities": 2259.837,
+    "long_term_liabilities": 16588.525,
+    "shareholders_equity": 71191.134
+  },
+  "employees": {
+    "n_employees": 597,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmquist",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sverdrup",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frisén",
+      "first_name": "Oskar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Ygge",
+      "first_name": "Birger",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hasson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lilljegren",
+      "first_name": "Per",
+      "initials": "P",
+      "auditing_firm": "suppleant"
+    },
+    {
+      "surname": "Rohlin",
+      "first_name": "Sven-Rune",
+      "initials": "S",
+      "auditing_firm": "suppleant"
+    }
+  ],
+  "additional_notes": null
+}

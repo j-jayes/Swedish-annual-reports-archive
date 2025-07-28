@@ -1,0 +1,88 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 284.22,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 87.432,
+    "wages_expense": null,
+    "tax_expense": 927.0,
+    "depreciation": null,
+    "net_income": 5.428
+  },
+  "balance_sheet": {
+    "total_assets": 402.01,
+    "current_assets": 83.119,
+    "fixed_assets": 317.156,
+    "total_liabilities": 364.665,
+    "current_liabilities": 112.683,
+    "long_term_liabilities": 248.424,
+    "shareholders_equity": 31.084
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Direktör, Göteborg, ordf."
+    },
+    {
+      "surname": "Wettermark",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Direktör, Torna-Hällestad, vice ordf."
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": "Direktör, Malmö"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör, Stockholm"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W",
+      "position": "Direktör, Lidingö, verkst, dir."
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Direktör, Gävle, Suppleant"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Advokat, Nacka, Suppleant"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Direktör, Stockholm, Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor, Lidingö"
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor, Stockholm"
+    }
+  ],
+  "additional_notes": null
+}

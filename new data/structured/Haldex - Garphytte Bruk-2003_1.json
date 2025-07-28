@@ -1,0 +1,92 @@
+{
+  "company_name": "Haldex",
+  "fiscal_year": 2003,
+  "income_statement": {
+    "revenue": 6036.0,
+    "cost_of_goods_sold": -4491.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -50.0,
+    "depreciation": null,
+    "net_income": 70.0
+  },
+  "balance_sheet": {
+    "total_assets": 3596.0,
+    "current_assets": 1773.0,
+    "fixed_assets": 1823.0,
+    "total_liabilities": 2212.0,
+    "current_liabilities": 780.0,
+    "long_term_liabilities": 1016.0,
+    "shareholders_equity": 1384.0
+  },
+  "employees": {
+    "n_employees": 4018,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmgren",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rogersson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stillström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundewall",
+      "first_name": "Caroline",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vieweg",
+      "first_name": "Cecilia",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Herolf",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers AB"
+    },
+    {
+      "surname": "Roth",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers AB"
+    }
+  ],
+  "additional_notes": null
+}

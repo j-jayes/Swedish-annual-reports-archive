@@ -1,0 +1,116 @@
+{
+  "company_name": "Pharmacia AB",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 2321.3,
+    "cost_of_goods_sold": 693.0,
+    "operating_expenses": null,
+    "wages_expense": 516.0,
+    "tax_expense": 54.0,
+    "depreciation": null,
+    "net_income": 460.5
+  },
+  "balance_sheet": {
+    "total_assets": 3199.0,
+    "current_assets": 2022.7,
+    "fixed_assets": 1166.4,
+    "total_liabilities": 918.6,
+    "current_liabilities": 759.0,
+    "long_term_liabilities": 333.9,
+    "shareholders_equity": 1182.4
+  },
+  "employees": {
+    "n_employees": 4055,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mark",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Frisinger",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lanneberg",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Malmsten",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sandler",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Sjöquist",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundström",
+      "first_name": "Robert",
+      "initials": null,
+      "position": "Anställdas representant"
+    },
+    {
+      "surname": "Wessman",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Barnden",
+      "first_name": "Robert",
+      "initials": null,
+      "auditing_firm": "Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Heurlin",
+      "first_name": "Sigvard",
+      "initials": null,
+      "auditing_firm": "Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

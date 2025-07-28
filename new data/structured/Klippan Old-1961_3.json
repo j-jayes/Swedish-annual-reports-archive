@@ -1,0 +1,68 @@
+{
+  "company_name": "KLIPPANS FINPAPPERSBRUK",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 8831000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 234000.0,
+    "net_income": 2313000.0
+  },
+  "balance_sheet": {
+    "total_assets": 42575000.0,
+    "current_assets": 28962000.0,
+    "fixed_assets": 14522000.0,
+    "total_liabilities": 21779000.0,
+    "current_liabilities": 13057000.0,
+    "long_term_liabilities": 8722000.0,
+    "shareholders_equity": 43622000.0
+  },
+  "employees": {
+    "n_employees": 1695,
+    "n_blue_collar_workers": 1469,
+    "n_white_collar_workers": 226
+  },
+  "board": [
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GOSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ESTERSTROM",
+      "first_name": null,
+      "initials": "S. TH",
+      "position": "THORSTEN WESTERSTROM"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SONTAG",
+      "first_name": null,
+      "initials": "K.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "WISÉN",
+      "first_name": "SVEN-OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

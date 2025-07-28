@@ -1,0 +1,92 @@
+{
+  "company_name": "Billeruds Aktiebolag",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 357.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7.0,
+    "depreciation": null,
+    "net_income": 11.5
+  },
+  "balance_sheet": {
+    "total_assets": 521.231,
+    "current_assets": 197.841,
+    "fixed_assets": 310.725,
+    "total_liabilities": 210.922,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 210.922
+  },
+  "employees": {
+    "n_employees": 6474,
+    "n_blue_collar_workers": 5360,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Pihlgren",
+      "first_name": "Ake",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Smith",
+      "first_name": "Anders",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lillieström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Wendt",
+      "first_name": "Stellan",
+      "initials": null,
+      "auditing_firm": "Revisionschef"
+    },
+    {
+      "surname": "Herting",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Fögderidirektör"
+    }
+  ],
+  "additional_notes": null
+}

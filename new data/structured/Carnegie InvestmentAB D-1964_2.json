@@ -1,0 +1,80 @@
+{
+  "company_name": "D. Carnegie & Co.",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 1844153.34,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 10885.69,
+    "net_income": 734641.08
+  },
+  "balance_sheet": {
+    "total_assets": 22978555.93,
+    "current_assets": 3265875.04,
+    "fixed_assets": 19712680.89,
+    "total_liabilities": 4778555.93,
+    "current_liabilities": 1217693.98,
+    "long_term_liabilities": 2257487.01,
+    "shareholders_equity": 18200000.0
+  },
+  "employees": {
+    "n_employees": 6,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LANGENSKIOLD",
+      "first_name": "C. G.",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THULIN",
+      "first_name": "Folke",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SODERMAN",
+      "first_name": "H.",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "Gosta",
+      "initials": null,
+      "position": "auktoriserade revisorer"
+    },
+    {
+      "surname": "LINDGREN",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "auktoriserade revisorer"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "Gosta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDGREN",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

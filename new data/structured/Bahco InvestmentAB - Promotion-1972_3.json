@@ -1,0 +1,82 @@
+{
+  "company_name": "Investmentaktiebolaget Promotion",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 953.684,
+    "cost_of_goods_sold": 672.912,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9.378,
+    "depreciation": 29.251,
+    "net_income": 12.119
+  },
+  "balance_sheet": {
+    "total_assets": 932.865,
+    "current_assets": 490.135,
+    "fixed_assets": 441.156,
+    "total_liabilities": 282.41,
+    "current_liabilities": 118.742,
+    "long_term_liabilities": 157.774,
+    "shareholders_equity": 63.932
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bildt",
+      "first_name": "Carl",
+      "initials": "R",
+      "position": null
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bostedt",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

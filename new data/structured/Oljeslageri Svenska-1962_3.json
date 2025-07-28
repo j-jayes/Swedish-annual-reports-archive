@@ -1,0 +1,37 @@
+{
+  "company_name": "SVENSKA OLJESLAGERI AKTIEBOLAGET",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 66.389,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 601.437
+  },
+  "balance_sheet": {
+    "total_assets": 24.466,
+    "current_assets": 15.454,
+    "fixed_assets": 9.012,
+    "total_liabilities": 7.044,
+    "current_liabilities": 6.131,
+    "long_term_liabilities": 912.0,
+    "shareholders_equity": 17.422
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 233,
+    "n_white_collar_workers": 212
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "LILLJEGREN",
+      "first_name": null,
+      "initials": "PER",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

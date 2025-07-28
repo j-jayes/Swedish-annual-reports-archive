@@ -1,0 +1,70 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 228.434,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 21.452,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 13.718,
+    "net_income": 2.197
+  },
+  "balance_sheet": {
+    "total_assets": 259.084,
+    "current_assets": 73.211,
+    "fixed_assets": 146.727,
+    "total_liabilities": 116.457,
+    "current_liabilities": 48.221,
+    "long_term_liabilities": 63.81,
+    "shareholders_equity": 30.371
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Wettermark",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W.",
+      "position": "verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

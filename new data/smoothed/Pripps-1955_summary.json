@@ -1,0 +1,116 @@
+{
+  "company_name": "PRIPP & LYCKHOLM",
+  "fiscal_year": 1956,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 13563.237666666668,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 899.7503333333334,
+    "depreciation": 1.876,
+    "net_income": 2376.0826666666667
+  },
+  "balance_sheet": {
+    "total_assets": 52314.60166666667,
+    "current_assets": 9950.057333333334,
+    "fixed_assets": 42364.54433333333,
+    "total_liabilities": 9422.931,
+    "current_liabilities": 3246.380333333333,
+    "long_term_liabilities": 6814.931666666667,
+    "shareholders_equity": 36256.657999999996
+  },
+  "employees": {
+    "n_employees": 1307.3333333333333,
+    "n_blue_collar_workers": 820,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dieden",
+      "first_name": "Gotthard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Loberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ygge",
+      "first_name": "Birger",
+      "initials": null,
+      "position": "vice verkställande direktör, suppleant"
+    },
+    {
+      "surname": "Dickson",
+      "first_name": "James",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stenberg",
+      "first_name": "Edgard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": "S",
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ]
+}

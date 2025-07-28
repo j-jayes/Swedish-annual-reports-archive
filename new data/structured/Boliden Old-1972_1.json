@@ -1,0 +1,92 @@
+{
+  "company_name": "BOLIDEN AKTIEBOLAG",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 1370.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 271.0,
+    "tax_expense": -10.136,
+    "depreciation": null,
+    "net_income": 31.1
+  },
+  "balance_sheet": {
+    "total_assets": 1485.207,
+    "current_assets": 721.454,
+    "fixed_assets": 760.436,
+    "total_liabilities": 1031.168,
+    "current_liabilities": 274.784,
+    "long_term_liabilities": 489.847,
+    "shareholders_equity": 454.039
+  },
+  "employees": {
+    "n_employees": 8414,
+    "n_blue_collar_workers": 5803,
+    "n_white_collar_workers": 2611
+  },
+  "board": [
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "AKERMAN",
+      "first_name": "ALF",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "BRYNIELSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELFSTRÖM",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAMARCHE",
+      "first_name": "ALFRED",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDSKOG",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALM",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BERQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DAHL",
+      "first_name": "CARL OLOF",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

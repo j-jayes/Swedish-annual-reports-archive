@@ -1,0 +1,122 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 5323.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4496.1,
+    "wages_expense": null,
+    "tax_expense": 159.9,
+    "depreciation": null,
+    "net_income": 114.0
+  },
+  "balance_sheet": {
+    "total_assets": 6333.2,
+    "current_assets": 2830.4,
+    "fixed_assets": 3488.7,
+    "total_liabilities": 4722.9,
+    "current_liabilities": 1764.5,
+    "long_term_liabilities": 1843.4,
+    "shareholders_equity": 1610.3
+  },
+  "employees": {
+    "n_employees": 11302,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": "VD i Allmänna Pensionsfondens första, andra och tredje fondstyrelser"
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Styrelseordförande i Promotion och Aritmos"
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": "VD i Wilh. Sonesson"
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Koncernchef och VD i Telefonaktiebolaget L M Ericsson"
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "VD i Handelsbanken"
+    },
+    {
+      "surname": "Frisinger",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "VD i Volvo"
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": "Chaufför, arbetstagarrepresentant"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Tjänsteman, arbetstagarrepresentant"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Lagerarbetare, arbetstagarrepresentant."
+    },
+    {
+      "surname": "Pålsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Bevakningsman, arbetstagarrepresentant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hanner",
+      "first_name": "Per",
+      "initials": "V A",
+      "auditing_firm": "REVEKO AB"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "BOHLINS REVISIONSBYRÅ AB"
+    }
+  ],
+  "additional_notes": null
+}

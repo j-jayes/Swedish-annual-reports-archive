@@ -1,0 +1,110 @@
+{
+  "company_name": "Sveriges Litografiska Tryckerier",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 25.423,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9.519,
+    "net_income": 5.904
+  },
+  "balance_sheet": {
+    "total_assets": 112.386,
+    "current_assets": 52.03,
+    "fixed_assets": 47.934,
+    "total_liabilities": null,
+    "current_liabilities": 15.716,
+    "long_term_liabilities": 31.283,
+    "shareholders_equity": 72.325
+  },
+  "employees": {
+    "n_employees": 5764,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Ordf."
+    },
+    {
+      "surname": "Ahrén",
+      "first_name": "Frithiof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Horn",
+      "first_name": "Knut",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunden",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordenfalk",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Vice Verkst. Direktör"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": null,
+      "initials": "Åke",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisior"
+    },
+    {
+      "surname": "Ekeberg",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisior"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisior"
+    }
+  ],
+  "additional_notes": null
+}

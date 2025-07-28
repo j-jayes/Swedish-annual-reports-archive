@@ -1,0 +1,70 @@
+{
+  "company_name": "Aktiebolaget Iggesunds Bruk",
+  "fiscal_year": 1945,
+  "income_statement": {
+    "revenue": 3560191.06,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1330534.85,
+    "depreciation": null,
+    "net_income": 2229656.21
+  },
+  "balance_sheet": {
+    "total_assets": 39913243.12,
+    "current_assets": 13166225.68,
+    "fixed_assets": 26746917.44,
+    "total_liabilities": 9456214.8,
+    "current_liabilities": 6509.0,
+    "long_term_liabilities": 5000000.0,
+    "shareholders_equity": 14400000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Bexelius",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Weinberg",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

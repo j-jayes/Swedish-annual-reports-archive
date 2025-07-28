@@ -1,0 +1,92 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 597.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5.586,
+    "wages_expense": null,
+    "tax_expense": 0.061,
+    "depreciation": 19.086,
+    "net_income": 8.905
+  },
+  "balance_sheet": {
+    "total_assets": 337.092,
+    "current_assets": 131.366,
+    "fixed_assets": 205.546,
+    "total_liabilities": 17.654,
+    "current_liabilities": 153.365,
+    "long_term_liabilities": 151.549,
+    "shareholders_equity": 9.196
+  },
+  "employees": {
+    "n_employees": 1812,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": "H",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Birgander",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W",
+      "position": null
+    },
+    {
+      "surname": "Rodin",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Smedman",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Eric",
+      "initials": "D",
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehnborg",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lundvall",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

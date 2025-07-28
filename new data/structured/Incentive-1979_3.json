@@ -1,0 +1,43 @@
+{
+  "company_name": "Incentive",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 2905.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 23.7
+  },
+  "balance_sheet": {
+    "total_assets": 2735.9,
+    "current_assets": 1833.9,
+    "fixed_assets": 886.9,
+    "total_liabilities": null,
+    "current_liabilities": 582.2,
+    "long_term_liabilities": null,
+    "shareholders_equity": 368.6
+  },
+  "employees": {
+    "n_employees": 10528,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "WIDHAGEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "GÖTE",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

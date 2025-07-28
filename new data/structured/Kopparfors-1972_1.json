@@ -1,0 +1,88 @@
+{
+  "company_name": "KOPPARFORS",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 289.766,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 230.209,
+    "wages_expense": null,
+    "tax_expense": 4.0,
+    "depreciation": null,
+    "net_income": 8.594
+  },
+  "balance_sheet": {
+    "total_assets": 365.0,
+    "current_assets": 78.37,
+    "fixed_assets": 235.421,
+    "total_liabilities": 216.574,
+    "current_liabilities": 67.652,
+    "long_term_liabilities": 149.194,
+    "shareholders_equity": 118.365
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": "M.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "HOLGERSSON",
+      "first_name": "SIGBJÖRN",
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "MONTGOMERY",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRIPENSTEDT",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

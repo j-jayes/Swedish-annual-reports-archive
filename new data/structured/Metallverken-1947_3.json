@@ -1,0 +1,80 @@
+{
+  "company_name": "AKTIEBOLAGET SVENSKA METALLVERKEN",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 11544211.14,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1950000.0,
+    "depreciation": null,
+    "net_income": 3437885.82
+  },
+  "balance_sheet": {
+    "total_assets": 73475086.97,
+    "current_assets": 35621509.98,
+    "fixed_assets": 34959576.43,
+    "total_liabilities": 37287880.32,
+    "current_liabilities": 17934910.51,
+    "long_term_liabilities": 30697966.38,
+    "shareholders_equity": 36187206.65
+  },
+  "employees": {
+    "n_employees": 4900,
+    "n_blue_collar_workers": 3597,
+    "n_white_collar_workers": 1293
+  },
+  "board": [
+    {
+      "surname": "WESTERBERG",
+      "first_name": null,
+      "initials": "K.D.",
+      "position": null
+    },
+    {
+      "surname": "DAHLBERG",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRIIS",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": null,
+      "initials": "TAGE",
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": null,
+      "initials": "C.A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ÖBERG",
+      "first_name": "THEOFIL",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FREDHOLM",
+      "first_name": null,
+      "initials": "I.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

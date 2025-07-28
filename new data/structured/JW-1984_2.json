@@ -1,0 +1,98 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 332.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 128.779,
+    "tax_expense": 9.406,
+    "depreciation": 5.251,
+    "net_income": 4.654
+  },
+  "balance_sheet": {
+    "total_assets": 330.169,
+    "current_assets": 212.772,
+    "fixed_assets": 117.346,
+    "total_liabilities": 184.419,
+    "current_liabilities": 34.523,
+    "long_term_liabilities": 97.778,
+    "shareholders_equity": 61.27
+  },
+  "employees": {
+    "n_employees": 1004,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WETTERGREN",
+      "first_name": "OLA",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "ROOS",
+      "first_name": "FREDRIK",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": "G",
+      "position": "Vice VD och marknadschef"
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HANSBO",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PAULI",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDH",
+      "first_name": "ZERNY",
+      "initials": null,
+      "position": "Koncernchef och VD"
+    },
+    {
+      "surname": "TJEDER",
+      "first_name": "CARL",
+      "initials": "JOHAN",
+      "position": null
+    },
+    {
+      "surname": "ZETTERBERG",
+      "first_name": "\n\nKE",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Björell",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Axelsson",
+      "first_name": "Kurt",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,100 @@
+{
+  "company_name": "Sundsvalls Handelsbank",
+  "fiscal_year": 1906,
+  "income_statement": {
+    "revenue": 777889.98,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 293070.87,
+    "wages_expense": 116494.95,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 543500.0
+  },
+  "balance_sheet": {
+    "total_assets": 26766820.93,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 19376630.59,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7390000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Arhusiander",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STACKELL",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cornell",
+      "first_name": "J. F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammarberg",
+      "first_name": "H. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wessén",
+      "first_name": "C. O.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmqvist",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kjellstrand",
+      "first_name": "F.",
+      "initials": null,
+      "position": "Verkst\nDirektör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Johansson",
+      "first_name": "Botv.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordgren",
+      "first_name": "C.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sandelin",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ribbing",
+      "first_name": "E. G.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

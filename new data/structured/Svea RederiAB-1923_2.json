@@ -1,0 +1,39 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1923,
+  "income_statement": {
+    "revenue": 24897670.35,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 21419721.83,
+    "wages_expense": null,
+    "tax_expense": 3648.52,
+    "depreciation": null,
+    "net_income": 2773163.77
+  },
+  "balance_sheet": {
+    "total_assets": 54168413.96,
+    "current_assets": null,
+    "fixed_assets": 38630500.0,
+    "total_liabilities": 31188340.45,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 22980073.51
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Nyström",
+      "first_name": "M.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

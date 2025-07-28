@@ -1,0 +1,55 @@
+{
+  "company_name": "Atlas Copco",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 15915.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -14029.0,
+    "wages_expense": null,
+    "tax_expense": -560.0,
+    "depreciation": -425.0,
+    "net_income": 698.0
+  },
+  "balance_sheet": {
+    "total_assets": 13971.0,
+    "current_assets": 9781.0,
+    "fixed_assets": 4190.0,
+    "total_liabilities": 7513.0,
+    "current_liabilities": 4978.0,
+    "long_term_liabilities": 2535.0,
+    "shareholders_equity": 6200.0
+  },
+  "employees": {
+    "n_employees": 21507,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "GIERTZ",
+      "first_name": "Karl-G",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "HEROLF",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "Holmström",
+      "first_name": "Stefan",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant, Deputy"
+    },
+    {
+      "surname": "Ribers",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant, Deputy"
+    }
+  ],
+  "additional_notes": null
+}

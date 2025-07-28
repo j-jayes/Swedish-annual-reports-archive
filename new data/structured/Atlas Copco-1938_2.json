@@ -1,0 +1,58 @@
+{
+  "company_name": "AKTIEBOLAGET ATLAS DIESEL",
+  "fiscal_year": 1938,
+  "income_statement": {
+    "revenue": 1830478.35,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 370231.7,
+    "net_income": 920458.15
+  },
+  "balance_sheet": {
+    "total_assets": 18708130.08,
+    "current_assets": 5109723.08,
+    "fixed_assets": 3640846.0,
+    "total_liabilities": 6773000.0,
+    "current_liabilities": 4917470.76,
+    "long_term_liabilities": 3600000.0,
+    "shareholders_equity": 1365907.73
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg J:r.",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Liljenroth",
+      "first_name": "F.",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

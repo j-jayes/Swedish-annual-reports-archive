@@ -1,0 +1,116 @@
+{
+  "company_name": "KemaNord",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 713.426,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 56.159,
+    "net_income": 9.413
+  },
+  "balance_sheet": {
+    "total_assets": 944.347,
+    "current_assets": 340.959,
+    "fixed_assets": 423.771,
+    "total_liabilities": 339.012,
+    "current_liabilities": 143.55,
+    "long_term_liabilities": 183.148,
+    "shareholders_equity": 235.352
+  },
+  "employees": {
+    "n_employees": 4918,
+    "n_blue_collar_workers": 2649,
+    "n_white_collar_workers": 2269
+  },
+  "board": [
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ödner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Linder",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Pontin",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": "Advokat"
+    },
+    {
+      "surname": "Johanson",
+      "first_name": "Curt",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Ohlsson-Leijon",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Haegerstrand",
+      "first_name": "Ingemar",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    }
+  ],
+  "additional_notes": null
+}

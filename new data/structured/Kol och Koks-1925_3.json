@@ -1,0 +1,64 @@
+{
+  "company_name": "AKTIEBOLAGET KOL OCH KOKS",
+  "fiscal_year": 1925,
+  "income_statement": {
+    "revenue": 1021975.48,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 622459.55,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 384527.65
+  },
+  "balance_sheet": {
+    "total_assets": 8015276.23,
+    "current_assets": null,
+    "fixed_assets": 4472248.76,
+    "total_liabilities": 8015276.23,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5750000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ANDERSSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TAMM",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BEIJER",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WILTON",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CLASON",
+      "first_name": "OTTO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "REGNSTRAND",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,146 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1983,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 10736.764,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 582.0,
+    "depreciation": 926.0,
+    "net_income": 311.0
+  },
+  "balance_sheet": {
+    "total_assets": 7858.018,
+    "current_assets": 2395.472333333333,
+    "fixed_assets": 206.92533333333333,
+    "total_liabilities": 2991.304,
+    "current_liabilities": 1963.92,
+    "long_term_liabilities": 1504.67,
+    "shareholders_equity": 1388.104
+  },
+  "employees": {
+    "n_employees": 88800,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WERTHÉN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "BYSTEDT",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "Chief Executive Officer"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLGERSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLVING",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALMER",
+      "first_name": "EDWARD",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "PALMSTIERNA",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHARP",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "MALMENSTAM-SKYTT",
+      "first_name": "BIRGIT",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "KARLSSON",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EDMAN",
+      "first_name": "PER-OLOF",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "ERIKSSON",
+      "first_name": "RUNO",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "SÖDERQVIST",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOLMÉN",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NORDENBÄCK",
+      "first_name": "JAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "KJELL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SCHUMACHER",
+      "first_name": "JÖRGEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

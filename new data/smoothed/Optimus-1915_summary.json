@@ -1,0 +1,70 @@
+{
+  "company_name": "AKTIEBOLAGET OPTIMUS",
+  "fiscal_year": 1915,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 890925.32,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 129105.78,
+    "net_income": 325257.69
+  },
+  "balance_sheet": {
+    "total_assets": 3742037.79,
+    "current_assets": null,
+    "fixed_assets": 1605144.6,
+    "total_liabilities": 2855223.43,
+    "current_liabilities": 574122.93,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1091209.9066666667
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "ÖSTBERG",
+      "first_name": "PETTER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BILDT",
+      "first_name": "AXEL",
+      "initials": "ROBERT",
+      "position": null
+    },
+    {
+      "surname": "OTTERSTRÖM",
+      "first_name": "GILBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENELL",
+      "first_name": null,
+      "initials": "H. G. O.",
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": null,
+      "initials": "C. E.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ROBERG",
+      "first_name": "EDV.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NEIGLICK",
+      "first_name": "CONRAD",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

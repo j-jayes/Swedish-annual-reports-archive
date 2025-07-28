@@ -1,0 +1,98 @@
+{
+  "company_name": "FOSFATBOLAGET AB",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 238.957,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 189.551,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 28.608,
+    "net_income": 12.324
+  },
+  "balance_sheet": {
+    "total_assets": 399.063,
+    "current_assets": 90.275,
+    "fixed_assets": 104.376,
+    "total_liabilities": 181.762,
+    "current_liabilities": 53.205,
+    "long_term_liabilities": 118.031,
+    "shareholders_equity": 204.444
+  },
+  "employees": {
+    "n_employees": 1453,
+    "n_blue_collar_workers": 956,
+    "n_white_collar_workers": 497
+  },
+  "board": [
+    {
+      "surname": "Abenius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": "vice ordf."
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Agronom"
+    },
+    {
+      "surname": "Blegvad",
+      "first_name": "Jörgen",
+      "initials": "M.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Nordenson",
+      "first_name": "Jonas",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Linder",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Pontin",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Wedelin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "auditing_firm": "Kamrer"
+    }
+  ],
+  "additional_notes": null
+}

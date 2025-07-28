@@ -1,0 +1,116 @@
+{
+  "company_name": "AB Iggesunds Bruk",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 2240.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1869.7,
+    "wages_expense": 660.0,
+    "tax_expense": 8.6,
+    "depreciation": 121.5,
+    "net_income": 41.6
+  },
+  "balance_sheet": {
+    "total_assets": 2762.7,
+    "current_assets": 1612.4,
+    "fixed_assets": 1150.3,
+    "total_liabilities": 1916.2,
+    "current_liabilities": 639.9,
+    "long_term_liabilities": 796.9,
+    "shareholders_equity": 846.5
+  },
+  "employees": {
+    "n_employees": 5166,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gustaf",
+      "initials": "C:son",
+      "position": null
+    },
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "verkst.dir."
+    },
+    {
+      "surname": "Brönnhagen",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frohm",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Forssblad",
+      "first_name": "Lars-Henrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Martinsson",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    }
+  ],
+  "additional_notes": null
+}

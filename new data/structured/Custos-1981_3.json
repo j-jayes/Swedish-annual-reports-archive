@@ -1,0 +1,110 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 69.616,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.3,
+    "depreciation": null,
+    "net_income": 87.813
+  },
+  "balance_sheet": {
+    "total_assets": 682.295,
+    "current_assets": 40.27,
+    "fixed_assets": 642.025,
+    "total_liabilities": 106.811,
+    "current_liabilities": 5.219,
+    "long_term_liabilities": 101.592,
+    "shareholders_equity": 575.484
+  },
+  "employees": {
+    "n_employees": 9,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BERGQVIST",
+      "first_name": "Ake",
+      "initials": null,
+      "position": "Direktör, Ordf."
+    },
+    {
+      "surname": "DAHLSTEN",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "VON SYDOW",
+      "first_name": "Kristian",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Generalkonsul"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "Tyra",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "ULFSPARRE",
+      "first_name": "Karin",
+      "initials": null,
+      "position": "Civilekonom"
+    },
+    {
+      "surname": "ÖHMAN",
+      "first_name": "Anders",
+      "initials": "R",
+      "position": "Advokat"
+    },
+    {
+      "surname": "ANDO",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "Direktör, Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ERICSON",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "THORÉN",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

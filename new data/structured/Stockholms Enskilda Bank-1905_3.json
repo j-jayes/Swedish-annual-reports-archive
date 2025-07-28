@@ -1,0 +1,100 @@
+{
+  "company_name": "Stockholms Handelsbank",
+  "fiscal_year": 1905,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 492445.83,
+    "wages_expense": null,
+    "tax_expense": 137785.91,
+    "depreciation": null,
+    "net_income": 1534285.12
+  },
+  "balance_sheet": {
+    "total_assets": 87308207.8,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 87308207.8,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Isberg",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Abramson",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bohman",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fraenckel",
+      "first_name": "Louis",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Günther",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Philipson",
+      "first_name": "Maur",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Torén",
+      "first_name": "Karl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Falkman",
+      "first_name": "Ludvig",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ljunggren",
+      "first_name": "C. J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Tamm",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hintze",
+      "first_name": "Teodor",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

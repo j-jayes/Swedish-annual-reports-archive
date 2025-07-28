@@ -1,0 +1,134 @@
+{
+  "company_name": "SKARABORGSBANKEN",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 65.414,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3.913,
+    "depreciation": 3.647,
+    "net_income": 3.501
+  },
+  "balance_sheet": {
+    "total_assets": 1899.829,
+    "current_assets": 418.326,
+    "fixed_assets": 44.974,
+    "total_liabilities": 1552.664,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 47.165
+  },
+  "employees": {
+    "n_employees": 356,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Ulfenborg",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Nyström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Paul",
+      "initials": null,
+      "position": "riksdagsman"
+    },
+    {
+      "surname": "Rapp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Davidsson",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "kommunstyrelseordf."
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": null,
+      "initials": "Å.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Möller",
+      "first_name": null,
+      "initials": "Åke",
+      "position": null
+    },
+    {
+      "surname": "Levin",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wåhlgren",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Förste Byråsekreterare"
+    },
+    {
+      "surname": "Demitz-Helin",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Landstingsdirektör"
+    },
+    {
+      "surname": "Thulin",
+      "first_name": "Einar",
+      "initials": "E:son",
+      "auditing_firm": "f.d. skattedirektör"
+    }
+  ],
+  "additional_notes": null
+}

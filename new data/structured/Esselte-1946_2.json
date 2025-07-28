@@ -1,0 +1,86 @@
+{
+  "company_name": "SVERIGES LITOGRAFISKA TRYCKERIER",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 12312173.56,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3722942.02,
+    "net_income": 3769926.33
+  },
+  "balance_sheet": {
+    "total_assets": 46635681.16,
+    "current_assets": 13250420.59,
+    "fixed_assets": 26596018.56,
+    "total_liabilities": 34181180.83,
+    "current_liabilities": 12323962.16,
+    "long_term_liabilities": 21857218.67,
+    "shareholders_equity": 49134500.0
+  },
+  "employees": {
+    "n_employees": 6907,
+    "n_blue_collar_workers": 5324,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BRUNDELL",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BJÖRKMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BARRE",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BENDZ",
+      "first_name": "TORE",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "ÖSTBERG",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLÉN",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "BIESÈRT",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

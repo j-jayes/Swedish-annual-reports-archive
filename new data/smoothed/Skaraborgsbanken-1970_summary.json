@@ -1,0 +1,134 @@
+{
+  "company_name": "SKARABORGS ENSKILDA BANK",
+  "fiscal_year": 1970,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 29.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.028,
+    "depreciation": null,
+    "net_income": 2.019
+  },
+  "balance_sheet": {
+    "total_assets": 985.44,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 37.206
+  },
+  "employees": {
+    "n_employees": 328,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Virgin",
+      "first_name": "Ivar",
+      "initials": "G.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Janson",
+      "first_name": null,
+      "initials": "S.",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Nilson-Dag",
+      "first_name": null,
+      "initials": "W.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": null,
+      "initials": "L.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Sundelöf",
+      "first_name": null,
+      "initials": "K.",
+      "position": "köpman"
+    },
+    {
+      "surname": "Wästlund",
+      "first_name": null,
+      "initials": "G.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": null,
+      "initials": "E.",
+      "position": "försäkringsdirektör"
+    },
+    {
+      "surname": "Waller",
+      "first_name": null,
+      "initials": "L.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Ulfenborg",
+      "first_name": null,
+      "initials": "H.",
+      "position": "disponent"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": null,
+      "initials": "G.",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": null,
+      "initials": "O.",
+      "position": "bankdirektör, vice verkställande direktör"
+    },
+    {
+      "surname": "Grundfors",
+      "first_name": null,
+      "initials": "E.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Gillberg",
+      "first_name": null,
+      "initials": "D.",
+      "position": "bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Thorén",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "distriktslantmätare"
+    },
+    {
+      "surname": "Walck",
+      "first_name": null,
+      "initials": "K.J.",
+      "auditing_firm": "Av Kungl. Bankinspektionen förordnad revisor"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": null,
+      "initials": "S.",
+      "auditing_firm": "förste länsassistent"
+    }
+  ]
+}

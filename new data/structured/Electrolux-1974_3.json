@@ -1,0 +1,122 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 5535.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 1777.9,
+    "tax_expense": 141.7,
+    "depreciation": 157.9,
+    "net_income": 69.1
+  },
+  "balance_sheet": {
+    "total_assets": 4073.6,
+    "current_assets": 3151.3,
+    "fixed_assets": 756.0,
+    "total_liabilities": 1773.9,
+    "current_liabilities": 1602.9,
+    "long_term_liabilities": 986.4,
+    "shareholders_equity": 859.6
+  },
+  "employees": {
+    "n_employees": 63531,
+    "n_blue_collar_workers": 39664,
+    "n_white_collar_workers": 23867
+  },
+  "board": [
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Executive Chairman"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Managing Director (President)"
+    },
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Chairman, AB Volvo"
+    },
+    {
+      "surname": "Lagerström",
+      "first_name": "Karl-Gustav",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Niklasson",
+      "first_name": "Johnny",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Deputy Managing Director (Executive Vice President), Skandinaviska Enskilda Banken"
+    },
+    {
+      "surname": "Pavenham",
+      "first_name": "Lord Luke",
+      "initials": null,
+      "position": "Chairman, Electrolux Ltd., Great Britain"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\"\"\nh4ke",
+      "initials": "T",
+      "position": "Deputy Chairman, ASEA"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": "Senior Deputy Managing Director (Senior Executive Vice President)"
+    },
+    {
+      "surname": "Grimborg",
+      "first_name": "Arthur",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Professor, Chalmers Tekniska Högskola"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Chairman, Atlas Copco AB"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bruno",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

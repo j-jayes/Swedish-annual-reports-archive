@@ -1,0 +1,92 @@
+{
+  "company_name": "Telefonaktiebolaget L M Ericsson",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 1177.2,
+    "cost_of_goods_sold": 744.599,
+    "operating_expenses": 254.145,
+    "wages_expense": null,
+    "tax_expense": 51.792,
+    "depreciation": 31.024,
+    "net_income": 44.978
+  },
+  "balance_sheet": {
+    "total_assets": 1633.039,
+    "current_assets": 1156.95,
+    "fixed_assets": 289.82,
+    "total_liabilities": 536.441,
+    "current_liabilities": 474.028,
+    "long_term_liabilities": 147.973,
+    "shareholders_equity": 536.441
+  },
+  "employees": {
+    "n_employees": 36600,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Ernfrid",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Boheman",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Anderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Viceamiral"
+    },
+    {
+      "surname": "Söderman",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Woxén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Åberg",
+      "first_name": "Sven",
+      "initials": "T",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dickinson",
+      "first_name": "John",
+      "initials": "C",
+      "auditing_firm": "Price Waterhouse & Co."
+    },
+    {
+      "surname": "Berlin",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

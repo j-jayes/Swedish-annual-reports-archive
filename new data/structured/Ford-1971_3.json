@@ -1,0 +1,104 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 294.338768,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 780.212,
+    "net_income": -7.21
+  },
+  "balance_sheet": {
+    "total_assets": 144.238321,
+    "current_assets": 46.948706,
+    "fixed_assets": 22.203771,
+    "total_liabilities": 30.993917,
+    "current_liabilities": 86.882404,
+    "long_term_liabilities": 435.0,
+    "shareholders_equity": 26.362
+  },
+  "employees": {
+    "n_employees": 413,
+    "n_blue_collar_workers": 159,
+    "n_white_collar_workers": 254
+  },
+  "board": [
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Ordförande-Chairman"
+    },
+    {
+      "surname": "BECKETT",
+      "first_name": "TERRY",
+      "initials": "N",
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINTON",
+      "first_name": "STELLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KEMP",
+      "first_name": "JOHN",
+      "initials": "S",
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "HIRSCH",
+      "first_name": "JOHN",
+      "initials": "GH",
+      "position": "Styrelsesuppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WITT",
+      "first_name": "CARL",
+      "initials": "HENRIK",
+      "auditing_firm": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "EDLUND",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "PERSON",
+      "first_name": "LARS",
+      "initials": "G",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

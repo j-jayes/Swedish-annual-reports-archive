@@ -1,0 +1,92 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 388.898,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 357.289,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8.185,
+    "net_income": 4.418
+  },
+  "balance_sheet": {
+    "total_assets": 372.192,
+    "current_assets": 287.811,
+    "fixed_assets": 90.702,
+    "total_liabilities": 178.178,
+    "current_liabilities": 76.061,
+    "long_term_liabilities": 118.034,
+    "shareholders_equity": 87.978
+  },
+  "employees": {
+    "n_employees": 3755,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Engellau",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Blomgren",
+      "first_name": "Boris",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Åfors",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Karlsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

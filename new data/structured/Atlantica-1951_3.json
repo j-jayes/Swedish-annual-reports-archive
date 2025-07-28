@@ -1,0 +1,98 @@
+{
+  "company_name": "Försäkringsaktiebolaget ATLANTICA",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 16401212.91,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 10666704.57,
+    "wages_expense": null,
+    "tax_expense": 502271.3,
+    "depreciation": null,
+    "net_income": 514819.93
+  },
+  "balance_sheet": {
+    "total_assets": 32558395.29,
+    "current_assets": null,
+    "fixed_assets": 1255000.0,
+    "total_liabilities": 28403808.69,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2000000.0
+  },
+  "employees": {
+    "n_employees": 42,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "CARLSSON",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": null,
+      "initials": "E. W.",
+      "position": null
+    },
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORBURN",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": null,
+      "initials": "K. E.",
+      "position": null
+    },
+    {
+      "surname": "LANGE",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Verkst. Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HOLMQVIST",
+      "first_name": "HARRY",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Försäkringsinspektionen förordnad revisor"
+    }
+  ],
+  "additional_notes": null
+}

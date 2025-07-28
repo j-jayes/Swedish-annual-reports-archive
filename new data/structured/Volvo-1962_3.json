@@ -1,0 +1,55 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 1300.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 26.138,
+    "net_income": 30.0
+  },
+  "balance_sheet": {
+    "total_assets": 1518.291,
+    "current_assets": 1230.172,
+    "fixed_assets": 130.831,
+    "total_liabilities": 388.98,
+    "current_liabilities": 388.98,
+    "long_term_liabilities": null,
+    "shareholders_equity": 219.453
+  },
+  "employees": {
+    "n_employees": 9020,
+    "n_blue_collar_workers": 5879,
+    "n_white_collar_workers": 3141
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Fryklund",
+      "first_name": "\"\nÅKE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

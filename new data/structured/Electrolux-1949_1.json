@@ -1,0 +1,43 @@
+{
+  "company_name": "AKTIEBOLAGET ELEKTROLUX",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7200000.0,
+    "depreciation": null,
+    "net_income": 6645262.47
+  },
+  "balance_sheet": {
+    "total_assets": 115959465.56,
+    "current_assets": 76903780.59,
+    "fixed_assets": 39055684.97,
+    "total_liabilities": 30580837.06,
+    "current_liabilities": 9821291.75,
+    "long_term_liabilities": 17294177.31,
+    "shareholders_equity": 54000000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2386,
+    "n_white_collar_workers": 962
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

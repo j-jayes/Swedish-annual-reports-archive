@@ -1,0 +1,82 @@
+{
+  "company_name": "Dagens Nyheters AB",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 471.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 424.8,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 16.6,
+    "net_income": 17.9
+  },
+  "balance_sheet": {
+    "total_assets": 320.642,
+    "current_assets": 188.188,
+    "fixed_assets": 121.414,
+    "total_liabilities": 215.883,
+    "current_liabilities": 70.287,
+    "long_term_liabilities": 101.337,
+    "shareholders_equity": 104.759
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Bonnier jr",
+      "first_name": "Albert",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "Chefredaktör"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Bert",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Wrigstad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Chefredaktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "\"\".",
+      "initials": "Åke v.",
+      "auditing_firm": "Generaldirektör"
+    }
+  ],
+  "additional_notes": null
+}

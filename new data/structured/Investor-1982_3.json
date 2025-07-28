@@ -1,0 +1,94 @@
+{
+  "company_name": "AB Investor",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 97.245,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3.115,
+    "wages_expense": null,
+    "tax_expense": 17.417,
+    "depreciation": null,
+    "net_income": 229.085
+  },
+  "balance_sheet": {
+    "total_assets": 865.951,
+    "current_assets": 34.085,
+    "fixed_assets": 831.866,
+    "total_liabilities": 0.0,
+    "current_liabilities": 38.196,
+    "long_term_liabilities": null,
+    "shareholders_equity": 818.955
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "ordförande, † 13 september 1982"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "ordförande, fr.o.m. 15 oktober 1982"
+    },
+    {
+      "surname": "Dahlström",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "förordnad av Regeringen t.o.m. 30 juni 1982"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "förordnad av Regeringen t.o.m. 30 juni 1982"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "Nils-Axel",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,152 @@
+{
+  "company_name": "Skandia",
+  "fiscal_year": 1988,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3251.143,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1204.0,
+    "wages_expense": null,
+    "tax_expense": 13.0,
+    "depreciation": null,
+    "net_income": 447.0
+  },
+  "balance_sheet": {
+    "total_assets": 11283.513,
+    "current_assets": 2272.0,
+    "fixed_assets": 1790.0,
+    "total_liabilities": 4876.0,
+    "current_liabilities": 1204.0,
+    "long_term_liabilities": 228.0,
+    "shareholders_equity": 434.57233333333335
+  },
+  "employees": {
+    "n_employees": 4488,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": "CLAS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEDELIUS",
+      "first_name": "TOM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDQUIST",
+      "first_name": "STURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "CURT",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "DALBORG",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLTÉNG",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RYDIN",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TALONEN",
+      "first_name": "PENTTI",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALL",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDER",
+      "first_name": "KARIN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TOBISSON",
+      "first_name": "LARS",
+      "initials": "F",
+      "position": null
+    },
+    {
+      "surname": "GREEN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDEN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "FRG Revision Einar Larsson AB"
+    },
+    {
+      "surname": "SWARTING",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    },
+    {
+      "surname": "WIKSTRÖM",
+      "first_name": "SÖREN",
+      "initials": null,
+      "auditing_firm": "TRG Revision Einar Larsson AB"
+    },
+    {
+      "surname": "LEKMAN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    }
+  ]
+}

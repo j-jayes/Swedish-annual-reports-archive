@@ -1,0 +1,86 @@
+{
+  "company_name": "LINOLEUM-AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 4201450.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 660876.0,
+    "depreciation": null,
+    "net_income": 188466.45
+  },
+  "balance_sheet": {
+    "total_assets": 10702207.7,
+    "current_assets": 1921624.47,
+    "fixed_assets": 3385286.62,
+    "total_liabilities": 6702207.7,
+    "current_liabilities": 3241297.52,
+    "long_term_liabilities": 652184.42,
+    "shareholders_equity": 5500000.0
+  },
+  "employees": {
+    "n_employees": 298,
+    "n_blue_collar_workers": 221,
+    "n_white_collar_workers": 77
+  },
+  "board": [
+    {
+      "surname": "GRÖNBERG",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "KAARS SYPESTEYN",
+      "first_name": null,
+      "initials": "J. C.",
+      "position": null
+    },
+    {
+      "surname": "ZOELLY",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MATTSON",
+      "first_name": "ALBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WICANDER",
+      "first_name": null,
+      "initials": "C. G.",
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "KAARS SYPESTEYN",
+      "first_name": null,
+      "initials": "E.",
+      "position": "Verkställande direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KAHM",
+      "first_name": "GUST.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": "Av Stockholms Handelskammare"
+    }
+  ],
+  "additional_notes": null
+}

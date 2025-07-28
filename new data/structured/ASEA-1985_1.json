@@ -1,0 +1,128 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 40.199,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 422.0
+  },
+  "balance_sheet": {
+    "total_assets": 15.051,
+    "current_assets": 8.239,
+    "fixed_assets": null,
+    "total_liabilities": 3.72,
+    "current_liabilities": 4.722,
+    "long_term_liabilities": 2.43,
+    "shareholders_equity": 2.318
+  },
+  "employees": {
+    "n_employees": 60979,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Aas",
+      "first_name": "Erich",
+      "initials": null,
+      "position": "adjungerad ledamot"
+    },
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Norgren",
+      "first_name": "Christian",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Gruppordförande"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Holmberg",
+      "first_name": "Henry",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Alde",
+      "initials": null,
+      "position": "VVD Produktion"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Schenning",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Civilekonom"
+    }
+  ],
+  "additional_notes": null
+}

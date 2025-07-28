@@ -1,0 +1,98 @@
+{
+  "company_name": "AB NORDISKA KOMPANIET",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1437673.55,
+    "net_income": 2627851.99
+  },
+  "balance_sheet": {
+    "total_assets": 103337854.46,
+    "current_assets": 51638070.37,
+    "fixed_assets": 51699784.09,
+    "total_liabilities": 56718379.74,
+    "current_liabilities": 16679720.96,
+    "long_term_liabilities": 41319659.78,
+    "shareholders_equity": 46619474.72
+  },
+  "employees": {
+    "n_employees": 2863,
+    "n_blue_collar_workers": 825,
+    "n_white_collar_workers": 2038
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUSEWITZ",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRIIS",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHROFF",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KALDERÉN",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "H.",
+      "initials": null,
+      "position": "Suppl."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": "C.",
+      "initials": "ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

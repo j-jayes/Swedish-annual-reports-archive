@@ -1,0 +1,116 @@
+{
+  "company_name": "PLM AB",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 2054.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 104.6,
+    "net_income": 32.7
+  },
+  "balance_sheet": {
+    "total_assets": 1466.7,
+    "current_assets": 801.1,
+    "fixed_assets": 663.5,
+    "total_liabilities": 458.7,
+    "current_liabilities": 577.5,
+    "long_term_liabilities": 277.0,
+    "shareholders_equity": 277.0
+  },
+  "employees": {
+    "n_employees": 9817,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordf."
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "V.ordf"
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": "L.",
+      "position": "VD"
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Lindeblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Bäfving",
+      "first_name": "Jarl",
+      "initials": null,
+      "position": "VVD"
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Rydelius",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Adamsson",
+      "first_name": "Herbert",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Langebaek",
+      "first_name": "Steen",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

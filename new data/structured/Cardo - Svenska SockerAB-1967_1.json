@@ -1,0 +1,116 @@
+{
+  "company_name": "AB CARDO",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 66.693,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 23.515,
+    "net_income": 14.91
+  },
+  "balance_sheet": {
+    "total_assets": 417.2,
+    "current_assets": 116.3,
+    "fixed_assets": 284.6,
+    "total_liabilities": 167.2,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 204.4
+  },
+  "employees": {
+    "n_employees": 2788,
+    "n_blue_collar_workers": 2086,
+    "n_white_collar_workers": 702
+  },
+  "board": [
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "S.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "Konsul"
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "H.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "verkst. direktör"
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Godsägare"
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "C.",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Thomasson",
+      "first_name": "T.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Westrup",
+      "first_name": "Z.",
+      "initials": null,
+      "position": "Envoyé"
+    },
+    {
+      "surname": "Wärn",
+      "first_name": "Tage",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Faxe",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Malmquist",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "N. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stiernstedt",
+      "first_name": "Stefan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

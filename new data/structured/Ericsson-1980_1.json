@@ -1,0 +1,110 @@
+{
+  "company_name": "Telefonaktiebolaget LM Ericsson",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 12173.8,
+    "cost_of_goods_sold": 7048.4,
+    "operating_expenses": 3873.7,
+    "wages_expense": null,
+    "tax_expense": 277.4,
+    "depreciation": 409.4,
+    "net_income": 215.3
+  },
+  "balance_sheet": {
+    "total_assets": 17711.3,
+    "current_assets": 11893.2,
+    "fixed_assets": 3833.3,
+    "total_liabilities": 5571.1,
+    "current_liabilities": null,
+    "long_term_liabilities": 3544.1,
+    "shareholders_equity": 3010.1
+  },
+  "employees": {
+    "n_employees": 65910,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLANDER",
+      "first_name": "JAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "\n\n\n\n",
+      "initials": "\n\n\n\nÅKE",
+      "position": null
+    },
+    {
+      "surname": "BJUREL",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLSTRÖM",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKEBERG",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERGREN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSCARSSON",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SVEDBERG",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jones",
+      "first_name": "David",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse"
+    },
+    {
+      "surname": "Frisk",
+      "first_name": "N.",
+      "initials": "A",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Eskilson",
+      "first_name": "Jörgen",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse"
+    }
+  ],
+  "additional_notes": null
+}

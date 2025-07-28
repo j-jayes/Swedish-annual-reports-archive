@@ -1,0 +1,55 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1948,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 37.83031852,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5533864.98693111,
+    "depreciation": 16.78294793,
+    "net_income": 4093980.488976395
+  },
+  "balance_sheet": {
+    "total_assets": 157214939.96076402,
+    "current_assets": 31134795.27405652,
+    "fixed_assets": 40446813.88459906,
+    "total_liabilities": 26808029.11,
+    "current_liabilities": 37903937.39,
+    "long_term_liabilities": 33728335.94531807,
+    "shareholders_equity": 95166666.66666667
+  },
+  "employees": {
+    "n_employees": 10380,
+    "n_blue_collar_workers": 8889,
+    "n_white_collar_workers": 1491
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Biesèrt",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "company_name": "Aktiebolaget Pump-Separator",
+  "fiscal_year": 1927,
+  "income_statement": {
+    "revenue": 1507258.15,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 573829.81,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 236416.99,
+    "net_income": 696970.03
+  },
+  "balance_sheet": {
+    "total_assets": 13017383.25,
+    "current_assets": 7151535.62,
+    "fixed_assets": 2145443.65,
+    "total_liabilities": 5570418.7,
+    "current_liabilities": 5570418.7,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7446964.55
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "BRATT",
+      "first_name": "IVAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RUDBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HIRSCH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Regnstrand",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hult",
+      "first_name": "C.",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

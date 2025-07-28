@@ -1,0 +1,110 @@
+{
+  "company_name": "Investment AB Asken",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 941.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 873.2,
+    "wages_expense": null,
+    "tax_expense": 0.742,
+    "depreciation": 22.198,
+    "net_income": 39.443
+  },
+  "balance_sheet": {
+    "total_assets": 996.85,
+    "current_assets": 533.282,
+    "fixed_assets": 356.83,
+    "total_liabilities": 785.432,
+    "current_liabilities": 364.467,
+    "long_term_liabilities": 356.973,
+    "shareholders_equity": 211.418
+  },
+  "employees": {
+    "n_employees": 2900,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K:son",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Andréasson",
+      "first_name": "Lage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gunnar",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Tidström",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Netzler",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

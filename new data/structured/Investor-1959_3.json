@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET INVESTOR",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 20522385.07,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2206323.0,
+    "depreciation": null,
+    "net_income": 10981304.17
+  },
+  "balance_sheet": {
+    "total_assets": 99777486.6,
+    "current_assets": 5610305.06,
+    "fixed_assets": 94167181.54,
+    "total_liabilities": null,
+    "current_liabilities": 2542062.3,
+    "long_term_liabilities": 3360000.0,
+    "shareholders_equity": 93875424.3
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STEYERN",
+      "first_name": "NILS",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CALISSENDORFF",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Verkst, dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOFLUND",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Pihl",
+      "first_name": "Gust.",
+      "initials": "Ove",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,152 @@
+{
+  "company_name": "Atlas Copco",
+  "fiscal_year": 2001,
+  "income_statement": {
+    "revenue": 51139.0,
+    "cost_of_goods_sold": 35134.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1622.0,
+    "depreciation": null,
+    "net_income": 3067.0
+  },
+  "balance_sheet": {
+    "total_assets": 64357.0,
+    "current_assets": null,
+    "fixed_assets": 45422.0,
+    "total_liabilities": null,
+    "current_liabilities": 18032.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 27789.0
+  },
+  "employees": {
+    "n_employees": 26201,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Styrelsens Ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Vice Ordförande"
+    },
+    {
+      "surname": "Mazzalupi",
+      "first_name": "Giulio",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Treschow",
+      "first_name": "Michael",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leysen",
+      "first_name": "Thomas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Singhania",
+      "first_name": "Hari Shankar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellström",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Litzén",
+      "first_name": "Ulla",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Soting",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "Bergstedt",
+      "first_name": "Mikael",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Hagerius",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Kjetselberg",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Thorén",
+      "first_name": "Rodny",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmström",
+      "first_name": "Stefan",
+      "initials": null,
+      "auditing_firm": "KPMG Bohlins AB"
+    },
+    {
+      "surname": "Markborn",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen AB"
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "KPMG Bohlins AB"
+    },
+    {
+      "surname": "Sundkvist",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Arthur Andersen AB"
+    }
+  ],
+  "additional_notes": null
+}

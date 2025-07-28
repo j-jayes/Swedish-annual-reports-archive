@@ -1,0 +1,76 @@
+{
+  "company_name": "DROTT",
+  "fiscal_year": 1916,
+  "income_statement": {
+    "revenue": 916814.36,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 172668.38
+  },
+  "balance_sheet": {
+    "total_assets": 15881701.21,
+    "current_assets": null,
+    "fixed_assets": 13586000.0,
+    "total_liabilities": 10211352.79,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "RUBENSON",
+      "first_name": "SEMMY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSSBAHR",
+      "first_name": "RICHARD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NYSTRÖM",
+      "first_name": null,
+      "initials": "C. A.",
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": null,
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "SCHULTZ",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DIEDEN",
+      "first_name": "TH.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HÖRSTADIUS",
+      "first_name": null,
+      "initials": "G. W.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "WASASTIERNA",
+      "first_name": "ALB.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

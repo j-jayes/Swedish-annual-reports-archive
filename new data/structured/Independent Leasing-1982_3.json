@@ -1,0 +1,104 @@
+{
+  "company_name": "Independent Leasing AB",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 378.957,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 40.247,
+    "wages_expense": null,
+    "tax_expense": 2.156,
+    "depreciation": null,
+    "net_income": 17.643
+  },
+  "balance_sheet": {
+    "total_assets": 1038.636,
+    "current_assets": 143.987,
+    "fixed_assets": 894.649,
+    "total_liabilities": 948.337,
+    "current_liabilities": 503.216,
+    "long_term_liabilities": 238.53,
+    "shareholders_equity": 90.299
+  },
+  "employees": {
+    "n_employees": 132,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GANDREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "Styrelseordförande"
+    },
+    {
+      "surname": "BRYNELL",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "EDLUND",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "JONES",
+      "first_name": "RONALD",
+      "initials": "S.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "KJELLSTROM",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "MANTON",
+      "first_name": "C.",
+      "initials": "H.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "VAN SICKLE",
+      "first_name": "CHARLES",
+      "initials": "D.",
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "AHLQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "ALGELL",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "Personalrepresentant"
+    },
+    {
+      "surname": "MANSSON",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BERGLUND",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "ELINDER",
+      "first_name": "RICKARD",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

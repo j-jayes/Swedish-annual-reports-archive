@@ -1,0 +1,88 @@
+{
+  "company_name": "Custos",
+  "fiscal_year": 1969,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 20.516,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.378,
+    "depreciation": null,
+    "net_income": 39.248
+  },
+  "balance_sheet": {
+    "total_assets": 239.421,
+    "current_assets": 15.893,
+    "fixed_assets": 223.528,
+    "total_liabilities": 6.963,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 231.968
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "ROSON SOHLMAN",
+      "first_name": "VERRE",
+      "initials": null,
+      "position": "Bruksdisponent, ordf"
+    },
+    {
+      "surname": "HERSLOW",
+      "first_name": "ERNST",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "FESSÉ",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "KARLEBY",
+      "first_name": "OLLE",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "ÖHMAN",
+      "first_name": "ANDERS",
+      "initials": "R.",
+      "position": "Advokat"
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "ÅKE",
+      "initials": null,
+      "position": "Direktör, verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "PÅHLGREN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "SÖRENSEN",
+      "first_name": "CHRISTIAN",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ]
+}

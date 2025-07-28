@@ -1,0 +1,74 @@
+{
+  "company_name": "KOPPARFORS AKTIEBOLAG",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 21321340.0,
+    "tax_expense": 18589659.6,
+    "depreciation": null,
+    "net_income": 5913300.33
+  },
+  "balance_sheet": {
+    "total_assets": 88675704.26,
+    "current_assets": 35791968.13,
+    "fixed_assets": 52883736.13,
+    "total_liabilities": 41617366.84,
+    "current_liabilities": 41486811.92,
+    "long_term_liabilities": 130554.92,
+    "shareholders_equity": 47058337.42
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2803,
+    "n_white_collar_workers": 248
+  },
+  "board": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Lars",
+      "initials": "L. H.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Ax.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgersson",
+      "first_name": "S.",
+      "initials": null,
+      "position": "Verkst. direktör."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JULIN",
+      "first_name": "Rich.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Auktoriserad revisor."
+    }
+  ],
+  "additional_notes": null
+}

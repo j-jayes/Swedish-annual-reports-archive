@@ -1,0 +1,86 @@
+{
+  "company_name": "Hufvudstaden",
+  "fiscal_year": 1997,
+  "income_statement": {
+    "revenue": 704.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -370.6,
+    "wages_expense": null,
+    "tax_expense": -75.2,
+    "depreciation": -60.8,
+    "net_income": 183.0
+  },
+  "balance_sheet": {
+    "total_assets": 5300.6,
+    "current_assets": 185.7,
+    "fixed_assets": 4716.6,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": 500.6,
+    "shareholders_equity": 1662.9
+  },
+  "employees": {
+    "n_employees": 224,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Qviberg",
+      "first_name": "Mats",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Billing",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wolrath",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gardell",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "SET Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

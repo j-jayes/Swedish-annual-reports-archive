@@ -1,0 +1,76 @@
+{
+  "company_name": "BOXHOLMS AKTIEBOLAG",
+  "fiscal_year": 1926,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1440629.61,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 485208.51333333337,
+    "wages_expense": null,
+    "tax_expense": 60000.0,
+    "depreciation": 233448.75,
+    "net_income": 304193.6
+  },
+  "balance_sheet": {
+    "total_assets": 18993385.29,
+    "current_assets": 3519666.34,
+    "fixed_assets": 12445597.196666665,
+    "total_liabilities": 10257607.57,
+    "current_liabilities": 2076327.75,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8332393.08
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Kinander",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bahr",
+      "first_name": "Johan",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "Uggla",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Petterson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wettergren",
+      "first_name": "Elis",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rundquist",
+      "first_name": "Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Björkman",
+      "first_name": "G.",
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hofsten",
+      "first_name": "S.",
+      "initials": "v.",
+      "auditing_firm": null
+    }
+  ]
+}

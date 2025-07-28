@@ -1,0 +1,76 @@
+{
+  "company_name": "Investment AB Kinnevik",
+  "fiscal_year": 2015,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1129.0,
+    "cost_of_goods_sold": 0.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -30.0,
+    "depreciation": null,
+    "net_income": 1129.0
+  },
+  "balance_sheet": {
+    "total_assets": 85256.0,
+    "current_assets": 9567.0,
+    "fixed_assets": 75689.0,
+    "total_liabilities": 1802.0,
+    "current_liabilities": 6540.333333333333,
+    "long_term_liabilities": 4333.333333333333,
+    "shareholders_equity": 83454.0
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Stenbeck",
+      "first_name": "Cristina",
+      "initials": null,
+      "position": "Chairman of the Board"
+    },
+    {
+      "surname": "Borg",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Deputy Chairman of the Board"
+    },
+    {
+      "surname": "Fawcett",
+      "first_name": "Dame Amelia",
+      "initials": null,
+      "position": "Deputy Chairman of the Board"
+    },
+    {
+      "surname": "Boardman",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Member of the Board"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Member of the Board"
+    },
+    {
+      "surname": "Mitteregger",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Member of the Board"
+    },
+    {
+      "surname": "Shakeshaft",
+      "first_name": "John",
+      "initials": null,
+      "position": "Member of the Board"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berntsson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Deloitte AB"
+    }
+  ]
+}

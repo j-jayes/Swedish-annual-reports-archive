@@ -1,0 +1,104 @@
+{
+  "company_name": "Investment AB Promotion",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 1354.3,
+    "cost_of_goods_sold": 865.6,
+    "operating_expenses": 326.5,
+    "wages_expense": null,
+    "tax_expense": 28.6,
+    "depreciation": 37.5,
+    "net_income": 50.9
+  },
+  "balance_sheet": {
+    "total_assets": 1728.3,
+    "current_assets": 762.6,
+    "fixed_assets": 926.3,
+    "total_liabilities": 1066.1,
+    "current_liabilities": 565.4,
+    "long_term_liabilities": 317.4,
+    "shareholders_equity": 662.2
+  },
+  "employees": {
+    "n_employees": 2411,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Feinsilber",
+      "first_name": "Carl-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöqvist",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "\nÖhrlings Revisionsbyrå\nAB"
+    },
+    {
+      "surname": "Pramhäll",
+      "first_name": "Ingvar",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

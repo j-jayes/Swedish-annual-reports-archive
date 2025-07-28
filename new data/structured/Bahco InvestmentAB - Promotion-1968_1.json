@@ -1,0 +1,106 @@
+{
+  "company_name": "PROMOTION",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 621116.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 568711.0,
+    "wages_expense": null,
+    "tax_expense": 746.0,
+    "depreciation": null,
+    "net_income": 8571.0
+  },
+  "balance_sheet": {
+    "total_assets": 226616.0,
+    "current_assets": 37362.403,
+    "fixed_assets": 76072.429,
+    "total_liabilities": 98003.0,
+    "current_liabilities": 15373.691,
+    "long_term_liabilities": 21503.0,
+    "shareholders_equity": 96371.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Bildt",
+      "first_name": "Carl Robert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widemar",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Edholm",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vd"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Audin",
+      "first_name": "J.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Bostedt",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Witt",
+      "first_name": "Carl-Henric",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

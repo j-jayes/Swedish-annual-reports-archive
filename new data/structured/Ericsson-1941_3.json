@@ -1,0 +1,94 @@
+{
+  "company_name": "L.M. ERICSSON",
+  "fiscal_year": 1941,
+  "income_statement": {
+    "revenue": 14037964.46,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7086811.07,
+    "wages_expense": null,
+    "tax_expense": 3107330.07,
+    "depreciation": 2678002.69,
+    "net_income": 3514559.33
+  },
+  "balance_sheet": {
+    "total_assets": 159704347.21,
+    "current_assets": null,
+    "fixed_assets": 19630591.62,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 79140899.48
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M.",
+      "position": "J:r"
+    },
+    {
+      "surname": "Borgquist",
+      "first_name": null,
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Högstedt",
+      "first_name": null,
+      "initials": "K. H.",
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Rudberg",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": null,
+      "initials": "H. Th.",
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bohlin",
+      "first_name": null,
+      "initials": "L. T.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

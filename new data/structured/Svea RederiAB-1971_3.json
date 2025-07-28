@@ -1,0 +1,88 @@
+{
+  "company_name": "Stockholms Rederiaktiebolag Svea",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 228.434,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 21.452,
+    "wages_expense": null,
+    "tax_expense": 550.0,
+    "depreciation": 13.718,
+    "net_income": 2.197
+  },
+  "balance_sheet": {
+    "total_assets": 259.084,
+    "current_assets": 73.211,
+    "fixed_assets": 146.727,
+    "total_liabilities": 158.71,
+    "current_liabilities": 76.594,
+    "long_term_liabilities": 63.81,
+    "shareholders_equity": 30.371
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Direktör, Göteborg, ordf."
+    },
+    {
+      "surname": "Wettermark",
+      "first_name": "Allan",
+      "initials": null,
+      "position": "Direktör, Torna-Hällestad, vice ordf."
+    },
+    {
+      "surname": "Hain",
+      "first_name": "John",
+      "initials": null,
+      "position": "Direktör, Malmö"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Direktör, Stockholm"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Curt",
+      "initials": "W.",
+      "position": "Direktör, Lidingö, verkst. dir."
+    },
+    {
+      "surname": "Engwall",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "Direktör, Gävle"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Advokat, Nacka"
+    },
+    {
+      "surname": "Högberg",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Direktör, Stockholm"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Raaschou",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Aukt. revisorn"
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": "Aukt. revisorn"
+    }
+  ],
+  "additional_notes": null
+}

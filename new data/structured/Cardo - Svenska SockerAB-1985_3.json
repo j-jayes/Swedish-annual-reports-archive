@@ -1,0 +1,92 @@
+{
+  "company_name": "Cardokoncernen",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 3318.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 170.4,
+    "depreciation": null,
+    "net_income": 401.9
+  },
+  "balance_sheet": {
+    "total_assets": 6465.248,
+    "current_assets": 3193.733,
+    "fixed_assets": 3193.733,
+    "total_liabilities": 3527.72,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1845.93
+  },
+  "employees": {
+    "n_employees": 4550,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borelius",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lars-Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindblad",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Porat",
+      "first_name": "Stig",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Månsson",
+      "first_name": "Nils Axel",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hultén",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

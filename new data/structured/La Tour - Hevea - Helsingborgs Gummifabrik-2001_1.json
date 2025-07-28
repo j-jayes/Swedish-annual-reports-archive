@@ -1,0 +1,116 @@
+{
+  "company_name": "Investment AB Latour",
+  "fiscal_year": 2001,
+  "income_statement": {
+    "revenue": 4250.0,
+    "cost_of_goods_sold": -3292.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -80.0,
+    "depreciation": null,
+    "net_income": 906.0
+  },
+  "balance_sheet": {
+    "total_assets": 5927.0,
+    "current_assets": 2124.0,
+    "fixed_assets": 3803.0,
+    "total_liabilities": 2668.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2829.0
+  },
+  "employees": {
+    "n_employees": 3057,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Elisabeth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Flory",
+      "first_name": "Ingrid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Inkinen",
+      "first_name": "Tuomo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wirenstam",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Öqvist",
+      "first_name": "Ralph",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Richard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Henriksson",
+      "first_name": "Tord",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Wiberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Öhrlings PricewaterhouseCoopers AB"
+    },
+    {
+      "surname": "Enerbäck",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Öhrlings PricewaterhouseCoopers AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 294338768.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 780212.0,
+    "net_income": -7210000.0
+  },
+  "balance_sheet": {
+    "total_assets": 144238321.0,
+    "current_assets": 46948706.0,
+    "fixed_assets": 22203771.0,
+    "total_liabilities": 117876321.0,
+    "current_liabilities": 86882404.0,
+    "long_term_liabilities": 30993917.0,
+    "shareholders_equity": -1409000.0
+  },
+  "employees": {
+    "n_employees": 413,
+    "n_blue_collar_workers": 159,
+    "n_white_collar_workers": 254
+  },
+  "board": [
+    {
+      "surname": "BECKETT",
+      "first_name": null,
+      "initials": "T.N.",
+      "position": null
+    },
+    {
+      "surname": "LINTON",
+      "first_name": "STELLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": null,
+      "initials": "N.K.",
+      "position": null
+    },
+    {
+      "surname": "DANIELSSON",
+      "first_name": "\"\".\nÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Witt",
+      "first_name": "Carl",
+      "initials": "H.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Jonsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

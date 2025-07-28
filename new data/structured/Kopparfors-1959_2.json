@@ -1,0 +1,80 @@
+{
+  "company_name": "KOPPARFORS AKTIEBOLAG",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 16357000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3800000.0,
+    "depreciation": 5883000.0,
+    "net_income": 4210000.0
+  },
+  "balance_sheet": {
+    "total_assets": 110475000.0,
+    "current_assets": 35735000.0,
+    "fixed_assets": 70023000.0,
+    "total_liabilities": 38895000.0,
+    "current_liabilities": 35146000.0,
+    "long_term_liabilities": 3749000.0,
+    "shareholders_equity": 60457000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 2704,
+    "n_white_collar_workers": 232
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Ax.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "Henry",
+      "initials": null,
+      "position": "Verkst. direktör."
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgersson",
+      "first_name": "S.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JULIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Bolaget har under bokslutsåret haft en sammanlagd omsättning av kronor 97,222,000"
+}

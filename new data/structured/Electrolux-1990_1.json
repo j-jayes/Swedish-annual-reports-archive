@@ -1,0 +1,134 @@
+{
+  "company_name": "ELECTROLUX",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 82434.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 75922.0,
+    "wages_expense": null,
+    "tax_expense": 570.0,
+    "depreciation": 3264.0,
+    "net_income": 741.0
+  },
+  "balance_sheet": {
+    "total_assets": 65793.0,
+    "current_assets": 40243.0,
+    "fixed_assets": 25507.0,
+    "total_liabilities": 27412.0,
+    "current_liabilities": 17465.0,
+    "long_term_liabilities": 15521.0,
+    "shareholders_equity": 16565.0
+  },
+  "employees": {
+    "n_employees": 150892,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WERTHÉN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Chairman of the Board"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "BYSTEDT",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "SCHARP",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "President and CEO"
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLGERSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMENSTAM-SKYTTE",
+      "first_name": "BIRGIT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLVING",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALMSTIERNA",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIKANDER",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "SVEN ÅKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MÖRK",
+      "first_name": "ROLAND",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERQVIST",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRANTZ",
+      "first_name": "MARI-ANN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "INGEMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÄLL",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WIDHAGEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

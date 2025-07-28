@@ -1,0 +1,98 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 634.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 155.0,
+    "tax_expense": null,
+    "depreciation": 21.2,
+    "net_income": 23.449
+  },
+  "balance_sheet": {
+    "total_assets": 500.624,
+    "current_assets": 280.192,
+    "fixed_assets": 213.795,
+    "total_liabilities": 311.062,
+    "current_liabilities": 123.464,
+    "long_term_liabilities": 121.098,
+    "shareholders_equity": 189.562
+  },
+  "employees": {
+    "n_employees": 5234,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Nachmanson",
+      "first_name": "Herrman",
+      "initials": null,
+      "position": "v.ordf"
+    },
+    {
+      "surname": "Kistner",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wegerfelt",
+      "first_name": "K Arne",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Sager",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Jakobsson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "v VD"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

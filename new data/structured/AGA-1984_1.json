@@ -1,0 +1,116 @@
+{
+  "company_name": "AGA",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 5632.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4606.0,
+    "wages_expense": null,
+    "tax_expense": 135.0,
+    "depreciation": 327.0,
+    "net_income": 257.0
+  },
+  "balance_sheet": {
+    "total_assets": 10489.0,
+    "current_assets": 5175.0,
+    "fixed_assets": 5279.0,
+    "total_liabilities": 3435.0,
+    "current_liabilities": 2331.0,
+    "long_term_liabilities": 1776.0,
+    "shareholders_equity": 1776.0
+  },
+  "employees": {
+    "n_employees": 10422,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Krister",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frisinger",
+      "first_name": "Håkan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Storch",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Kent",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pålsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "REVEKO AB",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "REVEKO AB"
+    },
+    {
+      "surname": "BOHLINS REVISIONSBYRÅ AB",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "BOHLINS REVISIONSBYRÅ AB"
+    }
+  ],
+  "additional_notes": null
+}

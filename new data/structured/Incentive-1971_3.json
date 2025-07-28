@@ -1,0 +1,86 @@
+{
+  "company_name": "Incentive-gruppen",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 816.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 11.169,
+    "depreciation": null,
+    "net_income": 12.963
+  },
+  "balance_sheet": {
+    "total_assets": 831.373,
+    "current_assets": 628.755,
+    "fixed_assets": 193.573,
+    "total_liabilities": 165.849,
+    "current_liabilities": 279.356,
+    "long_term_liabilities": 237.262,
+    "shareholders_equity": 148.113
+  },
+  "employees": {
+    "n_employees": 8850,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "EIDEM",
+      "first_name": "INGMAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMSTRÖM",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NICOLIN",
+      "first_name": "CURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSON",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\"\nA\nBERG",
+      "first_name": "SVEN T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "REGELIUS",
+      "first_name": "KARL ERIK",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "FRIBERG",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

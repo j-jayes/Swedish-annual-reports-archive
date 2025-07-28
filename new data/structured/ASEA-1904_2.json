@@ -1,0 +1,80 @@
+{
+  "company_name": "ALLMÄNNA SVENSKA ELEKTRISKA AKTIEBOLAGETS",
+  "fiscal_year": 1904,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 20328.34
+  },
+  "balance_sheet": {
+    "total_assets": 10347362.26,
+    "current_assets": null,
+    "fixed_assets": 2309636.94,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5089800.0
+  },
+  "employees": {
+    "n_employees": 1416,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WENSTRÖM",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "WIJKMAN",
+      "first_name": null,
+      "initials": "O. FR.",
+      "position": null
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": null,
+      "initials": "V.",
+      "position": null
+    },
+    {
+      "surname": "HEILBORN",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EDSTRÖM",
+      "first_name": "J. SIGFRID",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "VOUGT",
+      "first_name": null,
+      "initials": "C. F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CLEOPHAS",
+      "first_name": null,
+      "initials": "ER.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "SKOGMAN",
+      "first_name": "KARL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

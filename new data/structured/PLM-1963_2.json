@@ -1,0 +1,98 @@
+{
+  "company_name": "Aktiebolaget Plåtmanufaktur",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 27.452,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5.295,
+    "depreciation": null,
+    "net_income": 4.901
+  },
+  "balance_sheet": {
+    "total_assets": 124.253,
+    "current_assets": 57.222,
+    "fixed_assets": 67.031,
+    "total_liabilities": 68.048,
+    "current_liabilities": 22.893,
+    "long_term_liabilities": 45.155,
+    "shareholders_equity": 55.705
+  },
+  "employees": {
+    "n_employees": 3011,
+    "n_blue_collar_workers": 2294,
+    "n_white_collar_workers": 717
+  },
+  "board": [
+    {
+      "surname": "Lindskog",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Karnéus",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Bertil",
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ager",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Elmfeldt",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Knut",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

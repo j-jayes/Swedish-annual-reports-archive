@@ -1,0 +1,80 @@
+{
+  "company_name": "Aktiebolaget Nordiska Armaturfabrikerna",
+  "fiscal_year": 1945,
+  "income_statement": {
+    "revenue": 842958.71,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 60082.65,
+    "depreciation": 541262.78,
+    "net_income": 355925.72
+  },
+  "balance_sheet": {
+    "total_assets": 15697812.02,
+    "current_assets": 7886045.16,
+    "fixed_assets": 7849367.78,
+    "total_liabilities": 6012851.22,
+    "current_liabilities": 3130061.54,
+    "long_term_liabilities": 1826716.0,
+    "shareholders_equity": 10335000.0
+  },
+  "employees": {
+    "n_employees": 1036,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enström",
+      "first_name": "Axel",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "Norlander",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenram",
+      "first_name": null,
+      "initials": "B. R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sandberg",
+      "first_name": "Gustaf",
+      "initials": "H.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Berlin",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

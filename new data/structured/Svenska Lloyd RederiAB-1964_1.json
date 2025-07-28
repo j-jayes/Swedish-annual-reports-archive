@@ -1,0 +1,80 @@
+{
+  "company_name": "Svenska Lloyd",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 111.646,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 98.74,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2.245
+  },
+  "balance_sheet": {
+    "total_assets": 69.179,
+    "current_assets": 22.056,
+    "fixed_assets": 47.123,
+    "total_liabilities": 38.181,
+    "current_liabilities": 24.043,
+    "long_term_liabilities": 14.138,
+    "shareholders_equity": 30.998
+  },
+  "employees": {
+    "n_employees": 1072,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERSÉN",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JANSON",
+      "first_name": "ORVAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ROHLIN",
+      "first_name": "SVEN-RUNE",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "HÅKANSSON",
+      "first_name": "EDVIN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 885.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 820.8,
+    "wages_expense": null,
+    "tax_expense": 5.3,
+    "depreciation": null,
+    "net_income": 48.5
+  },
+  "balance_sheet": {
+    "total_assets": 689.0,
+    "current_assets": 356.0,
+    "fixed_assets": 332.5,
+    "total_liabilities": 509.6,
+    "current_liabilities": 242.0,
+    "long_term_liabilities": 156.8,
+    "shareholders_equity": 179.4
+  },
+  "employees": {
+    "n_employees": 6890,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Horn",
+      "first_name": "Knut",
+      "initials": "von",
+      "position": null
+    },
+    {
+      "surname": "Lassen",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mannerfelt",
+      "first_name": "Carl",
+      "initials": "M:son",
+      "position": null
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Ekeberg",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

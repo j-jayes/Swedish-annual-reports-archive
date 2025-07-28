@@ -1,0 +1,86 @@
+{
+  "company_name": "BEIJERINVEST",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 26953000000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 26233254000.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 227280000.0,
+    "net_income": 165072000.0
+  },
+  "balance_sheet": {
+    "total_assets": 9530200000.0,
+    "current_assets": 6019368000.0,
+    "fixed_assets": 3485831000.0,
+    "total_liabilities": 4478804000.0,
+    "current_liabilities": 2960417000.0,
+    "long_term_liabilities": 1205419000.0,
+    "shareholders_equity": 272965000.0
+  },
+  "employees": {
+    "n_employees": 16650,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "G Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr G",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Sillén & Jacobsson AB, Göteborg"
+    },
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Reveko AB, Göteborg"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Caj",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB, Stockholm"
+    }
+  ],
+  "additional_notes": null
+}

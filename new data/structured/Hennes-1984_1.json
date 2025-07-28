@@ -1,0 +1,86 @@
+{
+  "company_name": "H&M HENNES & MAURITZ AB",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 3046.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 87.6,
+    "depreciation": 19.6,
+    "net_income": 87.6
+  },
+  "balance_sheet": {
+    "total_assets": 1000.9,
+    "current_assets": 842.1,
+    "fixed_assets": 128.6,
+    "total_liabilities": 357.1,
+    "current_liabilities": 357.1,
+    "long_term_liabilities": 56.9,
+    "shareholders_equity": 63.6
+  },
+  "employees": {
+    "n_employees": 3937,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mattson",
+      "first_name": "John",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Ella",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erling",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "VD 4:e AP-fonden"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "VD Linjeflyg"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil E.",
+      "initials": null,
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

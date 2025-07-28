@@ -1,0 +1,76 @@
+{
+  "company_name": "Aktiebolaget Baltic",
+  "fiscal_year": 1919,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2585454.07,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 684231.13,
+    "wages_expense": null,
+    "tax_expense": 1530458.9333333333,
+    "depreciation": null,
+    "net_income": 704097.34
+  },
+  "balance_sheet": {
+    "total_assets": 71549116.49,
+    "current_assets": null,
+    "fixed_assets": 7014826.96,
+    "total_liabilities": 39549116.41,
+    "current_liabilities": 26976892.09,
+    "long_term_liabilities": null,
+    "shareholders_equity": 34642046.666666664
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Peyron",
+      "first_name": "Alfred",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundqvist",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kihlgren",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "L. H.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Dufva",
+      "first_name": "I. H.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sandberg",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

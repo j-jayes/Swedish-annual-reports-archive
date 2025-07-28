@@ -1,0 +1,122 @@
+{
+  "company_name": "H & M HENNES & MAURITZ AB",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 2532.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 55.0,
+    "depreciation": 15.1,
+    "net_income": 50.2
+  },
+  "balance_sheet": {
+    "total_assets": 856.1,
+    "current_assets": 740.5,
+    "fixed_assets": 102.7,
+    "total_liabilities": 482.1,
+    "current_liabilities": 293.8,
+    "long_term_liabilities": 67.2,
+    "shareholders_equity": 291.6
+  },
+  "employees": {
+    "n_employees": 3635,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mattson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enochsson",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Felixon",
+      "first_name": "Max",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Ella",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hagrup",
+      "first_name": "Knut",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kristfeldt",
+      "first_name": "Jens",
+      "initials": "Ove",
+      "position": "suppleant"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erling",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stjernquist",
+      "first_name": "Inge",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Bergdahl",
+      "first_name": "Eivor",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "suppelant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

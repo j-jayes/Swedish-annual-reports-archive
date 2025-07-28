@@ -1,0 +1,104 @@
+{
+  "company_name": "Aktiebolaget Bofors",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 157.702,
+    "tax_expense": 9.282,
+    "depreciation": 27.2,
+    "net_income": 11.863
+  },
+  "balance_sheet": {
+    "total_assets": 584.713,
+    "current_assets": 312.371,
+    "fixed_assets": 209.284,
+    "total_liabilities": 211.394,
+    "current_liabilities": 169.557,
+    "long_term_liabilities": 29.736,
+    "shareholders_equity": 139.1
+  },
+  "employees": {
+    "n_employees": 8700,
+    "n_blue_collar_workers": 5368,
+    "n_white_collar_workers": 3332
+  },
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "Evert",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre",
+      "initials": "Rison",
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Hovrättsrådet"
+    },
+    {
+      "surname": "Waldenström",
+      "first_name": "Erland",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "Agronom"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Boblin",
+      "first_name": "L.",
+      "initials": "T",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nordqvist",
+      "first_name": "Helmer",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

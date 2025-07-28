@@ -1,0 +1,92 @@
+{
+  "company_name": "Investment AB Asken",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 1538.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1444.3,
+    "wages_expense": null,
+    "tax_expense": 4.0,
+    "depreciation": 52.3,
+    "net_income": 6.521
+  },
+  "balance_sheet": {
+    "total_assets": 1358.056,
+    "current_assets": 779.28,
+    "fixed_assets": 572.563,
+    "total_liabilities": 1197.553,
+    "current_liabilities": 403.034,
+    "long_term_liabilities": 508.333,
+    "shareholders_equity": 160.503
+  },
+  "employees": {
+    "n_employees": 6974,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Andréasson",
+      "first_name": "Lage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kellgren",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "Kjellman",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

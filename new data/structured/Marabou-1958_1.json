@@ -1,0 +1,55 @@
+{
+  "company_name": "MARABOU",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 15618.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3144.0,
+    "depreciation": 5807.0,
+    "net_income": 2152.0
+  },
+  "balance_sheet": {
+    "total_assets": 93428.0,
+    "current_assets": 38560.0,
+    "fixed_assets": 54868.0,
+    "total_liabilities": 57003.0,
+    "current_liabilities": 23531.0,
+    "long_term_liabilities": 31949.0,
+    "shareholders_equity": 37003.0
+  },
+  "employees": {
+    "n_employees": 2050,
+    "n_blue_collar_workers": 1559,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "THRONE-HOLST",
+      "first_name": "Harald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGFORS",
+      "first_name": "G\nOTE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "H:SON-ERICSON",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANDERFELT",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

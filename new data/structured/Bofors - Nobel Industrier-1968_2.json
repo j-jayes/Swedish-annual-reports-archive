@@ -1,0 +1,86 @@
+{
+  "company_name": "AB Bofors",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 662631000.0,
+    "cost_of_goods_sold": 573169000.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4015000.0,
+    "depreciation": null,
+    "net_income": 12507000.0
+  },
+  "balance_sheet": {
+    "total_assets": 818558000.0,
+    "current_assets": 162391000.0,
+    "fixed_assets": 67889000.0,
+    "total_liabilities": 209550000.0,
+    "current_liabilities": 312970000.0,
+    "long_term_liabilities": 3479000.0,
+    "shareholders_equity": 209550000.0
+  },
+  "employees": {
+    "n_employees": 8288,
+    "n_blue_collar_workers": 4932,
+    "n_white_collar_workers": 3356
+  },
+  "board": [
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R",
+      "position": "ordförande"
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WALDENSTRÖM",
+      "first_name": "ERLAND",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "LARS-ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOLM",
+      "first_name": "TRYGGVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ODELBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

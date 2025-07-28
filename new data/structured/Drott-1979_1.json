@@ -1,0 +1,74 @@
+{
+  "company_name": "Fastighetsaktiebolaget Drott",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 24124683.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 12870803.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1288889.0,
+    "net_income": 3176186.0
+  },
+  "balance_sheet": {
+    "total_assets": 98470157.0,
+    "current_assets": 16041906.0,
+    "fixed_assets": 82428251.0,
+    "total_liabilities": 51220373.0,
+    "current_liabilities": 5513125.0,
+    "long_term_liabilities": 45713248.0,
+    "shareholders_equity": 47249784.0
+  },
+  "employees": {
+    "n_employees": 21,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ulvskog",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Alexandersson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Carleson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "finanschef"
+    },
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Tengbom",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "arkitekt"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

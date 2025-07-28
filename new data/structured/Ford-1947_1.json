@@ -1,0 +1,92 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 3100724.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1000000.0,
+    "depreciation": 118683.0,
+    "net_income": 1504152.0
+  },
+  "balance_sheet": {
+    "total_assets": 25403603.0,
+    "current_assets": 10217218.0,
+    "fixed_assets": 5636334.0,
+    "total_liabilities": 7957159.0,
+    "current_liabilities": 7770834.0,
+    "long_term_liabilities": 5000000.0,
+    "shareholders_equity": 5354469.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 198,
+    "n_white_collar_workers": 95
+  },
+  "board": [
+    {
+      "surname": "Perry",
+      "first_name": null,
+      "initials": null,
+      "position": "Lord"
+    },
+    {
+      "surname": "Ford II",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stén",
+      "first_name": "Helmer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjögren",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Heidenstam",
+      "first_name": null,
+      "initials": "R. v.",
+      "position": null
+    },
+    {
+      "surname": "Hernod",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cooper",
+      "first_name": "Stanford",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bröndum",
+      "first_name": "Otto",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Andersson",
+      "first_name": "Theodor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sillén",
+      "first_name": "Oskar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

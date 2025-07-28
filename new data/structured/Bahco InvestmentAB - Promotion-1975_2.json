@@ -1,0 +1,124 @@
+{
+  "company_name": "PROMOTION",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 897687.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 12489.0,
+    "depreciation": 20875.0,
+    "net_income": 20858.0
+  },
+  "balance_sheet": {
+    "total_assets": 1282018.0,
+    "current_assets": 707449.0,
+    "fixed_assets": 401520.0,
+    "total_liabilities": 534413.0,
+    "current_liabilities": 401750.0,
+    "long_term_liabilities": 81760.0,
+    "shareholders_equity": 207073.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Ekström",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Bildt",
+      "first_name": "Carl",
+      "initials": "Robert",
+      "position": null
+    },
+    {
+      "surname": "Bladh",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bostedt",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pehrsson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sjöholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Generaldirektör"
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Widemar",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Edholm",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Gadd",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Riksdagsledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henckel",
+      "first_name": "Tore",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lars-Göran",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

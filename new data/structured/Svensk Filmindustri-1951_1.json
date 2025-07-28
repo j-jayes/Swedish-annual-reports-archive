@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSK FILMINDUSTRI",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 2635828.95,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 23339.76,
+    "depreciation": 981030.39,
+    "net_income": 418370.16
+  },
+  "balance_sheet": {
+    "total_assets": 14264283.91,
+    "current_assets": 6556088.19,
+    "fixed_assets": 7708195.72,
+    "total_liabilities": 3692285.07,
+    "current_liabilities": 2303129.07,
+    "long_term_liabilities": 1389156.0,
+    "shareholders_equity": 971986.84
+  },
+  "employees": {
+    "n_employees": 750,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SILJESTRÖM",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ANÉR",
+      "first_name": "JOSEF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOCHNICK",
+      "first_name": "BERTIL AF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DYMLING",
+      "first_name": "CARL ANDERS",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "HELLSTENIUS",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUNDELL",
+      "first_name": "P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JUBERG",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "TJUS",
+      "first_name": "FRITZ",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "VIFOT",
+      "first_name": "MALTE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

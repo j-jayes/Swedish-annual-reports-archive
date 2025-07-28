@@ -1,0 +1,100 @@
+{
+  "company_name": "INTECKNINGSBANKEN",
+  "fiscal_year": 1944,
+  "income_statement": {
+    "revenue": 4259011.42,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1657525.05,
+    "wages_expense": 951074.59,
+    "tax_expense": 1300000.0,
+    "depreciation": null,
+    "net_income": 1930454.68
+  },
+  "balance_sheet": {
+    "total_assets": 335711709.4,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 335711709.4,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRUSENSTJERNA",
+      "first_name": "F.",
+      "initials": "v.",
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ALMQVIST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGENIUS",
+      "first_name": "H.",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "NILSON",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KÄLLSTRÖM",
+      "first_name": "K.",
+      "initials": "M.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "MELIN",
+      "first_name": "HILDING",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LOVÉN",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SILVERSTOLPE",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

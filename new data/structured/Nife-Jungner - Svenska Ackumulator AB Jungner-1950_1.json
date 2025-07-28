@@ -1,0 +1,86 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 6747783.79,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1345098.84,
+    "depreciation": 898133.09,
+    "net_income": 1305189.84
+  },
+  "balance_sheet": {
+    "total_assets": 53948120.1,
+    "current_assets": 15947000.0,
+    "fixed_assets": 6832013.85,
+    "total_liabilities": 34388936.59,
+    "current_liabilities": 17031988.2,
+    "long_term_liabilities": 13329796.48,
+    "shareholders_equity": 19559183.0
+  },
+  "employees": {
+    "n_employees": 2509,
+    "n_blue_collar_workers": 1989,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ingeström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jung",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundvik",
+      "first_name": "Vilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Liljenroth",
+      "first_name": "F. G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Modig",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Robert",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nelson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": "Omsättningssumman uppgick till ca Kr. 50.000.000"
+}

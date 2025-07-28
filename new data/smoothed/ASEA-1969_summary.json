@@ -1,0 +1,86 @@
+{
+  "company_name": "Allmänna Svenska Elektriska Aktiebolaget",
+  "fiscal_year": 1969,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 3332.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 60.6,
+    "depreciation": null,
+    "net_income": 89.6
+  },
+  "balance_sheet": {
+    "total_assets": 4283.554,
+    "current_assets": 3033.692,
+    "fixed_assets": 1223.611,
+    "total_liabilities": 2008.4023333333332,
+    "current_liabilities": 1469.689,
+    "long_term_liabilities": 986.4,
+    "shareholders_equity": 1025.764
+  },
+  "employees": {
+    "n_employees": 34867,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\"\nÅke T",
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten S:son",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

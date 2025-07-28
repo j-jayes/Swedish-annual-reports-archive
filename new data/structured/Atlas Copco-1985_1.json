@@ -1,0 +1,158 @@
+{
+  "company_name": "Atlas Copco",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 10062.0,
+    "cost_of_goods_sold": 8852.7,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 304.2,
+    "depreciation": 185.3,
+    "net_income": 392.3
+  },
+  "balance_sheet": {
+    "total_assets": 8674.5,
+    "current_assets": 6704.2,
+    "fixed_assets": 1922.9,
+    "total_liabilities": 5152.9,
+    "current_liabilities": 3291.6,
+    "long_term_liabilities": 1861.3,
+    "shareholders_equity": 2642.7
+  },
+  "employees": {
+    "n_employees": 16659,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Iveroth",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Mueller",
+      "first_name": "Henry",
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "Tiedemand",
+      "first_name": "Otto",
+      "initials": "Grieg",
+      "position": null
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rudholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "President"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Henning",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyholm",
+      "first_name": "Per-Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedberg",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Giertz",
+      "first_name": "Karl-G",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Ribers",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

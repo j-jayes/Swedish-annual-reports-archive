@@ -1,0 +1,98 @@
+{
+  "company_name": "Trelleborgs Gummifabriks Aktiebolag",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 222005.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 3085.0,
+    "depreciation": null,
+    "net_income": 3130.0
+  },
+  "balance_sheet": {
+    "total_assets": 179803.78801,
+    "current_assets": 111120.77326,
+    "fixed_assets": 57560.63475,
+    "total_liabilities": 83962.56317,
+    "current_liabilities": 34542.18265,
+    "long_term_liabilities": 44836.78052,
+    "shareholders_equity": 95841.22484
+  },
+  "employees": {
+    "n_employees": 3925,
+    "n_blue_collar_workers": 2769,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ohlsson",
+      "first_name": "L. G.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Nedström",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Strandquist",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Herrlin",
+      "first_name": "Karl-Magnus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leander",
+      "first_name": "J. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mörck",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric",
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "FINDATA",
+  "fiscal_year": 1985,
+  "income_statement": {
+    "revenue": 7004.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 62.0
+  },
+  "balance_sheet": {
+    "total_assets": 9799.0,
+    "current_assets": 5597.6,
+    "fixed_assets": 4200.0,
+    "total_liabilities": 1669.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1807.7
+  },
+  "employees": {
+    "n_employees": 7052,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlgren",
+      "first_name": "Matts",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Altbäck",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Karhola-Wettergren",
+      "first_name": "Lil",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Nabseth",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Nordin",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Westerlund",
+      "first_name": "Sune",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Löf",
+      "first_name": "Bernt",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revison"
+    },
+    {
+      "surname": "Kempe",
+      "first_name": "Frans",
+      "initials": null,
+      "auditing_firm": "Godkänd revisor"
+    }
+  ],
+  "additional_notes": null
+}

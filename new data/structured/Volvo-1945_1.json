@@ -1,0 +1,82 @@
+{
+  "company_name": "AKTIEBOLAGET VOLVO",
+  "fiscal_year": 1945,
+  "income_statement": {
+    "revenue": 53795719.56,
+    "cost_of_goods_sold": 48391648.78,
+    "operating_expenses": 4614960.06,
+    "wages_expense": null,
+    "tax_expense": 125000.0,
+    "depreciation": null,
+    "net_income": 2180965.66
+  },
+  "balance_sheet": {
+    "total_assets": 145655507.92,
+    "current_assets": 117597550.59,
+    "fixed_assets": 28057957.33,
+    "total_liabilities": 96634401.04,
+    "current_liabilities": 78864834.41,
+    "long_term_liabilities": 49585.49,
+    "shareholders_equity": 41250000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WINGQUIST",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HASSELROT",
+      "first_name": "BROR",
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "MAGNUS",
+      "first_name": "E.",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "TORNEBOHM",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HALLSTROM",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GABRIELSSON",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSON",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "ROLF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,110 @@
+{
+  "company_name": "Telefonaktiebolaget L M Ericsson",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": 750076000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 24955000.0,
+    "depreciation": null,
+    "net_income": 26486000.0
+  },
+  "balance_sheet": {
+    "total_assets": 881564000.0,
+    "current_assets": 625819000.0,
+    "fixed_assets": 152719000.0,
+    "total_liabilities": 157960000.0,
+    "current_liabilities": 276958000.0,
+    "long_term_liabilities": 157960000.0,
+    "shareholders_equity": 362583000.0
+  },
+  "employees": {
+    "n_employees": 23200,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "Ernfrid",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "ANDERBERG",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Viceamiral"
+    },
+    {
+      "surname": "LAYET",
+      "first_name": null,
+      "initials": "H. N.",
+      "position": null
+    },
+    {
+      "surname": "SALMONSON",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCUDDER",
+      "first_name": "Henry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERMAN",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOXÉN",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "Sven",
+      "initials": "T.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dickinson",
+      "first_name": "John",
+      "initials": "C.",
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

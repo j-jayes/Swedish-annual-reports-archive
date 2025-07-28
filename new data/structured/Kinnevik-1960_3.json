@@ -1,0 +1,61 @@
+{
+  "company_name": "KINNEVIK",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 3360952.98,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2202092.8
+  },
+  "balance_sheet": {
+    "total_assets": 57893428.55,
+    "current_assets": 244927.64,
+    "fixed_assets": 57648500.91,
+    "total_liabilities": 29923000.0,
+    "current_liabilities": 402223.07,
+    "long_term_liabilities": 22449330.76,
+    "shareholders_equity": 5067856.7
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "von Essen",
+      "first_name": null,
+      "initials": "C.-R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": null,
+      "initials": "C.-G.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Wilh.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    },
+    {
+      "surname": "Morling",
+      "first_name": "P. M.",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    }
+  ],
+  "additional_notes": null
+}

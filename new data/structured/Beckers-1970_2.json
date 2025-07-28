@@ -1,0 +1,98 @@
+{
+  "company_name": "AB Wilh. Becker",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 145313983.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 138056544.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3420000.0,
+    "net_income": 1953956.0
+  },
+  "balance_sheet": {
+    "total_assets": 100311280.0,
+    "current_assets": 41104152.0,
+    "fixed_assets": 59207128.0,
+    "total_liabilities": 61805665.0,
+    "current_liabilities": 19266213.0,
+    "long_term_liabilities": 42369452.0,
+    "shareholders_equity": 38505615.0
+  },
+  "employees": {
+    "n_employees": 1056,
+    "n_blue_collar_workers": 389,
+    "n_white_collar_workers": 667
+  },
+  "board": [
+    {
+      "surname": "OLSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "CARLGREN",
+      "first_name": "MATTS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DEGEFORS",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HARJU",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDQVIST",
+      "first_name": "LARS-OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAKANSON",
+      "first_name": "GEORG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALL",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DILLÉN",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HULTÉN",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FEINSTEIN",
+      "first_name": "STEN ERIK",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "TÖNNERVIK",
+      "first_name": "HENRY",
+      "initials": null,
+      "auditing_firm": "Revisor SRS"
+    }
+  ],
+  "additional_notes": null
+}

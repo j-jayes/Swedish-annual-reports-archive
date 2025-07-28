@@ -1,0 +1,88 @@
+{
+  "company_name": "Stockholms Intecknings Garanti Aktiebolag",
+  "fiscal_year": 1934,
+  "income_statement": {
+    "revenue": 3257757.23,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 256403.79,
+    "wages_expense": null,
+    "tax_expense": 390000.0,
+    "depreciation": 11900.0,
+    "net_income": 2491277.52
+  },
+  "balance_sheet": {
+    "total_assets": 244978372.57,
+    "current_assets": null,
+    "fixed_assets": 6970986.69,
+    "total_liabilities": 241939077.86,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 3039294.71
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "LJUNGLÖF",
+      "first_name": null,
+      "initials": "ROB",
+      "position": null
+    },
+    {
+      "surname": "PRIPP",
+      "first_name": null,
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "LUNDVIK",
+      "first_name": null,
+      "initials": "VILHELM",
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": null,
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "WESTERDAHL",
+      "first_name": null,
+      "initials": "NILS",
+      "position": null
+    },
+    {
+      "surname": "DE GEER",
+      "first_name": null,
+      "initials": "LOUIS",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": null,
+      "initials": "L.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "STERKY",
+      "first_name": null,
+      "initials": "CARL EDV.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": null,
+      "initials": "NILS",
+      "auditing_firm": null
+    },
+    {
+      "surname": "RANSON",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

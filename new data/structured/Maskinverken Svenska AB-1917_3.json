@@ -1,0 +1,82 @@
+{
+  "company_name": "SVENSKA MASKINVERKEN",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1939715.81
+  },
+  "balance_sheet": {
+    "total_assets": 17406448.28,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 3466732.57,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 12000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Falkman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hirsch",
+      "first_name": "Frank",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berglöf",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Henke",
+      "first_name": null,
+      "initials": "H. E.",
+      "position": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Th.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lilliehöök",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hjorth",
+      "first_name": "Carl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Isaac",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Conradi",
+      "first_name": null,
+      "initials": "N. T. C. R.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

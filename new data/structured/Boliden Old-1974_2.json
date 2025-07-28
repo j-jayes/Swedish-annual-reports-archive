@@ -1,0 +1,104 @@
+{
+  "company_name": "Boliden Aktiebolag",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 2616.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2126.1,
+    "wages_expense": null,
+    "tax_expense": 40.8,
+    "depreciation": 120.5,
+    "net_income": 42.2
+  },
+  "balance_sheet": {
+    "total_assets": 2307.7,
+    "current_assets": 1399.2,
+    "fixed_assets": 851.6,
+    "total_liabilities": 528.2,
+    "current_liabilities": 528.2,
+    "long_term_liabilities": 589.5,
+    "shareholders_equity": 528.7
+  },
+  "employees": {
+    "n_employees": 9710,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "AKERMAN",
+      "first_name": "ALF",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "LINDSKOG",
+      "first_name": "FOLKE",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "BERGQVIST",
+      "first_name": "AKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRYNIELSSON",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EDLUND",
+      "first_name": "LARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAMARCHE",
+      "first_name": "ALFRED",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PALM",
+      "first_name": "AKE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VIKSTRÖM",
+      "first_name": "KNUT",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Leffler",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Stockholms Handelskammare"
+    },
+    {
+      "surname": "Dahl",
+      "first_name": "C Olof",
+      "initials": null,
+      "auditing_firm": "John Wendlers Revisionsbyrå AB"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Sillén & Jacobsson AB"
+    }
+  ],
+  "additional_notes": null
+}

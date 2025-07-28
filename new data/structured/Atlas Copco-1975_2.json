@@ -1,0 +1,104 @@
+{
+  "company_name": "Atlas Copco AB",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 3385.338,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 74.872,
+    "net_income": 68.591
+  },
+  "balance_sheet": {
+    "total_assets": 1017.907,
+    "current_assets": 455.534,
+    "fixed_assets": 396.272,
+    "total_liabilities": 471.291,
+    "current_liabilities": 97.399,
+    "long_term_liabilities": 318.893,
+    "shareholders_equity": 258.694
+  },
+  "employees": {
+    "n_employees": 18236,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Kurt-Allan",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Sporborg",
+      "first_name": "Henry",
+      "initials": "N",
+      "position": null
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Iveroth",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ödner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Man. Dir."
+    },
+    {
+      "surname": "Henning",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyholm",
+      "first_name": "P-E",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

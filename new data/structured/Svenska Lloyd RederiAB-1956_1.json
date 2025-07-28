@@ -1,0 +1,104 @@
+{
+  "company_name": "SVENSKA LLOYD",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 40374000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1874000.0,
+    "depreciation": 23397000.0,
+    "net_income": 1486000.0
+  },
+  "balance_sheet": {
+    "total_assets": 68144000.0,
+    "current_assets": 20688000.0,
+    "fixed_assets": 47456000.0,
+    "total_liabilities": 17028000.0,
+    "current_liabilities": 18649000.0,
+    "long_term_liabilities": 17028000.0,
+    "shareholders_equity": 26746000.0
+  },
+  "employees": {
+    "n_employees": 1210,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WIIK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "CHRISTOFFERSON",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "HOOGLAND",
+      "first_name": "HERMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLIDBERG",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "PETTERSON",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOOGLAND",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BLIDBERG",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

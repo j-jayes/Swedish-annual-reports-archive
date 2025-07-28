@@ -1,0 +1,140 @@
+{
+  "company_name": "TRELLEBORG AB",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 17094.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 2892.2,
+    "tax_expense": null,
+    "depreciation": 389.8,
+    "net_income": 251.7
+  },
+  "balance_sheet": {
+    "total_assets": 18302.0,
+    "current_assets": 12041.1,
+    "fixed_assets": 6241.6,
+    "total_liabilities": 15556.1,
+    "current_liabilities": 12776.2,
+    "long_term_liabilities": 2980.6,
+    "shareholders_equity": 1445.9
+  },
+  "employees": {
+    "n_employees": 21945,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Bertilsson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Linders",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odhnoff",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wenehed",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "Grönberg",
+      "first_name": "Jarl",
+      "initials": null,
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "Styrelsesuppleanter"
+    },
+    {
+      "surname": "Bigl",
+      "first_name": "Gerhard",
+      "initials": null,
+      "position": "Adjungerade ledamöter"
+    },
+    {
+      "surname": "Gustavsson",
+      "first_name": "Barry",
+      "initials": null,
+      "position": "Adjungerade ledamöter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Reidar",
+      "initials": null,
+      "auditing_firm": "Peters & Co Revisionsbyrå AB"
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "Bohlins Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,76 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 14316823.16,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 569592.69,
+    "wages_expense": null,
+    "tax_expense": 2063.0,
+    "depreciation": null,
+    "net_income": 12263009.75
+  },
+  "balance_sheet": {
+    "total_assets": 110931011.28,
+    "current_assets": 3868490.84,
+    "fixed_assets": 107062520.44,
+    "total_liabilities": 30160671.28,
+    "current_liabilities": 759631.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 30160671.28
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STEYERN",
+      "first_name": "NILS von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CALISSENDORFF",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOFLUND",
+      "first_name": "FOLKE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "PIHL",
+      "first_name": "GUST. OVE",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

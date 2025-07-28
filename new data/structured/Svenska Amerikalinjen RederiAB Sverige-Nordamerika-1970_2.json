@@ -1,0 +1,88 @@
+{
+  "company_name": "Svenska Amerika Linien",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 155.641,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 143.479,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 17.035,
+    "net_income": 2.666
+  },
+  "balance_sheet": {
+    "total_assets": 165.526,
+    "current_assets": 72.751,
+    "fixed_assets": 94.279,
+    "total_liabilities": 105.345,
+    "current_liabilities": 63.139,
+    "long_term_liabilities": 41.712,
+    "shareholders_equity": 60.181
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Boheman",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Steen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Sydow",
+      "first_name": "Kristian",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Janson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

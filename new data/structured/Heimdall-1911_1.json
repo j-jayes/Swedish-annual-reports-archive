@@ -1,0 +1,70 @@
+{
+  "company_name": "HEIMDALL",
+  "fiscal_year": 1911,
+  "income_statement": {
+    "revenue": 393349.98,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 94185.22,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 593279.18,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 233061.17,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 300000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "ELLSÉN",
+      "first_name": null,
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "GRUNDSTRÖM",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "MILLAR",
+      "first_name": null,
+      "initials": "JAMES",
+      "position": null
+    },
+    {
+      "surname": "AF SILLÉN",
+      "first_name": null,
+      "initials": "J. O.",
+      "position": null
+    },
+    {
+      "surname": "LAURELL",
+      "first_name": null,
+      "initials": "A.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAMMARSTRÖM",
+      "first_name": null,
+      "initials": "ALEXIS",
+      "auditing_firm": null
+    },
+    {
+      "surname": "THEOANDER",
+      "first_name": null,
+      "initials": "O.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

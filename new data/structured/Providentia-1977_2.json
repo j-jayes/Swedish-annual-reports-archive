@@ -1,0 +1,88 @@
+{
+  "company_name": "Förvaltningsaktiebolaget Providentia",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 48865.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 37538.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 50160.0
+  },
+  "balance_sheet": {
+    "total_assets": 358413.0,
+    "current_assets": 106177.0,
+    "fixed_assets": 252236.0,
+    "total_liabilities": 109998.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 347415.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gösta Archibald",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagergren",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hallström",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "förordnad av Kungl. Majst"
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C.",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Hermansson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "förordnad av Kungl. Majst"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Markdahl",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Gedda",
+      "first_name": "Per H.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,82 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1935,
+  "income_statement": {
+    "revenue": 5995820.69,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 127576.03,
+    "depreciation": null,
+    "net_income": 5475804.88
+  },
+  "balance_sheet": {
+    "total_assets": 123271804.64,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 81700000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "RÅLAMB",
+      "first_name": "ERIK",
+      "initials": "E:SON",
+      "position": null
+    },
+    {
+      "surname": "INGESTRÖM",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TRYGGER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "ERIK",
+      "initials": "AUG.",
+      "position": null
+    },
+    {
+      "surname": "WÄSTFELT",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ELFBORG",
+      "first_name": "KURT",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare auktoriserad revisor."
+    },
+    {
+      "surname": "LAMM",
+      "first_name": "CARL",
+      "initials": "ROBERT",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,94 @@
+{
+  "company_name": "AKTIEBOLAGET MALCUS HOLMQUIST",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1098825.0
+  },
+  "balance_sheet": {
+    "total_assets": 18469626.0,
+    "current_assets": 7148294.0,
+    "fixed_assets": 11316332.0,
+    "total_liabilities": 2760921.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 15478000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wahlsteen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Hovmarskalk"
+    },
+    {
+      "surname": "Berger",
+      "first_name": "Gunvald",
+      "initials": null,
+      "position": "Kommendörkapten"
+    },
+    {
+      "surname": "Berger",
+      "first_name": "Svante",
+      "initials": null,
+      "position": "Lic. oec."
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Jur. kand."
+    },
+    {
+      "surname": "Bendz",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Bäck",
+      "first_name": "Cronje",
+      "initials": null,
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Rönnberg",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": "Bankkamrer"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "company_name": "AKTIEBOLAGET Svenska Amerika Linien",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": 31464904.73,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4883315.39
+  },
+  "balance_sheet": {
+    "total_assets": 220561851.86,
+    "current_assets": 49317195.75,
+    "fixed_assets": 118578151.16,
+    "total_liabilities": 43750000.0,
+    "current_liabilities": 39130959.87,
+    "long_term_liabilities": 11270606.1,
+    "shareholders_equity": 28180367.0
+  },
+  "employees": {
+    "n_employees": 1456,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Broström",
+      "first_name": "Tor",
+      "initials": "T.",
+      "position": "E. J:son"
+    },
+    {
+      "surname": "Broström",
+      "first_name": "Dan-Axel",
+      "initials": "Dan-Axel",
+      "position": null
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Carl",
+      "initials": "Carl",
+      "position": null
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Erik",
+      "initials": "Erik",
+      "position": null
+    },
+    {
+      "surname": "Simonsson",
+      "first_name": "Y.",
+      "initials": "Y.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Wijk",
+      "first_name": "Erik",
+      "initials": "Erik",
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Zetterholm",
+      "first_name": "Nils",
+      "initials": "Nils",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bredberg",
+      "first_name": "Leo",
+      "initials": "Leo",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Danielson",
+      "first_name": "Stig",
+      "initials": "Stig",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

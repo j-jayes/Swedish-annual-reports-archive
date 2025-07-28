@@ -1,0 +1,104 @@
+{
+  "company_name": "AB BAHCO",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 834.835,
+    "cost_of_goods_sold": 773.494,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 10.302,
+    "depreciation": 11.953,
+    "net_income": 13.186
+  },
+  "balance_sheet": {
+    "total_assets": 646.52,
+    "current_assets": 528.741,
+    "fixed_assets": 116.385,
+    "total_liabilities": 355.679,
+    "current_liabilities": 192.361,
+    "long_term_liabilities": 137.667,
+    "shareholders_equity": 147.736
+  },
+  "employees": {
+    "n_employees": 4313,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BERGGREN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "af TROLLE",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "1:e vice ordförande"
+    },
+    {
+      "surname": "RYDIN",
+      "first_name": "BO",
+      "initials": null,
+      "position": "2:e vice ordförande"
+    },
+    {
+      "surname": "BLADH",
+      "first_name": "JAN-ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLOMGREN",
+      "first_name": "BORIS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKSTRÖM",
+      "first_name": "PER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HYBINETTE",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "KRÜGER",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STYREN",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "SVEGMAR",
+      "first_name": "CARL-AXEL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BERGLUND",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ELVSTAD",
+      "first_name": "LARS",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

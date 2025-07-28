@@ -1,0 +1,64 @@
+{
+  "company_name": "FÖRVALTNINGSAKTIEBOLAGET PROVIDENTIA",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 21000781.22,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 220537.0,
+    "depreciation": 3142056.78,
+    "net_income": 16929136.01
+  },
+  "balance_sheet": {
+    "total_assets": 140358328.3,
+    "current_assets": 3834404.54,
+    "fixed_assets": 136272450.0,
+    "total_liabilities": 76054958.0,
+    "current_liabilities": 349666.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 64303370.3
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "G. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "An\ner",
+      "first_name": "Josef",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "\nberg",
+      "first_name": "Sven T.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagstr\nm",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    },
+    {
+      "surname": "Ohlson",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

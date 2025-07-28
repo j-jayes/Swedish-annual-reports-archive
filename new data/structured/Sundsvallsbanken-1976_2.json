@@ -1,0 +1,116 @@
+{
+  "company_name": "SUNDSVALLS BANKEN",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 159.007,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 78.474,
+    "wages_expense": null,
+    "tax_expense": 13.6,
+    "depreciation": null,
+    "net_income": 13.0
+  },
+  "balance_sheet": {
+    "total_assets": 4.202492,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 125.99
+  },
+  "employees": {
+    "n_employees": 550,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hellerot",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ordf\nF d verkst dir i Sundsvallsbanken"
+    },
+    {
+      "surname": "Agerberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "vice ordf\nChef f\nmtlands l\nän"
+    },
+    {
+      "surname": "Järvefelt",
+      "first_name": null,
+      "initials": "LE",
+      "position": "Verkst dir i Edsbyn-Johannedal AB"
+    },
+    {
+      "surname": "Lindmark",
+      "first_name": null,
+      "initials": "S",
+      "position": "Verkst dir i Karolininvest AB"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": null,
+      "initials": "F",
+      "position": "Fld vice verkst dir i Bergvik o Ala AB"
+    },
+    {
+      "surname": "Persson",
+      "first_name": null,
+      "initials": "C",
+      "position": "Ordf i Inventor Invest AB"
+    },
+    {
+      "surname": "Valentin",
+      "first_name": null,
+      "initials": "G",
+      "position": "Verkst dir i Sundsvallsbryggerier AB"
+    },
+    {
+      "surname": "Ehn",
+      "first_name": null,
+      "initials": "E",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Högström",
+      "first_name": null,
+      "initials": "I",
+      "position": "riksdagsman"
+    },
+    {
+      "surname": "Björk",
+      "first_name": null,
+      "initials": "S",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Södergren",
+      "first_name": null,
+      "initials": "H",
+      "position": "bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Geijer",
+      "first_name": null,
+      "initials": "R",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Abersten",
+      "first_name": null,
+      "initials": "G",
+      "auditing_firm": "Advokat"
+    },
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

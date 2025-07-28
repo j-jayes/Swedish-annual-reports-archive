@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA AMERIKA LINIEN",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 165976974.0,
+    "cost_of_goods_sold": 133659804.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 28592.0,
+    "depreciation": 24000000.0,
+    "net_income": 2075870.0
+  },
+  "balance_sheet": {
+    "total_assets": 85001777.0,
+    "current_assets": 27055105.0,
+    "fixed_assets": 55000000.0,
+    "total_liabilities": 13169187.0,
+    "current_liabilities": 5255046.0,
+    "long_term_liabilities": 2255046.0,
+    "shareholders_equity": 71832590.0
+  },
+  "employees": {
+    "n_employees": 1947,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROSTRÖM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FAGERBERG",
+      "first_name": "JA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BOHEMAN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NORDELÖF",
+      "first_name": "IVAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

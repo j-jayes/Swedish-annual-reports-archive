@@ -1,0 +1,104 @@
+{
+  "company_name": "ASEA",
+  "fiscal_year": 1976,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 8400.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7368.0,
+    "wages_expense": null,
+    "tax_expense": 178.5,
+    "depreciation": 347.0,
+    "net_income": 156.0
+  },
+  "balance_sheet": {
+    "total_assets": 12137.0,
+    "current_assets": 5467.333333333333,
+    "fixed_assets": 3225.0,
+    "total_liabilities": 5930.333333333333,
+    "current_liabilities": 2087.0,
+    "long_term_liabilities": 1347.0,
+    "shareholders_equity": 1846.0
+  },
+  "employees": {
+    "n_employees": 44194,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 18936
+  },
+  "board": [
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke",
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Aas",
+      "first_name": "Erich",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Karl",
+      "initials": "Erik",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gabrielson",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

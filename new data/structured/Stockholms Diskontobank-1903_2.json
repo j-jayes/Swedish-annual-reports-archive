@@ -1,0 +1,45 @@
+{
+  "company_name": "AKTIEBOLAGET STOCKHOLMS DISKONTOBANKS",
+  "fiscal_year": 1903,
+  "income_statement": {
+    "revenue": 408852.25,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 119505.77,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 296706.37
+  },
+  "balance_sheet": {
+    "total_assets": 18025957.65,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 17729251.28,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4000000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Dahlberg",
+      "first_name": "Joh.",
+      "initials": "P.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wallerstedt",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjögreen",
+      "first_name": "Otto",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

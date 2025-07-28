@@ -1,0 +1,116 @@
+{
+  "company_name": "Ahlsell",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 4712.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4511.3,
+    "wages_expense": null,
+    "tax_expense": 58.1,
+    "depreciation": null,
+    "net_income": 40.5
+  },
+  "balance_sheet": {
+    "total_assets": 3177.4,
+    "current_assets": 2566.7,
+    "fixed_assets": 550.0,
+    "total_liabilities": 1327.3,
+    "current_liabilities": 784.1,
+    "long_term_liabilities": 472.6,
+    "shareholders_equity": 472.6
+  },
+  "employees": {
+    "n_employees": 6891,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Norlindh",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Wirsäll",
+      "first_name": "Nils-Erik",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Lindblad",
+      "first_name": "Per",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Carl Erik",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Birkhan",
+      "first_name": "Walter",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Lundin",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Tjänsteman och arbetstagarrepresentant"
+    },
+    {
+      "surname": "Westerlundh",
+      "first_name": "Kenneth",
+      "initials": null,
+      "position": "Elektriker och arbetstagarrepresentant"
+    },
+    {
+      "surname": "Bigl",
+      "first_name": "Gerhard",
+      "initials": null,
+      "position": "Tjänsteman och arbetstagarrepresentant, suppleant"
+    },
+    {
+      "surname": "Boldrup",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Montör och arbetstagarrepresentant, suppleant"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Brandt",
+      "first_name": "Horst",
+      "initials": null,
+      "position": "Styrelseledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "Bertil Olssons Revisionsbyrå AB"
+    },
+    {
+      "surname": "Lindén",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "Einar Larssons Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

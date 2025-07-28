@@ -1,0 +1,104 @@
+{
+  "company_name": "Trelleborgs Gummifabriks Aktiebolag",
+  "fiscal_year": 1970,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 516.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 460.472,
+    "wages_expense": null,
+    "tax_expense": 3.081,
+    "depreciation": 23.4,
+    "net_income": 8.607333333333333
+  },
+  "balance_sheet": {
+    "total_assets": 438.3636666666667,
+    "current_assets": 309.626,
+    "fixed_assets": 110.60333333333334,
+    "total_liabilities": 286.379,
+    "current_liabilities": 129.76866666666666,
+    "long_term_liabilities": 125.95,
+    "shareholders_equity": 151.98133333333334
+  },
+  "employees": {
+    "n_employees": 6551,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gorthon",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nedström",
+      "first_name": null,
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Arne",
+      "initials": "L. G.",
+      "position": null
+    },
+    {
+      "surname": "Ohlsson",
+      "first_name": null,
+      "initials": "L. G.",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Ekblom",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": null,
+      "initials": "Otto P.",
+      "position": null
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "\nÅke",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglund",
+      "first_name": "S.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "SWEDISH HOUSE OF FINANCE",
+  "fiscal_year": 1982,
+  "income_statement": {
+    "revenue": 964.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 898.7,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 47.6
+  },
+  "balance_sheet": {
+    "total_assets": 1629.5,
+    "current_assets": 1044.5,
+    "fixed_assets": 583.5,
+    "total_liabilities": 828.8,
+    "current_liabilities": 828.8,
+    "long_term_liabilities": 472.6,
+    "shareholders_equity": 245.0
+  },
+  "employees": {
+    "n_employees": 2712,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gunnar",
+      "initials": "L",
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K:son",
+      "position": "handlande och chef"
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": "vice verkställande direktör"
+    },
+    {
+      "surname": "\"\". \",",
+      "first_name": "Sven",
+      "initials": "Ågrup",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Krook",
+      "first_name": "Ebbe",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

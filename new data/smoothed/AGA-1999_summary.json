@@ -1,0 +1,74 @@
+{
+  "company_name": "AGA AKTIEBOLAG",
+  "fiscal_year": 1999,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 14999.0,
+    "cost_of_goods_sold": -9108.0,
+    "operating_expenses": -4493.666666666667,
+    "wages_expense": 2568.0,
+    "tax_expense": -390.0,
+    "depreciation": 1880.0,
+    "net_income": 1066.0
+  },
+  "balance_sheet": {
+    "total_assets": 25074.0,
+    "current_assets": 6881.0,
+    "fixed_assets": 18193.0,
+    "total_liabilities": 16284.0,
+    "current_liabilities": 3279.0,
+    "long_term_liabilities": 5959.0,
+    "shareholders_equity": 8790.0
+  },
+  "employees": {
+    "n_employees": 9534,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sjöstrand",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Clas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundholm",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fritshagen",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Selander",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "ÖHRLINGS PRICEWATERHOUSECOOPERS AB"
+    }
+  ]
+}

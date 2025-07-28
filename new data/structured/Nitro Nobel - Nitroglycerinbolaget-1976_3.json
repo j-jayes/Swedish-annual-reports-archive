@@ -1,0 +1,134 @@
+{
+  "company_name": "Nitro Nobel",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 283.979,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 242.486,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 14.325,
+    "net_income": 10.29
+  },
+  "balance_sheet": {
+    "total_assets": 296.095,
+    "current_assets": 182.8,
+    "fixed_assets": 108.966,
+    "total_liabilities": 194.84,
+    "current_liabilities": 81.508,
+    "long_term_liabilities": 52.752,
+    "shareholders_equity": 101.256
+  },
+  "employees": {
+    "n_employees": 1245,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "de Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Blegvad",
+      "first_name": "Jörgen",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Boman",
+      "first_name": "Jan E",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bylock",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Davidson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fjällström",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Löwhagen",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johnson",
+      "first_name": "Sten K",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jängnemyr",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Enar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Malte",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hanner",
+      "first_name": "Per V A",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

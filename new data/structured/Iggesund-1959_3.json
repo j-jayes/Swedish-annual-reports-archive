@@ -1,0 +1,74 @@
+{
+  "company_name": "IGGESUNDS BRUK",
+  "fiscal_year": 1959,
+  "income_statement": {
+    "revenue": 46144885.06,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 7089104.0,
+    "depreciation": 11903896.0,
+    "net_income": 6048181.21
+  },
+  "balance_sheet": {
+    "total_assets": 138023905.38,
+    "current_assets": null,
+    "fixed_assets": 45400238.33,
+    "total_liabilities": null,
+    "current_liabilities": 14238964.12,
+    "long_term_liabilities": null,
+    "shareholders_equity": 73000000.0
+  },
+  "employees": {
+    "n_employees": 1548,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": "Herbert",
+      "initials": "J",
+      "position": "Wallenberg"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars G.",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

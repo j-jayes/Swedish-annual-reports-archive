@@ -1,0 +1,122 @@
+{
+  "company_name": "Atlas Copco Group",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 5305.4,
+    "cost_of_goods_sold": 4699.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 100.7,
+    "net_income": 148.3
+  },
+  "balance_sheet": {
+    "total_assets": 4990.4,
+    "current_assets": 4075.1,
+    "fixed_assets": 909.4,
+    "total_liabilities": 3011.4,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1553.2
+  },
+  "employees": {
+    "n_employees": 17883,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "Kurt-Allan",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "Sporborg",
+      "first_name": "Henry",
+      "initials": "N.",
+      "position": "Director"
+    },
+    {
+      "surname": "Hellner",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Dr Jur Professor"
+    },
+    {
+      "surname": "Ödner",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Dr Techn Managing Director"
+    },
+    {
+      "surname": "Iveroth",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Vice Chairman"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Managing Director"
+    },
+    {
+      "surname": "Henning",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Berthelsen",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "Nordström",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": "Deputy member"
+    },
+    {
+      "surname": "Nyholm",
+      "first_name": "Per-Erik",
+      "initials": null,
+      "position": "Chairman"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sonesson",
+      "first_name": "Birger",
+      "initials": null,
+      "auditing_firm": "Authorized public accountant"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E",
+      "auditing_firm": "Authorized public accountant"
+    }
+  ],
+  "additional_notes": null
+}

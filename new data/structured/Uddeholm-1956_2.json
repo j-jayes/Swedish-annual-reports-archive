@@ -1,0 +1,110 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 422.665,
+    "cost_of_goods_sold": 302.044,
+    "operating_expenses": 3.93,
+    "wages_expense": null,
+    "tax_expense": 22.266,
+    "depreciation": 27.291,
+    "net_income": 17.0
+  },
+  "balance_sheet": {
+    "total_assets": 392.45,
+    "current_assets": 204.341,
+    "fixed_assets": 186.109,
+    "total_liabilities": 137.07,
+    "current_liabilities": 45.369,
+    "long_term_liabilities": 92.591,
+    "shareholders_equity": 243.04
+  },
+  "employees": {
+    "n_employees": 13079,
+    "n_blue_collar_workers": 11206,
+    "n_white_collar_workers": 1873
+  },
+  "board": [
+    {
+      "surname": "LINDAHL",
+      "first_name": "ALF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDSTRÖM",
+      "first_name": "\n\n\n\nÅGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": "K-G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRISELL",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Aukt revisor"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FRISELLE",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,106 @@
+{
+  "company_name": "D. Carnegie & Co.",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1244102.58
+  },
+  "balance_sheet": {
+    "total_assets": 23810321.78,
+    "current_assets": 909406.5,
+    "fixed_assets": 22900825.28,
+    "total_liabilities": null,
+    "current_liabilities": 1114560.0,
+    "long_term_liabilities": 3274464.04,
+    "shareholders_equity": 20400497.94
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Thulin",
+      "first_name": "Folke",
+      "initials": "G.",
+      "position": "direktör, Göteborg, ordf."
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "generalkonsul, Göteborg"
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "disponent, Osteräng"
+    },
+    {
+      "surname": "Melin",
+      "first_name": "Hilding",
+      "initials": null,
+      "position": "bankdirektör, Stockholm"
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": "direktör, Uppsala"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "direktör, Stockholm"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": null,
+      "initials": "C. G.",
+      "position": "friherre, Djursholm, v. d."
+    },
+    {
+      "surname": "Ekman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "agronom, Bjärka-Säby"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "friherre, Djursholm"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor, Göteborg"
+    },
+    {
+      "surname": "Lindgren",
+      "first_name": "Bengt",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor, Stockholm"
+    },
+    {
+      "surname": "Finnhammar",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor, Upplands-Väsby"
+    },
+    {
+      "surname": "Rohlin",
+      "first_name": "Sven-Rune",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor, Göteborg"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,128 @@
+{
+  "company_name": "Sandvik Aktiebolag",
+  "fiscal_year": 1995,
+  "income_statement": {
+    "revenue": 29700.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1691.0,
+    "depreciation": 1071.0,
+    "net_income": 3727.0
+  },
+  "balance_sheet": {
+    "total_assets": 30562.0,
+    "current_assets": 21312.0,
+    "fixed_assets": 9250.0,
+    "total_liabilities": 12059.0,
+    "current_liabilities": 6907.0,
+    "long_term_liabilities": 4242.0,
+    "shareholders_equity": 18503.0
+  },
+  "employees": {
+    "n_employees": 29946,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Per-Olof",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Håkansson",
+      "first_name": "Lars-Ove",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Director"
+    },
+    {
+      "surname": "Boström",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Deputy Directors"
+    },
+    {
+      "surname": "Lindstedt",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Deputy Directors"
+    },
+    {
+      "surname": "Hising",
+      "first_name": "Lars Ivar",
+      "initials": null,
+      "position": "DEPUTY DIRECTORS"
+    },
+    {
+      "surname": "Honkamäki",
+      "first_name": "Eino",
+      "initials": null,
+      "position": "DEPUTY DIRECTORS"
+    },
+    {
+      "surname": "Franklind",
+      "first_name": "Per-Åke",
+      "initials": null,
+      "position": "DEPUTY DIRECTORS"
+    },
+    {
+      "surname": "Hedström",
+      "first_name": "Clas Åke",
+      "initials": null,
+      "position": "President"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Öhrn",
+      "first_name": "Bernhard",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Svantemark",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Näsman",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Markborn",
+      "first_name": "Peter",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

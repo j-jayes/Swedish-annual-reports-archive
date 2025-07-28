@@ -1,0 +1,92 @@
+{
+  "company_name": "Linoleum Aktiebolaget Forshaga",
+  "fiscal_year": 1959,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 2208990.47797212,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1195190.195189,
+    "depreciation": 1727786.77,
+    "net_income": 745225.08
+  },
+  "balance_sheet": {
+    "total_assets": 17228172.57,
+    "current_assets": 2995061.0,
+    "fixed_assets": 2535698.06,
+    "total_liabilities": 12070507.91,
+    "current_liabilities": 3057013.05,
+    "long_term_liabilities": 1054032.48,
+    "shareholders_equity": 6611148.0
+  },
+  "employees": {
+    "n_employees": 123,
+    "n_blue_collar_workers": 239,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ZOELLY",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MAGNUSSON",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THOMSEN",
+      "first_name": "I.",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "GRÖNBERG",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SYPESTEΥΝ",
+      "first_name": "E. KAARS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORNANDER",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "EKMAN",
+      "first_name": "E. W.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ]
+}

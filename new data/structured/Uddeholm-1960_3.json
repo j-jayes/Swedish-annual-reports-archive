@@ -1,0 +1,98 @@
+{
+  "company_name": "Uddeholms Aktiebolag",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 551.969,
+    "cost_of_goods_sold": 460.591,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 13.202,
+    "depreciation": 31.654,
+    "net_income": 18.0
+  },
+  "balance_sheet": {
+    "total_assets": 603.128,
+    "current_assets": 290.538,
+    "fixed_assets": 295.13,
+    "total_liabilities": 324.424,
+    "current_liabilities": 83.292,
+    "long_term_liabilities": 240.904,
+    "shareholders_equity": 278.704
+  },
+  "employees": {
+    "n_employees": 14650,
+    "n_blue_collar_workers": 12330,
+    "n_white_collar_workers": 2320
+  },
+  "board": [
+    {
+      "surname": "LINDAHL",
+      "first_name": "Alf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDSTRÖM",
+      "first_name": "Age",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHWARTZ",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JACOBSSON",
+      "first_name": "Carl",
+      "initials": "A",
+      "position": null
+    },
+    {
+      "surname": "LJUNGDAHL",
+      "first_name": "K",
+      "initials": "-G",
+      "position": null
+    },
+    {
+      "surname": "EKMAN",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "ÅKERMAN",
+      "first_name": "Oskar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "JACOBSON",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    },
+    {
+      "surname": "FRISELL",
+      "first_name": "G",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GEIJER",
+      "first_name": "Reinh",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

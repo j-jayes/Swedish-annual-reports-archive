@@ -1,0 +1,110 @@
+{
+  "company_name": "BYGGNADS AB BALKEN",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 2972.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2817.6,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 52.0,
+    "net_income": 21.0
+  },
+  "balance_sheet": {
+    "total_assets": 1602.8,
+    "current_assets": 856.6,
+    "fixed_assets": 375.1,
+    "total_liabilities": 656.8,
+    "current_liabilities": null,
+    "long_term_liabilities": 345.0,
+    "shareholders_equity": 102.1
+  },
+  "employees": {
+    "n_employees": 11385,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Bankdirektör, ordförande"
+    },
+    {
+      "surname": "Malmström",
+      "first_name": "Bure",
+      "initials": null,
+      "position": "Advokat, vice ordförande"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Janson",
+      "first_name": "William",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ohlsson",
+      "first_name": "Carl-Olof",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Palm",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "Ingenjör, suppleant"
+    },
+    {
+      "surname": "Pettersson",
+      "first_name": "Karl-Axel",
+      "initials": null,
+      "position": "Specialarbetare, suppleant"
+    },
+    {
+      "surname": "Ekelund",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Direktör, verkställande direktör"
+    },
+    {
+      "surname": "Rosén",
+      "first_name": "Halvar",
+      "initials": null,
+      "position": "Ingenjör, suppleant"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Träarbetare, suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil E",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

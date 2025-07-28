@@ -1,0 +1,94 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1932,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 353620.63,
+    "depreciation": 219001.82,
+    "net_income": 615019.58
+  },
+  "balance_sheet": {
+    "total_assets": 152079097.09,
+    "current_assets": null,
+    "fixed_assets": 7744097.25,
+    "total_liabilities": 54196516.55,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 81700000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "RÅLAMB",
+      "first_name": "ERIK",
+      "initials": "E:",
+      "position": null
+    },
+    {
+      "surname": "INGESTRÖM",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WÄSTFELT",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORSBERG",
+      "first_name": "ERIK",
+      "initials": "AUG.",
+      "position": null
+    },
+    {
+      "surname": "HELLSTEDT",
+      "first_name": "E.",
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "TRYGGER",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "FALKMAN",
+      "first_name": "LUDVIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LAMM",
+      "first_name": "CARL",
+      "initials": "ROBERT",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ELFBORG",
+      "first_name": "KURT",
+      "initials": null,
+      "auditing_firm": "Av Stockholms Handelskammare\n auktoriserad revisor."
+    }
+  ],
+  "additional_notes": null
+}

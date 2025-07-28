@@ -1,0 +1,104 @@
+{
+  "company_name": "Fagersta Bruks Aktiebolag",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 399054000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 6800000.0,
+    "depreciation": 23043000.0,
+    "net_income": 9016000.0
+  },
+  "balance_sheet": {
+    "total_assets": 332296000.0,
+    "current_assets": 195842000.0,
+    "fixed_assets": 131958000.0,
+    "total_liabilities": 164299000.0,
+    "current_liabilities": 63655000.0,
+    "long_term_liabilities": 97791000.0,
+    "shareholders_equity": 158222000.0
+  },
+  "employees": {
+    "n_employees": 7689,
+    "n_blue_collar_workers": 5000,
+    "n_white_collar_workers": 1284
+  },
+  "board": [
+    {
+      "surname": "Ödmark",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Eiserman",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Elfström",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "Häggqvist",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "viverkst. dir"
+    },
+    {
+      "surname": "Wickman",
+      "first_name": "Börje",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Hägg",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    },
+    {
+      "surname": "Audin",
+      "first_name": null,
+      "initials": "J.",
+      "auditing_firm": "Revisionschef"
+    }
+  ],
+  "additional_notes": null
+}

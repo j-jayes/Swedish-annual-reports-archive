@@ -1,0 +1,98 @@
+{
+  "company_name": "SVENSKA OLJESLAGERI AKTIEBOLAGET",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 74.255,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.402,
+    "net_income": 504.0
+  },
+  "balance_sheet": {
+    "total_assets": 30.541,
+    "current_assets": 14.369,
+    "fixed_assets": 10.142,
+    "total_liabilities": 9.257,
+    "current_liabilities": 6.404,
+    "long_term_liabilities": 8.85,
+    "shareholders_equity": 24.511
+  },
+  "employees": {
+    "n_employees": 470,
+    "n_blue_collar_workers": 253,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ORRMELL",
+      "first_name": "ARON",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGWALL",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÖGBERG",
+      "first_name": "EMAN.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSVALD",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ENGBLOM",
+      "first_name": "C. P.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THUFVESSON",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MALMGREN",
+      "first_name": "OLOF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HELMERSON",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SKÅNSBERG",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LILLJEGREN",
+      "first_name": "PER",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "THUFVESSON",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

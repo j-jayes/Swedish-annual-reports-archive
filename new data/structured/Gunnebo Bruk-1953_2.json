@@ -1,0 +1,74 @@
+{
+  "company_name": "GUNNEBO BRUKS AKTIEBOLAG",
+  "fiscal_year": 1953,
+  "income_statement": {
+    "revenue": 25874943.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 140023.0,
+    "depreciation": 519373.17,
+    "net_income": 657318.02
+  },
+  "balance_sheet": {
+    "total_assets": 18501921.01,
+    "current_assets": 9842991.56,
+    "fixed_assets": 8123158.98,
+    "total_liabilities": 8271509.41,
+    "current_liabilities": 2320981.41,
+    "long_term_liabilities": 5624163.76,
+    "shareholders_equity": 8271509.41
+  },
+  "employees": {
+    "n_employees": 703,
+    "n_blue_collar_workers": 580,
+    "n_white_collar_workers": 123
+  },
+  "board": [
+    {
+      "surname": "Tigerschiöld",
+      "first_name": "Allan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Setterwall",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nygren",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunström",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wilhelmson",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jern",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

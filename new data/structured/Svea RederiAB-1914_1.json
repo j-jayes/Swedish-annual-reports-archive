@@ -1,0 +1,76 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1914,
+  "income_statement": {
+    "revenue": 13865335.98,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 11209735.27,
+    "wages_expense": null,
+    "tax_expense": 95307.2,
+    "depreciation": null,
+    "net_income": 1935509.85
+  },
+  "balance_sheet": {
+    "total_assets": 17987674.7,
+    "current_assets": 1289979.32,
+    "fixed_assets": 14403000.0,
+    "total_liabilities": 958606.98,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 8400000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wicander",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bäckström",
+      "first_name": "John",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Broman",
+      "first_name": "J.",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "Wicander",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljungberg",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomberg",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ström",
+      "first_name": "J.",
+      "initials": "F.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Joachimson",
+      "first_name": "O.",
+      "initials": "B.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

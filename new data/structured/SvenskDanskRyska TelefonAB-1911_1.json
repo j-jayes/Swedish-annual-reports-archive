@@ -1,0 +1,80 @@
+{
+  "company_name": "Svensk-Dansk-Ryska Telefonaktiebolagets",
+  "fiscal_year": 1911,
+  "income_statement": {
+    "revenue": 2533533.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1057762.98,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 520816.74
+  },
+  "balance_sheet": {
+    "total_assets": 14296550.85,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 2969779.41,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 134,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 749
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "K. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Montelius",
+      "first_name": "W.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Pegelow",
+      "first_name": "F. W. H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marc.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Piltz",
+      "first_name": "Gottlieb",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kinnander",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lybeck",
+      "first_name": "August",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jakobson",
+      "first_name": "Frans",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

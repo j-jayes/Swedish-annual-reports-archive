@@ -1,0 +1,104 @@
+{
+  "company_name": "AGA AB",
+  "fiscal_year": 1997,
+  "income_statement": {
+    "revenue": 14408.0,
+    "cost_of_goods_sold": 8658.0,
+    "operating_expenses": 4206.0,
+    "wages_expense": 3497.0,
+    "tax_expense": 537.0,
+    "depreciation": 1644.0,
+    "net_income": 1099.0
+  },
+  "balance_sheet": {
+    "total_assets": 25162.0,
+    "current_assets": 6608.0,
+    "fixed_assets": 18554.0,
+    "total_liabilities": 12808.0,
+    "current_liabilities": 3143.0,
+    "long_term_liabilities": 6246.0,
+    "shareholders_equity": 12275.0
+  },
+  "employees": {
+    "n_employees": 10896,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ågrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Hedelius",
+      "first_name": "Tom",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Jeansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Martin-Löf",
+      "first_name": "Sverker",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Clas",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Selander",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Sjöstrand",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Lundholm",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Fritshagen",
+      "first_name": "Lars-Olof",
+      "initials": null,
+      "position": "Kontrollant"
+    },
+    {
+      "surname": "Säfblad",
+      "first_name": "Torgny",
+      "initials": null,
+      "position": "Styrelsesuppleant"
+    },
+    {
+      "surname": "Klinga",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Styrelseledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Edlund",
+      "first_name": "Bertil",
+      "initials": null,
+      "auditing_firm": "Öhrlings Coopers & Lybrand AB"
+    }
+  ],
+  "additional_notes": null
+}

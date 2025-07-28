@@ -1,0 +1,112 @@
+{
+  "company_name": "Cardo",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 29079.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1014.0,
+    "wages_expense": null,
+    "tax_expense": 3541.0,
+    "depreciation": 5298.0,
+    "net_income": 31725.0
+  },
+  "balance_sheet": {
+    "total_assets": 341844.0,
+    "current_assets": 527.0,
+    "fixed_assets": 341317.0,
+    "total_liabilities": 129343.0,
+    "current_liabilities": 4231.0,
+    "long_term_liabilities": 1263.0,
+    "shareholders_equity": 202500.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Beckman",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kennedy",
+      "first_name": "Douglas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Netzén",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Verkst. direktör"
+    },
+    {
+      "surname": "Hjort",
+      "first_name": "Th.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kihlstedt",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Linander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindh",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nordenskjöld",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "von Porat",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Faxe",
+      "first_name": null,
+      "initials": "J.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Månsson",
+      "first_name": null,
+      "initials": "N.A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

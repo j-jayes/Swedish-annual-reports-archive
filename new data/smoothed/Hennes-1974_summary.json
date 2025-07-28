@@ -1,0 +1,80 @@
+{
+  "company_name": "H & M HENNES & MAURITZ AB",
+  "fiscal_year": 1974,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 553.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 9.1,
+    "depreciation": 2.8,
+    "net_income": 11.166666666666666
+  },
+  "balance_sheet": {
+    "total_assets": 141.4,
+    "current_assets": 128.0,
+    "fixed_assets": 14.5,
+    "total_liabilities": 61.4,
+    "current_liabilities": 65.0,
+    "long_term_liabilities": 3.0,
+    "shareholders_equity": 22.8
+  },
+  "employees": {
+    "n_employees": 1817,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Mattson",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stjernquist",
+      "first_name": "Inge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Erling",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Kristfeldt",
+      "first_name": "Jens",
+      "initials": "Ove",
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Olsson",
+      "first_name": "Bertil",
+      "initials": "E.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Orwander",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

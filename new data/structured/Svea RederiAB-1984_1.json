@@ -1,0 +1,99 @@
+{
+  "company_name": "TRANSATLANTIC",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 3362.4,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 3099.5,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 143.4,
+    "net_income": -6.443
+  },
+  "balance_sheet": {
+    "total_assets": 2280.294,
+    "current_assets": 363.283,
+    "fixed_assets": 577.249,
+    "total_liabilities": 2181.695,
+    "current_liabilities": 312.677,
+    "long_term_liabilities": 1605.894,
+    "shareholders_equity": 133.406
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Torkel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Adler",
+      "first_name": "Dag",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "VD och koncernchef"
+    },
+    {
+      "surname": "Kaber",
+      "first_name": "Jaan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindén",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thorell",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Andréasson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jensen",
+      "first_name": "Liss",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Strandman",
+      "first_name": "Jan-Erik",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": null,
+  "additional_notes": null
+}

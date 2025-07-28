@@ -1,0 +1,80 @@
+{
+  "company_name": "Fagersta Bruks Aktiebolag",
+  "fiscal_year": 1949,
+  "additional_notes": "Exportens procentuella andel av omsättningen har under året uppgått till 27 %.",
+  "income_statement": {
+    "revenue": 106769000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 11082720.19,
+    "depreciation": 6244104.49,
+    "net_income": 4124891.28
+  },
+  "balance_sheet": {
+    "total_assets": 118360186.22,
+    "current_assets": 44472691.03,
+    "fixed_assets": 73887495.19,
+    "total_liabilities": 58920180.88,
+    "current_liabilities": 13163766.78,
+    "long_term_liabilities": null,
+    "shareholders_equity": 59266730.52
+  },
+  "employees": {
+    "n_employees": 5325,
+    "n_blue_collar_workers": 4518,
+    "n_white_collar_workers": 807
+  },
+  "board": [
+    {
+      "surname": "ERICSSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÖBERG",
+      "first_name": "THURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EISERMAN",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅSELIUS",
+      "first_name": "HJ.",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDAHL",
+      "first_name": "SUNE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "BOHLIN",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LEFFLER",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

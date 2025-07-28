@@ -1,0 +1,80 @@
+{
+  "company_name": "Coronaverken AB",
+  "fiscal_year": 1973,
+  "income_statement": {
+    "revenue": 419.168,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 9.11,
+    "net_income": -13.456
+  },
+  "balance_sheet": {
+    "total_assets": 358.303,
+    "current_assets": 256.18,
+    "fixed_assets": 100.287,
+    "total_liabilities": 307.731,
+    "current_liabilities": 166.231,
+    "long_term_liabilities": 110.513,
+    "shareholders_equity": 50.572
+  },
+  "employees": {
+    "n_employees": 2765,
+    "n_blue_collar_workers": 2222,
+    "n_white_collar_workers": 543
+  },
+  "board": [
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Hill-Lindquist",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Risberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hjalmarson",
+      "first_name": "Harry",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ljungcrantz",
+      "first_name": "Sigurd",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "af Trolle",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ahlin",
+      "first_name": "Cons E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rilby",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

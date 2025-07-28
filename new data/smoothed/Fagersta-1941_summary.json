@@ -1,0 +1,74 @@
+{
+  "company_name": "FAGERSTA BRUKS AKTIEBOLAG",
+  "fiscal_year": 1941,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 74296000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1007685.4,
+    "depreciation": 3138689.34,
+    "net_income": 4416904.23
+  },
+  "balance_sheet": {
+    "total_assets": 55586751.8,
+    "current_assets": null,
+    "fixed_assets": 14071652.02,
+    "total_liabilities": 35852561.78,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 22379399.566666666
+  },
+  "employees": {
+    "n_employees": 6460,
+    "n_blue_collar_workers": 5840,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGENGREN",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDBERG",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FORNANDER",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDAHL",
+      "first_name": "SUNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HEDENDAHL",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

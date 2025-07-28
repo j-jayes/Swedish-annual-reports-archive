@@ -1,0 +1,82 @@
+{
+  "company_name": "YTTERSTFORS-MUNKSUNDS",
+  "fiscal_year": 1919,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2602384.66,
+    "wages_expense": null,
+    "tax_expense": 432098.38,
+    "depreciation": 616843.0,
+    "net_income": 3068160.5
+  },
+  "balance_sheet": {
+    "total_assets": 80200157.11,
+    "current_assets": null,
+    "fixed_assets": 34382858.33,
+    "total_liabilities": 46641996.61,
+    "current_liabilities": 13462000.0,
+    "long_term_liabilities": 32500000.0,
+    "shareholders_equity": 33558160.5
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Norman",
+      "first_name": "Uno",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Thunberg",
+      "first_name": "Emric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmström",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dymling",
+      "first_name": "Richard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bellander",
+      "first_name": "Paul",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Enell",
+      "first_name": "O.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Aspgren",
+      "first_name": "Nestor",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Flygt",
+      "first_name": "Helmer",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Raaschou",
+      "first_name": "Th.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

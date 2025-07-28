@@ -1,0 +1,92 @@
+{
+  "company_name": "CORONAVERKEN AKTIEBOLAG",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 85.394,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 26.598,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 979.616
+  },
+  "balance_sheet": {
+    "total_assets": 20.290078,
+    "current_assets": 40.987,
+    "fixed_assets": 4.461,
+    "total_liabilities": 988.454,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20.185238
+  },
+  "employees": {
+    "n_employees": 1614,
+    "n_blue_collar_workers": 1147,
+    "n_white_collar_workers": 467
+  },
+  "board": [
+    {
+      "surname": "HARTMANN",
+      "first_name": "FRANZ",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "HILL-LINDQUIST",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "RAMBERG",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CORENIUS",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDEN",
+      "first_name": "DAVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÅKANSON",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "LJUNGCRANTZ",
+      "first_name": "SIGURD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUNDQUIST",
+      "first_name": "RING",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "AHRÉN",
+      "first_name": "Claes",
+      "initials": null,
+      "auditing_firm": "koncernrevisor"
+    },
+    {
+      "surname": "WENNEBORG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

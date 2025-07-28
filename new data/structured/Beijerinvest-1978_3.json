@@ -1,0 +1,104 @@
+{
+  "company_name": "Beijerinvest",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 7416.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7221.738,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 76.893,
+    "net_income": 48.901
+  },
+  "balance_sheet": {
+    "total_assets": 3522.991,
+    "current_assets": 2165.568,
+    "fixed_assets": 1327.316,
+    "total_liabilities": 1366.739,
+    "current_liabilities": 1052.15,
+    "long_term_liabilities": 340.762,
+    "shareholders_equity": 596.746
+  },
+  "employees": {
+    "n_employees": 9801,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "G",
+      "initials": "Rune",
+      "position": null
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ovin",
+      "first_name": "Hans-Eric",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Säve",
+      "first_name": "Carl",
+      "initials": "T",
+      "position": null
+    },
+    {
+      "surname": "Walter",
+      "first_name": "James",
+      "initials": "W",
+      "position": null
+    },
+    {
+      "surname": "Wirström",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Agrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wall",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nordelöf",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

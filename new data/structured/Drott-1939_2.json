@@ -1,0 +1,70 @@
+{
+  "company_name": "DROTT",
+  "fiscal_year": 1939,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 514640.77
+  },
+  "balance_sheet": {
+    "total_assets": 23458130.77,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 17358213.36,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6099917.41
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "SCHRÖDER",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OSSBAHR",
+      "first_name": "CARL",
+      "initials": "PATRIC",
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖQVIST",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "STENBOCK",
+      "first_name": "R.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

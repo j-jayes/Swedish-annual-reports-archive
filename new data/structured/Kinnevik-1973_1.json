@@ -1,0 +1,92 @@
+{
+  "company_name": "Klippan",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 498.9,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 454.134,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 16.064,
+    "net_income": 7.08
+  },
+  "balance_sheet": {
+    "total_assets": 319.847,
+    "current_assets": 150.659,
+    "fixed_assets": 166.021,
+    "total_liabilities": 122.046,
+    "current_liabilities": 95.35,
+    "long_term_liabilities": 69.808,
+    "shareholders_equity": 95.272
+  },
+  "employees": {
+    "n_employees": 2756,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "\"\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borg",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Crafoord",
+      "first_name": "Holger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellestam",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindeblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Porat",
+      "first_name": "Stig von",
+      "initials": null,
+      "position": "vd"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Tage",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

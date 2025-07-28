@@ -1,0 +1,80 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 5618912.68,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4531195.98,
+    "wages_expense": null,
+    "tax_expense": 370975.74,
+    "depreciation": null,
+    "net_income": 1178716.7
+  },
+  "balance_sheet": {
+    "total_assets": 44155870.91,
+    "current_assets": null,
+    "fixed_assets": 34950200.0,
+    "total_liabilities": null,
+    "current_liabilities": 5526787.79,
+    "long_term_liabilities": 21204847.64,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 16,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "DOUGLAS",
+      "first_name": null,
+      "initials": "G. A.",
+      "position": null
+    },
+    {
+      "surname": "ANKARCRONA",
+      "first_name": "STEN",
+      "initials": "S:SON",
+      "position": null
+    },
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": "VON",
+      "position": null
+    },
+    {
+      "surname": "NESSEN",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEMSTAD",
+      "first_name": "TORD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TENGBOM",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Flogner",
+      "first_name": null,
+      "initials": "S.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Brehmer",
+      "first_name": "T.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,68 @@
+{
+  "company_name": "Aktiebolaget Stockholmstelefons",
+  "fiscal_year": 1918,
+  "income_statement": {
+    "revenue": 3043774.94,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2225241.72,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2671639.05
+  },
+  "balance_sheet": {
+    "total_assets": 53083859.16,
+    "current_assets": 3000976.47,
+    "fixed_assets": 44788567.45,
+    "total_liabilities": 13433526.61,
+    "current_liabilities": 3170494.56,
+    "long_term_liabilities": 10263000.0,
+    "shareholders_equity": 36978725.55
+  },
+  "employees": {
+    "n_employees": 406,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "PEGELOW",
+      "first_name": "F",
+      "initials": "F. W. H.",
+      "position": null
+    },
+    {
+      "surname": "HASSELBERG",
+      "first_name": "B",
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "KLEMMING",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WINCRANTZ",
+      "first_name": "K",
+      "initials": "K. F.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Frans",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Carlander",
+      "first_name": "Jos",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

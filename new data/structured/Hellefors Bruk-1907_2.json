@@ -1,0 +1,70 @@
+{
+  "company_name": "Hellefors Bruks Aktiebolag",
+  "fiscal_year": 1907,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 217083.38
+  },
+  "balance_sheet": {
+    "total_assets": 9711233.88,
+    "current_assets": null,
+    "fixed_assets": 7124140.34,
+    "total_liabilities": 9494150.5,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 4900000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Liberg",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svartling",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wachtmeister",
+      "first_name": "F.",
+      "initials": "Cl",
+      "position": null
+    },
+    {
+      "surname": "Melander",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Stjernspetz",
+      "first_name": "Henric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Arfwedson",
+      "first_name": "A.",
+      "initials": "Gerh",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

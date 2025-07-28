@@ -1,0 +1,80 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1981,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 200.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 30.932
+  },
+  "balance_sheet": {
+    "total_assets": 794.728,
+    "current_assets": 126.262,
+    "fixed_assets": 668.466,
+    "total_liabilities": 446.76,
+    "current_liabilities": 116.905,
+    "long_term_liabilities": 370.236,
+    "shareholders_equity": 184.372
+  },
+  "employees": {
+    "n_employees": 110,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bergqvist",
+      "first_name": "\"\nÅke",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Karleby",
+      "first_name": "Olle",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ando",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Giesecke",
+      "first_name": "Curt-Steffan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydé",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Erikson",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": "Tjus Revisionsbyrå AB"
+    }
+  ]
+}

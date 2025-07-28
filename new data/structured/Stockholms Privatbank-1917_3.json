@@ -1,0 +1,76 @@
+{
+  "company_name": "STOCKHOLMS PRIVATBANKAKTIEBOLAG",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": 224621.01,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 176625.2,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2846.32,
+    "net_income": 98477.26
+  },
+  "balance_sheet": {
+    "total_assets": 8778180.24,
+    "current_assets": null,
+    "fixed_assets": 235000.0,
+    "total_liabilities": 8778180.24,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "HOLMQUIST",
+      "first_name": "P. A. F.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "EDSTRÖM",
+      "first_name": "MAGNUS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRISTENSEN",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KASSMAN",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "UDDENBERG",
+      "first_name": "L.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BRUN",
+      "first_name": "CARL",
+      "initials": "FR.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOFSTEN",
+      "first_name": "ERIK",
+      "initials": "v.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

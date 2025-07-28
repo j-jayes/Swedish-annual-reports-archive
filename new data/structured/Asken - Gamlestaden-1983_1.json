@@ -1,0 +1,92 @@
+{
+  "company_name": "Asken",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 1135.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 308.1,
+    "tax_expense": 20.5,
+    "depreciation": 25.4,
+    "net_income": 125.0
+  },
+  "balance_sheet": {
+    "total_assets": 2539.4,
+    "current_assets": 1404.2,
+    "fixed_assets": 732.7,
+    "total_liabilities": 2185.2,
+    "current_liabilities": 1475.2,
+    "long_term_liabilities": 354.2,
+    "shareholders_equity": 354.2
+  },
+  "employees": {
+    "n_employees": 2487,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gunnar",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Mauritz",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "\nÅgrup",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "Wiberg",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Ohrlings Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

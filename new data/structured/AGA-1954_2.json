@@ -1,0 +1,110 @@
+{
+  "company_name": "SVENSKA AKTIEBOLAGET GASACCUMULATOR",
+  "fiscal_year": 1954,
+  "income_statement": {
+    "revenue": 7466602.23,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 4343395.32
+  },
+  "balance_sheet": {
+    "total_assets": 113643886.29,
+    "current_assets": 58021270.51,
+    "fixed_assets": 55622615.78,
+    "total_liabilities": 56710000.0,
+    "current_liabilities": 20469404.38,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 8579,
+    "n_blue_collar_workers": 1242,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Heidenstam",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Ernfrid",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Hans",
+      "initials": "Th.",
+      "position": "direktör"
+    },
+    {
+      "surname": "Banck",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "skeppsredare"
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Äselius",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "position": "bruksdisponent"
+    },
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Silfverstolpe",
+      "first_name": "Gudmund",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ehn",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Befrits",
+      "first_name": "Ragnar",
+      "initials": "f. d.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Sven",
+      "initials": "H.",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Malmberg",
+      "first_name": "Harald",
+      "initials": "f. d.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

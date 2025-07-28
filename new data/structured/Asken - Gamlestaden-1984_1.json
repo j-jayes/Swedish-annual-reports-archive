@@ -1,0 +1,98 @@
+{
+  "company_name": "ASKEN",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 802.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 22.6,
+    "net_income": 71.6
+  },
+  "balance_sheet": {
+    "total_assets": 4950.2,
+    "current_assets": 2360.4,
+    "fixed_assets": 2583.6,
+    "total_liabilities": 407.5,
+    "current_liabilities": 3224.8,
+    "long_term_liabilities": 1098.5,
+    "shareholders_equity": 407.5
+  },
+  "employees": {
+    "n_employees": 1469,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "KARLSON",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "DAUN",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "GUNNAR",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "LANGENSKIÖLD",
+      "first_name": "CARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MARK",
+      "first_name": "PETER",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "PENSER",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "MAURITZ",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ÅGRUP",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KABER",
+      "first_name": "JAAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BREHMER",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå АВ"
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": "Öhrlings Revisionsbyrå АВ"
+    }
+  ],
+  "additional_notes": null
+}

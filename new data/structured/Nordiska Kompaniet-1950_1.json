@@ -1,0 +1,104 @@
+{
+  "company_name": "Aktiebolaget Nordiska Kompaniet",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 6283619.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1688208.0,
+    "depreciation": 1057965.16,
+    "net_income": 2428974.76
+  },
+  "balance_sheet": {
+    "total_assets": 85370226.32,
+    "current_assets": 44587135.54,
+    "fixed_assets": 40783090.78,
+    "total_liabilities": 43710562.66,
+    "current_liabilities": 9447562.79,
+    "long_term_liabilities": 34262999.87,
+    "shareholders_equity": 41659663.66
+  },
+  "employees": {
+    "n_employees": 2752,
+    "n_blue_collar_workers": 899,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WARN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUSEWITZ",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FRIIS",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SAHLIN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SCHROFF",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERBERG",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SACHS",
+      "first_name": "R.",
+      "initials": null,
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "KALDER\nEN",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BILLE",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "GRUMME",
+      "first_name": "C.",
+      "initials": "ED.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "H&M Hennes & Mauritz",
+  "fiscal_year": 1991,
+  "income_statement": {
+    "revenue": 6370.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 77.9,
+    "net_income": 392.6
+  },
+  "balance_sheet": {
+    "total_assets": 2765.3,
+    "current_assets": 2263.6,
+    "fixed_assets": 497.2,
+    "total_liabilities": null,
+    "current_liabilities": 881.5,
+    "long_term_liabilities": 292.7,
+    "shareholders_equity": 1591.1
+  },
+  "employees": {
+    "n_employees": 6589,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WIKANDER",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "FRED",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "BINGEBO",
+      "first_name": "BRITT-MARIE",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "ENOCHSSON",
+      "first_name": "VIVIAN",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "FELIXON",
+      "first_name": "MAX",
+      "initials": null,
+      "position": "Inköpsdirektör"
+    },
+    {
+      "surname": "HERTZEN",
+      "first_name": "KRISTER",
+      "initials": null,
+      "position": "VD Försäkringsbolaget SPP"
+    },
+    {
+      "surname": "JACOBSEN",
+      "first_name": "JAN",
+      "initials": null,
+      "position": "Finansdirektör"
+    },
+    {
+      "surname": "LÄTT",
+      "first_name": "BEATRICE",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "MAGNUSSON",
+      "first_name": "CHRISTER",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "NORDFELT",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "VD Pilen AB"
+    },
+    {
+      "surname": "VILUMSONS",
+      "first_name": "ANITA",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "PERSSON",
+      "first_name": "STEFAN",
+      "initials": null,
+      "position": "Koncernchef och VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "WIDHAGEN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,58 @@
+{
+  "company_name": "AKTIEBOLAGET INVESTOR",
+  "fiscal_year": 1917,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 6456706.78,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2000000.0,
+    "depreciation": null,
+    "net_income": 5833744.67
+  },
+  "balance_sheet": {
+    "total_assets": 56529147.34,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 29628736.003333334,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 25355829.78
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "PRINTZSKÖLD",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NACHMANSON",
+      "first_name": "JOSEPH",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGLÖF",
+      "first_name": "ERLAND",
+      "initials": null,
+      "position": "Inkallad suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CEDERSTRÖM",
+      "first_name": "R.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KINNANDER",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

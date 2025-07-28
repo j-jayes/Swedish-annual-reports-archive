@@ -1,0 +1,45 @@
+{
+  "company_name": "Allmänna Telefonaktiebolaget L. M. Ericsson",
+  "fiscal_year": 1925,
+  "income_statement": {
+    "revenue": 4144970.59,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1984595.93,
+    "wages_expense": 1223856.76,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 2042379.68
+  },
+  "balance_sheet": {
+    "total_assets": 87259696.17,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 42830279.59,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 44429416.58
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Flodin",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bolinder",
+      "first_name": null,
+      "initials": "C. A. J.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

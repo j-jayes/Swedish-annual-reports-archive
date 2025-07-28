@@ -1,0 +1,62 @@
+{
+  "company_name": "NESSIMS",
+  "fiscal_year": 1983,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 70.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 13.088333333333333,
+    "depreciation": null,
+    "net_income": 5.247
+  },
+  "balance_sheet": {
+    "total_assets": 54.966,
+    "current_assets": 54.192,
+    "fixed_assets": 774.0,
+    "total_liabilities": 29.794,
+    "current_liabilities": 16.889,
+    "long_term_liabilities": 8.176666666666666,
+    "shareholders_equity": 18.972
+  },
+  "employees": {
+    "n_employees": 86,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "KROOK",
+      "first_name": "EBBE",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "LANGENSKIÖLD",
+      "first_name": "CARL",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "FINNANDER",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "BREHMER",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Kellgren Öhrlings Revisionsbyrå AB"
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": "Kellgren Öhrlings Revisionsbyrå AB"
+    }
+  ]
+}

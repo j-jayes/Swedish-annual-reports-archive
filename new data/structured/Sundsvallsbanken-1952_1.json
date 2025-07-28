@@ -1,0 +1,118 @@
+{
+  "company_name": "SUNDSVALLS ENSKILDA BANK",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 12363372.09,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 4452528.43,
+    "wages_expense": null,
+    "tax_expense": 2600000.0,
+    "depreciation": null,
+    "net_income": 3452843.66
+  },
+  "balance_sheet": {
+    "total_assets": 394595037.19,
+    "current_assets": 38542914.35,
+    "fixed_assets": 3168259.0,
+    "total_liabilities": 346794456.95,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 40000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Velander",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "rådman"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "tekn. dr, vice ordf."
+    },
+    {
+      "surname": "Bæckman",
+      "first_name": "Oscar",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Francke",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ryttmästare, direktör"
+    },
+    {
+      "surname": "Hedlund",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "jur. dr"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Fabian",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Müller",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Mörch",
+      "first_name": "Yngve",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Rogberg",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "assuransdirektör"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "A.",
+      "initials": "G.",
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Winström",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "disponent"
+    },
+    {
+      "surname": "Källqvist",
+      "first_name": "Ola",
+      "initials": null,
+      "position": "bankdirektör, verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergengren",
+      "first_name": "G.",
+      "initials": "G.",
+      "auditing_firm": "major"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": "N.",
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Holmbäck",
+      "first_name": "Bure",
+      "initials": null,
+      "auditing_firm": "direktör, Förordnad av Kungl. Bank- och fondinspektionen"
+    }
+  ],
+  "additional_notes": null
+}

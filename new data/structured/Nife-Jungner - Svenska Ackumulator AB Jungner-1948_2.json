@@ -1,0 +1,80 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1948,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 785974.82
+  },
+  "balance_sheet": {
+    "total_assets": 33066968.26,
+    "current_assets": 13539033.76,
+    "fixed_assets": 8813138.2,
+    "total_liabilities": 17655768.06,
+    "current_liabilities": 3945984.03,
+    "long_term_liabilities": 11872303.34,
+    "shareholders_equity": 15411200.0
+  },
+  "employees": {
+    "n_employees": 2439,
+    "n_blue_collar_workers": 1947,
+    "n_white_collar_workers": 492
+  },
+  "board": [
+    {
+      "surname": "Ingeström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Liljenroth",
+      "first_name": "F",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Modig",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Robert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nelson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nelson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

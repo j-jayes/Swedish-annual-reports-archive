@@ -1,0 +1,128 @@
+{
+  "company_name": "SANDVIKENS JERNVERKS AKTIEBOLAG",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 425.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 30.614886,
+    "net_income": 10.380947
+  },
+  "balance_sheet": {
+    "total_assets": 560.193578,
+    "current_assets": 248.121703,
+    "fixed_assets": 312.071875,
+    "total_liabilities": 388.242182,
+    "current_liabilities": 77.427382,
+    "long_term_liabilities": 173.427148,
+    "shareholders_equity": 171.951396
+  },
+  "employees": {
+    "n_employees": 8986,
+    "n_blue_collar_workers": 6682,
+    "n_white_collar_workers": 2304
+  },
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "STENBECK",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "WÄRN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGLUND",
+      "first_name": "WILHELM",
+      "initials": null,
+      "position": "verkst. dir."
+    },
+    {
+      "surname": "MAGNUSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBLOM",
+      "first_name": "GÖRAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GULDBERG",
+      "first_name": "HARRY",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "CLASON",
+      "first_name": "EDWARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LUNDEBERG",
+      "first_name": "GERARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ERICSSON",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NORDSTRÖM",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HENRIKSON",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "NORDENBÄCK",
+      "first_name": "JAN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MAHLEN",
+      "first_name": "OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "MORLING",
+      "first_name": "P.",
+      "initials": "M",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

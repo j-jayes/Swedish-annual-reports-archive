@@ -1,0 +1,116 @@
+{
+  "company_name": "H & M Hennes & Mauritz AB",
+  "fiscal_year": 2011,
+  "income_statement": {
+    "revenue": 109999.0,
+    "cost_of_goods_sold": 43852.0,
+    "operating_expenses": 45768.0,
+    "wages_expense": null,
+    "tax_expense": 5121.0,
+    "depreciation": 3262.0,
+    "net_income": 15821.0
+  },
+  "balance_sheet": {
+    "total_assets": 60188.0,
+    "current_assets": 39918.0,
+    "fixed_assets": 20270.0,
+    "total_liabilities": 16084.0,
+    "current_liabilities": 14757.0,
+    "long_term_liabilities": 1327.0,
+    "shareholders_equity": 44104.0
+  },
+  "employees": {
+    "n_employees": 94000,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Livfors",
+      "first_name": "Mia Brunell",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Dahlvig",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Knutson",
+      "first_name": "Lottie",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Kvart",
+      "first_name": "Sussi",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Lundquist",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Schörling",
+      "first_name": "Melker",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Sievert",
+      "first_name": "Christian",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "Broman",
+      "first_name": "Marianne",
+      "initials": null,
+      "position": "employee rep."
+    },
+    {
+      "surname": "Welinder",
+      "first_name": "Margareta",
+      "initials": null,
+      "position": "employee rep."
+    },
+    {
+      "surname": "Ramberg",
+      "first_name": "Agneta",
+      "initials": null,
+      "position": "employee rep."
+    },
+    {
+      "surname": "Björstedt",
+      "first_name": "Marie",
+      "initials": null,
+      "position": "deputy employee rep."
+    },
+    {
+      "surname": "Jäderberg",
+      "first_name": "Tina",
+      "initials": null,
+      "position": "deputy employee rep."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Åström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

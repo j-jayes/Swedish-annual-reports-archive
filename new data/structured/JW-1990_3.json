@@ -1,0 +1,116 @@
+{
+  "company_name": "J&W",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": 1614000000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": -31142000.0
+  },
+  "balance_sheet": {
+    "total_assets": 1372406000.0,
+    "current_assets": 488744000.0,
+    "fixed_assets": 825670000.0,
+    "total_liabilities": 446428000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 140476000.0
+  },
+  "employees": {
+    "n_employees": 3877,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "ROOS",
+      "first_name": "FREDRIK",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "IRSTAD",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "LEVIN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "JARL",
+      "initials": null,
+      "position": "vVD"
+    },
+    {
+      "surname": "PAULI",
+      "first_name": "ARNE",
+      "initials": null,
+      "position": "sektionschef"
+    },
+    {
+      "surname": "RYDIN",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Ekonomidirektör"
+    },
+    {
+      "surname": "SANDH",
+      "first_name": "ZERNY",
+      "initials": null,
+      "position": "Koncernchef"
+    },
+    {
+      "surname": "WESTRÖM",
+      "first_name": "ALLAN",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "position": "Civilingenjör"
+    },
+    {
+      "surname": "DAHLKVIST",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "LUNDSTRÖM",
+      "first_name": "LEIF",
+      "initials": null,
+      "position": "Ingenjör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHANSON",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    },
+    {
+      "surname": "AXELSSON",
+      "first_name": "KURT",
+      "initials": null,
+      "auditing_firm": "Öhrlings Reveko AB"
+    }
+  ],
+  "additional_notes": null
+}

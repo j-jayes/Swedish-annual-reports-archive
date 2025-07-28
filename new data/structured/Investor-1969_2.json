@@ -1,0 +1,70 @@
+{
+  "company_name": "INVESTOR",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 28507628.77,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 712931.89,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4774603.29,
+    "net_income": 23020093.59
+  },
+  "balance_sheet": {
+    "total_assets": 148472048.28,
+    "current_assets": 3640248.28,
+    "fixed_assets": 144831800.0,
+    "total_liabilities": 64617950.03,
+    "current_liabilities": 634098.25,
+    "long_term_liabilities": 5442220.0,
+    "shareholders_equity": 83854098.25
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "PETER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEHTJE",
+      "first_name": "WALTER",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "FRISK",
+      "first_name": null,
+      "initials": "N.-A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

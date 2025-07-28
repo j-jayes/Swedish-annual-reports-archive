@@ -1,0 +1,92 @@
+{
+  "company_name": "AB Alfort & Cronholm",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 267.809,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 244.665,
+    "wages_expense": null,
+    "tax_expense": 2.828,
+    "depreciation": 3.849,
+    "net_income": 2.166
+  },
+  "balance_sheet": {
+    "total_assets": 160.332,
+    "current_assets": 114.731,
+    "fixed_assets": 44.186,
+    "total_liabilities": 37.632,
+    "current_liabilities": 55.284,
+    "long_term_liabilities": 37.632,
+    "shareholders_equity": 21.72
+  },
+  "employees": {
+    "n_employees": 863,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "af Klercker",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Krokstedt",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Alfort",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Minten",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Rynell",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wester",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "representant för de anställda"
+    },
+    {
+      "surname": "Aman",
+      "first_name": "Karl",
+      "initials": "E",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergman",
+      "first_name": "Viking",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Rydholm",
+      "first_name": "Per",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

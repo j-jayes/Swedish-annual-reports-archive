@@ -1,0 +1,70 @@
+{
+  "company_name": "HEIMDALL",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": 2472724.02,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 86740.07,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 152206.1
+  },
+  "balance_sheet": {
+    "total_assets": 3341951.56,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1364143.53,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "LAURELL",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ELLSÉN",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GRUNDSTRÖM",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KUYLENSTJERNA",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "AF SILLÉN",
+      "first_name": "J. O.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HAMMARSTRÖM",
+      "first_name": "ALEXIS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DRAKENBERG",
+      "first_name": "JEAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

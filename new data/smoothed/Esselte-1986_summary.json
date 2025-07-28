@@ -1,0 +1,39 @@
+{
+  "company_name": "ESSELTE",
+  "fiscal_year": 1986,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 11251.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 427.0,
+    "net_income": 742.0
+  },
+  "balance_sheet": {
+    "total_assets": 9208.6,
+    "current_assets": 5721.4,
+    "fixed_assets": 3446.2,
+    "total_liabilities": 3247.3,
+    "current_liabilities": 3247.3,
+    "long_term_liabilities": 2162.6,
+    "shareholders_equity": 292.8
+  },
+  "employees": {},
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

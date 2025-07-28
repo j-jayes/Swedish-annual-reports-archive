@@ -1,0 +1,86 @@
+{
+  "company_name": "BILLMAN regulator ab",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 98.763,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 86.887,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1.792,
+    "net_income": 2.01
+  },
+  "balance_sheet": {
+    "total_assets": 97.499,
+    "current_assets": 67.806,
+    "fixed_assets": 29.085,
+    "total_liabilities": 32.932,
+    "current_liabilities": 32.932,
+    "long_term_liabilities": 15.591,
+    "shareholders_equity": 31.928
+  },
+  "employees": {
+    "n_employees": 1355,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Dalén",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Rising",
+      "first_name": "Gustaf",
+      "initials": "A",
+      "position": "v. ordförande"
+    },
+    {
+      "surname": "Billman",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Bodin",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Edström",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "Utter",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ranby",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Thunberg",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

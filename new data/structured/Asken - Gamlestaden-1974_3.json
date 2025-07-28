@@ -1,0 +1,88 @@
+{
+  "company_name": "INVESTMENT AB ASKEN",
+  "fiscal_year": 1974,
+  "income_statement": {
+    "revenue": 9040062.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 365313.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 8552774.0
+  },
+  "balance_sheet": {
+    "total_assets": null,
+    "current_assets": 75661.0,
+    "fixed_assets": 8999000.0,
+    "total_liabilities": 13965777.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 96803854.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Carlsson",
+      "first_name": "Per",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Gyllenhammar",
+      "first_name": "Pehr",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Henrikson",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "President"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Kellgren",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": "Sune Kellgrens Revisionsbyrå AB"
+    },
+    {
+      "surname": "Kjellman",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

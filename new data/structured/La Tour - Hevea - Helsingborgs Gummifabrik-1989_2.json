@@ -1,0 +1,70 @@
+{
+  "company_name": "Latour",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": 2868.759,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8.803,
+    "depreciation": 128.271,
+    "net_income": 86.164
+  },
+  "balance_sheet": {
+    "total_assets": 2423.785,
+    "current_assets": 1028.497,
+    "fixed_assets": 1391.108,
+    "total_liabilities": 1836.703,
+    "current_liabilities": 605.927,
+    "long_term_liabilities": 308.913,
+    "shareholders_equity": 587.082
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlfors",
+      "first_name": "John",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Elisabeth",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ekdahl",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Törnqvist",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

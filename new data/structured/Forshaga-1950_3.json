@@ -1,0 +1,80 @@
+{
+  "company_name": "LINOLEUM-AKTIEBOLAGET FORSHAGA",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 3935236.87,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 405146.95,
+    "net_income": 399614.97
+  },
+  "balance_sheet": {
+    "total_assets": 10624476.36,
+    "current_assets": null,
+    "fixed_assets": 2250467.24,
+    "total_liabilities": null,
+    "current_liabilities": 3811181.17,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5512112.03
+  },
+  "employees": {
+    "n_employees": 366,
+    "n_blue_collar_workers": 273,
+    "n_white_collar_workers": 93
+  },
+  "board": [
+    {
+      "surname": "GRÖNBERG",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "ZOELLY",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BERGGREN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "THORNANDER",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SYPESTEYN",
+      "first_name": null,
+      "initials": "E.",
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "TUNHAMMAR",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "KAΗΜ",
+      "first_name": "GUST.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RYBECK",
+      "first_name": "EBBE",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

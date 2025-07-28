@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET SVERIGES LITOGRAFISKA TRYCKERIER",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 12530247.59,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2533678.0,
+    "depreciation": null,
+    "net_income": 3515918.33
+  },
+  "balance_sheet": {
+    "total_assets": 47166278.35,
+    "current_assets": 11413269.32,
+    "fixed_assets": 25751857.6,
+    "total_liabilities": 11004237.75,
+    "current_liabilities": 6919847.11,
+    "long_term_liabilities": 405032.72,
+    "shareholders_equity": 35528595.82
+  },
+  "employees": {
+    "n_employees": 6610,
+    "n_blue_collar_workers": 4960,
+    "n_white_collar_workers": 1618
+  },
+  "board": [
+    {
+      "surname": "EKEBERG",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BJÖRKMAN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HÄGGLÖF",
+      "first_name": "KJELL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BARRE",
+      "first_name": "BIRGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BRUNDELL",
+      "first_name": null,
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "NORDENFALK",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLÉN",
+      "first_name": "O.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "BIESÈRT",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

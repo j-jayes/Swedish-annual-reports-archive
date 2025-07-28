@@ -1,0 +1,104 @@
+{
+  "company_name": "ABV",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 9703000000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 63700000.0
+  },
+  "balance_sheet": {
+    "total_assets": 6331000000.0,
+    "current_assets": 2877700000.0,
+    "fixed_assets": 798500000.0,
+    "total_liabilities": 2306200000.0,
+    "current_liabilities": 2306200000.0,
+    "long_term_liabilities": 1584100000.0,
+    "shareholders_equity": 318200000.0
+  },
+  "employees": {
+    "n_employees": 12114,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "WAHLSTRÖM",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "LINDEROTH",
+      "first_name": "KARL-AXEL",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "GYLL",
+      "first_name": "SÖREN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": "Direktör i ABV"
+    },
+    {
+      "surname": "ÖNNESJÖ",
+      "first_name": "KARL",
+      "initials": "ERIK",
+      "position": "Disponent, styrelseordförande i Holmens Bruk AB"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "GÖTE",
+      "initials": null,
+      "position": "Arbetstagarledamot PTK, ingenjör"
+    },
+    {
+      "surname": "PETTERSSON",
+      "first_name": "KARL-AXEL",
+      "initials": null,
+      "position": "Arbetstagarledamot Svenska Byggnadsarbetareförbundet, byggnadsarbetare"
+    },
+    {
+      "surname": "DALBORG",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Verkställande direktör i Skandia International Holding AB och Skandia International Insurance Corporation"
+    },
+    {
+      "surname": "DAUN",
+      "first_name": "STELLAN",
+      "initials": null,
+      "position": "Fd VD i Rederi AB Transocean"
+    },
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ÅKE",
+      "initials": null,
+      "position": "Koncernchef och verkställande direktör i ABV"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "OLSSON",
+      "first_name": "BERTIL",
+      "initials": "E",
+      "auditing_firm": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "LENNART",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

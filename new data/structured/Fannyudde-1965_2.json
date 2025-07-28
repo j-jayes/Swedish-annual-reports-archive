@@ -1,0 +1,104 @@
+{
+  "company_name": "AKTIEBOLAGET FANNYUDDE",
+  "fiscal_year": 1965,
+  "income_statement": {
+    "revenue": 5803501.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 50000.0,
+    "depreciation": null,
+    "net_income": 3650000.0
+  },
+  "balance_sheet": {
+    "total_assets": 61938383.0,
+    "current_assets": 2576163.0,
+    "fixed_assets": 59362220.0,
+    "total_liabilities": null,
+    "current_liabilities": 63383.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 61875000.0
+  },
+  "employees": {
+    "n_employees": 1,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hellstenius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sch\nrle",
+      "first_name": "Sune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "C. A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holmgren",
+      "first_name": "Bj\nrn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "St\nrle",
+      "first_name": "Nils K.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jacobson",
+      "first_name": null,
+      "initials": "C. H.",
+      "position": null
+    },
+    {
+      "surname": "S\nderinan",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": null
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bendel",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Schr\nder",
+      "first_name": "Sture",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Dubois",
+      "first_name": "H.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Erikson",
+      "first_name": "Arvid",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

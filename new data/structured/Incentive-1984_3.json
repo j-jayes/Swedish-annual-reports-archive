@@ -1,0 +1,98 @@
+{
+  "company_name": "Incentive",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 6167.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 5544.4,
+    "wages_expense": null,
+    "tax_expense": 85.4,
+    "depreciation": null,
+    "net_income": 61.7
+  },
+  "balance_sheet": {
+    "total_assets": 4890.7,
+    "current_assets": 3450.4,
+    "fixed_assets": 1362.0,
+    "total_liabilities": 2121.0,
+    "current_liabilities": null,
+    "long_term_liabilities": 1367.0,
+    "shareholders_equity": 795.1
+  },
+  "employees": {
+    "n_employees": 10900,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Cavalli-Björkman",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Brundin",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Bertram",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Assar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Gezelius",
+      "first_name": "Hans",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

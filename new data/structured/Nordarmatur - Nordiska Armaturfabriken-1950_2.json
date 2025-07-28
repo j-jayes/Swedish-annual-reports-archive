@@ -1,0 +1,86 @@
+{
+  "company_name": "Aktiebolaget Nordiska Armaturfabrikerna",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 3408425.47,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 630000.0,
+    "depreciation": 1227819.0,
+    "net_income": 637054.59
+  },
+  "balance_sheet": {
+    "total_assets": 16249915.38,
+    "current_assets": 8244401.3,
+    "fixed_assets": 7170004.0,
+    "total_liabilities": 6803874.97,
+    "current_liabilities": 7790874.97,
+    "long_term_liabilities": 1985000.0,
+    "shareholders_equity": 9446040.41
+  },
+  "employees": {
+    "n_employees": 1323,
+    "n_blue_collar_workers": 925,
+    "n_white_collar_workers": 398
+  },
+  "board": [
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlander",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": "B.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "Åge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rothlind",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "verkställande direktören"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hagström",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Berlin",
+      "first_name": "H",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

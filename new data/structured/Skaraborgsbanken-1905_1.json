@@ -1,0 +1,76 @@
+{
+  "company_name": "SKARABORGS ENSKILDA BANK.",
+  "fiscal_year": 1905,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 477907.74
+  },
+  "balance_sheet": {
+    "total_assets": 39869834.3,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 37591689.2,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2278145.1
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Follin",
+      "first_name": "C",
+      "initials": null,
+      "position": "Öfverste"
+    },
+    {
+      "surname": "Hedenstierna",
+      "first_name": "E",
+      "initials": null,
+      "position": "Borgmästare"
+    },
+    {
+      "surname": "Brodén",
+      "first_name": "J",
+      "initials": null,
+      "position": "Bankdirektör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lundell",
+      "first_name": "Ernst",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Zweigbergk",
+      "first_name": "Gust.",
+      "initials": "v.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fock",
+      "first_name": "E.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wahlenius",
+      "first_name": "G.",
+      "initials": "W:m",
+      "auditing_firm": "För Stockholms- och Hufvudkontoret."
+    },
+    {
+      "surname": "Rohde",
+      "first_name": "M.",
+      "initials": "F.",
+      "auditing_firm": "Af K. M:ts Befallningsh. förordnad revisor."
+    }
+  ],
+  "additional_notes": null
+}

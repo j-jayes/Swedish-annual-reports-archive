@@ -1,0 +1,104 @@
+{
+  "company_name": "Tarkett ab",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 139.993,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 2.581,
+    "depreciation": null,
+    "net_income": 4.258
+  },
+  "balance_sheet": {
+    "total_assets": 87.467,
+    "current_assets": 48.239,
+    "fixed_assets": 39.228,
+    "total_liabilities": null,
+    "current_liabilities": 23.892,
+    "long_term_liabilities": 27.531,
+    "shareholders_equity": 29.844
+  },
+  "employees": {
+    "n_employees": 1424,
+    "n_blue_collar_workers": 1082,
+    "n_white_collar_workers": 342
+  },
+  "board": [
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Dahlgren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Wehtje",
+      "first_name": "Urban",
+      "initials": null,
+      "position": "civilingenjör, verkställande direktör"
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "direktör, vice verkställande direktör"
+    },
+    {
+      "surname": "Arp",
+      "first_name": "Jochum",
+      "initials": null,
+      "position": "civilingenjör, Suppleant"
+    },
+    {
+      "surname": "Schauman",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "position": "direktör, Suppleant"
+    },
+    {
+      "surname": "Senn",
+      "first_name": "Willi",
+      "initials": null,
+      "position": "överingenjör, Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brantberg",
+      "first_name": "Inge",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Bramsved",
+      "first_name": "Hans-Ove",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Hultén",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "aukt. revisor, Suppleant"
+    },
+    {
+      "surname": "Wetterlöf",
+      "first_name": "Bengt-Åke",
+      "initials": null,
+      "auditing_firm": "aukt. revisor, Suppleant"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1994,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 108004.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 0.0,
+    "wages_expense": null,
+    "tax_expense": -475.0,
+    "depreciation": -4214.0,
+    "net_income": 4830.0
+  },
+  "balance_sheet": {
+    "total_assets": 84183.0,
+    "current_assets": 55700.0,
+    "fixed_assets": 28467.0,
+    "total_liabilities": 35963.0,
+    "current_liabilities": 21498.5,
+    "long_term_liabilities": 27225.0,
+    "shareholders_equity": 20465.0
+  },
+  "employees": {
+    "n_employees": 109470,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Chairman of the Board"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Sven",
+      "initials": "Å",
+      "position": null
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Elfving",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V",
+      "position": null
+    },
+    {
+      "surname": "Löwenhielm",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": "President and CEO"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ]
+}

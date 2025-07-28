@@ -1,0 +1,104 @@
+{
+  "company_name": "Svenska Ackumulator Aktiebolaget Jungner",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 93.422,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 7.641
+  },
+  "balance_sheet": {
+    "total_assets": 136.0,
+    "current_assets": 65.67,
+    "fixed_assets": 49.201,
+    "total_liabilities": 61.774,
+    "current_liabilities": 20.667,
+    "long_term_liabilities": 42.856,
+    "shareholders_equity": 61.774
+  },
+  "employees": {
+    "n_employees": 1500,
+    "n_blue_collar_workers": 442,
+    "n_white_collar_workers": 269
+  },
+  "board": [
+    {
+      "surname": "Wehtje",
+      "first_name": "Walter",
+      "initials": null,
+      "position": "Direktör, ordförande"
+    },
+    {
+      "surname": "Anderberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Viceamiral"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "Greve"
+    },
+    {
+      "surname": "Piehl",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Örtegren",
+      "first_name": "Tage",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Karl",
+      "initials": "R",
+      "position": "Civilingenjör, verkst. direktör"
+    },
+    {
+      "surname": "Henriques",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Wieslander",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Direktör, vice verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Nelson",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Berlin",
+      "first_name": "Knut",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Archibald",
+      "initials": "A",
+      "auditing_firm": "Greve"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET HUFVUDSTADEN",
+  "fiscal_year": 1957,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7640123.34,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1834308.0,
+    "depreciation": 746310.0,
+    "net_income": 1452018.81
+  },
+  "balance_sheet": {
+    "total_assets": 68160445.9,
+    "current_assets": 6336600.06,
+    "fixed_assets": 64499835.28,
+    "total_liabilities": 47421344.07,
+    "current_liabilities": 2744846.62,
+    "long_term_liabilities": 44676497.45,
+    "shareholders_equity": 27075701.89
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "Nothin",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Herslow",
+      "first_name": null,
+      "initials": "E. C:son",
+      "position": null
+    },
+    {
+      "surname": "Ahrén",
+      "first_name": null,
+      "initials": "F.",
+      "position": null
+    },
+    {
+      "surname": "Wibom",
+      "first_name": "Tor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Tjus",
+      "first_name": "Fritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cederberg",
+      "first_name": "Niklas",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

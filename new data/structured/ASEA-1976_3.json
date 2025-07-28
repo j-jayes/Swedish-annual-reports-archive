@@ -1,0 +1,134 @@
+{
+  "company_name": "ASEA AB",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 8400.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7368.0,
+    "wages_expense": null,
+    "tax_expense": 137.0,
+    "depreciation": null,
+    "net_income": 156.0
+  },
+  "balance_sheet": {
+    "total_assets": 12137.0,
+    "current_assets": 4764.0,
+    "fixed_assets": 3225.0,
+    "total_liabilities": 10291.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1846.0
+  },
+  "employees": {
+    "n_employees": 44194,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": 18936
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "Herr",
+      "initials": null,
+      "position": "Hedersordförande"
+    },
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "\\\"",
+      "initials": "Åke T.",
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Aas",
+      "first_name": "Erich",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Ledamot"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Alde",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Karl Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gabrielson",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Disponent"
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Tekn dr"
+    }
+  ],
+  "additional_notes": null
+}

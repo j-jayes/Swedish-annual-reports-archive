@@ -1,0 +1,92 @@
+{
+  "company_name": "BAHCO",
+  "fiscal_year": 1964,
+  "income_statement": {
+    "revenue": 16192.243,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3095.501
+  },
+  "balance_sheet": {
+    "total_assets": 211837.505,
+    "current_assets": 152560.013,
+    "fixed_assets": 59277.492,
+    "total_liabilities": 74099.266,
+    "current_liabilities": 69395.288,
+    "long_term_liabilities": 22140.0,
+    "shareholders_equity": 45000.0
+  },
+  "employees": {
+    "n_employees": 3430,
+    "n_blue_collar_workers": 2065,
+    "n_white_collar_workers": 1330
+  },
+  "board": [
+    {
+      "surname": "Tunhammar",
+      "first_name": null,
+      "initials": "E.",
+      "position": "Verkst. dir."
+    },
+    {
+      "surname": "Pihlgren",
+      "first_name": "\"\n\nÅke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dahlberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Odelfelt",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Sterky",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Engellau",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Forssius",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Styren",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

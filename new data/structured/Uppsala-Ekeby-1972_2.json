@@ -1,0 +1,122 @@
+{
+  "company_name": "Upsala-Ekebykoncernen",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 90.616,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 3.2,
+    "net_income": 0.823
+  },
+  "balance_sheet": {
+    "total_assets": 79.039,
+    "current_assets": 60.862,
+    "fixed_assets": 18.077,
+    "total_liabilities": 51.392,
+    "current_liabilities": 10.6,
+    "long_term_liabilities": 23.606,
+    "shareholders_equity": 27.647
+  },
+  "employees": {
+    "n_employees": 1103,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sterner",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Söderman",
+      "first_name": null,
+      "initials": "H. W.",
+      "position": "v. ordf."
+    },
+    {
+      "surname": "von Bahr",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": null,
+      "initials": "C. G.",
+      "position": null
+    },
+    {
+      "surname": "Wetter",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sunne",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammerlund",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "VD"
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Götdahl",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Andreasson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Henningson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Alexanderson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Häradshövding"
+    },
+    {
+      "surname": "Skarp",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Strandberg",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Disponent"
+    }
+  ],
+  "additional_notes": null
+}

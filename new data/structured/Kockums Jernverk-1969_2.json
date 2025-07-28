@@ -1,0 +1,76 @@
+{
+  "company_name": "KOCKUMS JERNVERKSAKTIEBOLAG",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 118.253,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 112.751,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4.631,
+    "net_income": 625.533
+  },
+  "balance_sheet": {
+    "total_assets": 82.332,
+    "current_assets": 48.943,
+    "fixed_assets": 32.332,
+    "total_liabilities": 35.878,
+    "current_liabilities": 22.326,
+    "long_term_liabilities": 14.18,
+    "shareholders_equity": 19.079
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "KOCKUM",
+      "first_name": "GOTTFRIED",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BELFRAGE",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "FREDHOLM",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KOCKUM",
+      "first_name": "LARS",
+      "initials": null,
+      "position": "verkst direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "MÅNSSON",
+      "first_name": "EMIL",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "KOCKUM",
+      "first_name": "GOTTFRIED",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LÖFGREN",
+      "first_name": "SIGURD",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

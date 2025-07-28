@@ -1,0 +1,92 @@
+{
+  "company_name": "SVENSKA ACKUMULATOR AKTIEBOLAGET JUNGNER",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": 4046920.46,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 590000.0,
+    "depreciation": 898769.56,
+    "net_income": 784805.05
+  },
+  "balance_sheet": {
+    "total_assets": 31778294.26,
+    "current_assets": 21161797.2,
+    "fixed_assets": 9139797.2,
+    "total_liabilities": 14627200.0,
+    "current_liabilities": 3532312.96,
+    "long_term_liabilities": 11866869.23,
+    "shareholders_equity": 10077200.0
+  },
+  "employees": {
+    "n_employees": 2388,
+    "n_blue_collar_workers": 1910,
+    "n_white_collar_workers": 478
+  },
+  "board": [
+    {
+      "surname": "Sparre",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "general- löjtnanten friherre"
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Carl",
+      "initials": "H.",
+      "position": "direktören"
+    },
+    {
+      "surname": "Ingeström",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Liljenroth",
+      "first_name": null,
+      "initials": "F. G.",
+      "position": null
+    },
+    {
+      "surname": "Ameln",
+      "first_name": "Robert",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jung",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nelson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "Harry",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

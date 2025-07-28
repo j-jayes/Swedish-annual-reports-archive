@@ -1,0 +1,80 @@
+{
+  "company_name": "AB MALCUS HOLMQUIST",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 3043595.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1129959.0,
+    "net_income": 1333726.0
+  },
+  "balance_sheet": {
+    "total_assets": 27386985.0,
+    "current_assets": 9943337.0,
+    "fixed_assets": 8907714.0,
+    "total_liabilities": 9923115.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 13434000.0
+  },
+  "employees": {
+    "n_employees": 916,
+    "n_blue_collar_workers": 625,
+    "n_white_collar_workers": 291
+  },
+  "board": [
+    {
+      "surname": "Danielsen",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Wahlsteen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Hovmarskalk\nKommendörkapten"
+    },
+    {
+      "surname": "Engfors",
+      "first_name": "Göte",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Ljung",
+      "first_name": "Göran",
+      "initials": null,
+      "position": "Jur. kand."
+    },
+    {
+      "surname": "Berger",
+      "first_name": null,
+      "initials": "C. M.",
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    },
+    {
+      "surname": "Rönnberg",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "Ford Motor Company A/B",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 149000000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1531554.0,
+    "depreciation": 604175.0,
+    "net_income": 1565267.0
+  },
+  "balance_sheet": {
+    "total_assets": 42126305.0,
+    "current_assets": 33842539.0,
+    "fixed_assets": 8283766.0,
+    "total_liabilities": 16291184.0,
+    "current_liabilities": 13941184.0,
+    "long_term_liabilities": 2350000.0,
+    "shareholders_equity": 25835121.0
+  },
+  "employees": {
+    "n_employees": 618,
+    "n_blue_collar_workers": 349,
+    "n_white_collar_workers": 269
+  },
+  "board": [
+    {
+      "surname": "HEIDENSTAM",
+      "first_name": "ROLF VON",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "FORD",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "EINAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": "NILS",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "BORLIND",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MCKEE",
+      "first_name": "WALTER",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "BRÖNDUM",
+      "first_name": "OTTO",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SILLÉN",
+      "first_name": "OSKAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "DICKINSON",
+      "first_name": "JOHN",
+      "initials": "C",
+      "auditing_firm": "Price Waterhouse & Co."
+    }
+  ],
+  "additional_notes": null
+}

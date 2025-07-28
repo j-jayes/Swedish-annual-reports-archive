@@ -1,0 +1,92 @@
+{
+  "company_name": "ASEA AB",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 9718.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8851.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 393.0,
+    "net_income": 185.0
+  },
+  "balance_sheet": {
+    "total_assets": 13609.0,
+    "current_assets": 5574.0,
+    "fixed_assets": 3635.0,
+    "total_liabilities": 6653.0,
+    "current_liabilities": 2303.0,
+    "long_term_liabilities": 3251.0,
+    "shareholders_equity": 1992.0
+  },
+  "employees": {
+    "n_employees": 43233,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Vrethem",
+      "first_name": "Åke",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Regelius",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Gabrielson",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

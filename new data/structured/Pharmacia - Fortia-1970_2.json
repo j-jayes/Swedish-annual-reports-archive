@@ -1,0 +1,86 @@
+{
+  "company_name": "FORTIA",
+  "fiscal_year": 1970,
+  "income_statement": {
+    "revenue": 467.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 446.4,
+    "wages_expense": 65.5,
+    "tax_expense": 9.4,
+    "depreciation": null,
+    "net_income": 10.4
+  },
+  "balance_sheet": {
+    "total_assets": 238.5,
+    "current_assets": 157.6,
+    "fixed_assets": 78.8,
+    "total_liabilities": 78.7,
+    "current_liabilities": 69.2,
+    "long_term_liabilities": 8.6,
+    "shareholders_equity": 48.4
+  },
+  "employees": {
+    "n_employees": 1974,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindblad",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Göth",
+      "first_name": "H.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomstedt",
+      "first_name": "Carl",
+      "initials": "R.",
+      "position": null
+    },
+    {
+      "surname": "Skånsberg",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ingelmark",
+      "first_name": "Bo",
+      "initials": "Eric",
+      "position": null
+    },
+    {
+      "surname": "Lundberg",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Malmsten",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "vise verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hultgren",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Karlgren",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

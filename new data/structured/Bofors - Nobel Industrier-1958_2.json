@@ -1,0 +1,88 @@
+{
+  "company_name": "Aktiebolaget Bofors",
+  "fiscal_year": 1958,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 8915000.0,
+    "depreciation": 25692000.0,
+    "net_income": 8432000.0
+  },
+  "balance_sheet": {
+    "total_assets": 476159000.0,
+    "current_assets": 101264000.0,
+    "fixed_assets": 179127000.0,
+    "total_liabilities": 252821000.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 121090000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "Evert",
+      "initials": "W.",
+      "position": "f. Bruksdisponent"
+    },
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre",
+      "initials": "R:son",
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Wahlsteen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "Direktör, Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Boblin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Strömbäck",
+      "first_name": "Helge",
+      "initials": null,
+      "auditing_firm": "Viceamiral"
+    }
+  ],
+  "additional_notes": null
+}

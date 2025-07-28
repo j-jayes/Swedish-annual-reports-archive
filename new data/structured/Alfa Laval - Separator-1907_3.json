@@ -1,0 +1,76 @@
+{
+  "company_name": "AKTIEBOLAGET SEPARATOR",
+  "fiscal_year": 1907,
+  "income_statement": {
+    "revenue": 6250700.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3355348.88
+  },
+  "balance_sheet": {
+    "total_assets": 25911852.26,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Åkerhielm",
+      "first_name": "L.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "de Laval",
+      "first_name": "Gustaf",
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Jansson",
+      "first_name": "Carl",
+      "initials": "C.",
+      "position": null
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Arthur",
+      "initials": "A.",
+      "position": null
+    },
+    {
+      "surname": "Bernström",
+      "first_name": "John",
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Bernström",
+      "first_name": null,
+      "initials": "R.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Schubert",
+      "first_name": "Robert",
+      "initials": "C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Burén",
+      "first_name": "Axel",
+      "initials": "A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

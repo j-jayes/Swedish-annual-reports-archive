@@ -1,0 +1,58 @@
+{
+  "company_name": "STOCKHOLMS TRANSPORT- OCH BOGSERINGS-AKTIEBOLAG",
+  "fiscal_year": 1901,
+  "income_statement": {
+    "revenue": 603117.84,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 584398.33,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 40416.9
+  },
+  "balance_sheet": {
+    "total_assets": 1678786.08,
+    "current_assets": null,
+    "fixed_assets": 1114549.63,
+    "total_liabilities": 1080304.3,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 553538.05
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Heijkenskjöld",
+      "first_name": null,
+      "initials": "S. L.",
+      "position": null
+    },
+    {
+      "surname": "Söderström",
+      "first_name": null,
+      "initials": "A. F.",
+      "position": null
+    },
+    {
+      "surname": "Förselius",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Dahlström",
+      "first_name": "Theodor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lübeck",
+      "first_name": "Edv:d",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

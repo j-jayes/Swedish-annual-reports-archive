@@ -1,0 +1,86 @@
+{
+  "company_name": "Fastighetsaktiebolaget Drott",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 24124.683,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 12870.803,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1288.889,
+    "net_income": 3176.186
+  },
+  "balance_sheet": {
+    "total_assets": 98470.157,
+    "current_assets": 16041.906,
+    "fixed_assets": 82428.251,
+    "total_liabilities": 51220.373,
+    "current_liabilities": 5513.125,
+    "long_term_liabilities": 45713.248,
+    "shareholders_equity": 47249.784
+  },
+  "employees": {
+    "n_employees": 21,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Ulvskog",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Alexandersson",
+      "first_name": "Harald",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Carleson",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "finanschef"
+    },
+    {
+      "surname": "Haak",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Tengbom",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "arkitekt"
+    },
+    {
+      "surname": "Forss",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "ekonomichef"
+    },
+    {
+      "surname": "Hemstad",
+      "first_name": "Tord",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ehlde",
+      "first_name": "Karl",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Fridman",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

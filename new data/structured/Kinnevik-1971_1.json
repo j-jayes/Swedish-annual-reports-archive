@@ -1,0 +1,80 @@
+{
+  "company_name": "Klippans Finpappersbruk",
+  "fiscal_year": 1972,
+  "income_statement": {
+    "revenue": 361.827,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 336.836,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 21.8,
+    "net_income": 9.871
+  },
+  "balance_sheet": {
+    "total_assets": 277.181,
+    "current_assets": 155.447,
+    "fixed_assets": 121.319,
+    "total_liabilities": 202.607,
+    "current_liabilities": 59.203,
+    "long_term_liabilities": 111.094,
+    "shareholders_equity": 74.574
+  },
+  "employees": {
+    "n_employees": 3189,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Herslow",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Blennow",
+      "first_name": "Ingemar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Crafoord",
+      "first_name": "Holger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hellestam",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Porat",
+      "first_name": "Stig",
+      "initials": "von",
+      "position": "VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Larsson",
+      "first_name": "Tage",
+      "initials": null,
+      "auditing_firm": "Försäkringsdirektör"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ],
+  "additional_notes": null
+}

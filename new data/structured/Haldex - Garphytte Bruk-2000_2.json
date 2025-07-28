@@ -1,0 +1,92 @@
+{
+  "company_name": "Haldex",
+  "fiscal_year": 2000,
+  "income_statement": {
+    "revenue": 6194.0,
+    "cost_of_goods_sold": 4555.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 93.0,
+    "depreciation": null,
+    "net_income": 177.0
+  },
+  "balance_sheet": {
+    "total_assets": 4005.0,
+    "current_assets": null,
+    "fixed_assets": 1931.0,
+    "total_liabilities": 2360.0,
+    "current_liabilities": 924.0,
+    "long_term_liabilities": 1131.0,
+    "shareholders_equity": 1645.0
+  },
+  "employees": {
+    "n_employees": 4210,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Kylberg",
+      "first_name": "Lars",
+      "initials": "V",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Palmgren",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": "VD I BIL Sweden"
+    },
+    {
+      "surname": "Cederlund",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rogersson",
+      "first_name": "Leif",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Blomberg",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Vieweg",
+      "first_name": "Cecilia",
+      "initials": null,
+      "position": "Chef"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Warnander",
+      "first_name": "Claes",
+      "initials": null,
+      "position": "VD i Haldex AB"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    },
+    {
+      "surname": "Fernström",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Ernst & Young"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "company_name": "AB IGGESUNDS BRUK",
+  "fiscal_year": 1976,
+  "income_statement": {
+    "revenue": 1274.4,
+    "cost_of_goods_sold": 731.743,
+    "operating_expenses": 14.112,
+    "wages_expense": 266.044,
+    "tax_expense": 12.5,
+    "depreciation": 53.8,
+    "net_income": 18.5
+  },
+  "balance_sheet": {
+    "total_assets": 566.572,
+    "current_assets": 320.985,
+    "fixed_assets": 238.483,
+    "total_liabilities": 291.148,
+    "current_liabilities": 106.933,
+    "long_term_liabilities": 82.477,
+    "shareholders_equity": 245.0
+  },
+  "employees": {
+    "n_employees": 3377,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Direktör, ordf."
+    },
+    {
+      "surname": "Henrikson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": "Direktör, v. ordf."
+    },
+    {
+      "surname": "Robbert",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Stahle",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G",
+      "position": "Disponent"
+    },
+    {
+      "surname": "Brönnhagen",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Lab.chef"
+    },
+    {
+      "surname": "Frohm",
+      "first_name": "Ivar",
+      "initials": null,
+      "position": "Elektriker"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bexelius",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Elvstad",
+      "first_name": "Lars",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

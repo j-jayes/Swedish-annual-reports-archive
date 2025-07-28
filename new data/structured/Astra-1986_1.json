@@ -1,0 +1,98 @@
+{
+  "company_name": "ASTRA",
+  "fiscal_year": 1986,
+  "income_statement": {
+    "revenue": 4960.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -428.6,
+    "depreciation": null,
+    "net_income": 483.4
+  },
+  "balance_sheet": {
+    "total_assets": 6319.4,
+    "current_assets": 3945.4,
+    "fixed_assets": 2006.9,
+    "total_liabilities": 4458.9,
+    "current_liabilities": 1644.5,
+    "long_term_liabilities": 1334.9,
+    "shareholders_equity": 913.6
+  },
+  "employees": {
+    "n_employees": 6768,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": "Styrelsens ordförande"
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "BERGSTRÖM",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DAHLBÄCK",
+      "first_name": "CLAES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGSTRÖM",
+      "first_name": "TONY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "RINGKVIST",
+      "first_name": "CHARLES",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TILLANDER",
+      "first_name": "BARBRO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIDENGREN",
+      "first_name": "ULF",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "JOHANSSON",
+      "first_name": "SVEN-ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

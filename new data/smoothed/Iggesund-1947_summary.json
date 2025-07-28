@@ -1,0 +1,80 @@
+{
+  "company_name": "Aktiebolaget Iggesunds Bruk",
+  "fiscal_year": 1947,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 10075156.21,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 5476698.96,
+    "depreciation": 4460558.64,
+    "net_income": 4290922.62
+  },
+  "balance_sheet": {
+    "total_assets": 61744777.8,
+    "current_assets": 41771794.39333334,
+    "fixed_assets": 15538537.406666666,
+    "total_liabilities": 16556685.986666666,
+    "current_liabilities": 11517259.42,
+    "long_term_liabilities": 5119264.84,
+    "shareholders_equity": 45188091.81333333
+  },
+  "employees": {
+    "n_employees": 2788,
+    "n_blue_collar_workers": 2060,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Trygger",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bexelius",
+      "first_name": null,
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jelf",
+      "first_name": "Oscar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nyberg",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

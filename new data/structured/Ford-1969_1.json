@@ -1,0 +1,92 @@
+{
+  "company_name": "Ford Motor Company AB",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 268132018.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 614023.0,
+    "net_income": 1102000.0
+  },
+  "balance_sheet": {
+    "total_assets": 88716746.0,
+    "current_assets": 77783709.0,
+    "fixed_assets": 10933037.0,
+    "total_liabilities": null,
+    "current_liabilities": 53045746.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 35671000.0
+  },
+  "employees": {
+    "n_employees": 358,
+    "n_blue_collar_workers": 128,
+    "n_white_collar_workers": 230
+  },
+  "board": [
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Ordförande-Chairman"
+    },
+    {
+      "surname": "BERCER",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MOLINA",
+      "first_name": "EDGAR",
+      "initials": "R",
+      "position": null
+    },
+    {
+      "surname": "STAHLE",
+      "first_name": "NILS",
+      "initials": "K",
+      "position": null
+    },
+    {
+      "surname": "LINTON",
+      "first_name": "STELLAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BAUM",
+      "first_name": "HOWARD",
+      "initials": "P",
+      "position": null
+    },
+    {
+      "surname": "KEMP",
+      "first_name": "JOHN",
+      "initials": "S",
+      "position": null
+    },
+    {
+      "surname": "BATES",
+      "first_name": "ROBERT",
+      "initials": "E",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ohrling",
+      "first_name": "PO",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Witt",
+      "first_name": "Carl",
+      "initials": "H",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

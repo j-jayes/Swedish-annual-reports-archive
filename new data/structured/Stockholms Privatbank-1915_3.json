@@ -1,0 +1,76 @@
+{
+  "company_name": "STOCKHOLMS PRIVATBANK A.-B.",
+  "fiscal_year": 1915,
+  "income_statement": {
+    "revenue": 171118.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 71218.05
+  },
+  "balance_sheet": {
+    "total_assets": 5797950.36,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 4650280.67,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1147669.69
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Rudberg",
+      "first_name": null,
+      "initials": "J.",
+      "position": null
+    },
+    {
+      "surname": "Wahlberg",
+      "first_name": null,
+      "initials": "F. R.",
+      "position": null
+    },
+    {
+      "surname": "Söderström",
+      "first_name": null,
+      "initials": "A. F.",
+      "position": null
+    },
+    {
+      "surname": "Wahlberg",
+      "first_name": null,
+      "initials": "F. G.",
+      "position": null
+    },
+    {
+      "surname": "Palmquist",
+      "first_name": "Hugo",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rudberg",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Mankell",
+      "first_name": "Julius",
+      "initials": "A.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hallgren",
+      "first_name": "Eric",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

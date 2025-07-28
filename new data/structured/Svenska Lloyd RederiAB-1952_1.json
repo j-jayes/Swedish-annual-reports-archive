@@ -1,0 +1,104 @@
+{
+  "company_name": "SVENSKA LLOYD",
+  "fiscal_year": 1952,
+  "income_statement": {
+    "revenue": 20355474.86,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 10425406.4,
+    "tax_expense": 1475000.0,
+    "depreciation": 6267903.27,
+    "net_income": 1492960.09
+  },
+  "balance_sheet": {
+    "total_assets": 61910820.01,
+    "current_assets": 19349980.13,
+    "fixed_assets": 42560839.88,
+    "total_liabilities": 30609526.33,
+    "current_liabilities": 4709347.45,
+    "long_term_liabilities": 2019698.0,
+    "shareholders_equity": 31301293.68
+  },
+  "employees": {
+    "n_employees": 1399,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LUNDBERG",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WEIBULL",
+      "first_name": "CURT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PETTERSON",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HYGRELL",
+      "first_name": "ERIC A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K. R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CHRISTOFFERSEN",
+      "first_name": "T.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HOOGLAND",
+      "first_name": "HERMAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HYGRELL",
+      "first_name": "ERIC A.",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HOOGLAND",
+      "first_name": "HERMAN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

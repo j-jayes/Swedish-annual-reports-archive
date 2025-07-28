@@ -1,0 +1,122 @@
+{
+  "company_name": "Försäkringsaktiebolaget Atlantica",
+  "fiscal_year": 1979,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 97.694,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 46.668,
+    "wages_expense": null,
+    "tax_expense": 1.967,
+    "depreciation": null,
+    "net_income": 1.4458333333333333
+  },
+  "balance_sheet": {
+    "total_assets": 286.548684,
+    "current_assets": null,
+    "fixed_assets": 2.60462,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 11.939373666666667
+  },
+  "employees": {
+    "n_employees": 47,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Kihlbom",
+      "first_name": "Niklas",
+      "initials": null,
+      "position": "arbetande ordförande"
+    },
+    {
+      "surname": "Carlsson",
+      "first_name": "Peter",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lydén",
+      "first_name": "Birger",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Stenbeck",
+      "first_name": "Jan",
+      "initials": "H.",
+      "position": null
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sydow",
+      "first_name": "Kristian",
+      "initials": null,
+      "position": "von"
+    },
+    {
+      "surname": "Montgomery",
+      "first_name": "John-Gabriel",
+      "initials": null,
+      "position": "vald av bolagets\nförsäkringstagare"
+    },
+    {
+      "surname": "Bengtsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "förordnad av regeringen"
+    },
+    {
+      "surname": "Wallin",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Wengefelt",
+      "first_name": "Carl-Axel",
+      "initials": null,
+      "position": "arbetstagarrepresentant"
+    },
+    {
+      "surname": "Danielsson",
+      "first_name": "Nils-Yngve",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Crafoord",
+      "first_name": "Leif",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Gösta",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Jonasson",
+      "first_name": "Evert",
+      "initials": null,
+      "auditing_firm": "aukt. revisor, förordnad\nav Försäkringsinspektionen"
+    }
+  ]
+}

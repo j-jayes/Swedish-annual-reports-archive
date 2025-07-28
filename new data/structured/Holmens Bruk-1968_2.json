@@ -1,0 +1,80 @@
+{
+  "company_name": "HOLMENS BRUK",
+  "fiscal_year": 1968,
+  "income_statement": {
+    "revenue": 477.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 33.7,
+    "net_income": 9.983
+  },
+  "balance_sheet": {
+    "total_assets": 478.81,
+    "current_assets": 212.296,
+    "fixed_assets": 261.884,
+    "total_liabilities": 315.631,
+    "current_liabilities": 161.429,
+    "long_term_liabilities": 163.549,
+    "shareholders_equity": 163.179
+  },
+  "employees": {
+    "n_employees": 4209,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Boheman",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Talman"
+    },
+    {
+      "surname": "Holm",
+      "first_name": "Tryggve",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Sundblad",
+      "first_name": "Lars",
+      "initials": "G.",
+      "position": "Disponent"
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Önnesjö",
+      "first_name": "Karl",
+      "initials": "Erik",
+      "position": "Disponent, verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Cassel",
+      "first_name": "Öiar",
+      "initials": null,
+      "auditing_firm": "Aukt.revisor"
+    },
+    {
+      "surname": "Kark",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Bankdirektör"
+    }
+  ],
+  "additional_notes": null
+}

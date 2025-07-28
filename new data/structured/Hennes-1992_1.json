@@ -1,0 +1,116 @@
+{
+  "company_name": "H & M Hennes & Mauritz AB",
+  "fiscal_year": 1992,
+  "income_statement": {
+    "revenue": 9537.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7037.0,
+    "wages_expense": null,
+    "tax_expense": 352.5,
+    "depreciation": null,
+    "net_income": 651.5
+  },
+  "balance_sheet": {
+    "total_assets": 3706.3,
+    "current_assets": 3070.7,
+    "fixed_assets": 631.1,
+    "total_liabilities": 1222.8,
+    "current_liabilities": 334.9,
+    "long_term_liabilities": 852.6,
+    "shareholders_equity": 1296.0
+  },
+  "employees": {
+    "n_employees": 6923,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Fred",
+      "initials": null,
+      "position": "VD Volvo Personbilar Sverige AB"
+    },
+    {
+      "surname": "Bingebo",
+      "first_name": "Britt-Marie",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Brusberg",
+      "first_name": "Birgitta",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Enochssøn",
+      "first_name": "Vivian",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Felixon",
+      "first_name": "Max",
+      "initials": null,
+      "position": "Inköpsdirektör"
+    },
+    {
+      "surname": "Hertzen",
+      "first_name": "Krister",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gunilla",
+      "initials": null,
+      "position": "Arbetstagarledamot"
+    },
+    {
+      "surname": "Jacobsen",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Finansdirektör"
+    },
+    {
+      "surname": "Magnusson",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "position": "VD Pilen AB"
+    },
+    {
+      "surname": "Persson",
+      "first_name": "Stefan",
+      "initials": null,
+      "position": "Koncernchef och VD"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hedén",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Widhagen",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,76 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1955,
+  "income_statement": {
+    "revenue": 310692217.96,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": 95866792.88,
+    "tax_expense": 7232329.0,
+    "depreciation": 22414486.65,
+    "net_income": 8536000.0
+  },
+  "balance_sheet": {
+    "total_assets": 475173000.0,
+    "current_assets": 165179000.0,
+    "fixed_assets": 348067000.0,
+    "total_liabilities": 258944000.0,
+    "current_liabilities": 83553000.0,
+    "long_term_liabilities": 107950000.0,
+    "shareholders_equity": 107950000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "E.",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre Rison",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Gimstedt",
+      "first_name": "Einar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L. T.",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Strömbäck",
+      "first_name": "Helge",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

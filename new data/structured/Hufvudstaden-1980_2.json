@@ -1,0 +1,104 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 171.091,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 74.592,
+    "wages_expense": null,
+    "tax_expense": 39.378,
+    "depreciation": 20.601,
+    "net_income": 22.902
+  },
+  "balance_sheet": {
+    "total_assets": 706.545,
+    "current_assets": 80.284,
+    "fixed_assets": 626.261,
+    "total_liabilities": 396.083,
+    "current_liabilities": 87.884,
+    "long_term_liabilities": 369.201,
+    "shareholders_equity": 32.603
+  },
+  "employees": {
+    "n_employees": 136,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bergqvist",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Karleby",
+      "first_name": "Ole",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Giesecke",
+      "first_name": "Curt Steffan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ryde",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Schmidt",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Oberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Ando",
+      "first_name": "Sigvard",
+      "initials": null,
+      "position": "Suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lilleström-Tjus",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Lindholm",
+      "first_name": "Stig H:son",
+      "initials": null,
+      "auditing_firm": "Direktör"
+    },
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorn"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Åke",
+      "initials": null,
+      "auditing_firm": "Kamrer"
+    }
+  ],
+  "additional_notes": null
+}

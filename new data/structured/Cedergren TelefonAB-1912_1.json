@@ -1,0 +1,74 @@
+{
+  "company_name": "TELEFONAKTIEBOLAGET CEDERGREN",
+  "fiscal_year": 1912,
+  "income_statement": {
+    "revenue": 1756256.48,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 860924.37,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 7092.04,
+    "net_income": 213290.2
+  },
+  "balance_sheet": {
+    "total_assets": 10824156.96,
+    "current_assets": 2121128.81,
+    "fixed_assets": null,
+    "total_liabilities": 5190509.77,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5069657.36
+  },
+  "employees": {
+    "n_employees": 734,
+    "n_blue_collar_workers": 594,
+    "n_white_collar_workers": 140
+  },
+  "board": [
+    {
+      "surname": "PEGELOW",
+      "first_name": "F.",
+      "initials": "W.",
+      "position": null
+    },
+    {
+      "surname": "MONTELIUS",
+      "first_name": "W;",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KLEMMING",
+      "first_name": "Viktor",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSZEWSKI",
+      "first_name": "A.",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "PILTZ",
+      "first_name": "Gottlieb",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LETTSTRÖM",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "JAKOBSON",
+      "first_name": "Frans",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

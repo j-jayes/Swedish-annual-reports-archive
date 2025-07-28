@@ -1,0 +1,80 @@
+{
+  "company_name": "Garphyttan",
+  "fiscal_year": 1971,
+  "income_statement": {
+    "revenue": 81.6,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 2.718,
+    "net_income": 1.713
+  },
+  "balance_sheet": {
+    "total_assets": 71.913,
+    "current_assets": 43.473,
+    "fixed_assets": 28.44,
+    "total_liabilities": 49.008,
+    "current_liabilities": 24.611,
+    "long_term_liabilities": 8.047,
+    "shareholders_equity": 18.5
+  },
+  "employees": {
+    "n_employees": 684,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svahn",
+      "first_name": "Olov",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wohlfahrt",
+      "first_name": "Sixten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl de",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Essen",
+      "first_name": "M. von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Werme",
+      "first_name": "Henrik",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Jakobson",
+      "first_name": "Allan",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Bäcker",
+      "first_name": "Arnold",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

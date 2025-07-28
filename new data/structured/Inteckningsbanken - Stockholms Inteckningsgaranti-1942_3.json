@@ -1,0 +1,100 @@
+{
+  "company_name": "STOCKHOLMS INTECKNINGS GARANTI AKTIEBOLAG",
+  "fiscal_year": 1942,
+  "income_statement": {
+    "revenue": 5682328.48,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1300000.0,
+    "depreciation": null,
+    "net_income": 1851424.62
+  },
+  "balance_sheet": {
+    "total_assets": 285157545.63,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 264438903.05,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 20718642.58
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRUSENSTJERNA",
+      "first_name": "F. v.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NILSON",
+      "first_name": "R.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ALMQVIST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KÄLLSTRÖM",
+      "first_name": "OK. M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGENIUS",
+      "first_name": "H. E.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LOVÉN",
+      "first_name": "F.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "ÅKESSON",
+      "first_name": "O. A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STERKY",
+      "first_name": "CARL",
+      "initials": "EDV.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

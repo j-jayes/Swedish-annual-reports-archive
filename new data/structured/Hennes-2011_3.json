@@ -1,0 +1,104 @@
+{
+  "company_name": "H & M Hennes & Mauritz AB",
+  "fiscal_year": 2011,
+  "income_statement": {
+    "revenue": 109999.0,
+    "cost_of_goods_sold": 43852.0,
+    "operating_expenses": 45768.0,
+    "wages_expense": null,
+    "tax_expense": 5121.0,
+    "depreciation": 3262.0,
+    "net_income": 15821.0
+  },
+  "balance_sheet": {
+    "total_assets": 60188.0,
+    "current_assets": 39918.0,
+    "fixed_assets": 20270.0,
+    "total_liabilities": 16084.0,
+    "current_liabilities": 14757.0,
+    "long_term_liabilities": 1327.0,
+    "shareholders_equity": 44104.0
+  },
+  "employees": {
+    "n_employees": 64874,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "PERSSON",
+      "first_name": "STEFAN",
+      "initials": null,
+      "position": "Chairman of the Board"
+    },
+    {
+      "surname": "LIVFORS",
+      "first_name": "MIA BRUNELL",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "DAHLVIG",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "KNUTSON",
+      "first_name": "LOTTIE",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "KVART",
+      "first_name": "SUSSI",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "LUNDQUIST",
+      "first_name": "BO",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "SCHÖRLING",
+      "first_name": "MELKER",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "SIEVERT",
+      "first_name": "CHRISTIAN",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "WELINDER",
+      "first_name": "MARGARETA",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "RAMBERG",
+      "first_name": "AGNETA",
+      "initials": null,
+      "position": "Board member"
+    },
+    {
+      "surname": "LIVFORS",
+      "first_name": "MIA BRUNELL",
+      "initials": null,
+      "position": "Board member"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Åström",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

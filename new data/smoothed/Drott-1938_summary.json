@@ -1,0 +1,70 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1938,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1822043.46,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1343029.52,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 479013.94
+  },
+  "balance_sheet": {
+    "total_assets": 23140026.03,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 15652486.92,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7487539.11
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": "CARL",
+      "position": null
+    },
+    {
+      "surname": "NYSTRÖM",
+      "first_name": "C.",
+      "initials": "C.A.",
+      "position": null
+    },
+    {
+      "surname": "SCHRÖDER",
+      "first_name": "HUGO",
+      "initials": "HUGO",
+      "position": null
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": "NILS",
+      "position": null
+    },
+    {
+      "surname": "SJÖQVIST",
+      "first_name": "ARVID",
+      "initials": "ARVID",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "STENBOCK",
+      "first_name": "R.",
+      "initials": "R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": "THEODOR",
+      "auditing_firm": null
+    }
+  ]
+}

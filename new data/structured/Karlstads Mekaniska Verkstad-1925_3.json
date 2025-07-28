@@ -1,0 +1,76 @@
+{
+  "company_name": "Aktiebolaget Karlstads Mekaniska Verkstad",
+  "fiscal_year": 1925,
+  "income_statement": {
+    "revenue": 7836830.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 275000.0,
+    "net_income": 321065.43
+  },
+  "balance_sheet": {
+    "total_assets": 13058887.28,
+    "current_assets": null,
+    "fixed_assets": 3675107.23,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Herlenius",
+      "first_name": "Aug.",
+      "initials": "Aug.",
+      "position": null
+    },
+    {
+      "surname": "Holm",
+      "first_name": "H.",
+      "initials": "H. Th.",
+      "position": null
+    },
+    {
+      "surname": "Odelberg",
+      "first_name": "E.",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "Wigelius",
+      "first_name": "Th.",
+      "initials": "Th.",
+      "position": null
+    },
+    {
+      "surname": "Killander",
+      "first_name": "L.",
+      "initials": "L.",
+      "position": null
+    },
+    {
+      "surname": "Thorngren",
+      "first_name": "L.",
+      "initials": "L.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Östman",
+      "first_name": "K.",
+      "initials": "K.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Geijer",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,118 @@
+{
+  "company_name": "Dagens Nyheters AB",
+  "fiscal_year": 1979,
+  "income_statement": {
+    "revenue": 1304.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1200.0,
+    "wages_expense": null,
+    "tax_expense": 3.922,
+    "depreciation": null,
+    "net_income": 13.284
+  },
+  "balance_sheet": {
+    "total_assets": 838.223,
+    "current_assets": 254.891,
+    "fixed_assets": 548.849,
+    "total_liabilities": 314.354,
+    "current_liabilities": 189.219,
+    "long_term_liabilities": 195.294,
+    "shareholders_equity": 124.53
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "ordf"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": "v ordf"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Nycander",
+      "first_name": "Svante",
+      "initials": null,
+      "position": "chefredaktör"
+    },
+    {
+      "surname": "Petrén",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "regeringsråd"
+    },
+    {
+      "surname": "Strömstedt",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "chefredaktör"
+    },
+    {
+      "surname": "Svenson",
+      "first_name": "Sven",
+      "initials": "G",
+      "position": "filosofie doktor"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Dandemar",
+      "first_name": "Sam",
+      "initials": null,
+      "position": "ordf DN/Expressens"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Carry",
+      "initials": null,
+      "position": "ordf DN/Expressens"
+    },
+    {
+      "surname": "Ramklint",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ordf DN:s"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "professor"
+    }
+  ],
+  "additional_notes": null
+}

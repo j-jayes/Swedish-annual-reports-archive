@@ -1,0 +1,74 @@
+{
+  "company_name": "HUFVUDSTADEN",
+  "fiscal_year": 1994,
+  "income_statement": {
+    "revenue": 834.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 378.9,
+    "wages_expense": null,
+    "tax_expense": 59.4,
+    "depreciation": 84.4,
+    "net_income": 112.3
+  },
+  "balance_sheet": {
+    "total_assets": 5.2399,
+    "current_assets": 200.0,
+    "fixed_assets": 5.0399,
+    "total_liabilities": 1.0196,
+    "current_liabilities": 2.95,
+    "long_term_liabilities": 289.7,
+    "shareholders_equity": 1.2703
+  },
+  "employees": {
+    "n_employees": 296,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Dahlsten",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hall",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kårfalk",
+      "first_name": "Björn",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "Agri",
+      "first_name": "Olov",
+      "initials": null,
+      "position": "Verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Eriksson",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "SET - Svensson, Erikson & Tjus Revisionsbyrå AB"
+    }
+  ],
+  "additional_notes": null
+}

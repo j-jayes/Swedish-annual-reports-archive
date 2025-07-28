@@ -1,0 +1,74 @@
+{
+  "company_name": "SVENSKA AMERIKA LINIEN",
+  "fiscal_year": 1956,
+  "income_statement": {
+    "revenue": 145209644.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 115917036.0,
+    "wages_expense": null,
+    "tax_expense": 1383249.0,
+    "depreciation": 12320680.0,
+    "net_income": 2882629.0
+  },
+  "balance_sheet": {
+    "total_assets": 123784519.0,
+    "current_assets": 46313704.0,
+    "fixed_assets": 44347074.0,
+    "total_liabilities": 53311828.0,
+    "current_liabilities": 23640240.0,
+    "long_term_liabilities": 28598089.0,
+    "shareholders_equity": 70472691.0
+  },
+  "employees": {
+    "n_employees": 1530,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "BROSTROM",
+      "first_name": "DAN-AXEL",
+      "initials": null,
+      "position": "J:SON"
+    },
+    {
+      "surname": "BROSTROM",
+      "first_name": null,
+      "initials": "JA",
+      "position": "FAGERBERG"
+    },
+    {
+      "surname": "LUNDH",
+      "first_name": "ERIK",
+      "initials": "M",
+      "position": "WALLENBERG"
+    },
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HOLMQUIST",
+      "first_name": "JARL",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "NORDELOF",
+      "first_name": "IVAR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

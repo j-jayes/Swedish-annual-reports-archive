@@ -1,0 +1,140 @@
+{
+  "company_name": "Telefonaktiebolaget LM Ericsson",
+  "fiscal_year": 1950,
+  "income_statement": {
+    "revenue": 39.931,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8.244,
+    "net_income": 11.57
+  },
+  "balance_sheet": {
+    "total_assets": 332.214,
+    "current_assets": 149.476,
+    "fixed_assets": 29.282,
+    "total_liabilities": null,
+    "current_liabilities": 42.877,
+    "long_term_liabilities": 82.379,
+    "shareholders_equity": 158.537
+  },
+  "employees": {
+    "n_employees": 7369,
+    "n_blue_collar_workers": 5079,
+    "n_white_collar_workers": 2290
+  },
+  "board": [
+    {
+      "surname": "Borgquist",
+      "first_name": "Waldemar",
+      "initials": null,
+      "position": "Generaldirektör, ordf."
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": "Bankdirektör, v. ordf."
+    },
+    {
+      "surname": "Behn",
+      "first_name": "Sosthenes",
+      "initials": null,
+      "position": "Överste"
+    },
+    {
+      "surname": "Browaldh",
+      "first_name": "Ernfrid",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Harrison",
+      "first_name": "William",
+      "initials": "H.",
+      "position": "General"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Salmonson",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Advokat"
+    },
+    {
+      "surname": "Wicander",
+      "first_name": "Carl",
+      "initials": "Aug.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Woxén",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Helge",
+      "initials": null,
+      "position": "Direktör, verkst. dir."
+    },
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Montelius",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Överingenjör"
+    },
+    {
+      "surname": "Roemer",
+      "first_name": "Henry",
+      "initials": "C.",
+      "position": "Herr"
+    },
+    {
+      "surname": "Rudberg",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Kapten"
+    },
+    {
+      "surname": "Sterner",
+      "first_name": "Nils",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bohlin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stevenson",
+      "first_name": "John",
+      "initials": null,
+      "auditing_firm": "Price Waterhouse & Co."
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

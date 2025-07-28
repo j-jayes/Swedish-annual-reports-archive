@@ -1,0 +1,70 @@
+{
+  "company_name": "FASTIGHETSAKTIEBOLAGET DROTT",
+  "fiscal_year": 1941,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 1981944.71,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 806262.55,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 16267.18,
+    "net_income": 325783.58
+  },
+  "balance_sheet": {
+    "total_assets": 24452221.14,
+    "current_assets": null,
+    "fixed_assets": 22345000.0,
+    "total_liabilities": 16590000.0,
+    "current_liabilities": 207983.36,
+    "long_term_liabilities": null,
+    "shareholders_equity": 9316130.34
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "PLOMGREN",
+      "first_name": "CARL",
+      "initials": "J.",
+      "position": "Överstelöjtnant, ordförande"
+    },
+    {
+      "surname": "SCHRÖDER",
+      "first_name": "HUGO",
+      "initials": null,
+      "position": "Direktör, vice ordförande"
+    },
+    {
+      "surname": "SIMONSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "OSSBAHR",
+      "first_name": "CARL",
+      "initials": "PATRIC",
+      "position": "Protokollssekreterare"
+    },
+    {
+      "surname": "SJÖQVIST",
+      "first_name": "ARVID",
+      "initials": null,
+      "position": "Arkitekt, verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "STENBOCK",
+      "first_name": null,
+      "initials": "R.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "ANDERSSON",
+      "first_name": "THEODOR",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ]
+}

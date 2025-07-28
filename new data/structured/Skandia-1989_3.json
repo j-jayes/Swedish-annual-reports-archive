@@ -1,0 +1,170 @@
+{
+  "company_name": "Skandia Group",
+  "fiscal_year": 1989,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -437.0,
+    "depreciation": null,
+    "net_income": 1205.0
+  },
+  "balance_sheet": {
+    "total_assets": 72532.0,
+    "current_assets": null,
+    "fixed_assets": 2588.0,
+    "total_liabilities": 8584.0,
+    "current_liabilities": 7151.0,
+    "long_term_liabilities": 8243.0,
+    "shareholders_equity": 6947.0
+  },
+  "employees": {
+    "n_employees": 9548,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SÖDERBERG",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "REUTERSKIÖLD",
+      "first_name": "CLAS",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "DALBORG",
+      "first_name": "HANS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GREEN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEDELIUS",
+      "first_name": "TOM",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KRONBLAD",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "NISKANEN",
+      "first_name": "YRJÖ",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "CURT",
+      "initials": "G",
+      "position": null
+    },
+    {
+      "surname": "RYDIN",
+      "first_name": "BO",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SÖDER",
+      "first_name": "KARIN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALL",
+      "first_name": "ANDERS",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WOLRATH",
+      "first_name": "BJÖRN",
+      "initials": null,
+      "position": "Verkställande direktör"
+    },
+    {
+      "surname": "BRAUN",
+      "first_name": "BENGT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BONDE",
+      "first_name": "PEDER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "GUSTAFSSON",
+      "first_name": "STEN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDQUIST",
+      "first_name": "STURE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "OLTÉNG",
+      "first_name": "ROLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "TOBISSON",
+      "first_name": "LARS",
+      "initials": "F",
+      "position": null
+    },
+    {
+      "surname": "WEISE",
+      "first_name": "BARBARA",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDÉN",
+      "first_name": "BO",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "SWARTING",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WIKSTRÖM",
+      "first_name": "SÖREN",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "LEKMAN",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": "Hagström & Olsson AB"
+    }
+  ],
+  "additional_notes": null
+}

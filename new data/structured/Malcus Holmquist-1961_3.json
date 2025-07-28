@@ -1,0 +1,80 @@
+{
+  "company_name": "MALCUS HOLMQUIST",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 33.5,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 1.180547
+  },
+  "balance_sheet": {
+    "total_assets": 33.310397,
+    "current_assets": null,
+    "fixed_assets": 2.269756,
+    "total_liabilities": null,
+    "current_liabilities": 8.652775,
+    "long_term_liabilities": 7.52972,
+    "shareholders_equity": null
+  },
+  "employees": {
+    "n_employees": 903,
+    "n_blue_collar_workers": 623,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Danielsen",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wahlsteen",
+      "first_name": "Axel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": "Kurt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "Berger",
+      "first_name": null,
+      "initials": "C. M.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "aukt. revisor"
+    },
+    {
+      "surname": "Asbrink",
+      "first_name": "Suen",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

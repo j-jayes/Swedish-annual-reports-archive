@@ -1,0 +1,45 @@
+{
+  "company_name": "Aktiebolaget J. A. Pripp & Son.",
+  "fiscal_year": 1917,
+  "income_statement": {
+    "revenue": 2439548.97,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 316164.05,
+    "depreciation": 77613.33,
+    "net_income": 1290043.75
+  },
+  "balance_sheet": {
+    "total_assets": 10667909.62,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1525858.78,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 5210000.0
+  },
+  "employees": null,
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "A.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergendal",
+      "first_name": "Gustaf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bökman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

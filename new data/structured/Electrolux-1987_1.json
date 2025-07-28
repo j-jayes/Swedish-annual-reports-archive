@@ -1,0 +1,140 @@
+{
+  "company_name": "Electrolux",
+  "fiscal_year": 1987,
+  "income_statement": {
+    "revenue": 67430.0,
+    "cost_of_goods_sold": 60860.0,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 914.0,
+    "depreciation": null,
+    "net_income": 1282.0
+  },
+  "balance_sheet": {
+    "total_assets": 48470.0,
+    "current_assets": 31182.0,
+    "fixed_assets": 17169.0,
+    "total_liabilities": 18869.0,
+    "current_liabilities": 13821.0,
+    "long_term_liabilities": 10789.0,
+    "shareholders_equity": 9914.0
+  },
+  "employees": {
+    "n_employees": 140500,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Werthén",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Bystedt",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "Dahlbäck",
+      "first_name": "Claes",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Holgerson",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Malmenstam-Skytt",
+      "first_name": "Birgit",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Olving",
+      "first_name": "Sven",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderqvist",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Scharp",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "President and CEO"
+    },
+    {
+      "surname": "Wikander",
+      "first_name": "Sten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Mörk",
+      "first_name": "Roland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Säll",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Palmstierna",
+      "first_name": "Jacob",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Jan-Eric",
+      "initials": null,
+      "auditing_firm": "Hagström & Sillén AB"
+    }
+  ],
+  "additional_notes": null
+}

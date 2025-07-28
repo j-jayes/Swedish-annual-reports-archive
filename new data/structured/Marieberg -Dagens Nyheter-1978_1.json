@@ -1,0 +1,110 @@
+{
+  "company_name": "Dagens Nyheters AB",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 1151.8,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 4.317,
+    "depreciation": 39.9,
+    "net_income": 15.421
+  },
+  "balance_sheet": {
+    "total_assets": 649.141,
+    "current_assets": 232.454,
+    "fixed_assets": 418.687,
+    "total_liabilities": 220.963,
+    "current_liabilities": 157.473,
+    "long_term_liabilities": 265.456,
+    "shareholders_equity": 123.642
+  },
+  "employees": {
+    "n_employees": 3764,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": "jr",
+      "position": "ordf"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": "bokförläggare"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Petrén",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "regeringsråd"
+    },
+    {
+      "surname": "Strömstedt",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "chefredaktör Expressen"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Sven",
+      "initials": "G",
+      "position": "filosofie doktor"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "filosofie doktor"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Dandemar",
+      "first_name": "Sam",
+      "initials": null,
+      "position": "ordf DN/Expressens"
+    },
+    {
+      "surname": "Ramklint",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "ordf DN:s journalistklubb"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "Professor"
+    }
+  ],
+  "additional_notes": null
+}

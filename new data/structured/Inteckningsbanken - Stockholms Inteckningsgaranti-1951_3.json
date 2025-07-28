@@ -1,0 +1,100 @@
+{
+  "company_name": "INTECKNINGSBANKEN",
+  "fiscal_year": 1951,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2352605.88,
+    "wages_expense": 1444061.02,
+    "tax_expense": 1485632.0,
+    "depreciation": null,
+    "net_income": 1822252.86
+  },
+  "balance_sheet": {
+    "total_assets": 376519981.77,
+    "current_assets": null,
+    "fixed_assets": 4313618.93,
+    "total_liabilities": 36150869.66,
+    "current_liabilities": null,
+    "long_term_liabilities": 217025000.0,
+    "shareholders_equity": null
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SANDBERG",
+      "first_name": "A.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROMS",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LAGERCRANTZ",
+      "first_name": "G.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ALMQVIST",
+      "first_name": "HARALD",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KÄLLSTRÖM",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HAGENIUS",
+      "first_name": "H. E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BENGTSSON",
+      "first_name": "Y.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SANDE J:R",
+      "first_name": "JOHAN",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "FRISELL",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Bank- och Fondinspektionen förordnad revisor."
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "NILS",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor."
+    },
+    {
+      "surname": "TROILI",
+      "first_name": "E. U. P:SON",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SUNDBERG",
+      "first_name": "HALVAR",
+      "initials": "G. F.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

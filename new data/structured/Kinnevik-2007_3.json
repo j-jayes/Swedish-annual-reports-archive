@@ -1,0 +1,80 @@
+{
+  "company_name": "INVIK & CO. AB",
+  "fiscal_year": 2007,
+  "income_statement": {
+    "revenue": 1992.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": -20.6,
+    "depreciation": -84.4,
+    "net_income": 59.0
+  },
+  "balance_sheet": {
+    "total_assets": 18275.9,
+    "current_assets": null,
+    "fixed_assets": 458.6,
+    "total_liabilities": 16339.8,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1936.1
+  },
+  "employees": {
+    "n_employees": 322,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Wernersson",
+      "first_name": "Karl",
+      "initials": "E.",
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "von Horn",
+      "first_name": "Rickard",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Mats",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Klingspor",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Ólason",
+      "first_name": "Guðmundur",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Sigurðsson",
+      "first_name": "Jóhannes",
+      "initials": null,
+      "position": "Styrelseledamot"
+    },
+    {
+      "surname": "Wernersson",
+      "first_name": "Steingrímur",
+      "initials": null,
+      "position": "Styrelseledamot"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson Henryson",
+      "first_name": "Magnus",
+      "initials": null,
+      "auditing_firm": "PricewaterhouseCoopers AB"
+    }
+  ],
+  "additional_notes": null
+}

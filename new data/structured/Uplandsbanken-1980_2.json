@@ -1,0 +1,134 @@
+{
+  "company_name": "UPLANDSBANKEN",
+  "fiscal_year": 1980,
+  "income_statement": {
+    "revenue": 186.3,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 121.3,
+    "wages_expense": null,
+    "tax_expense": 9.4,
+    "depreciation": null,
+    "net_income": 8.1
+  },
+  "balance_sheet": {
+    "total_assets": 5324.2,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 100.2
+  },
+  "employees": {
+    "n_employees": 599,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Hæggström",
+      "first_name": "Göran",
+      "initials": "Z",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Virding",
+      "first_name": "Gösta",
+      "initials": "A",
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Bagge",
+      "first_name": "Erland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Frid",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hammerlund",
+      "first_name": "Erik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hedin",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lodin",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lovén",
+      "first_name": "Henrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Matsson",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nyqvist",
+      "first_name": "Ulla",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Strömqvist",
+      "first_name": "Urban",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundgren",
+      "first_name": "Roland",
+      "initials": null,
+      "position": "av regeringen förordnad ledamot"
+    },
+    {
+      "surname": "Lundh",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "verkställande direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bergström",
+      "first_name": "Svante",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hedefalk",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    },
+    {
+      "surname": "Nordfelt",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "aukt revisor"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "finanschef"
+    }
+  ],
+  "additional_notes": null
+}

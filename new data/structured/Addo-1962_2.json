@@ -1,0 +1,50 @@
+{
+  "company_name": "AB ADDO",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 76.31,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.506,
+    "depreciation": null,
+    "net_income": 1.712
+  },
+  "balance_sheet": {
+    "total_assets": 52.689,
+    "current_assets": 43.812,
+    "fixed_assets": 8.877,
+    "total_liabilities": 29.366,
+    "current_liabilities": 20.393,
+    "long_term_liabilities": 7.814,
+    "shareholders_equity": 18.175
+  },
+  "employees": {
+    "n_employees": 2587,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Agrell",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Bruzelius",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Olsson",
+      "first_name": "Kjell",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

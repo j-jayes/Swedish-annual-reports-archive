@@ -1,0 +1,88 @@
+{
+  "company_name": "BOFORS",
+  "fiscal_year": 1961,
+  "income_statement": {
+    "revenue": 405954760.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 10522000.0,
+    "depreciation": 29655528.0,
+    "net_income": 11870000.0
+  },
+  "balance_sheet": {
+    "total_assets": 543191000.0,
+    "current_assets": 290022000.0,
+    "fixed_assets": 232669000.0,
+    "total_liabilities": 236000000.0,
+    "current_liabilities": 121466000.0,
+    "long_term_liabilities": 11000000.0,
+    "shareholders_equity": 136700000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wetter",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Sahlin",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Wijkander",
+      "first_name": "Evert",
+      "initials": null,
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Sohlman",
+      "first_name": "Sverre",
+      "initials": "R:son",
+      "position": "Bruksdisponent"
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Hans",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Söderlund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Hammarskiöld",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Hovrättsrådet"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Boblin",
+      "first_name": "L.",
+      "initials": "T.",
+      "auditing_firm": "Aukt Revisor"
+    },
+    {
+      "surname": "Hoflund",
+      "first_name": "Folke",
+      "initials": null,
+      "auditing_firm": "Aukt. Revisor"
+    }
+  ],
+  "additional_notes": null
+}

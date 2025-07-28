@@ -1,0 +1,100 @@
+{
+  "company_name": "SVENSKA SOCKERFABRIKS AKTIEBOLAGET",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": 62679254.36,
+    "cost_of_goods_sold": 33800756.2,
+    "operating_expenses": null,
+    "wages_expense": 11651386.89,
+    "tax_expense": null,
+    "depreciation": 4996550.49,
+    "net_income": 3296749.18
+  },
+  "balance_sheet": {
+    "total_assets": 163115737.93,
+    "current_assets": 8005265.32,
+    "fixed_assets": 87457557.92,
+    "total_liabilities": 28115787.93,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 135000000.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Broomé",
+      "first_name": "Albert",
+      "initials": null,
+      "position": "V. HÄRADSHÖVDINGEN"
+    },
+    {
+      "surname": "Frisell",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "DIREKTÖREN"
+    },
+    {
+      "surname": "Tranchell",
+      "first_name": null,
+      "initials": "C. F.",
+      "position": "DIREKTÖREN"
+    },
+    {
+      "surname": "Malmros",
+      "first_name": "Carl Joh.",
+      "initials": null,
+      "position": "DIREKTÖREN"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Joh.",
+      "initials": null,
+      "position": "LANDSHOVDINGEN"
+    },
+    {
+      "surname": "Platen",
+      "first_name": "Wilhelm von",
+      "initials": null,
+      "position": "KAMMARHERREN"
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Malte",
+      "initials": null,
+      "position": "FRIHERRE"
+    },
+    {
+      "surname": "Vennersten",
+      "first_name": "Axel",
+      "initials": null,
+      "position": "DIREKTÖREN"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Falkenberg",
+      "first_name": "Melcher",
+      "initials": "O.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Öhman",
+      "first_name": "Ivar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Faxe",
+      "first_name": null,
+      "initials": "G. C.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Kockum",
+      "first_name": "Erik",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

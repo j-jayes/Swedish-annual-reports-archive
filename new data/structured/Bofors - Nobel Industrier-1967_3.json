@@ -1,0 +1,92 @@
+{
+  "company_name": "Bofors",
+  "fiscal_year": 1967,
+  "income_statement": {
+    "revenue": 532995000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 461588000.0,
+    "wages_expense": null,
+    "tax_expense": 5432000.0,
+    "depreciation": null,
+    "net_income": 11902000.0
+  },
+  "balance_sheet": {
+    "total_assets": 893527000.0,
+    "current_assets": 577664000.0,
+    "fixed_assets": 305250000.0,
+    "total_liabilities": 475514000.0,
+    "current_liabilities": 190288000.0,
+    "long_term_liabilities": 207603000.0,
+    "shareholders_equity": 207603000.0
+  },
+  "employees": {
+    "n_employees": 8577,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SOHLMAN",
+      "first_name": "SVERRE",
+      "initials": "R",
+      "position": "ordförande"
+    },
+    {
+      "surname": "HAMMARSKIÖLD",
+      "first_name": "SVEN",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "LARSSON",
+      "first_name": "JOEL",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "WALDENSTRÖM",
+      "first_name": "ERLAND",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "JANSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "Agronom"
+    },
+    {
+      "surname": "THUNHOLM",
+      "first_name": "Lars-ERIK",
+      "initials": null,
+      "position": "Bankdirektör"
+    },
+    {
+      "surname": "ODELBERG",
+      "first_name": "PER",
+      "initials": null,
+      "position": "Bruksdisponent"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "NACKSTAD",
+      "first_name": "STEN",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "HÄGG",
+      "first_name": "BERTIL",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "BRUNO",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "company_name": "Nitro Nobel AB",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 252.759,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 222.387,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 12.828,
+    "net_income": 3.199
+  },
+  "balance_sheet": {
+    "total_assets": 234.056,
+    "current_assets": 145.026,
+    "fixed_assets": 75.506,
+    "total_liabilities": 110.71,
+    "current_liabilities": 49.185,
+    "long_term_liabilities": 39.84,
+    "shareholders_equity": 68.44
+  },
+  "employees": {
+    "n_employees": 1294,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Eidem",
+      "first_name": "Ingmar",
+      "initials": null,
+      "position": "ordf."
+    },
+    {
+      "surname": "Geer",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "v. ordf."
+    },
+    {
+      "surname": "Tunhammar",
+      "first_name": "Elam",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Boman",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bratt",
+      "first_name": "Ulf-C",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bylock",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Davidson",
+      "first_name": "Bertil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Fjällström",
+      "first_name": "Åke",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

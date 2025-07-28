@@ -1,0 +1,100 @@
+{
+  "company_name": "SKANDIA",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 68731185.68,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 67633381.58,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 3131687.21
+  },
+  "balance_sheet": {
+    "total_assets": 136701608.34,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 136701608.34,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 45045399.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "ULMGREN",
+      "first_name": null,
+      "initials": "P.",
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "JACOB",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LINDBOHM",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "STÉN",
+      "first_name": "HELMER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Carlstedt",
+      "first_name": null,
+      "initials": "E.",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Koch",
+      "first_name": "Ragnar",
+      "initials": "V.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Cassel",
+      "first_name": "Einar",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lindman",
+      "first_name": "Rolf",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Meurk",
+      "first_name": null,
+      "initials": "B.E.",
+      "auditing_firm": "Av Kungl. Förs.insp."
+    }
+  ],
+  "additional_notes": null
+}

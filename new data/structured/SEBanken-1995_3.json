@@ -1,0 +1,134 @@
+{
+  "company_name": "Skandinaviska Enskilda Banken",
+  "fiscal_year": 1995,
+  "income_statement": {
+    "revenue": 15222.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8569.0,
+    "wages_expense": null,
+    "tax_expense": -1098.0,
+    "depreciation": 432.0,
+    "net_income": 2531.0
+  },
+  "balance_sheet": {
+    "total_assets": 438775.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 414206.0,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 24569.0
+  },
+  "employees": {
+    "n_employees": 10290,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Olsson",
+      "first_name": "Curt",
+      "initials": "G",
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Förste vice ordförande"
+    },
+    {
+      "surname": "Sahlberg",
+      "first_name": "Karl-Erik",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Rune",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Bo",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Daun",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Marcus",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Öberg",
+      "first_name": "Lars",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svedberg",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Suppleant"
+    },
+    {
+      "surname": "Blom",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Av de anställda utsedda ledamöter"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Rolf",
+      "initials": null,
+      "position": "Av de anställda utsedda ledamöter"
+    },
+    {
+      "surname": "Jensen",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": "Av de anställda utsedda suppleanter"
+    },
+    {
+      "surname": "Samuelsson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Av de anställda utsedda suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Blix",
+      "first_name": "Clas",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    },
+    {
+      "surname": "Jacobsson",
+      "first_name": "Göran",
+      "initials": null,
+      "auditing_firm": "Öhrlings Coopers & Lybrand AB"
+    },
+    {
+      "surname": "Thiel",
+      "first_name": "Thomas",
+      "initials": null,
+      "auditing_firm": "KPMG Bohlins AB"
+    }
+  ],
+  "additional_notes": null
+}

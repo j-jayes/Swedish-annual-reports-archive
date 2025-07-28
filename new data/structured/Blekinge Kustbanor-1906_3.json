@@ -1,0 +1,70 @@
+{
+  "company_name": "MELLERSTA BLEKINGE JÄRNDÄGS AKTIEBOLAG",
+  "fiscal_year": 1906,
+  "income_statement": {
+    "revenue": 1020905.29,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 469786.41,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 185208.86
+  },
+  "balance_sheet": {
+    "total_assets": 6152711.66,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 5515425.92,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 599600.0
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Söderbergh",
+      "first_name": "Fr.",
+      "initials": null,
+      "position": "Borgmäst."
+    },
+    {
+      "surname": "Tengvall",
+      "first_name": "A.",
+      "initials": null,
+      "position": "Ingenjör"
+    },
+    {
+      "surname": "Borgström",
+      "first_name": "A.",
+      "initials": null,
+      "position": "Hofrättsrådet"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ekenman",
+      "first_name": null,
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Ernst.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Håkanson",
+      "first_name": "Victor",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Bergman",
+      "first_name": "Albert",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

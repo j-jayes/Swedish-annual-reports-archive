@@ -1,0 +1,104 @@
+{
+  "company_name": "Skandia Group",
+  "fiscal_year": 1990,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": null
+  },
+  "balance_sheet": {
+    "total_assets": 89697.0,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 6888.0
+  },
+  "employees": {
+    "n_employees": 10893,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "ORDFÖRANDE"
+    },
+    {
+      "surname": "Bonde",
+      "first_name": "Peder",
+      "initials": null,
+      "position": "VICE ORDFÖRANDE"
+    },
+    {
+      "surname": "Rydin",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "styrelseordförande"
+    },
+    {
+      "surname": "Braun",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "verkställande direktör och koncernchef"
+    },
+    {
+      "surname": "Niskanen",
+      "first_name": "Yrj\nÖ",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Gustafsson",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "ekon. dr. h.c."
+    },
+    {
+      "surname": "Lindquist",
+      "first_name": "Sture",
+      "initials": null,
+      "position": "tidigare ordförande"
+    },
+    {
+      "surname": "Fahlin",
+      "first_name": "Roland",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wolrath",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "VERKSTÄLLANDE DIREKTÖR"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lind\nEn",
+      "first_name": "Bo",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "Wikström",
+      "first_name": "Sören",
+      "initials": null,
+      "auditing_firm": "TRG Revision AB"
+    },
+    {
+      "surname": "Lekman",
+      "first_name": "Sven",
+      "initials": null,
+      "auditing_firm": "Ernst & Young AB"
+    }
+  ],
+  "additional_notes": null
+}

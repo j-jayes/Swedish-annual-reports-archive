@@ -1,0 +1,116 @@
+{
+  "company_name": "Trelleborgs Gummifabriks Aktiebolag",
+  "fiscal_year": 1964,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 23408175.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 8289522.666666667,
+    "net_income": 5321542.0
+  },
+  "balance_sheet": {
+    "total_assets": 108138828.0,
+    "current_assets": 87052131.66666667,
+    "fixed_assets": 101255456.33333333,
+    "total_liabilities": 75165215.0,
+    "current_liabilities": 32902052.0,
+    "long_term_liabilities": 28104911.0,
+    "shareholders_equity": 68507568.66666667
+  },
+  "employees": {
+    "n_employees": 4060,
+    "n_blue_collar_workers": 2876,
+    "n_white_collar_workers": 1184
+  },
+  "board": [
+    {
+      "surname": "Hallström",
+      "first_name": "Hadar",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Nedström",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Ohlsson",
+      "first_name": null,
+      "initials": "L. G.",
+      "position": "Borgmästare"
+    },
+    {
+      "surname": "Strandquist",
+      "first_name": "Ernst",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Ståhlbrandt",
+      "first_name": "Åke",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Herrlin",
+      "first_name": "Karl-Magnus",
+      "initials": null,
+      "position": "Doktor"
+    },
+    {
+      "surname": "Leander",
+      "first_name": null,
+      "initials": "J. E.",
+      "position": "Direktör"
+    },
+    {
+      "surname": "Mörck",
+      "first_name": "Einar",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Svensson",
+      "first_name": "Seth",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Eric",
+      "initials": "A.",
+      "auditing_firm": "Advokat"
+    },
+    {
+      "surname": "Peters",
+      "first_name": "Richard",
+      "initials": null,
+      "auditing_firm": "Aukt, revisor"
+    },
+    {
+      "surname": "Söderling",
+      "first_name": "Johan",
+      "initials": null,
+      "auditing_firm": "Bankdirektör"
+    },
+    {
+      "surname": "Berglund",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Lennart",
+      "initials": null,
+      "auditing_firm": "Aukt revisor"
+    }
+  ]
+}

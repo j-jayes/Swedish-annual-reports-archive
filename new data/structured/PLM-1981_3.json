@@ -1,0 +1,92 @@
+{
+  "company_name": "PLM",
+  "fiscal_year": 1981,
+  "income_statement": {
+    "revenue": 2339.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 2137.1,
+    "wages_expense": null,
+    "tax_expense": 19.4,
+    "depreciation": 97.1,
+    "net_income": 22.9
+  },
+  "balance_sheet": {
+    "total_assets": 1940.6,
+    "current_assets": 1019.3,
+    "fixed_assets": 903.7,
+    "total_liabilities": 569.0,
+    "current_liabilities": 569.0,
+    "long_term_liabilities": 793.5,
+    "shareholders_equity": 397.3
+  },
+  "employees": {
+    "n_employees": 7318,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Lindberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Torstenson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Laurin",
+      "first_name": "Ulf",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Kyhlberg",
+      "first_name": "Olof",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Langebæk",
+      "first_name": "Steen",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Ramel",
+      "first_name": "Stig",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindeblad",
+      "first_name": "Göran",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Jensen",
+      "first_name": "Claes-Göran",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Holmén",
+      "first_name": "Arne",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Nordenbäck",
+      "first_name": "Jan",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

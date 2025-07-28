@@ -1,0 +1,43 @@
+{
+  "company_name": "DAGENS NYHETERS AKTIEBOLAG",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 112.945,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 101.013,
+    "wages_expense": null,
+    "tax_expense": 2.642,
+    "depreciation": 2.104,
+    "net_income": 1.773
+  },
+  "balance_sheet": {
+    "total_assets": 48.481,
+    "current_assets": 27.616,
+    "fixed_assets": 20.865,
+    "total_liabilities": null,
+    "current_liabilities": 12.582,
+    "long_term_liabilities": 18.289,
+    "shareholders_equity": 16.11
+  },
+  "employees": {
+    "n_employees": 3289,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": null,
+  "auditors": [
+    {
+      "surname": "Egnell",
+      "first_name": "Herman",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "von Zweigbergk",
+      "first_name": "\"\nÅke",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

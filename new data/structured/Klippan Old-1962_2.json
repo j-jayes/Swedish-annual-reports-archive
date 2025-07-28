@@ -1,0 +1,74 @@
+{
+  "company_name": "KLIPPANS FINPAPPERSBRUK",
+  "fiscal_year": 1963,
+  "income_statement": {
+    "revenue": 9.335,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 1.257,
+    "net_income": 2.25
+  },
+  "balance_sheet": {
+    "total_assets": 89.083,
+    "current_assets": 29.067,
+    "fixed_assets": 59.186,
+    "total_liabilities": 45.101,
+    "current_liabilities": 15.423,
+    "long_term_liabilities": 25.115,
+    "shareholders_equity": 43.982
+  },
+  "employees": {
+    "n_employees": 1740,
+    "n_blue_collar_workers": 1510,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "LIEDBERG",
+      "first_name": "GUSTA",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WESTERSTROM",
+      "first_name": null,
+      "initials": "Th.",
+      "position": null
+    },
+    {
+      "surname": "THOMASSON",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SONTAG",
+      "first_name": null,
+      "initials": "K.",
+      "auditing_firm": null
+    },
+    {
+      "surname": "WISEN",
+      "first_name": "SVEN-OLOF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "OLSSON",
+      "first_name": "SVEN",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

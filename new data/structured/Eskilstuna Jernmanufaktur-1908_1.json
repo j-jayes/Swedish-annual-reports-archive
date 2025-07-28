@@ -1,0 +1,74 @@
+{
+  "company_name": "Eskilstuna Jernmanufaktur Aktiebolag",
+  "fiscal_year": 1908,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 86093.34
+  },
+  "balance_sheet": {
+    "total_assets": 3236781.61,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": 1413975.1,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 1413975.1
+  },
+  "employees": {
+    "n_employees": 347,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Grönberg",
+      "first_name": "Fredrik",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Arvid",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hyltén-Cavallius",
+      "first_name": "C.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Svensson",
+      "first_name": "Gust.",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Hjulström",
+      "first_name": "Thure",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Hirsch",
+      "first_name": "Moritz",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Lettström",
+      "first_name": "G.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

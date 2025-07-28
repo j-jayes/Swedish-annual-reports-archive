@@ -1,0 +1,76 @@
+{
+  "company_name": "STOCKHOLMS REDERIAKTIEBOLAG SVEA",
+  "fiscal_year": 1931,
+  "income_statement": {
+    "revenue": 26460490.45,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 24338310.88,
+    "wages_expense": null,
+    "tax_expense": 45173.79,
+    "depreciation": null,
+    "net_income": 1067469.19
+  },
+  "balance_sheet": {
+    "total_assets": 60403351.32,
+    "current_assets": null,
+    "fixed_assets": null,
+    "total_liabilities": null,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 34263207.09
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Kreuger",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Tamm",
+      "first_name": "H.",
+      "initials": "S.",
+      "position": null
+    },
+    {
+      "surname": "Heijne",
+      "first_name": "Emil",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Widell",
+      "first_name": "Georg",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Appelqvist",
+      "first_name": "F.",
+      "initials": "Ax.",
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Hans",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nyström",
+      "first_name": "M.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Sjöåker",
+      "first_name": "T.",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

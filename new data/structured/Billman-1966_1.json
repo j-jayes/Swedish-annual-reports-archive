@@ -1,0 +1,80 @@
+{
+  "company_name": "BILLMAN regulator ab",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 89420000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 83277000.0,
+    "wages_expense": null,
+    "tax_expense": 408000.0,
+    "depreciation": 1672000.0,
+    "net_income": 74000.0
+  },
+  "balance_sheet": {
+    "total_assets": 90687000.0,
+    "current_assets": 57032000.0,
+    "fixed_assets": 32185000.0,
+    "total_liabilities": 58983000.0,
+    "current_liabilities": 26952000.0,
+    "long_term_liabilities": 19641000.0,
+    "shareholders_equity": 31704000.0
+  },
+  "employees": {
+    "n_employees": 1300,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "DALÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "direktör, ordförande"
+    },
+    {
+      "surname": "ÅBERG",
+      "first_name": "SVEN T.",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "OLSON",
+      "first_name": "GÖSTA",
+      "initials": null,
+      "position": "bankdirektör"
+    },
+    {
+      "surname": "BILLMAN",
+      "first_name": "STIG",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "HAIJ",
+      "first_name": "CURT",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "LINDBLAD",
+      "first_name": "TURE",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "RANBY",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "THUNBERG",
+      "first_name": "ÅKE",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

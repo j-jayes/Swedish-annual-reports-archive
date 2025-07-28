@@ -1,0 +1,98 @@
+{
+  "company_name": "Nobel Industrier Sverige AB",
+  "fiscal_year": 1984,
+  "income_statement": {
+    "revenue": 7039.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": -6493.0,
+    "wages_expense": null,
+    "tax_expense": -23.0,
+    "depreciation": -232.0,
+    "net_income": 5.0
+  },
+  "balance_sheet": {
+    "total_assets": 12501.0,
+    "current_assets": 6978.0,
+    "fixed_assets": 5442.0,
+    "total_liabilities": 4952.0,
+    "current_liabilities": 5598.0,
+    "long_term_liabilities": 4148.0,
+    "shareholders_equity": 501.0
+  },
+  "employees": {
+    "n_employees": 16607,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Thunholm",
+      "first_name": "Lars-Erik",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "Hindemark",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Disponent"
+    },
+    {
+      "surname": "Penser",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Herr"
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "position": "Professor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gunnar L.",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Rudholm",
+      "first_name": "Sten",
+      "initials": null,
+      "position": "Riksmarskalk"
+    },
+    {
+      "surname": "Winberg",
+      "first_name": "Claes-Ulrik",
+      "initials": null,
+      "position": "Direktör"
+    },
+    {
+      "surname": "Carlberg",
+      "first_name": "Anders G.",
+      "initials": null,
+      "position": "Direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Nackstad",
+      "first_name": "Sten",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    },
+    {
+      "surname": "Markland",
+      "first_name": "Björn",
+      "initials": null,
+      "auditing_firm": "Auktoriserade revisorer"
+    }
+  ],
+  "additional_notes": null
+}

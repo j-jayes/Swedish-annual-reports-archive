@@ -1,0 +1,70 @@
+{
+  "company_name": "Mexikanska Telefonaktiebolaget Ericsson",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 541085.7,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 162000.0,
+    "depreciation": null,
+    "net_income": 266751.95
+  },
+  "balance_sheet": {
+    "total_assets": 40950131.91,
+    "current_assets": 562252.9,
+    "fixed_assets": 40378040.68,
+    "total_liabilities": 40950131.91,
+    "current_liabilities": 2273327.4,
+    "long_term_liabilities": null,
+    "shareholders_equity": 38676804.51
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": null,
+      "initials": "M.",
+      "position": null
+    },
+    {
+      "surname": "Ericson",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Hemming",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Sterner",
+      "first_name": null,
+      "initials": "Nils A.",
+      "position": null
+    },
+    {
+      "surname": "Wahlquist",
+      "first_name": null,
+      "initials": "B.",
+      "position": "verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Lindahl",
+      "first_name": "Sune",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Regnstrand",
+      "first_name": "Olof",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ],
+  "additional_notes": null
+}

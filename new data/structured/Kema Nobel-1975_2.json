@@ -1,0 +1,116 @@
+{
+  "company_name": "KemaNord",
+  "fiscal_year": 1975,
+  "income_statement": {
+    "revenue": 1572.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": null,
+    "net_income": 39.193
+  },
+  "balance_sheet": {
+    "total_assets": 1495.765,
+    "current_assets": 877.638,
+    "fixed_assets": 486.575,
+    "total_liabilities": 1015.817,
+    "current_liabilities": 321.936,
+    "long_term_liabilities": 440.432,
+    "shareholders_equity": 469.948
+  },
+  "employees": {
+    "n_employees": 5759,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Sundberg",
+      "first_name": "Ove",
+      "initials": null,
+      "position": "Koncernchef"
+    },
+    {
+      "surname": "Danielsen",
+      "first_name": "Tore",
+      "initials": null,
+      "position": "Administrationsteknik"
+    },
+    {
+      "surname": "Nylander",
+      "first_name": "Rune",
+      "initials": null,
+      "position": "Ekon. planering och kontroll"
+    },
+    {
+      "surname": "Reuterskiöld",
+      "first_name": "Didrik",
+      "initials": null,
+      "position": "Finans"
+    },
+    {
+      "surname": "Josephson",
+      "first_name": "Lars",
+      "initials": "L",
+      "position": "Finans"
+    },
+    {
+      "surname": "Edström",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Information"
+    },
+    {
+      "surname": "Anderlind",
+      "first_name": "Lars",
+      "initials": null,
+      "position": "Internationell affärsutveckling"
+    },
+    {
+      "surname": "Strömberg",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "Juridik"
+    },
+    {
+      "surname": "Beselin",
+      "first_name": null,
+      "initials": "Axel G",
+      "position": "Marknad"
+    },
+    {
+      "surname": "Schwanbom",
+      "first_name": "Anders",
+      "initials": null,
+      "position": "Teknik och FoU"
+    },
+    {
+      "surname": "Wejding",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Teknik och FoU"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Ankarcrona",
+      "first_name": "Sten",
+      "initials": "S:son",
+      "auditing_firm": null
+    },
+    {
+      "surname": "Pontin",
+      "first_name": "M.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Wisén",
+      "first_name": "Sven-Olof",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

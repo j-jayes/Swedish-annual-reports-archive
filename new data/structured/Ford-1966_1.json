@@ -1,0 +1,80 @@
+{
+  "company_name": "FORD MOTOR COMPANY AB",
+  "fiscal_year": 1966,
+  "income_statement": {
+    "revenue": 328838644.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 463984.0,
+    "net_income": 257606.0
+  },
+  "balance_sheet": {
+    "total_assets": 104407968.0,
+    "current_assets": 93863894.0,
+    "fixed_assets": 10544074.0,
+    "total_liabilities": 64100968.0,
+    "current_liabilities": 56679418.0,
+    "long_term_liabilities": null,
+    "shareholders_equity": 40307000.0
+  },
+  "employees": {
+    "n_employees": 452,
+    "n_blue_collar_workers": 201,
+    "n_white_collar_workers": 251
+  },
+  "board": [
+    {
+      "surname": "WETTER",
+      "first_name": "SUNE",
+      "initials": null,
+      "position": "Ordförande Chairman"
+    },
+    {
+      "surname": "FORD II",
+      "first_name": "HENRY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "STÅHLE",
+      "first_name": null,
+      "initials": "NILS K.",
+      "position": null
+    },
+    {
+      "surname": "BORLIND",
+      "first_name": "OVE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HERRMANN",
+      "first_name": "ERIK",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BIBOW",
+      "first_name": null,
+      "initials": "R. D.",
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "ÖHRLING",
+      "first_name": null,
+      "initials": "P. O.",
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "WITT",
+      "first_name": "CARL Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    }
+  ],
+  "additional_notes": null
+}

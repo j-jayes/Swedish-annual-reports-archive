@@ -1,0 +1,80 @@
+{
+  "company_name": "Aktiebolaget Electrolux",
+  "fiscal_year": 1969,
+  "income_statement": {
+    "revenue": 1582.864,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1447.835,
+    "wages_expense": null,
+    "tax_expense": 33.554,
+    "depreciation": 32.287,
+    "net_income": 46.711
+  },
+  "balance_sheet": {
+    "total_assets": 1387.043,
+    "current_assets": 1101.97,
+    "fixed_assets": 285.073,
+    "total_liabilities": 758.464,
+    "current_liabilities": 390.271,
+    "long_term_liabilities": 87.809,
+    "shareholders_equity": 546.343
+  },
+  "employees": {
+    "n_employees": 29139,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "SODERBERG",
+      "first_name": "RAGNAR",
+      "initials": null,
+      "position": "Chairman"
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "MARCUS",
+      "initials": null,
+      "position": "Deputy Chairman"
+    },
+    {
+      "surname": "ENGELLAU",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "LUKE",
+      "first_name": null,
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "VRETHEM",
+      "first_name": "\"\",AKE",
+      "initials": "T.",
+      "position": null
+    },
+    {
+      "surname": "WERTHEN",
+      "first_name": "HANS",
+      "initials": null,
+      "position": "Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "HOLMEN",
+      "first_name": "ARNE",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "SVENSSON",
+      "first_name": "BRUNO",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

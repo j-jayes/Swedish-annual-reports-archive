@@ -1,0 +1,88 @@
+{
+  "company_name": "FÖRSÄKRINGSAKTIEBOLAGET ATLANTICA",
+  "fiscal_year": 1941,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 7670299.36,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 7550487.31,
+    "wages_expense": null,
+    "tax_expense": 107833.66,
+    "depreciation": null,
+    "net_income": 321087.93
+  },
+  "balance_sheet": {
+    "total_assets": 14071398.63,
+    "current_assets": null,
+    "fixed_assets": 2891625.95,
+    "total_liabilities": 8054988.86,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 2188861.9233333333
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "JACOBSSON",
+      "first_name": "HERBERT",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": null,
+      "initials": "K. R.",
+      "position": null
+    },
+    {
+      "surname": "JONSSON",
+      "first_name": "AXEL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CARLSSON",
+      "first_name": null,
+      "initials": "G.",
+      "position": null
+    },
+    {
+      "surname": "SANDSTRÖM",
+      "first_name": "GUSTAF",
+      "initials": "E.",
+      "position": null
+    },
+    {
+      "surname": "HENRIQUES",
+      "first_name": null,
+      "initials": "E. W.",
+      "position": null
+    },
+    {
+      "surname": "LJUNGLÖF",
+      "first_name": "ROB.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "PHILIPSON",
+      "first_name": "NILS",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LIGNELL",
+      "first_name": "KNUT",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "STENBERG",
+      "first_name": "EDVARD",
+      "initials": null,
+      "auditing_firm": "Aukt. revisor"
+    }
+  ]
+}

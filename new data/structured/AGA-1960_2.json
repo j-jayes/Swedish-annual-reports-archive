@@ -1,0 +1,74 @@
+{
+  "company_name": "SVENSKA AB GASACCUMULATOR",
+  "fiscal_year": 1960,
+  "income_statement": {
+    "revenue": 31089000.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 5789000.0,
+    "net_income": 6474000.0
+  },
+  "balance_sheet": {
+    "total_assets": 108664000.0,
+    "current_assets": 68954000.0,
+    "fixed_assets": 91244000.0,
+    "total_liabilities": 58043000.0,
+    "current_liabilities": 59743000.0,
+    "long_term_liabilities": 50312000.0,
+    "shareholders_equity": 50600000.0
+  },
+  "employees": {
+    "n_employees": null,
+    "n_blue_collar_workers": 1865,
+    "n_white_collar_workers": 1109
+  },
+  "board": [
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "\nÅSELIUS",
+      "first_name": "HJ.",
+      "initials": null,
+      "position": "vice ordförande"
+    },
+    {
+      "surname": "BANCK",
+      "first_name": "PERCY",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "HEDIN",
+      "first_name": "TORE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DALÉN",
+      "first_name": "GUNNAR",
+      "initials": null,
+      "position": "Verkst. dir."
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "SVENSSON",
+      "first_name": "SETH",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "HANNER",
+      "first_name": "PER",
+      "initials": "V. A.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

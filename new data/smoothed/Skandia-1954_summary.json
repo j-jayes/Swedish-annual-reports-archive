@@ -1,0 +1,100 @@
+{
+  "company_name": "SKANDIA",
+  "fiscal_year": 1954,
+  "additional_notes": null,
+  "income_statement": {
+    "revenue": 52.53338158,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 43.91685178,
+    "wages_expense": null,
+    "tax_expense": 4186751.42,
+    "depreciation": null,
+    "net_income": 5343168.658431619
+  },
+  "balance_sheet": {
+    "total_assets": 166015186.78088522,
+    "current_assets": 18.68989738,
+    "fixed_assets": 26627165.562138934,
+    "total_liabilities": 4149544.62859088,
+    "current_liabilities": null,
+    "long_term_liabilities": null,
+    "shareholders_equity": 7946964.09273695
+  },
+  "employees": {},
+  "board": [
+    {
+      "surname": "SÖDERLUND",
+      "first_name": "GUSTAF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WALLENBERG",
+      "first_name": "J.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "CERVIN",
+      "first_name": "TAGE",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BROWALDH",
+      "first_name": "E.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "MEIDNER",
+      "first_name": "RUDOLF",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "KARLMANN",
+      "first_name": "KARL",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "WIKLUND",
+      "first_name": "HOLGER",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "SJÖGREN",
+      "first_name": "IWAR",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "LINDMAN",
+      "first_name": "ROLF",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CASSEL",
+      "first_name": "EINAR",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BJÖRFORS",
+      "first_name": "GOSTA",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "RUNDQUIST",
+      "first_name": "CARL",
+      "initials": null,
+      "auditing_firm": "Av Kungl. Försäkringsinspektionen förordnad revisor"
+    }
+  ]
+}

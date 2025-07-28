@@ -1,0 +1,92 @@
+{
+  "company_name": "Investment AB Asken",
+  "fiscal_year": 1978,
+  "income_statement": {
+    "revenue": 1112.2,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 1.937,
+    "depreciation": null,
+    "net_income": 12.017
+  },
+  "balance_sheet": {
+    "total_assets": 991.428,
+    "current_assets": 572.563,
+    "fixed_assets": 418.865,
+    "total_liabilities": 385.472,
+    "current_liabilities": 295.921,
+    "long_term_liabilities": 481.396,
+    "shareholders_equity": 138.325
+  },
+  "employees": {
+    "n_employees": 5047,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Mark",
+      "first_name": "Peter",
+      "initials": "K:son",
+      "position": "ordförande"
+    },
+    {
+      "surname": "Andréasson",
+      "first_name": "Lage",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Gunnar",
+      "initials": "L",
+      "position": null
+    },
+    {
+      "surname": "Langenskiöld",
+      "first_name": "Carl",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Leffler",
+      "first_name": "Jan",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lindskog",
+      "first_name": "Folke",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Karlson",
+      "first_name": "Bengt",
+      "initials": null,
+      "position": "Verkst direktör"
+    },
+    {
+      "surname": "Fransson",
+      "first_name": "Arne",
+      "initials": null,
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Brehmer",
+      "first_name": "Nils",
+      "initials": null,
+      "auditing_firm": "Auktor revisor"
+    },
+    {
+      "surname": "Gometz",
+      "first_name": "Ulf",
+      "initials": null,
+      "auditing_firm": "Auktor revisor"
+    }
+  ],
+  "additional_notes": null
+}

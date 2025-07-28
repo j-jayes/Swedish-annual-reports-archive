@@ -1,0 +1,80 @@
+{
+  "company_name": "REDAKTIEBOLAGET SVENSKA LLOYD",
+  "fiscal_year": 1957,
+  "income_statement": {
+    "revenue": 48.093,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 6.281,
+    "net_income": 1.502
+  },
+  "balance_sheet": {
+    "total_assets": 74.732,
+    "current_assets": null,
+    "fixed_assets": 41.728,
+    "total_liabilities": null,
+    "current_liabilities": 11.57,
+    "long_term_liabilities": 11.041,
+    "shareholders_equity": 27.146
+  },
+  "employees": {
+    "n_employees": 1085,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "HOOGLAND",
+      "first_name": "HERMAN",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "DANIELSON",
+      "first_name": "STIG",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "BLIDBERG",
+      "first_name": "CARL",
+      "initials": "\nÅKE",
+      "position": null
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "WIJK",
+      "first_name": "ERIK",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "PETTERSON",
+      "first_name": "TORSTEN",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "CHRISTOFFERSEN",
+      "first_name": "T.",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "WIBERG",
+      "first_name": "STIG",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "BÖKMAN",
+      "first_name": "K.",
+      "initials": "R.",
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "Atlas Copco",
+  "fiscal_year": 1962,
+  "income_statement": {
+    "revenue": 37921993.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 8550750.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 4333873.0,
+    "net_income": 12383007.0
+  },
+  "balance_sheet": {
+    "total_assets": 233964268.0,
+    "current_assets": 73950331.0,
+    "fixed_assets": 31659553.0,
+    "total_liabilities": 150710292.0,
+    "current_liabilities": 58494333.0,
+    "long_term_liabilities": 31566068.0,
+    "shareholders_equity": 138760730.0
+  },
+  "employees": {
+    "n_employees": 2261,
+    "n_blue_collar_workers": 1326,
+    "n_white_collar_workers": 935
+  },
+  "board": [
+    {
+      "surname": "Wallenberg",
+      "first_name": "M.",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Steyern",
+      "first_name": "Nils von",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Borlind",
+      "first_name": "Ove",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Wallenberg Jr",
+      "first_name": "Marc",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Nilson",
+      "first_name": "Tore",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Belfrage",
+      "first_name": "K-A",
+      "initials": null,
+      "position": "Managing Director"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Rybeck",
+      "first_name": "Ebbe",
+      "initials": null,
+      "auditing_firm": "Authorized Public Accountant"
+    },
+    {
+      "surname": "Moberg",
+      "first_name": "Wilhelm",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

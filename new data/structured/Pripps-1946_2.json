@@ -1,0 +1,104 @@
+{
+  "company_name": "PRIPP & LYCKHOLM",
+  "fiscal_year": 1947,
+  "income_statement": {
+    "revenue": null,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 554193.8,
+    "net_income": 2750437.15
+  },
+  "balance_sheet": {
+    "total_assets": 33208770.55,
+    "current_assets": 11381570.4,
+    "fixed_assets": 21827200.15,
+    "total_liabilities": 6717527.11,
+    "current_liabilities": 1829403.01,
+    "long_term_liabilities": 833591.44,
+    "shareholders_equity": 26491243.11
+  },
+  "employees": {
+    "n_employees": 680,
+    "n_blue_collar_workers": 532,
+    "n_white_collar_workers": 148
+  },
+  "board": [
+    {
+      "surname": "Månsson",
+      "first_name": "Vilhelm",
+      "initials": null,
+      "position": "ordförande"
+    },
+    {
+      "surname": "Olson",
+      "first_name": "Erik",
+      "initials": null,
+      "position": "verkställande direktör"
+    },
+    {
+      "surname": "Månsson",
+      "first_name": "Martin",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Dieden",
+      "first_name": "Gotthard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Liedberg",
+      "first_name": "Gösta",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Salander",
+      "first_name": "Nils",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Larsson",
+      "first_name": "Joel",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Höglund",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "suppleant"
+    },
+    {
+      "surname": "Hartmann",
+      "first_name": "Franz",
+      "initials": null,
+      "position": "suppleant"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Berglin",
+      "first_name": "Yngve",
+      "initials": null,
+      "auditing_firm": null
+    },
+    {
+      "surname": "Stenberg",
+      "first_name": "Edvard",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Wikland",
+      "first_name": "Hjalmar",
+      "initials": null,
+      "auditing_firm": null
+    }
+  ],
+  "additional_notes": null
+}

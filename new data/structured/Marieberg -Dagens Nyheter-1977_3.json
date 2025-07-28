@@ -1,0 +1,94 @@
+{
+  "company_name": "Dagens Nyheters AB",
+  "fiscal_year": 1977,
+  "income_statement": {
+    "revenue": 1050.1,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 1017.5,
+    "wages_expense": null,
+    "tax_expense": 5.0,
+    "depreciation": 26.2,
+    "net_income": 9.181
+  },
+  "balance_sheet": {
+    "total_assets": 619.184,
+    "current_assets": 212.028,
+    "fixed_assets": 390.599,
+    "total_liabilities": 200.591,
+    "current_liabilities": 218.315,
+    "long_term_liabilities": 187.86,
+    "shareholders_equity": 123.112
+  },
+  "employees": null,
+  "board": [
+    {
+      "surname": "Bonnier",
+      "first_name": "Albert",
+      "initials": "jr",
+      "position": "ordf"
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Gerard",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Bonnier",
+      "first_name": "Tomas",
+      "initials": null,
+      "position": "direktör"
+    },
+    {
+      "surname": "Douglas",
+      "first_name": "Gustaf",
+      "initials": null,
+      "position": "verkst direktör"
+    },
+    {
+      "surname": "Svenson",
+      "first_name": "Sven",
+      "initials": "G",
+      "position": "filosofie doktor"
+    },
+    {
+      "surname": "Strömstedt",
+      "first_name": "Bo",
+      "initials": null,
+      "position": "chefredaktör, Expressen"
+    },
+    {
+      "surname": "Wallander",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "filosofie doktor"
+    },
+    {
+      "surname": "Wästberg",
+      "first_name": "Per",
+      "initials": null,
+      "position": "chefredaktör, Dagens Nyheter"
+    },
+    {
+      "surname": "Åkerman",
+      "first_name": "Johan",
+      "initials": null,
+      "position": "direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Beskow",
+      "first_name": "Karl-Henrik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Sven-Erik",
+      "initials": null,
+      "auditing_firm": "Professor"
+    }
+  ],
+  "additional_notes": null
+}

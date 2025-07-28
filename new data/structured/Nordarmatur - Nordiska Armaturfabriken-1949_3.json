@@ -1,0 +1,86 @@
+{
+  "company_name": "AKTIEBOLAGET NORDISKA ARMATURFABRIKERNA",
+  "fiscal_year": 1949,
+  "income_statement": {
+    "revenue": 3281546.42,
+    "cost_of_goods_sold": null,
+    "operating_expenses": null,
+    "wages_expense": null,
+    "tax_expense": 550000.0,
+    "depreciation": 1214855.45,
+    "net_income": 618551.05
+  },
+  "balance_sheet": {
+    "total_assets": 22153613.74,
+    "current_assets": 9884878.13,
+    "fixed_assets": 8164424.0,
+    "total_liabilities": 9133627.92,
+    "current_liabilities": 5013627.92,
+    "long_term_liabilities": 1401716.0,
+    "shareholders_equity": 13019985.82
+  },
+  "employees": {
+    "n_employees": 1307,
+    "n_blue_collar_workers": 934,
+    "n_white_collar_workers": 373
+  },
+  "board": [
+    {
+      "surname": "Johnsson",
+      "first_name": "Wiking",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Ragnar",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Norlander",
+      "first_name": "Helge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Hägglöf",
+      "first_name": "Kjell",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Lagercrantz",
+      "first_name": null,
+      "initials": "B.",
+      "position": null
+    },
+    {
+      "surname": "Lundström",
+      "first_name": "Åge",
+      "initials": null,
+      "position": null
+    },
+    {
+      "surname": "Rothlind",
+      "first_name": "Ingvar",
+      "initials": null,
+      "position": "Verkst. direktör"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Sandberg",
+      "first_name": "Gustaf",
+      "initials": "H.",
+      "auditing_firm": "auktoriserad revisor"
+    },
+    {
+      "surname": "Berlin",
+      "first_name": null,
+      "initials": "H.",
+      "auditing_firm": "revisor"
+    }
+  ],
+  "additional_notes": null
+}

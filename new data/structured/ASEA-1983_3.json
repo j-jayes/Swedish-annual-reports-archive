@@ -1,0 +1,146 @@
+{
+  "company_name": "ASEA-koncernen",
+  "fiscal_year": 1983,
+  "income_statement": {
+    "revenue": 30229.0,
+    "cost_of_goods_sold": null,
+    "operating_expenses": 27515.0,
+    "wages_expense": null,
+    "tax_expense": null,
+    "depreciation": 663.0,
+    "net_income": 548.0
+  },
+  "balance_sheet": {
+    "total_assets": 32175.0,
+    "current_assets": 23234.0,
+    "fixed_assets": 8941.0,
+    "total_liabilities": 11602.0,
+    "current_liabilities": 8575.0,
+    "long_term_liabilities": 5964.0,
+    "shareholders_equity": 4045.0
+  },
+  "employees": {
+    "n_employees": 56660,
+    "n_blue_collar_workers": null,
+    "n_white_collar_workers": null
+  },
+  "board": [
+    {
+      "surname": "Nicolin",
+      "first_name": "Curt",
+      "initials": null,
+      "position": "Ordförande"
+    },
+    {
+      "surname": "Wallenberg",
+      "first_name": "Peter",
+      "initials": null,
+      "position": "Vice ordförande"
+    },
+    {
+      "surname": "Aas",
+      "first_name": "Erich",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Barnevik",
+      "first_name": "Percy",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Johansson",
+      "first_name": "Lennart",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Karlsson",
+      "first_name": "Jan",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Lindström",
+      "first_name": "Torsten",
+      "initials": null,
+      "position": "Ordinarie ledamot"
+    },
+    {
+      "surname": "Norgren",
+      "first_name": "Christian",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Söderberg",
+      "first_name": "Sven",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Westerberg",
+      "first_name": "Folke",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Andersson",
+      "first_name": "Carl",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Berggren",
+      "first_name": "Björn",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Nilsson",
+      "first_name": "Alde",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Salén",
+      "first_name": "Christer",
+      "initials": null,
+      "position": "Suppleanter"
+    },
+    {
+      "surname": "Winqvist",
+      "first_name": "Carl-Bertil",
+      "initials": null,
+      "position": "Suppleanter"
+    }
+  ],
+  "auditors": [
+    {
+      "surname": "Regelius",
+      "first_name": "Karl Erik",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Löfgren",
+      "first_name": "Sigurd",
+      "initials": null,
+      "auditing_firm": "Auktoriserad revisor"
+    },
+    {
+      "surname": "Hambraeus",
+      "first_name": "Gunnar",
+      "initials": null,
+      "auditing_firm": "Professor"
+    },
+    {
+      "surname": "Schenning",
+      "first_name": "Stig",
+      "initials": null,
+      "auditing_firm": "Revisor"
+    }
+  ],
+  "additional_notes": null
+}
